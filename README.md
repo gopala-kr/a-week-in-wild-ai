@@ -9,7 +9,7 @@
 
 -----------------------
 
-- [[Week-1]()] 
+- [[Week-1]()] 7/7/2018 : AI-accelerators and Neuromorphic chips
 - [Week-2]
 - [Week-3]
 - [Week-4]
