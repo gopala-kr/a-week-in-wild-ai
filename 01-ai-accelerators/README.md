@@ -23,13 +23,22 @@
 
 ![Law_Transistor_Count_1971-2016](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Moore%27s_Law_Transistor_Count_1971-2016.png/1280px-Moore%27s_Law_Transistor_Count_1971-2016.png)
 
+------------------
+
 ![Artificial](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/Artificial%20intelligence%20The%20time%20to%20act%20is%20now/SVGZ-AI-Time-to-act-now-ex1.ashx
 )
+
+--------------
+
+![KPN9OBB7wA_HjjBT](https://cdn-images-1.medium.com/max/880/0*KPN9OBB7wA_HjjBT.)
+
 
 ------------
 
 References:
 
+- [Efficient Processing of Deep Neural Networks: A Tutorial and Survey](http://www.rle.mit.edu/eems/wp-content/uploads/2017/11/2017_pieee_dnn.pdf)
+- [Tutorial on Hardware Architectures for Deep Neural Networks](http://eyeriss.mit.edu/tutorial.html)
 - [OpenAI: AI and Compute](https://blog.openai.com/ai-and-compute/)
 - [Finding a roadmap to achieve large neuromorphic hardware systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767911/)
 - [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
@@ -42,6 +51,22 @@ References:
 - [How AI Impacts Memory Systems](https://semiengineering.com/how-ai-impacts-memory-systems/)
 - [Jeremy Howard: Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26](http://www.fast.ai/2018/04/30/dawnbench-fastai/)
 - [stanford-futuredata-dawn-bench-entries](https://github.com/stanford-futuredata/dawn-bench-entries)
+- [intels-new-self-learning-chip-promises-accelerate-artificial-intelligence](https://newsroom.intel.com/editorials/intels-new-self-learning-chip-promises-accelerate-artificial-intelligence/)
+- [A brief guide to mobile AI chips](https://www.theverge.com/2017/10/19/16502538/mobile-ai-chips-apple-google-huawei-qualcomm)
+- [MIT Engineers design artificial synapse for “brain-on-a-chip” hardware](http://news.mit.edu/2018/engineers-design-artificial-synapse-brain-on-a-chip-hardware-0122)
+- [Human Brain Project: Neuromorphic Computing](https://www.humanbrainproject.eu/en/silicon-brains/)
+- [MIT: Neuromorphic Chips](https://www.technologyreview.com/s/526506/neuromorphic-chips/)
+- [Leading the Evolution of Compute: Neuromorphic and Quantum Computing](https://www.youtube.com/watch?v=8xJXnDVxAzA)
+- [Karlheinz Meier - Neuromorphic Computing - Extreme Approaches to weak and strong scaling](https://www.youtube.com/watch?v=RN0RnFa2RBg)
+- [Stanford Seminar: Neuromorphic Chips: Addressing the Nanostransistor Challenge](https://www.youtube.com/watch?v=vHlbC74RJGU)
+- [Intel's New 49-qubit Quantum Chip & Neuromorphic Chip](https://www.youtube.com/watch?v=nE819PPCA5o&start_radio=1&list=RDQM6ry0MB4LMAc)
+- [Neuromorphic Computing, AI Chips Emulating the Brain with Kelsey Scharnhorst on MIND & MACHINE](https://www.youtube.com/watch?v=NM7hdDZN2YI)
+- [Neuromorphic Computing - Documentary 2018 HD](https://www.youtube.com/watch?v=UtsTy-rlpJk)
+- [Neuromorphic	Computing:	From	Materials	to	Systems	Architecture](https://science.energy.gov/~/media/bes/pdf/reports/2016/NCFMtSA_rpt.pdf)
+- [Intel : Understanding Neuromorphic Computing](https://systemdesign.altera.com/understanding-neuromorphic-computing/)
+- [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf)
+- [A Brief History of Neuromorphic Computing](https://knowm.org/a-brief-history-of-neuromorphic-computing/)
+- [Deep Learning and the processor chips fueling the AI revolution – a primer](https://olui2.fs.ml.com/publish/content/application/pdf/GWMOL/Deep-Learning-AI-Primer.pdf)
 
 
 Startups:
