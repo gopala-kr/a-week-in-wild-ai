@@ -23,6 +23,9 @@
 
 ![Law_Transistor_Count_1971-2016](https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Moore%27s_Law_Transistor_Count_1971-2016.png/1280px-Moore%27s_Law_Transistor_Count_1971-2016.png)
 
+![Artificial](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/Artificial%20intelligence%20The%20time%20to%20act%20is%20now/SVGZ-AI-Time-to-act-now-ex1.ashx
+)
+
 ------------
 
 References:
