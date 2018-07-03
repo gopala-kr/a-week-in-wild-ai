@@ -17,8 +17,17 @@
 
 --------------
 
+![compute_diagram-log@2x-3](https://blog.openai.com/content/images/2018/05/compute_diagram-log@2x-3.png)
+
+-----------
+
+![Law_Transistor_Count_1971-2016](https://en.wikipedia.org/wiki/Moore%27s_law#/media/File:Moore%27s_Law_Transistor_Count_1971-2016.png)
+
+------------
+
 References:
 
+- [OpenAI: AI and Compute](https://blog.openai.com/ai-and-compute/)
 - [Finding a roadmap to achieve large neuromorphic hardware systems](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3767911/)
 - [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
 - [Benchmarking Google’s new TPUv2](https://blog.riseml.com/benchmarking-googles-new-tpuv2-121c03b71384)
@@ -26,10 +35,15 @@ References:
 - [nvidia-dgx-2-system-packs-an-ai-performance-punch](https://www.nextplatform.com/2018/03/28/nvidia-dgx-2-system-packs-an-ai-performance-punch/)
 - [building-bigger-faster-gpu-clusters-using-nvswitches](https://www.nextplatform.com/2018/04/13/building-bigger-faster-gpu-clusters-using-nvswitches/)
 - [A Machine Learning Landscape: Where AMD, Intel, NVIDIA, Qualcomm And Xilinx AI Engines Live](https://www.forbes.com/sites/moorinsights/2017/03/03/a-machine-learning-landscape-where-amd-intel-nvidia-qualcomm-and-xilinx-ai-engines-live/#2fe5de8742f8)
+- [AI processors go mobile](https://www.zdnet.com/article/ai-processors-go-mobile/)
+- [How AI Impacts Memory Systems](https://semiengineering.com/how-ai-impacts-memory-systems/)
+- [Jeremy Howard: Training Imagenet in 3 hours for $25; and CIFAR10 for $0.26](http://www.fast.ai/2018/04/30/dawnbench-fastai/)
+- [stanford-futuredata-dawn-bench-entries](https://github.com/stanford-futuredata/dawn-bench-entries)
 
 
 Startups:
 
+- [Big Bets on A.I. Open a New Frontier for Chip Start-Ups, Too](https://www.nytimes.com/2018/01/14/technology/artificial-intelligence-chip-start-ups.html)
 - [The-Cognite-350-FINAL](http://www.cogniteventures.com/wp-content/uploads/2018/02/The-Cognite-350-FINAL-B1-opt.jpg)
 - [the-cognitive-computing-startup-list](http://www.cogniteventures.com/the-cognitive-computing-startup-list/)
 - [AI Chip Boom: This Stealthy AI Hardware Startup Is Worth Almost A Billion](https://www.forbes.com/sites/aarontilley/2017/08/31/ai-chip-cerebras-systems-investment/#2a6c95751529)
@@ -58,3 +72,8 @@ Startups:
 - Tesla
 - Xilinx
 
+------
+
+<h3 style="text-align:justify"><strong>AI Chip Market Key Segments:</strong></span></span></span></h3><h3 style="text-align:justify"><strong>By Chip Type</strong></span></span></span></h3><ul><li style="text-align:justify">GPU</span></span></span></li><li style="text-align:justify">ASIC</span></span></span></li><li style="text-align:justify">FPGA</span></span></span></li><li style="text-align:justify">CPU</span></span></span></li></ul><h3 style="text-align:justify"><strong>By Industry Vertical</strong></span></span></span></h3><ul><li style="text-align:justify">Media & Advertising</span></span></span></li><li style="text-align:justify">BFSI</span></span></span></li><li style="text-align:justify">IT & Telecom</span></span></span></li><li style="text-align:justify">Retail</span></span></span></li><li style="text-align:justify">Healthcare</span></span></span></li><li style="text-align:justify">Automotive & Transportation</span></span></span></li><li style="text-align:justify">Others</span></span></span></li></ul><h3 style="text-align:justify"><strong>By Technology</strong></span></span></span></h3><ul><li style="text-align:justify">System-on-chip</span></span></span></li><li style="text-align:justify">System-in-package</span></span></span></li><li style="text-align:justify">Multi-chip module</span></span></span></li><li style="text-align:justify">Others</span></span></span></li></ul><h3 style="text-align:justify"><strong>By Application</strong></span></span></span></h3><ul><li style="text-align:justify">Predictive maintenance</span></span></span></li><li style="text-align:justify">Image recognition</span></span></span></li><li style="text-align:justify">Contract analytics</span></span></span></li><li style="text-align:justify">Others</span></span></span></li></ul><h3 style="text-align:justify"><strong>By Region</strong></span></span></span></h3><ul><li style="text-align:justify">North America</span></span></span><ul><li style="text-align:justify">U.S.</span></span></span></li><li style="text-align:justify">Canada</span></span></span></li><li style="text-align:justify">Mexico</span></span></span></li></ul></li><li style="text-align:justify">Europe</span></span></span><ul><li style="text-align:justify">UK</span></span></span></li><li style="text-align:justify">Germany</span></span></span></li><li style="text-align:justify">France</span></span></span></li><li style="text-align:justify">Russia</span></span></span></li><li style="text-align:justify">Rest of Europe</span></span></span></li></ul></li><li style="text-align:justify">Asia-Pacific</span></span></span><ul><li style="text-align:justify">China</span></span></span></li><li style="text-align:justify">Japan</span></span></span></li><li style="text-align:justify">India</span></span></span></li><li style="text-align:justify">Australia</span></span></span></li><li style="text-align:justify">Rest of Asia-Pacific</span></span></span></li></ul></li><li style="text-align:justify">LAMEA</span></span></span><ul><li style="text-align:justify">Latin America</span></span></span></li><li style="text-align:justify">Middle East</span></span></span></li><li style="text-align:justify">Africa</span></span></span></li></ul></li></ul>   
+
+-------------
