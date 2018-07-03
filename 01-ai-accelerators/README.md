@@ -28,3 +28,4 @@ Startups:
 ------------
 
 ![The-Cognite-350-FINAL-B1-opt](http://www.cogniteventures.com/wp-content/uploads/2018/02/The-Cognite-350-FINAL-B1-opt.jpg)
+
