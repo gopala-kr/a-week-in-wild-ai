@@ -52,6 +52,10 @@ Startups:
 - [Artificial Intelligence Startup Horizon Robotics Receives Investment from Intel Capital](http://www.intelcapital.com/news/news.html?id=555)
 - [qualcomm: We are making on-device AI ubiquitous](https://www.qualcomm.com/news/onq/2017/08/16/we-are-making-device-ai-ubiquitous)
 - [Qualcomm Artificial Intelligence Engine Powers AI Capabilities of Snapdragon Mobile Platform](https://www.qualcomm.com/news/releases/2018/02/21/qualcomm-artificial-intelligence-engine-powers-ai-capabilities-snapdragon)
+- [China’s Surveillance State: AI Startups, Tech Giants Are At The Center Of The Government’s Plans](https://www.cbinsights.com/research/china-surveillance-ai/)
+- [Rise Of China’s Big Tech In AI: What Baidu, Alibaba, And Tencent Are Working On](https://www.cbinsights.com/research/china-baidu-alibaba-tencent-artificial-intelligence-dominance/)
+- [The Rise Of Chinese Voice Assistants And The Race To Commoditize Smart Speakers](https://www.cbinsights.com/research/china-voice-assistants-smart-speakers-ai/)
+
 
 ------------
 
