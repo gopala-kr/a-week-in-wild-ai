@@ -23,3 +23,8 @@ Startups:
 - [The New Intel: How Nvidia Went From Powering Video Games To Revolutionizing Artificial Intelligence](https://www.forbes.com/sites/aarontilley/2016/11/30/nvidia-deep-learning-ai-intel/#558d0c567ff1)
 - [Is Competition Heating Up in the AI Chip Market?](https://www.fool.com/investing/2018/06/23/is-competition-heating-up-in-the-ai-chip-market.aspx)
 - [Artificial Intelligence Startup Horizon Robotics Receives Investment from Intel Capital](http://www.intelcapital.com/news/news.html?id=555)
+
+
+------------
+
+![The-Cognite-350-FINAL-B1-opt](http://www.cogniteventures.com/wp-content/uploads/2018/02/The-Cognite-350-FINAL-B1-opt.jpg)
