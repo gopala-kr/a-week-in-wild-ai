@@ -26,13 +26,13 @@
 ![nnai](https://github.com/gopala-kr/a-wild-week-in-ai/blob/master/01-ai-accelerators/nnai.JPG)
 
 
+[[source](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)]
+
 --------------
 
 
 ![compute_diagram-log@2x-3](https://blog.openai.com/content/images/2018/05/compute_diagram-log@2x-3.png)
 
-
-[[source](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)]
 
 
 -----------
