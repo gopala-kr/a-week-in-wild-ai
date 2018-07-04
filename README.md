@@ -9,7 +9,7 @@
 
 -----------------------
 
-- [[Week-1](https://github.com/gopala-kr/a-wild-week-in-ai/tree/master/01-ai-accelerators)]  7/7/2018 : AI-accelerators and Neuromorphic chips
+- [[Week-1](https://github.com/gopala-kr/a-wild-week-in-ai/tree/master/01-ai-accelerators)]  7/7/2018 : AI-accelerators, Neuromorphic and Quantum chips
 - [Week-2]
 - [Week-3]
 - [Week-4]
