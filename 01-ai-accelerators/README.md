@@ -15,6 +15,10 @@
 - Embedded Reconfigurable SOCs & FPGAs
 
 
+------------
+
+- [Microsoft's Brainwave architecture - Large scale FPGA's in the cloud](https://onedrive.live.com/view.aspx?resid=9FF02F85206E25A4!1435078&ithint=file%2cpptx&app=PowerPoint&authkey=!AGh3DS8anFfO4J0%5D)
+
 --------------
 
 ![nnai](https://github.com/gopala-kr/a-wild-week-in-ai/blob/master/01-ai-accelerators/nnai.JPG)
@@ -79,6 +83,9 @@ References:
 - [Deep Learning and the processor chips fueling the AI revolution – a primer](https://olui2.fs.ml.com/publish/content/application/pdf/GWMOL/Deep-Learning-AI-Primer.pdf)
 - [NICS Lab of Tsinghua University: Neural Networks on Emerging Devices](https://nicsefc.ee.tsinghua.edu.cn/projects/emerging/neural/)
 - [NICS Lab of Tsinghua University: Hardware Computing](https://nicsefc.ee.tsinghua.edu.cn/projects/hardware/)
+- [Does Artificial Intelligence Require Specialized Processors?](https://thenewstack.io/ai-hardware-software-dilemma/)
+- [AI Hardware to Support the Artificial Intelligence Software Ecosystem](https://insidehpc.com/2018/01/ai-hardware-support-software/)
+
 
 Startups:
 
