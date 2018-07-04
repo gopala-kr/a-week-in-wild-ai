@@ -96,6 +96,10 @@ References:
 - [FPGAs vs. GPGPUs](https://www.youtube.com/watch?v=4n2qub96qB0)
 - [Non Von Neumann Architectures](http://meseec.ce.rit.edu/551-projects/spring2014/4-3.pdf)
 - [Non Von Neumann Computation(a survey)](https://pdfs.semanticscholar.org/presentation/cc84/1f20c655708e4f2f4096435737794522affa.pdf)
+- [IBM: Hardware for AI](https://www.research.ibm.com/artificial-intelligence/hardware/)
+- [Intel® Nervana™ Neural Network Processor](https://ai.intel.com/intel-nervana-neural-network-processor/)
+- [A Starter Hardware Guide to Deep Learning](https://medium.com/@philliplakis/a-starter-hardware-guide-to-deep-learning-19e8ddd34d0e)
+- [Algorithmia Blog: Hardware for Machine Learning](https://blog.algorithmia.com/hardware-for-machine-learning/)
 
 
 Startups:
@@ -113,6 +117,10 @@ Startups:
 - [Rise Of China’s Big Tech In AI: What Baidu, Alibaba, And Tencent Are Working On](https://www.cbinsights.com/research/china-baidu-alibaba-tencent-artificial-intelligence-dominance/)
 - [The Rise Of Chinese Voice Assistants And The Race To Commoditize Smart Speakers](https://www.cbinsights.com/research/china-voice-assistants-smart-speakers-ai/)
 - [The red-hot AI hardware space gets even hotter with $56M for a startup called SambaNova Systems](https://techcrunch.com/2018/03/15/the-red-hot-ai-chip-space-gets-even-hotter-with-56m-for-a-startup-called-sambanova/)
+- [The History Of Nvidia GPUs](https://www.tomshardware.com/picturestory/715-history-of-nvidia-gpus.html)
+- [Graphics Hardware History](http://titancity.com/articles/gfxcards.html)
+- [List of defunct graphics chips and card companies](https://en.wikipedia.org/wiki/List_of_defunct_graphics_chips_and_card_companies)
+- [List of computer hardware manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
 
 ------------
 
@@ -133,10 +141,16 @@ Startups:
 - Tesla
 - Xilinx
 
+
+
+
 -----------------
 
 - [CUDA Programming](https://github.com/Erkaman/Awesome-CUDA)
 - [GPU Papers](https://github.com/Jokeren/Awesome-GPU#resources-management)
+- [NVIDIA TESLA PRODUCT LITERATURE](https://www.nvidia.com/en-us/data-center/tesla-product-literature/)
+
+
 
 
 ------
