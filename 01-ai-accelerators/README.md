@@ -94,6 +94,9 @@ References:
 - [HARDWARE DESIGN FOR MACHINE LEARNING](http://aircconline.com/ijaia/V9N1/9118ijaia05.pdf)
 - [HOW LONG BEFORE SUPERINTELLIGENCE?](https://nickbostrom.com/superintelligence.html)
 - [FPGAs vs. GPGPUs](https://www.youtube.com/watch?v=4n2qub96qB0)
+- [Non Von Neumann Architectures](http://meseec.ce.rit.edu/551-projects/spring2014/4-3.pdf)
+- [Non Von Neumann Computation(a survey)](https://pdfs.semanticscholar.org/presentation/cc84/1f20c655708e4f2f4096435737794522affa.pdf)
+
 
 Startups:
 
@@ -130,8 +133,11 @@ Startups:
 - Tesla
 - Xilinx
 
+-----------------
+
+- [CUDA Programming](https://github.com/Erkaman/Awesome-CUDA)
+- [GPU Papers](https://github.com/Jokeren/Awesome-GPU#resources-management)
+
+
 ------
-
-<h3 style="text-align:justify"><strong>AI Chip Market Key Segments:</strong></span></span></span></h3><h4 style="text-align:justify"><strong>By Chip Type</strong></span></span></span></h4><ul><li style="text-align:justify">GPU</span></span></span></li><li style="text-align:justify">ASIC</span></span></span></li><li style="text-align:justify">FPGA</span></span></span></li><li style="text-align:justify">CPU</span></span></span></li></ul><h4 style="text-align:justify"><strong>By Industry Vertical</strong></span></span></span></h4><ul><li style="text-align:justify">Media & Advertising</span></span></span></li><li style="text-align:justify">BFSI</span></span></span></li><li style="text-align:justify">IT & Telecom</span></span></span></li><li style="text-align:justify">Retail</span></span></span></li><li style="text-align:justify">Healthcare</span></span></span></li><li style="text-align:justify">Automotive & Transportation</span></span></span></li><li style="text-align:justify">Others</span></span></span></li></ul><h4 style="text-align:justify"><strong>By Technology</strong></span></span></span></h4><ul><li style="text-align:justify">System-on-chip</span></span></span></li><li style="text-align:justify">System-in-package</span></span></span></li><li style="text-align:justify">Multi-chip module</span></span></span></li><li style="text-align:justify">Others</span></span></span></li></ul><h4 style="text-align:justify"><strong>By Application</strong></span></span></span></h4><ul><li style="text-align:justify">Predictive maintenance</span></span></span></li><li style="text-align:justify">Image recognition</span></span></span></li><li style="text-align:justify">Contract analytics</span></span></span></li><li style="text-align:justify">Others</span></span></span></li></ul><h4 style="text-align:justify"><strong>By Region</strong></span></span></span></h4><ul><li style="text-align:justify">North America</span></span></span><ul><li style="text-align:justify">U.S.</span></span></span></li><li style="text-align:justify">Canada</span></span></span></li><li style="text-align:justify">Mexico</span></span></span></li></ul></li><li style="text-align:justify">Europe</span></span></span><ul><li style="text-align:justify">UK</span></span></span></li><li style="text-align:justify">Germany</span></span></span></li><li style="text-align:justify">France</span></span></span></li><li style="text-align:justify">Russia</span></span></span></li><li style="text-align:justify">Rest of Europe</span></span></span></li></ul></li><li style="text-align:justify">Asia-Pacific</span></span></span><ul><li style="text-align:justify">China</span></span></span></li><li style="text-align:justify">Japan</span></span></span></li><li style="text-align:justify">India</span></span></span></li><li style="text-align:justify">Australia</span></span></span></li><li style="text-align:justify">Rest of Asia-Pacific</span></span></span></li></ul></li><li style="text-align:justify">LAMEA</span></span></span><ul><li style="text-align:justify">Latin America</span></span></span></li><li style="text-align:justify">Middle East</span></span></span></li><li style="text-align:justify">Africa</span></span></span></li></ul></li></ul>   
-
 -------------
