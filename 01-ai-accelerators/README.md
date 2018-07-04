@@ -100,7 +100,7 @@ References:
 - [Intel® Nervana™ Neural Network Processor](https://ai.intel.com/intel-nervana-neural-network-processor/)
 - [A Starter Hardware Guide to Deep Learning](https://medium.com/@philliplakis/a-starter-hardware-guide-to-deep-learning-19e8ddd34d0e)
 - [Algorithmia Blog: Hardware for Machine Learning](https://blog.algorithmia.com/hardware-for-machine-learning/)
-
+- [GP-GPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 
 Startups:
 
@@ -146,10 +146,18 @@ Startups:
 
 -----------------
 
-- [CUDA Programming](https://github.com/Erkaman/Awesome-CUDA)
+- [CUDA Programming](https://github.com/Erkaman/Awesome-CUDA) [[Intro to GPU programming - Stack Overflow](https://stackoverflow.com/questions/219928/intro-to-gpu-programming)] [[cuda-training-services](http://www.nvidia.in/object/cuda-training-services-in.html)] [[IACAT](http://www.ncsa.illinois.edu/People/kindr/projects/hpca/files/singapore_p1.pdf)] [[Siraj Raval](https://www.youtube.com/watch?v=1cHx1baKqq0&feature=youtu.be)]
+- [A Library of Parallel Algorithms](https://www.cs.cmu.edu/~scandal/nesl/algorithms.html)
 - [GPU Papers](https://github.com/Jokeren/Awesome-GPU#resources-management)
 - [NVIDIA TESLA PRODUCT LITERATURE](https://www.nvidia.com/en-us/data-center/tesla-product-literature/)
-
+- [List of NVIDIA GPUs ](https://en.wikipedia.org/wiki/List_of_Nvidia_graphics_processing_units)
+- [List of Intel GPU's](https://en.wikipedia.org/wiki/List_of_Intel_graphics_processing_units)
+- [List of AMD GPU's](https://en.wikipedia.org/wiki/List_of_AMD_graphics_processing_units)
+- [graph-prog-resources#arch](https://github.com/snowzurfer/graph-prog-resources#arch)
+- [Stanford: CUDA-course](https://github.com/AndiH/CUDA-course)
+- [akashdeepjassal/GPU-Programming](https://github.com/akashdeepjassal/GPU-Programming)
+- [Udacity: Introduction to Parallel Programming class code](https://github.com/udacity/cs344)
+- [CUDA by Example: An Introduction to General-Purpose GPU Programming](https://developer.nvidia.com/cuda-example)
 
 
 
