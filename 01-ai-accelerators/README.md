@@ -17,7 +17,9 @@
 
 ------------
 
-- [Microsoft's Brainwave architecture - Large scale FPGA's in the cloud](https://onedrive.live.com/view.aspx?resid=9FF02F85206E25A4!1435078&ithint=file%2cpptx&app=PowerPoint&authkey=!AGh3DS8anFfO4J0%5D)
+- [Microsoft's Brainwave architecture - Large scale FPGA's in the cloud](https://onedrive.live.com/view.aspx?resid=9FF02F85206E25A4!1435078&ithint=file%2cpptx&app=PowerPoint&authkey=!AGh3DS8anFfO4J0%5D) [[PPT](https://www.youtube.com/watch?v=v_4Ap1bjwgs)]
+- [Stanford: Efficient Methods and Hardware for Deep Learning ](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) [[Lecture](https://www.youtube.com/watch?v=eZdOkDtYMoo)]
+- [MIT & Nvidia: Hardware Architectures for Deep Neural Networks](https://pdfs.semanticscholar.org/presentation/231a/c62533529818033372ecd8f214190222e380.pdf)
 
 --------------
 
@@ -85,7 +87,13 @@ References:
 - [NICS Lab of Tsinghua University: Hardware Computing](https://nicsefc.ee.tsinghua.edu.cn/projects/hardware/)
 - [Does Artificial Intelligence Require Specialized Processors?](https://thenewstack.io/ai-hardware-software-dilemma/)
 - [AI Hardware to Support the Artificial Intelligence Software Ecosystem](https://insidehpc.com/2018/01/ai-hardware-support-software/)
-
+- [Technology Requirements for Deep and Machine Learning](https://www.nextplatform.com/2017/07/14/technology-requirements-deep-machine-learning/)
+- [Build a super fast deep learning machine for under $1,000](https://www.oreilly.com/learning/build-a-super-fast-deep-learning-machine-for-under-1000)
+- [Eight Storage Requirements for Artificial Intelligence and Machine Learning](https://cloudian.com/resource/data-sheets/eight-storage-requirements-artificial-intelligence-machine-learning/)
+- [Advances	in	Artificial	Intelligence	Require Progress	Across	all	of	Computer	Science](https://pdfs.semanticscholar.org/4b1c/2d3d8e5e4269119ae5ef236e55f7a209cb62.pdf)
+- [HARDWARE DESIGN FOR MACHINE LEARNING](http://aircconline.com/ijaia/V9N1/9118ijaia05.pdf)
+- [HOW LONG BEFORE SUPERINTELLIGENCE?](https://nickbostrom.com/superintelligence.html)
+- [FPGAs vs. GPGPUs](https://www.youtube.com/watch?v=4n2qub96qB0)
 
 Startups:
 
@@ -101,7 +109,7 @@ Startups:
 - [China’s Surveillance State: AI Startups, Tech Giants Are At The Center Of The Government’s Plans](https://www.cbinsights.com/research/china-surveillance-ai/)
 - [Rise Of China’s Big Tech In AI: What Baidu, Alibaba, And Tencent Are Working On](https://www.cbinsights.com/research/china-baidu-alibaba-tencent-artificial-intelligence-dominance/)
 - [The Rise Of Chinese Voice Assistants And The Race To Commoditize Smart Speakers](https://www.cbinsights.com/research/china-voice-assistants-smart-speakers-ai/)
-
+- [The red-hot AI hardware space gets even hotter with $56M for a startup called SambaNova Systems](https://techcrunch.com/2018/03/15/the-red-hot-ai-chip-space-gets-even-hotter-with-56m-for-a-startup-called-sambanova/)
 
 ------------
 
