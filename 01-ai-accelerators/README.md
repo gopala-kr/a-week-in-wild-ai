@@ -17,7 +17,17 @@
 
 --------------
 
+![nnai](https://github.com/gopala-kr/a-wild-week-in-ai/blob/master/01-ai-accelerators/nnai.JPG)
+
+
+--------------
+
+
 ![compute_diagram-log@2x-3](https://blog.openai.com/content/images/2018/05/compute_diagram-log@2x-3.png)
+
+
+[[source](https://nicsefc.ee.tsinghua.edu.cn/projects/neural-network-accelerator/)]
+
 
 -----------
 
@@ -67,7 +77,8 @@ References:
 - [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf)
 - [A Brief History of Neuromorphic Computing](https://knowm.org/a-brief-history-of-neuromorphic-computing/)
 - [Deep Learning and the processor chips fueling the AI revolution – a primer](https://olui2.fs.ml.com/publish/content/application/pdf/GWMOL/Deep-Learning-AI-Primer.pdf)
-
+- [NICS Lab of Tsinghua University: Neural Networks on Emerging Devices](https://nicsefc.ee.tsinghua.edu.cn/projects/emerging/neural/)
+- [NICS Lab of Tsinghua University: Hardware Computing](https://nicsefc.ee.tsinghua.edu.cn/projects/hardware/)
 
 Startups:
 
