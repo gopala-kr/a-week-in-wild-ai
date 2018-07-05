@@ -101,6 +101,9 @@ References:
 - [A Starter Hardware Guide to Deep Learning](https://medium.com/@philliplakis/a-starter-hardware-guide-to-deep-learning-19e8ddd34d0e)
 - [Algorithmia Blog: Hardware for Machine Learning](https://blog.algorithmia.com/hardware-for-machine-learning/)
 - [GP-GPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
+- [AWS vs Paperspace vs FloydHub : Choosing your cloud GPU partner](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
+- [GPUs In The Cloud - The Largest Providers Are Investing Heavily Today](https://www.forbes.com/sites/benjaminboxer/2017/04/12/gpus-in-the-cloud-the-largest-providers-are-investing-heavily-today/#67f554034751)
+
 
 Startups:
 
@@ -146,6 +149,56 @@ Startups:
 
 -----------------
 
+GPU Cloud and Programming
+
+
+**RapidMind**
+
+Rapidmind is developed by privately owned company which is now
+owned by Intel from 2009. It is a software product that makes ease to
+software developer to program multicore or GPU processors.
+
+
+**Brook**
+
+Brook is the programming language and its implementation is BrookGPU
+which is used to program general purpose GPU. It is developed by
+Standford University Graphics group. BrookGPU a compiler and run-time
+implementation of stream programming language i.e. Brook.
+
+**Compute Unified Device Architecture (CUDA)**
+
+Compute Unified Device Architecture (CUDA) is a parallel computing
+platform and also programming model that has been introduced by
+NVIDIA. It is making dramatic enhancement in computing performance
+by binding the capability of graphics processing unit (GPU). With CUDA,
+program engineers can send C, C++ and Fortran code to GPU via CPU.
+CUDA is widely accepted and deployed through thousands of applications
+and installed over 375 millions CUDA supported GPU in workstations,
+notebook and super computers.
+
+**OpenCL**
+
+Open Computing Lanaguge (OpenCL) is a framework for writing parallel
+programs across heterogeneous platform that includes CPU, GPU and
+other mobile devices and embedded platforms. It is open and royalty
+free which is maintained by the non-profit technology organization
+called Khronos Group. OpenCL significantly enhances the speed and
+responsiveness of a wide variety of applications in the market from
+gaming, entertainment, scientific and medical software. The implementers
+of OpenCL are Intel, NVIDIA Corporation, Apple, ARM limited,
+QUALCOMM, Marvell, AMD IBM, Creative Labs, Samsung Electronics
+etc.
+
+**High Level Shading Language (HLSL)**
+
+High Level Shading Language (HLSL) is a GPU programming language
+in DirectX 9/10/11. It is developed by Microsoft. It supports the shader
+construction for real time on GPU. It solely works on windows platform.
+This programming language uses syntax like C.
+
+
+
 - [CUDA Programming](https://github.com/Erkaman/Awesome-CUDA) [[Intro to GPU programming - Stack Overflow](https://stackoverflow.com/questions/219928/intro-to-gpu-programming)] [[cuda-training-services](http://www.nvidia.in/object/cuda-training-services-in.html)] [[IACAT](http://www.ncsa.illinois.edu/People/kindr/projects/hpca/files/singapore_p1.pdf)] [[Siraj Raval](https://www.youtube.com/watch?v=1cHx1baKqq0&feature=youtu.be)]
 - [A Library of Parallel Algorithms](https://www.cs.cmu.edu/~scandal/nesl/algorithms.html)
 - [GPU Papers](https://github.com/Jokeren/Awesome-GPU#resources-management)
@@ -158,8 +211,32 @@ Startups:
 - [akashdeepjassal/GPU-Programming](https://github.com/akashdeepjassal/GPU-Programming)
 - [Udacity: Introduction to Parallel Programming class code](https://github.com/udacity/cs344)
 - [CUDA by Example: An Introduction to General-Purpose GPU Programming](https://developer.nvidia.com/cuda-example)
+- [Evaluation of GPU based CloudSolutions](https://www.duo.uio.no/bitstream/handle/10852/58288/master_thesis_santosh_nepali.pdf?sequence=1)
+- [NVIDIA GPU CLOUD DEEP LEARNING FRAMEWORKS](https://kaggle2.blob.core.windows.net/forum-message-attachments/236782/7759/ngc-registry-launch-technical-overview-letter-r4-web.pdf)
+- [What is the best option for GPU programming?](https://www.researchgate.net/post/What_is_the_best_option_for_GPU_programming)
+- [Course on CUDA Programming on NVIDIA GPUs](https://people.maths.ox.ac.uk/gilesm/cuda/)
 
+-----------
 
+- [Google GPU Cloud](https://cloud.google.com/gpu/)
+- [Oracle GPU Cloud](https://cloud.oracle.com/compute/gpu/features)
+- [Azure GPU Cloud](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sizes-gpu)
+- [AWS GPU Cloud](https://aws.amazon.com/ec2/elastic-gpus/)
+- [Exoscale GPU Cloud](https://www.exoscale.com/gpu/)
+- [Alibaba GPU Cloud](https://www.alibabacloud.com/product/gpu)
+- [IBM GPU Cloud](https://www.ibm.com/cloud/gpu)
+- [gpueater](https://www.gpueater.com/)
+- [floydhub](https://www.floydhub.com/)
+- [skyscale](http://www.skyscale.com/)
+- [Paperspace](https://www.paperspace.com/)
+- [ovh](https://www.ovh.com/world/public-cloud/instances/gpu/)
+- [nimbix](https://www.nimbix.net/cloud-computing-nvidia/)
+- [cirrascale](http://www.cirrascale.com/)
+- [rapidswitch](http://www.rapidswitch.com/nvidia)
+- [outscale](https://en.outscale.com/)
+- [rescale](https://www.rescale.com/)
+- [lambdal gpu-cloud](https://lambdal.com/service/gpu-cloud)
+- [tencent](https://cloud.tencent.com/document/product/560?!preview=true&lang=en)
 
 ------
 -------------
