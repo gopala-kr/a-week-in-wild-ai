@@ -152,53 +152,11 @@ Startups:
 GPU Cloud and Programming
 
 
-**RapidMind**
-
-Rapidmind is developed by privately owned company which is now
-owned by Intel from 2009. It is a software product that makes ease to
-software developer to program multicore or GPU processors.
-
-
-**Brook**
-
-Brook is the programming language and its implementation is BrookGPU
-which is used to program general purpose GPU. It is developed by
-Standford University Graphics group. BrookGPU a compiler and run-time
-implementation of stream programming language i.e. Brook.
-
-**Compute Unified Device Architecture (CUDA)**
-
-Compute Unified Device Architecture (CUDA) is a parallel computing
-platform and also programming model that has been introduced by
-NVIDIA. It is making dramatic enhancement in computing performance
-by binding the capability of graphics processing unit (GPU). With CUDA,
-program engineers can send C, C++ and Fortran code to GPU via CPU.
-CUDA is widely accepted and deployed through thousands of applications
-and installed over 375 millions CUDA supported GPU in workstations,
-notebook and super computers.
-
-**OpenCL**
-
-Open Computing Lanaguge (OpenCL) is a framework for writing parallel
-programs across heterogeneous platform that includes CPU, GPU and
-other mobile devices and embedded platforms. It is open and royalty
-free which is maintained by the non-profit technology organization
-called Khronos Group. OpenCL significantly enhances the speed and
-responsiveness of a wide variety of applications in the market from
-gaming, entertainment, scientific and medical software. The implementers
-of OpenCL are Intel, NVIDIA Corporation, Apple, ARM limited,
-QUALCOMM, Marvell, AMD IBM, Creative Labs, Samsung Electronics
-etc.
-
-**High Level Shading Language (HLSL)**
-
-High Level Shading Language (HLSL) is a GPU programming language
-in DirectX 9/10/11. It is developed by Microsoft. It supports the shader
-construction for real time on GPU. It solely works on windows platform.
-This programming language uses syntax like C.
-
-
-
+- **RapidMind**
+- **Brook**
+- **Compute Unified Device Architecture (CUDA)**
+- **OpenCL**
+- **High Level Shading Language (HLSL)**
 - [CUDA Programming](https://github.com/Erkaman/Awesome-CUDA) [[Intro to GPU programming - Stack Overflow](https://stackoverflow.com/questions/219928/intro-to-gpu-programming)] [[cuda-training-services](http://www.nvidia.in/object/cuda-training-services-in.html)] [[IACAT](http://www.ncsa.illinois.edu/People/kindr/projects/hpca/files/singapore_p1.pdf)] [[Siraj Raval](https://www.youtube.com/watch?v=1cHx1baKqq0&feature=youtu.be)]
 - [A Library of Parallel Algorithms](https://www.cs.cmu.edu/~scandal/nesl/algorithms.html)
 - [GPU Papers](https://github.com/Jokeren/Awesome-GPU#resources-management)
@@ -215,6 +173,17 @@ This programming language uses syntax like C.
 - [NVIDIA GPU CLOUD DEEP LEARNING FRAMEWORKS](https://kaggle2.blob.core.windows.net/forum-message-attachments/236782/7759/ngc-registry-launch-technical-overview-letter-r4-web.pdf)
 - [What is the best option for GPU programming?](https://www.researchgate.net/post/What_is_the_best_option_for_GPU_programming)
 - [Course on CUDA Programming on NVIDIA GPUs](https://people.maths.ox.ac.uk/gilesm/cuda/)
+- [Programming the GPU: Programming the GPU:
+High-Level Shading Languages Level Shading Lang](https://pdfs.semanticscholar.org/presentation/ffd2/dfc0bf2c73b2c7aec980e73837fdbf6b781c.pdf)
+- [OpenCL on NVIDIA GPUs](http://sa09.idav.ucdavis.edu/docs/SA09_NVIDIA_IHV_talk.pdf)
+- [From Brook to CUDA](https://pdfs.semanticscholar.org/presentation/5ff0/11ea43fcc8c7844de31a0ba585491230a3ad.pdf)
+- [The RapidMind Development
+Platform and Data-Parallel
+Programming](https://pdfs.semanticscholar.org/presentation/b270/adca55c634b576d60f54b6daa1fd05de4bc6.pdf)
+- [Writing Applications for the GPU
+Using the RapidMind™
+Development Platform 
+](http://web.cs.ucla.edu/~palsberg/course/cs239/papers/rapidmind.pdf)
 
 -----------
 
@@ -237,6 +206,45 @@ This programming language uses syntax like C.
 - [rescale](https://www.rescale.com/)
 - [lambdal gpu-cloud](https://lambdal.com/service/gpu-cloud)
 - [tencent](https://cloud.tencent.com/document/product/560?!preview=true&lang=en)
+
+----------------
+
+FPGA
+
+- [Machine Learning on Intel® FPGAs](https://software.intel.com/en-us/articles/machine-learning-on-intel-fpgas)
+- [FPGA Programming Made Easy](https://insidehpc.com/2018/03/fpga-programming-made-easy/)
+- [Intel® FPGA Curricula Introduction](https://www.altera.com/support/training/curricula.html)
+- [My First FPGA Design Tutorial](https://www.altera.com/en_US/pdfs/literature/tt/tt_my_first_fpga.pdf)
+- [Introduction to FPGA Design for Embedded Systems](https://www.coursera.org/learn/intro-fpga-design-embedded-systems)
+- [Amazon EC2 F1 Instances](https://aws.amazon.com/ec2/instance-types/f1/) [[Developer Preview – EC2 Instances (F1) with Programmable Hardware](https://aws.amazon.com/blogs/aws/developer-preview-ec2-instances-f1-with-programmable-hardware/)]
+- [FPGAs and the New Era of Cloud-based ‘Hardware Microservices’](https://thenewstack.io/developers-fpgas-cloud/)
+- [xilinx FPGA Clod Services](https://www.xilinx.com/products/design-tools/cloud-based-acceleration.html)
+- [FPGAs in the cloud](https://www.slideshare.net/JulienSIMON5/fpgas-in-the-cloud)
+- [labs.ovh](https://labs.ovh.com/fpga-serveur)
+- [huaweicloud: FPGA-accelerated Cloud Server](https://www.huaweicloud.com/en-us/product/fcs.html)
+- [Why Microsoft Has Bet on FPGAs to Infuse Its Cloud With AI](http://www.datacenterknowledge.com/microsoft/why-microsoft-has-bet-fpgas-infuse-its-cloud-ai)
+- [A Survey on Reconfigurable Accelerators for Cloud Computing.(http://www.cse.unsw.edu.au/~cs4601/18s1/protected/papers/fpl16kachris.pdf)
+- [Designing a Virtual Runtime for FPGA
+Accelerators in the Cloud](https://lap.epfl.ch/files/content/sites/lap/files/shared/publications/AsiaticiAug16_DesigningAVirtualRuntimeForFpgaAcceleratorsInTheCloud_FPL16.pdf)
+- [Virtualized FPGA Accelerators for Efficient Cloud Computing](https://core.ac.uk/download/pdf/42615282.pdf)
+- [IBM: cloudFPGA](https://www.zurich.ibm.com/cci/cloudFPGA/)
+- [intel-fpgas-power-acceleration-as-a-service-alibaba-cloud](https://newsroom.intel.com/news/intel-fpgas-power-acceleration-as-a-service-alibaba-cloud/)
+- [plunify-cloud](https://www.plunify.com/en/plunify-cloud/)
+- [Xilinx FPGAs on the Nimbix Cloud](https://www.nimbix.net/xilinx/)
+- [Microsoft: FPGA Wins Versus Google TPUs For AI](https://www.forbes.com/sites/moorinsights/2017/08/28/microsoft-fpga-wins-versus-google-tpus-for-ai/#e3962c939045)
+- [FPGAs and the Future of Parallelized Computation in the Cloud](https://www.cloudreach.com/blog/fpgas-and-parallelized-computation-in-the-cloud/)
+- [Building FPGA applications on AWS — and yes, for Deep Learning too](https://medium.com/@julsimon/building-fpga-applications-on-aws-and-yes-for-deep-learning-too-643097257192)
+- [UCLA: Machine Learning on FPGAs](http://cadlab.cs.ucla.edu/~cong/slides/HALO15_keynote.pdf)
+- [Can FPGAs Beat GPUs in Accelerating Next-Generation Deep Learning?](https://www.nextplatform.com/2017/03/21/can-fpgas-beat-gpus-accelerating-next-generation-deep-learning/)
+- [Microsoft: What is FPGA and Project Brainwave?](https://docs.microsoft.com/en-us/azure/machine-learning/service/concept-accelerate-with-fpgas)
+- [FPGA vs GPU for Machine Learning Applications: Which one is better? Can FPGAs beat GPUs?](https://www.aldec.com/en/company/blog/167--fpgas-vs-gpus-for-machine-learning-applications-which-one-is-better)
+- [Deep Learning on FPGAs: Past, Present, and Future](https://arxiv.org/abs/1602.04283)
+- [intel-fpgas-accelerating-artificial-intelligence-deep-learning-bing-intelligent-search](https://newsroom.intel.com/editorials/intel-fpgas-accelerating-artificial-intelligence-deep-learning-bing-intelligent-search/)
+- [Unified Deep Learning with
+CPU, GPU, and FPGA Technologies](https://pro.radeon.com/_downloads/Unified-Deep-Learning-White-Paper.pdf)
+- [XILINX: Exploration and Tradeoffs of Different Kernels 
+in FPGA Deep Learning Applications](http://www.ispd.cc/slides/2018/s2_3.pdf)
+- [FPGA-based MapReduce Framework for Machine Learning](https://pdfs.semanticscholar.org/presentation/fa9f/538dadf7a2dfb83d4b2781cb7137c56c189b.pdf)
 
 ------
 -------------
