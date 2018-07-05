@@ -147,6 +147,9 @@ Startups:
 - [Graphics Hardware History](http://titancity.com/articles/gfxcards.html)
 - [List of defunct graphics chips and card companies](https://en.wikipedia.org/wiki/List_of_defunct_graphics_chips_and_card_companies)
 - [List of computer hardware manufacturers](https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers)
+- [Cloud computing providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
+- [Cloud platforms](https://en.wikipedia.org/wiki/Category:Cloud_platforms)
+- [Cloud computing comparison](https://en.wikipedia.org/wiki/Cloud_computing_comparison)
 
 ------------
 
