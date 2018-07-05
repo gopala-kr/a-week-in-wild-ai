@@ -17,10 +17,33 @@
 
 ------------
 
+- [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+- [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon/blob/master/README.md)
 - [Microsoft's Brainwave architecture - Large scale FPGA's in the cloud](https://onedrive.live.com/view.aspx?resid=9FF02F85206E25A4!1435078&ithint=file%2cpptx&app=PowerPoint&authkey=!AGh3DS8anFfO4J0%5D) [[PPT](https://www.youtube.com/watch?v=v_4Ap1bjwgs)]
 - [Stanford: Efficient Methods and Hardware for Deep Learning ](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf) [[Lecture](https://www.youtube.com/watch?v=eZdOkDtYMoo)]
 - [MIT & Nvidia: Hardware Architectures for Deep Neural Networks](https://pdfs.semanticscholar.org/presentation/231a/c62533529818033372ecd8f214190222e380.pdf)
+- [Google TPU cloud](https://cloud.google.com/tpu/docs/quickstart)
 
+----------------
+
+ - [Movidius](http://www.movidius.com/)
+   - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
+   - Fathom Neural Compute Stick: The world's first discrete deep learning accelerator (Myriad 2 VPU inside).
+   - Myriad X: On-device AI and computer vision.
+ - [NVIDIA](http://www.nvidia.com/)
+   - Jetson TX1: Embedded visual computing developing platform.
+   - DGX-1: Deep learning supercomputer.
+   - Tesla V100: A Data center GPU with Tensor Cores inside.
+   - [NVDLA](http://nvdla.org/): The NVIDIA Deep Learning Accelerator (NVDLA) is a free and open architecture that promotes a standard way to design deep learning inference accelerators.
+ - Google
+   - TPU (Tensor Processing Unit).
+   - [TPUv2](https://www.nextplatform.com/2017/05/22/hood-googles-tpu2-machine-learning-clusters/): Train and run machine learning models.
+   - [TPUv3](https://www.nextplatform.com/2018/05/10/tearing-apart-googles-tpu-3-0-ai-coprocessor/): Liquid cooling.
+ - [Nervana](https://www.nervanasys.com/)
+   - Nervana Engine: Hardware optimized for deep learning.
+ - [Wave Computing](http://wavecomp.com/)
+   - Clockless **CGRA** architecture.
+   
 --------------
 
 ![nnai](https://github.com/gopala-kr/a-wild-week-in-ai/blob/master/01-ai-accelerators/nnai.JPG)
@@ -184,6 +207,7 @@ Programming](https://pdfs.semanticscholar.org/presentation/b270/adca55c634b576d6
 Using the RapidMind™
 Development Platform 
 ](http://web.cs.ucla.edu/~palsberg/course/cs239/papers/rapidmind.pdf)
+- [Gpu Startups](https://angel.co/gpu-1)
 
 -----------
 
@@ -223,7 +247,7 @@ FPGA
 - [labs.ovh](https://labs.ovh.com/fpga-serveur)
 - [huaweicloud: FPGA-accelerated Cloud Server](https://www.huaweicloud.com/en-us/product/fcs.html)
 - [Why Microsoft Has Bet on FPGAs to Infuse Its Cloud With AI](http://www.datacenterknowledge.com/microsoft/why-microsoft-has-bet-fpgas-infuse-its-cloud-ai)
-- [A Survey on Reconfigurable Accelerators for Cloud Computing.(http://www.cse.unsw.edu.au/~cs4601/18s1/protected/papers/fpl16kachris.pdf)
+- [A Survey on Reconfigurable Accelerators for Cloud Computing.](http://www.cse.unsw.edu.au/~cs4601/18s1/protected/papers/fpl16kachris.pdf)
 - [Designing a Virtual Runtime for FPGA
 Accelerators in the Cloud](https://lap.epfl.ch/files/content/sites/lap/files/shared/publications/AsiaticiAug16_DesigningAVirtualRuntimeForFpgaAcceleratorsInTheCloud_FPL16.pdf)
 - [Virtualized FPGA Accelerators for Efficient Cloud Computing](https://core.ac.uk/download/pdf/42615282.pdf)
@@ -245,6 +269,39 @@ CPU, GPU, and FPGA Technologies](https://pro.radeon.com/_downloads/Unified-Deep-
 - [XILINX: Exploration and Tradeoffs of Different Kernels 
 in FPGA Deep Learning Applications](http://www.ispd.cc/slides/2018/s2_3.pdf)
 - [FPGA-based MapReduce Framework for Machine Learning](https://pdfs.semanticscholar.org/presentation/fa9f/538dadf7a2dfb83d4b2781cb7137c56c189b.pdf)
+- [Machine	Learning	on	
+Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/ZIB-DeepLearningDay.20170227.public.pdf)
+- [Management AI: GPU and FPGA, Why They Are Important for Artificial Intelligence](https://www.forbes.com/sites/davidteich/2018/06/15/management-ai-gpu-and-fpga-why-they-are-important-for-artificial-intelligence/#4fa8af487159)
+- [ACCELERATING AI using Intel® fpgaS](https://universe.ida.dk/media/23423328/stefano-zammattio.pdf)
+- [Embedded deep learning framework for FPGAs](http://www.dataweek.co.za/9171a)
+- [FPGA Startups](https://angel.co/fpga)
+
+---------------
+
+ASIC 
+
+- [In-Datacenter Performance Analysis of a Tensor Processing Unit​
+TM](https://arxiv.org/ftp/arxiv/papers/1704/1704.04760.pdf)
+- [Tearing Apart Google’s TPU 3.0 AI Coprocessor](https://www.nextplatform.com/2018/05/10/tearing-apart-googles-tpu-3-0-ai-coprocessor/)
+- [Google Offers Glimpse of Third-Generation TPU Processor](https://www.top500.org/news/google-offers-glimpse-of-third-generation-tpu-processor/)
+- [Google Cloud TPU Details Revealed](https://www.servethehome.com/google-cloud-tpu-details-revealed/)
+- [Case Study on the Google TPU and GDDR5 from Hot Chips 29](https://www.servethehome.com/case-study-google-tpu-gddr5-hot-chips-29/)
+- [An in-depth look at Google’s first Tensor Processing Unit (TPU)](https://cloud.google.com/blog/big-data/2017/05/an-in-depth-look-at-googles-first-tensor-processing-unit-tpu)
+- [Will ASIC Chips Become The Next Big Thing In AI?](https://www.forbes.com/sites/moorinsights/2017/08/04/will-asic-chips-become-the-next-big-thing-in-ai/#6347226c11d9)
+- [Intel's latest promise: Our first AI ASIC chips will arrive in 2019](https://www.theregister.co.uk/2018/05/23/intels_first_commercial_ai_chips_will_arrive_in_2019/)
+- [How does using ASIC for the acceleration of AI work?](https://ai.stackexchange.com/questions/1655/how-does-using-asic-for-the-acceleration-of-ai-work)
+- [ASICs for Deep Learning Are Not Exactly ASICs](https://www.tractica.com/artificial-intelligence/asics-for-deep-learning-are-not-exactly-asics/)
+- [What will be the relative importance of ASIC and FPGA for training machine learning / deep learning models in the near future compared to GPU?](https://www.quora.com/What-will-be-the-relative-importance-of-ASIC-and-FPGA-for-training-machine-learning-deep-learning-models-in-the-near-future-compared-to-GPU)
+- [Heterogeneity: From ASIC’s to Data Centers
+Deep Learning : A case study ](https://ip.cadence.com/uploads/presentations/1315PM_ENNS_Sunyal_EmbeddedNNCadence_SumitS.pdf)
+- [Why NVIDIA Is Building Its Own TPU](http://www.moorinsightsstrategy.com/why-nvidia-is-building-its-own-tpu/)
+- [Facebook has a new job posting calling for chip designers](https://techcrunch.com/2018/04/18/facebook-has-a-new-job-posting-calling-for-chip-designers/)
+- [Qualcom: ASIC and Hardware R&D](https://www.qualcomm.com/invention/research/projects/asic)
+- [SPECIALIZING A PLANET’S
+COMPUTATION: ASIC CLOUDS](https://cseweb.ucsd.edu/~mbtaylor/papers/micro_asic_cloud.pdf)
+- [ASIC Clouds:
+Specializing the Datacenter](https://cseweb.ucsd.edu/~mbtaylor/papers/ISCA_2016_ASIC_Cloud_Talk_No_Anim.pdf)
+- [Google's Tensor Processing Unit could advance Moore's Law 7 years into the future](https://www.pcworld.com/article/3072256/google-io/googles-tensor-processing-unit-said-to-advance-moores-law-seven-years-into-the-future.html)
 
 ------
 -------------
