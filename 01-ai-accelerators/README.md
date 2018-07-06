@@ -126,7 +126,7 @@ References:
 - [GP-GPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [AWS vs Paperspace vs FloydHub : Choosing your cloud GPU partner](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
 - [GPUs In The Cloud - The Largest Providers Are Investing Heavily Today](https://www.forbes.com/sites/benjaminboxer/2017/04/12/gpus-in-the-cloud-the-largest-providers-are-investing-heavily-today/#67f554034751)
-
+- [HPC with Multicore and GPUs](http://www.icl.utk.edu/~tomov/TAMU09.pdf)
 
 Startups:
 
@@ -150,7 +150,8 @@ Startups:
 - [Cloud computing providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
 - [Cloud platforms](https://en.wikipedia.org/wiki/Category:Cloud_platforms)
 - [Cloud computing comparison](https://en.wikipedia.org/wiki/Cloud_computing_comparison)
-
+- [High Performance Computing Clouds](http://dro.deakin.edu.au/eserv/DU:30044744/goscinski-highperformance-2012.pdf)
+- [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
 ------------
 
 - Amazon
@@ -210,6 +211,7 @@ Programming](https://pdfs.semanticscholar.org/presentation/b270/adca55c634b576d6
 Using the RapidMind™
 Development Platform 
 ](http://web.cs.ucla.edu/~palsberg/course/cs239/papers/rapidmind.pdf)
+- [Scaling Deep Learning on GPU and Knights Landing clusters](https://people.eecs.berkeley.edu/~aydin/sc2017_deep_learning.pdf)
 - [Gpu Startups](https://angel.co/gpu-1)
 
 -----------
@@ -305,6 +307,63 @@ COMPUTATION: ASIC CLOUDS](https://cseweb.ucsd.edu/~mbtaylor/papers/micro_asic_cl
 - [ASIC Clouds:
 Specializing the Datacenter](https://cseweb.ucsd.edu/~mbtaylor/papers/ISCA_2016_ASIC_Cloud_Talk_No_Anim.pdf)
 - [Google's Tensor Processing Unit could advance Moore's Law 7 years into the future](https://www.pcworld.com/article/3072256/google-io/googles-tensor-processing-unit-said-to-advance-moores-law-seven-years-into-the-future.html)
+
+---------
+
+DL using Cloud and Parallel/High Compute
+
+- [A Study of Complex Deep Learning Networks on High Performance, Neuromorphic, and Quantum Computers](https://arxiv.org/pdf/1703.05364.pdf)
+- [On Scale-out Deep Learning Training for Cloud and HPC](https://arxiv.org/pdf/1801.08030.pdf)
+- [Demystifying Parallel and Distributed Deep Learning: An In-Depth
+Concurrency Analysis](https://arxiv.org/pdf/1802.09941.pdf)
+- [SPARCML: High-Performance Sparse Communication
+for Machine Learning](https://arxiv.org/pdf/1802.08021.pdf)
+- [Deep Learning at 15PF: Supervised and
+Semi-Supervised Classification for Scientific Data](https://arxiv.org/pdf/1708.05256.pdf)
+- [Distributed Training of Deep Neural Networks:
+Theoretical and Practical Limits of Parallel
+Scalability.](https://arxiv.org/pdf/1609.06870.pdf)
+- [Evolving Deep Networks Using HPC](Evolving Deep Networks Using HPC)
+- [Intersection of HPC and Machine Learning](http://dsc.soic.indiana.edu/publications/ENGR-E%20687%20_%20IND%20STUDY%20INTEL%20SYS%20_%20Intersection%20of%20HPC%20and%20machine%20learning.pdf)
+- [High Performance Computing for Big Data: Methodologies and Applications](https://books.google.co.in/books?id=kXJQDwAAQBAJ&printsec=frontcover&dq=High+Performance+Computing+for+Big+Data:+Methodologies+and+Applications&hl=en&sa=X&ved=0ahUKEwij98KjyIrcAhVLKo8KHT_IAZwQ6AEIJjAA#v=onepage&q=High%20Performance%20Computing%20for%20Big%20Data%3A%20Methodologies%20and%20Applications&f=false)
+- [Adam Coates](https://cs.stanford.edu/~acoates/)
+- [Machine Learning meets High Performance Computing
+Reading Group
+Summer 2018
+](http://lissalytics.com/static/ml_meets_hpc_summer_2018_schedule.pdf)
+- [Performance Characterization of State-Of-The-Art
+Deep Learning Workloads on an IBM “Minsky” Platform](https://scholarspace.manoa.hawaii.edu/bitstream/10125/50591/1/paper0704.pdf)
+- [ETZ zurich: Demystifying Parallel and Distributed Deep Learning: An In-Depth
+Concurrency Analysis](http://www.hpcadvisorycouncil.com/events/2018/swiss-workshop/pdf/Monday09April/Hoefler_DDL_Mon090418.pdf)
+- [The Livermore Brain: Massive Deep
+Learning Networks Enabled by High
+Performance Computing](https://e-reports-ext.llnl.gov/pdf/845664.pdf)
+- [CHALLENGES IN MACHINE LEARNING FOR
+COMPLEX PHYSICAL SYSTEMS](https://www.ias.tum.de/fileadmin/w00bub/www/Events/2017/Big_Data_2017/angerer.pdf)
+- [INTEL: Artificial intelligence
+And HPC](https://www.nimbix.net/wp-content/uploads/2018/06/Artificial-Intelligence-and-HPC-Intel.pdf)
+- [supercomputing-speeds-up-deep-learning-training](https://www.tacc.utexas.edu/-/supercomputing-speeds-up-deep-learning-training)
+- [Advances in Neural Computation, Machine Learning, and Cognitive Research](https://books.google.co.in/books?id=uyIzDwAAQBAJ&pg=PA65&dq=Advances+in+Neural+Computation,+Machine+Learning,+and+Cognitive+Research+..&hl=en&sa=X&ved=0ahUKEwjjnr_5yorcAhWCro8KHQBzAYoQ6AEIJjAA#v=onepage&q=Advances%20in%20Neural%20Computation%2C%20Machine%20Learning%2C%20and%20Cognitive%20Research%20..&f=false)
+- [Tensors Come of Age: Why the AI Revolution will help HPC](https://arxiv.org/ftp/arxiv/papers/1709/1709.09108.pdf)
+- [Alvaro CSE](http://www.land.ufrj.br/~daniel/iECI/slides/Alvaro-HPC-CSE.pdf)
+- [NVIDIA: Deep Learning and HPC](http://images.nvidia.com/content/APAC/events/deep-learning-institute-jp/2017/pdf/keynote-nv-bill-dally.pdf)
+- [Addressing key
+science challenges
+with Adversarial
+Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetworks_NERSC_UFTucson2018.pdf)
+- [ASCAC-Future-HPC-report](https://science.energy.gov/~/media/ascr/ascac/pdf/meetings/201712/ASCAC-Future-HPC-report.pdf)
+- [Collective Mind: cleaning up the research and experimentation mess in computer engineering using crowdsourcing, big data and machine learning](https://arxiv.org/abs/1308.2410v1)
+- [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
+- [Google HPC Cloud](https://cloud.google.com/solutions/hpc/)
+- [AWS HPC Cloud](https://aws.amazon.com/hpc/)
+- [Azure HPC Cloud](https://azure.microsoft.com/en-in/solutions/high-performance-computing/)
+- [IBM spectrum-computing](https://www.ibm.com/it-infrastructure/spectrum-computing)
+- [Penguin Computing](https://pod.penguincomputing.com/)
+- [sabalcore](http://www.sabalcore.com/)
+- [oracle](https://cloud.oracle.com/iaas/hpc)
+- [rescale](https://www.rescale.com/)
+- [nimbix](https://www.nimbix.net/)
+- [alibabacloud ehpc](https://www.alibabacloud.com/product/ehpc)
 
 ------
 -------------
