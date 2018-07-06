@@ -1,6 +1,6 @@
 
 
-### AI-accelerators and Neuromorphic engineering
+### AI-accelerators(CPU, GPU, FPGA, ASIC, SoC, HPC),  Neuromorphic and Quantum Compute for AI
 
 ------------
 
