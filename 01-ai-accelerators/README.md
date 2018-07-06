@@ -304,7 +304,7 @@ Specializing the Datacenter](https://cseweb.ucsd.edu/~mbtaylor/papers/ISCA_2016_
 
 ---------
 
-DL using Cloud and Parallel/High Compute
+DL using Parallel/High Compute
 
 - [A Study of Complex Deep Learning Networks on High Performance, Neuromorphic, and Quantum Computers](https://arxiv.org/pdf/1703.05364.pdf)
 - [On Scale-out Deep Learning Training for Cloud and HPC](https://arxiv.org/pdf/1801.08030.pdf)
