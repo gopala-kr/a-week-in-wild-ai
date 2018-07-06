@@ -2,6 +2,7 @@
 
 ### AI-accelerators and Neuromorphic engineering
 
+------------
 
 - From the Edge to the Cloud
 - Hybrid Applications, Between the Cloud & the Edge
@@ -12,6 +13,8 @@
 - FPGAs in the Cloud
 - ASICs in the Cloud
 - HPC in the Cloud
+- Quantum Cloud Compute
+- Neuromorphic Compute for AI
 - Typical Embedded SOCs & Embedded GPUs
 - Embedded Reconfigurable SOCs & FPGAs
 
@@ -115,6 +118,7 @@ References:
 - [AWS vs Paperspace vs FloydHub : Choosing your cloud GPU partner](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
 - [GPUs In The Cloud - The Largest Providers Are Investing Heavily Today](https://www.forbes.com/sites/benjaminboxer/2017/04/12/gpus-in-the-cloud-the-largest-providers-are-investing-heavily-today/#67f554034751)
 - [HPC with Multicore and GPUs](http://www.icl.utk.edu/~tomov/TAMU09.pdf)
+- [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
 
 Startups:
 
@@ -140,6 +144,8 @@ Startups:
 - [Cloud computing comparison](https://en.wikipedia.org/wiki/Cloud_computing_comparison)
 - [High Performance Computing Clouds](http://dro.deakin.edu.au/eserv/DU:30044744/goscinski-highperformance-2012.pdf)
 - [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
+- [45 startups now working on AI computer chips](http://hexus.net/tech/news/cpu/114323-45-startups-now-working-ai-computer-chips/)
+
 ------------
 
 - Amazon
@@ -370,6 +376,33 @@ Neuromorphic Computing
 - [Intel : Understanding Neuromorphic Computing](https://systemdesign.altera.com/understanding-neuromorphic-computing/)
 - [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/pdf/1705.06963.pdf)
 - [A Brief History of Neuromorphic Computing](https://knowm.org/a-brief-history-of-neuromorphic-computing/)
+- [What is the comprehensive list of start-ups in the field of Neuromorphic Engineering?](https://www.quora.com/What-is-the-comprehensive-list-of-start-ups-in-the-field-of-Neuromorphic-Engineering)
+- [HN: The Future of Neuromorphic Computing](https://news.ycombinator.com/item?id=13654051)
+- [IBM: Neuromorphic devices & systems](https://www.zurich.ibm.com/st/neuromorphic/)
+
+-------------
+
+- [A Survey of Neuromorphic Computing and Neural Networks in Hardware](https://arxiv.org/abs/1705.06963v1)
+- [NengoDL: Combining deep learning and neuromorphic modelling methods](https://arxiv.org/abs/1805.11144v2)
+- [Large-Scale Neuromorphic Spiking Array Processors: A quest to mimic the brain](https://arxiv.org/abs/1805.08932v1)
+- [Energy-Efficient CMOS Memristive Synapses for Mixed-Signal Neuromorphic System-on-a-Chip](https://arxiv.org/abs/1802.02342v3)
+- [Towards Training Probabilistic Topic Models on Neuromorphic Multi-chip Systems](https://arxiv.org/abs/1804.03578v1)
+- [An FPGA-based Massively Parallel Neuromorphic Cortex Simulator](https://arxiv.org/abs/1803.03015v1)
+- [Layer-wise synapse optimization for implementing neural networks on general neuromorphic architectures](https://arxiv.org/abs/1802.06920v1)
+- [Deep Versus Wide Convolutional Neural Networks for Object Recognition on Neuromorphic System](https://arxiv.org/abs/1802.02608v1)
+- [Bridging the Gap Between Neural Networks and Neuromorphic Hardware with A Neural Network Compiler](https://arxiv.org/abs/1801.00746v3)
+- [Full Wafer Redistribution and Wafer Embedding as Key Technologies for a Multi-Scale Neuromorphic Hardware Cluster](https://arxiv.org/abs/1801.04734v1)
+- [Methods for applying the Neural Engineering Framework to neuromorphic hardware](https://arxiv.org/abs/1708.08133v1)
+- [An Online Learning Algorithm for Neuromorphic Hardware Implementation](https://arxiv.org/abs/1505.02495v2)
+- [A Study of Complex Deep Learning Networks on High Performance, Neuromorphic, and Quantum Computers](https://arxiv.org/abs/1703.05364v2)
+- [Pattern representation and recognition with accelerated analog neuromorphic systems](https://arxiv.org/abs/1703.06043v2)
+- [Group Scissor: Scaling Neuromorphic Computing Design to Large Neural Networks](https://arxiv.org/abs/1702.03443v2)
+- [Neuromorphic Hardware In The Loop: Training a Deep Spiking Network on the BrainScaleS Wafer-Scale System](https://arxiv.org/abs/1703.01909v1)
+- [Neuromorphic Deep Learning Machines](https://arxiv.org/abs/1612.05596v2)
+- [Training Spiking Deep Networks for Neuromorphic Hardware](https://arxiv.org/abs/1611.05141v1)
+- [Neuro-memristive Circuits for Edge Computing: A review](https://arxiv.org/abs/1807.00962v1)
+
+----------------
 
 Quantum Computing
 
