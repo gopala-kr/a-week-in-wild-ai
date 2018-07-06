@@ -11,6 +11,7 @@
 - CPUs in the Cloud
 - FPGAs in the Cloud
 - ASICs in the Cloud
+- HPC in the Cloud
 - Typical Embedded SOCs & Embedded GPUs
 - Embedded Reconfigurable SOCs & FPGAs
 
@@ -420,6 +421,35 @@ Quantum Computing
 - [QUANTUM INFORMATION, COMPUTATION AND COMPLEXITY](https://web.archive.org/web/20160303183533/http://www.quantware.ups-tlse.fr/IHP2006/)
 - [Quantum Computing research by Mikko Möttönen at Aalto University](https://www.youtube.com/watch?v=dWcT_qrBN_w)
 - [Quantum programming](https://en.wikipedia.org/wiki/Quantum_programming)
+- [IBM Quantum experience](https://www.research.ibm.com/ibm-q/)
+- [Alibaba Launches 11-Qubit Quantum Computing Cloud Service](https://medium.com/syncedreview/alibaba-launches-11-qubit-quantum-computing-cloud-service-ad7f8e02cc8)
+- [rigetti: An API for quantum computing in the cloud](https://www.rigetti.com/)
+- [Microsoft: Language-Integrated Quantum Operations: LIQUi|>](https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/)
+- [university of bristol: Quantum in the Cloud](http://www.bris.ac.uk/news/2013/9720.html)
+- [QC Tools](https://quantumcomputingreport.com/resources/tools/)
+- [List of QC simulators](https://www.quantiki.org/wiki/list-qc-simulators)
+
+---------
+
+- [Bayesian Deep Learning on a Quantum Computer](https://arxiv.org/abs/1806.11463v1)
+- [Artificial Quantum Neural Network: quantum neurons, logical elements and tests of convolutional nets](https://arxiv.org/abs/1806.09664v1)
+- [Quantum Codes from Neural Networks](https://arxiv.org/abs/1806.08781v1)
+- [Quantum Machine Learning](https://arxiv.org/abs/1611.09347v2)
+- [Using Quantum Mechanics to Cluster Time Series](https://arxiv.org/abs/1805.01711v1)
+- [Quantum generative adversarial networks](https://arxiv.org/abs/1804.08641v2)
+- [Machine Learning by Two-Dimensional Hierarchical Tensor Networks: A Quantum Information Theoretic Perspective on Deep Architectures](https://arxiv.org/abs/1710.04833v2)
+- [Quantum Machine Learning Matrix Product States](https://arxiv.org/abs/1804.02398v1)
+- [A note on state preparation for quantum machine learning](https://arxiv.org/abs/1804.00281v1)
+- [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537v1)
+- [owards a Quantum World Wide Web](https://arxiv.org/abs/1703.06642v2)
+- [Quantum Artificial Life in an IBM Quantum Computer](https://arxiv.org/abs/1711.09442v1)
+- [Machine learning \& artificial intelligence in the quantum domain](https://arxiv.org/abs/1709.02779v1)
+- [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806v3)
+- [Quantum Algorithms for Compositional Natural Language Processing](https://arxiv.org/abs/1608.01406v1)
+- [Quantum Perceptron Models](https://arxiv.org/abs/1602.04799v1)
+- [Financial Market Modeling with Quantum Neural Networks](https://arxiv.org/abs/1508.06586v1)
+- [Framework for learning agents in quantum environments](https://arxiv.org/abs/1507.08482v1)
+- [Quantum Deep Learning](https://arxiv.org/abs/1412.3489v2)
 
 
 ------
