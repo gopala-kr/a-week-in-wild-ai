@@ -323,7 +323,7 @@ Semi-Supervised Classification for Scientific Data](https://arxiv.org/pdf/1708.0
 - [Distributed Training of Deep Neural Networks:
 Theoretical and Practical Limits of Parallel
 Scalability.](https://arxiv.org/pdf/1609.06870.pdf)
-- [Evolving Deep Networks Using HPC](Evolving Deep Networks Using HPC)
+- [Evolving Deep Networks Using HPC](http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-567-cd-nd.pdf)
 - [Intersection of HPC and Machine Learning](http://dsc.soic.indiana.edu/publications/ENGR-E%20687%20_%20IND%20STUDY%20INTEL%20SYS%20_%20Intersection%20of%20HPC%20and%20machine%20learning.pdf)
 - [High Performance Computing for Big Data: Methodologies and Applications](https://books.google.co.in/books?id=kXJQDwAAQBAJ&printsec=frontcover&dq=High+Performance+Computing+for+Big+Data:+Methodologies+and+Applications&hl=en&sa=X&ved=0ahUKEwij98KjyIrcAhVLKo8KHT_IAZwQ6AEIJjAA#v=onepage&q=High%20Performance%20Computing%20for%20Big%20Data%3A%20Methodologies%20and%20Applications&f=false)
 - [Adam Coates](https://cs.stanford.edu/~acoates/)
@@ -344,16 +344,6 @@ COMPLEX PHYSICAL SYSTEMS](https://www.ias.tum.de/fileadmin/w00bub/www/Events/201
 And HPC](https://www.nimbix.net/wp-content/uploads/2018/06/Artificial-Intelligence-and-HPC-Intel.pdf)
 - [supercomputing-speeds-up-deep-learning-training](https://www.tacc.utexas.edu/-/supercomputing-speeds-up-deep-learning-training)
 - [Advances in Neural Computation, Machine Learning, and Cognitive Research](https://books.google.co.in/books?id=uyIzDwAAQBAJ&pg=PA65&dq=Advances+in+Neural+Computation,+Machine+Learning,+and+Cognitive+Research+..&hl=en&sa=X&ved=0ahUKEwjjnr_5yorcAhWCro8KHQBzAYoQ6AEIJjAA#v=onepage&q=Advances%20in%20Neural%20Computation%2C%20Machine%20Learning%2C%20and%20Cognitive%20Research%20..&f=false)
-- [Tensors Come of Age: Why the AI Revolution will help HPC](https://arxiv.org/ftp/arxiv/papers/1709/1709.09108.pdf)
-- [Alvaro CSE](http://www.land.ufrj.br/~daniel/iECI/slides/Alvaro-HPC-CSE.pdf)
-- [NVIDIA: Deep Learning and HPC](http://images.nvidia.com/content/APAC/events/deep-learning-institute-jp/2017/pdf/keynote-nv-bill-dally.pdf)
-- [Addressing key
-science challenges
-with Adversarial
-Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetworks_NERSC_UFTucson2018.pdf)
-- [ASCAC-Future-HPC-report](https://science.energy.gov/~/media/ascr/ascac/pdf/meetings/201712/ASCAC-Future-HPC-report.pdf)
-- [Collective Mind: cleaning up the research and experimentation mess in computer engineering using crowdsourcing, big data and machine learning](https://arxiv.org/abs/1308.2410v1)
-- [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
 - [Google HPC Cloud](https://cloud.google.com/solutions/hpc/)
 - [AWS HPC Cloud](https://aws.amazon.com/hpc/)
 - [Azure HPC Cloud](https://azure.microsoft.com/en-in/solutions/high-performance-computing/)
@@ -364,6 +354,17 @@ Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetwork
 - [rescale](https://www.rescale.com/)
 - [nimbix](https://www.nimbix.net/)
 - [alibabacloud ehpc](https://www.alibabacloud.com/product/ehpc)
+- [Tensors Come of Age: Why the AI Revolution will help HPC](https://arxiv.org/ftp/arxiv/papers/1709/1709.09108.pdf)
+- [Alvaro CSE](http://www.land.ufrj.br/~daniel/iECI/slides/Alvaro-HPC-CSE.pdf)
+- [NVIDIA: Deep Learning and HPC](http://images.nvidia.com/content/APAC/events/deep-learning-institute-jp/2017/pdf/keynote-nv-bill-dally.pdf)
+- [Addressing key
+science challenges
+with Adversarial
+Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetworks_NERSC_UFTucson2018.pdf)
+- [ASCAC-Future-HPC-report](https://science.energy.gov/~/media/ascr/ascac/pdf/meetings/201712/ASCAC-Future-HPC-report.pdf)
+- [Collective Mind: cleaning up the research and experimentation mess in computer engineering using crowdsourcing, big data and machine learning](https://arxiv.org/abs/1308.2410v1)
+- [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
+
 
 ------
 -------------
