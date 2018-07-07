@@ -120,9 +120,6 @@ References:
 - [Beyond von Neumann, Neuromorphic Computing Steadily Advances](https://www.hpcwire.com/2016/03/21/lacking-breakthrough-neuromorphic-computing-steadily-advance/)
 - [Eyeriss: An Energy-Efficient Reconfigurable Accelerator
 for Deep Convolutional Neural Networks ](http://eyeriss.mit.edu/)
-- [supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
-- [top500](https://www.top500.org/statistics/list/)
-- [HPC and Parallel Computing Vendors](http://wotug.org/parallel/vendors/)
 - [Zeroth_](https://en.wikipedia.org/wiki/Zeroth_(software))
 - [FPOA](https://en.wikipedia.org/wiki/Field-programmable_object_array)
 - [CPLD](https://en.wikipedia.org/wiki/Complex_programmable_logic_device)
@@ -153,8 +150,6 @@ Startups:
 - [Cloud computing providers](https://en.wikipedia.org/wiki/Category:Cloud_computing_providers)
 - [Cloud platforms](https://en.wikipedia.org/wiki/Category:Cloud_platforms)
 - [Cloud computing comparison](https://en.wikipedia.org/wiki/Cloud_computing_comparison)
-- [High Performance Computing Clouds](http://dro.deakin.edu.au/eserv/DU:30044744/goscinski-highperformance-2012.pdf)
-- [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
 - [45 startups now working on AI computer chips](http://hexus.net/tech/news/cpu/114323-45-startups-now-working-ai-computer-chips/)
 
 
@@ -379,6 +374,9 @@ And HPC](https://www.nimbix.net/wp-content/uploads/2018/06/Artificial-Intelligen
 - [oracle](https://cloud.oracle.com/iaas/hpc)
 - [rescale](https://www.rescale.com/)
 - [nimbix](https://www.nimbix.net/)
+- [supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
+- [top500](https://www.top500.org/statistics/list/)
+- [HPC and Parallel Computing Vendors](http://wotug.org/parallel/vendors/)
 - [alibabacloud ehpc](https://www.alibabacloud.com/product/ehpc)
 - [Tensors Come of Age: Why the AI Revolution will help HPC](https://arxiv.org/ftp/arxiv/papers/1709/1709.09108.pdf)
 - [Alvaro CSE](http://www.land.ufrj.br/~daniel/iECI/slides/Alvaro-HPC-CSE.pdf)
@@ -389,6 +387,8 @@ with Adversarial
 Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetworks_NERSC_UFTucson2018.pdf)
 - [ASCAC-Future-HPC-report](https://science.energy.gov/~/media/ascr/ascac/pdf/meetings/201712/ASCAC-Future-HPC-report.pdf)
 - [Collective Mind: cleaning up the research and experimentation mess in computer engineering using crowdsourcing, big data and machine learning](https://arxiv.org/abs/1308.2410v1)
+- [High Performance Computing Clouds](http://dro.deakin.edu.au/eserv/DU:30044744/goscinski-highperformance-2012.pdf)
+- [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
 - [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
 
 --------
