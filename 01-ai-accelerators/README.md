@@ -228,6 +228,13 @@ Using the RapidMind™
 Development Platform 
 ](http://web.cs.ucla.edu/~palsberg/course/cs239/papers/rapidmind.pdf)
 - [Scaling Deep Learning on GPU and Knights Landing clusters](https://people.eecs.berkeley.edu/~aydin/sc2017_deep_learning.pdf)
+- [NVIDIA Presentations on SlideShare](https://www.slideshare.net/NVIDIA/presentations)
+- [NVIDIA – Inventor of the GPU](https://www.slideshare.net/NVIDIA/nvidia-the-ai-company)
+- [The AI Era Ignited by GPU Deep Learning](https://www.slideshare.net/NVIDIA/the-ai-era-ignited-by-gpu-deep-learning)
+- [GPU Accelerated Deep Learning for CUDNN V2](https://www.slideshare.net/NVIDIA/gpuaccelerated-deep-learning-for-cudnn-v2)
+- [Accelerated Computing: The Path Forward](https://www.slideshare.net/NVIDIA/accelerated-computing-the-path-forward)
+- [NVIDIA 2017 Overview](https://www.slideshare.net/NVIDIA/nvidia-2017-overview)
+- [NVIDIA GPU CLOUD - Deep Learning Everywhere](https://www.slideshare.net/NVIDIA/nvidia-gpu-cloud-deep-learning-everywhere-82130128)
 - [Gpu Startups](https://angel.co/gpu-1)
 
 -----------
