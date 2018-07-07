@@ -26,6 +26,7 @@
 
 ----------------
 
+
  - [Movidius](http://www.movidius.com/)
    - Myriad 2: Hardware-accelerated visual intelligence at ultra-low power.
    - Fathom Neural Compute Stick: The world's first discrete deep learning accelerator (Myriad 2 VPU inside).
