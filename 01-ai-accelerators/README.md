@@ -263,6 +263,7 @@ Development Platform
 
 FPGA
 
+- [The implementation of a Deep Recurrent Neural Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710/1710.10296.pdf)
 - [Machine Learning on Intel® FPGAs](https://software.intel.com/en-us/articles/machine-learning-on-intel-fpgas)
 - [FPGA Programming Made Easy](https://insidehpc.com/2018/03/fpga-programming-made-easy/)
 - [Intel® FPGA Curricula Introduction](https://www.altera.com/support/training/curricula.html)
@@ -330,6 +331,18 @@ COMPUTATION: ASIC CLOUDS](https://cseweb.ucsd.edu/~mbtaylor/papers/micro_asic_cl
 - [ASIC Clouds:
 Specializing the Datacenter](https://cseweb.ucsd.edu/~mbtaylor/papers/ISCA_2016_ASIC_Cloud_Talk_No_Anim.pdf)
 - [Google's Tensor Processing Unit could advance Moore's Law 7 years into the future](https://www.pcworld.com/article/3072256/google-io/googles-tensor-processing-unit-said-to-advance-moores-law-seven-years-into-the-future.html)
+
+---------
+
+Soc
+
+- [Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective](https://arxiv.org/pdf/1801.06274v2.pdf)
+- [Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision](https://arxiv.org/pdf/1803.11232v1.pdf)
+- [AI And Machine Learning Drive New SoC Verification Choices](https://semiengineering.com/artificial-intelligence-and-machine-learning-drive-new-soc-verification-choices/)
+- [SoC for ultra-low-power AI has launched](https://appdevelopermagazine.com/5917/2018/3/21/soc-for-ultra-low-power-ai-has-launched/)
+- [Panel discussions: AI (Artificial Intelligence) and SoC](https://ieeexplore.ieee.org/abstract/document/7844214/)
+- [AI Integration, a New Era in Smartphone SoC](https://www.counterpointresearch.com/ai-integrated-chipset-new-era-in-smartphone-soc/)
+- [Intel unveils AI-focused ‘Movidius Myriad X’ processing unit](https://www.hindustantimes.com/tech/intel-unveils-ai-focused-movidius-myriad-x-processing-unit/story-dUROooLggFJvrCSfcN3PbJ.html)
 
 ---------
 
@@ -567,12 +580,6 @@ CUDA
 - [DIGITS](https://github.com/NVIDIA/DIGITS) : Deep Learning GPU Training System https://developer.nvidia.com/digits
 - [compute](https://github.com/boostorg/compute) : A C++ GPU Computing Library for OpenCL http://boostorg.github.io/compute/
 - [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) : This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
-
-
-----------------------
-
-
-
 
 
 
