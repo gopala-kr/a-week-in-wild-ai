@@ -219,6 +219,13 @@ Development Platform
 - [Accelerated Computing: The Path Forward](https://www.slideshare.net/NVIDIA/accelerated-computing-the-path-forward)
 - [NVIDIA 2017 Overview](https://www.slideshare.net/NVIDIA/nvidia-2017-overview)
 - [NVIDIA GPU CLOUD - Deep Learning Everywhere](https://www.slideshare.net/NVIDIA/nvidia-gpu-cloud-deep-learning-everywhere-82130128)
+- [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
+- [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
+- [Fast.ai Lesson 1 on Google Colab (Free GPU)](https://towardsdatascience.com/fast-ai-lesson-1-on-google-colab-free-gpu-d2af89f53604)
+- [Picking a GPU for Deep Learning](https://blog.slavv.com/picking-a-gpu-for-deep-learning-3d4795c273b9)
+- [Which GPU(s) to Get for Deep Learning: My Experience and Advice for Using GPUs in Deep Learning](http://timdettmers.com/2017/04/09/which-gpu-for-deep-learning/)
+- [Why are GPUs well-suited to deep learning?](https://www.quora.com/Why-are-GPUs-well-suited-to-deep-learning)
+- [Launch a GPU-backed Google Compute Engine instance and setup Tensorflow, Keras and Jupyter](https://hackernoon.com/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter-902369ed5272)
 - [Gpu Startups](https://angel.co/gpu-1)
 
 -----------
@@ -242,6 +249,8 @@ Development Platform
 - [rescale](https://www.rescale.com/)
 - [lambdal gpu-cloud](https://lambdal.com/service/gpu-cloud)
 - [tencent](https://cloud.tencent.com/document/product/560?!preview=true&lang=en)
+- [Google colab](https://colab.research.google.com)
+
 
 ----------------
 
