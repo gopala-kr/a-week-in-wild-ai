@@ -17,6 +17,7 @@
 - Neuromorphic Compute for AI
 - Typical Embedded SOCs & Embedded GPUs
 - Embedded Reconfigurable SOCs & FPGAs
+- Hardware programming tools
 
 
 ------------
@@ -483,6 +484,41 @@ Quantum Computing
 - [Financial Market Modeling with Quantum Neural Networks](https://arxiv.org/abs/1508.06586v1)
 - [Framework for learning agents in quantum environments](https://arxiv.org/abs/1507.08482v1)
 - [Quantum Deep Learning](https://arxiv.org/abs/1412.3489v2)
+
+-------------
+
+CUDA
+
+![5b208976](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
+
+- [Trevor's phd thesis:Optimising Purely Functional GPU Programs ](http://www.cse.unsw.edu.au/~tmcdonell/papers/TrevorMcDonell_PhD_submission.pdf)
+- [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) : Build and run Docker containers leveraging NVIDIA GPUs
+- [arrayfire](https://github.com/arrayfire/arrayfire) : ArrayFire: a general purpose GPU library. https://arrayfire.com
+- [accelerate](https://github.com/AccelerateHS/accelerate) : Embedded language for high-performance array computations http://www.acceleratehs.org
+- [scikit-cuda](https://github.com/lebedov/scikit-cuda) : Python interface to GPU-powered libraries http://scikit-cuda.readthedocs.org/
+- [vexcl](https://github.com/ddemidov/vexcl) : VexCL is a C++ vector expression template library for OpenCL/CUDA http://vexcl.readthedocs.org
+- [cudamat](https://github.com/cudamat/cudamat) : Python module for performing basic dense linear algebra computations on the GPU using CUDA.
+- [DeepLearningPython35](https://github.com/MichalDanielDobrzanski/DeepLearningPython35) : neuralnetworksanddeeplearning.com integrated scripts for Python 3.5.2 and Theano with CUDA support
+- [cub](https://github.com/NVlabs/cub) : CUB is a flexible library of cooperative threadblock primitives and other utilities for CUDA kernel programming. http://nvlabs.github.com/cub/
+- [https://github.com/autumnai/collenchyma](https://github.com/autumnai/collenchyma) : Extendable HPC-Framework for CUDA, OpenCL and common CPU http://autumnai.github.io/collenchyma
+- [coriander](https://github.com/hughperkins/coriander) : Build NVIDIA® CUDA™ code for OpenCL™ 1.2 devices
+- [gunrock](https://github.com/gunrock/gunrock) :  High-Performance Graph Primitives on GPUs https://gunrock.github.io/
+- [kmcuda](https://github.com/src-d/kmcuda) : Large scale K-means and K-nn implementation on NVIDIA GPU / CUDA
+- [dl-machine](https://github.com/deeplearningparis/dl-machine) : Scripts to setup a GPU / CUDA-enabled compute server with libraries for deep learning http://www.meetup.com/Deep-Learning-P…
+- [cutorch](https://github.com/torch/cutorch) : A CUDA backend for Torch7
+- [qcgpu-rust](https://github.com/QCGPU/qcgpu-rust) : A High Performance, Hardware accelerated, Quantum computer simulator in Rust https://qcgpu.github.io/
+- [marian](https://github.com/marian-nmt/marian) : Fast Neural Machine Translation in C++ https://marian-nmt.github.io
+- [arrayfire-python](https://github.com/arrayfire/arrayfire-python) : Python bindings for ArrayFire: A general purpose GPU library. https://arrayfire.com
+- []() :
+
+
+
+
+
+
+
+
+
 
 
 ------
