@@ -489,7 +489,9 @@ Quantum Computing
 
 CUDA
 
+![cpu_vs_gpu](https://github.com/romain-jacotin/cuda/blob/master/images/cpu_vs_gpu.png)
 ![5b208976](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
+![cuda_design](https://github.com/romain-jacotin/cuda/blob/master/images/cuda_design.jpg)
 
 - [Trevor's phd thesis:Optimising Purely Functional GPU Programs ](http://www.cse.unsw.edu.au/~tmcdonell/papers/TrevorMcDonell_PhD_submission.pdf)
 - [nvidia-docker](https://github.com/NVIDIA/nvidia-docker) : Build and run Docker containers leveraging NVIDIA GPUs
@@ -509,10 +511,34 @@ CUDA
 - [qcgpu-rust](https://github.com/QCGPU/qcgpu-rust) : A High Performance, Hardware accelerated, Quantum computer simulator in Rust https://qcgpu.github.io/
 - [marian](https://github.com/marian-nmt/marian) : Fast Neural Machine Translation in C++ https://marian-nmt.github.io
 - [arrayfire-python](https://github.com/arrayfire/arrayfire-python) : Python bindings for ArrayFire: A general purpose GPU library. https://arrayfire.com
-- []() :
+- [fbcuda](https://github.com/facebook/fbcuda) : Facebook's CUDA extensions.
+- [komputation](https://github.com/sekwiatkowski/komputation) : Komputation is a neural network framework for the Java Virtual Machine written in Kotlin and CUDA C. http://komputation.com
+- [BrainSimulator](https://github.com/GoodAI/BrainSimulator) : Brain Simulator is a platform for visual prototyping of artificial intelligence architectures. https://www.goodai.com/brain-simulator
+- [dlami](https://github.com/ritchieng/dlami) : A Deep Learning Amazon Web Service (AWS) AMI that is open, free and works. Run in less than 5 minutes. TensorFlow, Keras, PyTorch, Theano, MXNet, CNTK, Caffe and all dependencies.
+- [cuda-convnet](https://github.com/dnouri/cuda-convnet) : My fork of Alex Krizhevsky's cuda-convnet from 2013 where I added dropout, among other features. http://code.google.com/p/cuda-convnet/
+- [cudarray](https://github.com/andersbll/cudarray) : CUDA-based NumPy
+- [cudahandbook](https://github.com/ArchaeaSoftware/cudahandbook) : Source code that accompanies The CUDA Handbook.
+- [CUV](https://github.com/deeplearningais/CUV) : Matrix library for CUDA in C++ and Python http://www.ais.uni-bonn.de
+- [cuda5](https://github.com/barnex/cuda5) : Go bindings for nVIDIA CUDA 5
+- [nnForge](https://github.com/milakov/nnForge) : Convolutional neural networks C++ framework with CPU and GPU (CUDA) backends http://nnforge.org
+- [h2o4gpu](https://github.com/h2oai/h2o4gpu) : H2Oai GPU Edition
+- [kmeans](https://github.com/serban/kmeans) : A CUDA implementation of the k-means clustering algorithm http://serban.org/software/kmeans
+- [CudaTree](https://github.com/EasonLiao/CudaTree) : Building random forests on GPU
+- [cnmem](https://github.com/NVIDIA/cnmem) : A simple memory manager for CUDA designed to help Deep Learning frameworks manage memory
+- [curfil](https://github.com/deeplearningais/curfil) : CUDA Random Forest implementation for Image Labeling tasks
+- [gpgpu-sim_distribution](https://github.com/gpgpu-sim/gpgpu-sim_distribution) :GPGPU-Sim provides a detailed simulation model of a contemporary GPU running CUDA and/or OpenCL workloads and now includes an integrated (and validated) energy model, GPUWattch.
+- [CUDAnative.jl](https://github.com/JuliaGPU/CUDAnative.jl) : Julia support for native CUDA programming
+- [pytorch-custom-cuda-tutorial](https://github.com/chrischoy/pytorch-custom-cuda-tutorial) : Tutorial for building a custom CUDA function for Pytorch
+- [cl-cuda](https://github.com/takagi/cl-cuda) : Cl-cuda is a library to use NVIDIA CUDA in Common Lisp programs.
+- [cuda](https://github.com/romain-jacotin/cuda) : NVIDIA GPU Computing
+- [cuda-word2vec](https://github.com/whatupbiatch/cuda-word2vec) : cuda implementation of CBOW model (word2vec)
+- [CUDA-CNN](https://github.com/zhxfl/CUDA-CNN) : CNN accelerated by cuda. Test on mnist and finilly get 99.76%
+- [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA) : This is a list of useful libraries and resources for CUDA development.
+- [DIY-Deep-Learning-Workstation](https://github.com/charlesq34/DIY-Deep-Learning-Workstation) : Build a deep learning workstation from scratch (HW & SW).
+- [coaster](https://github.com/spearow/coaster) : Extendable HPC-Framework for CUDA, OpenCL and common CPU https://spearow.io/projects/coaster
 
 
-
+----------------------
 
 
 
