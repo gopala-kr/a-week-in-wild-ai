@@ -449,6 +449,7 @@ Neuromorphic Computing
 - [Training Spiking Deep Networks for Neuromorphic Hardware](https://arxiv.org/abs/1611.05141v1)
 - [Neuro-memristive Circuits for Edge Computing: A review](https://arxiv.org/abs/1807.00962v1)
 
+
 ----------------
 
 Quantum Computing
