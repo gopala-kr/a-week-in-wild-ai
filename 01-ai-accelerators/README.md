@@ -104,7 +104,6 @@ References:
 - [GP-GPU](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [AWS vs Paperspace vs FloydHub : Choosing your cloud GPU partner](https://medium.com/@rupak.thakur/aws-vs-paperspace-vs-floydhub-choosing-your-cloud-gpu-partner-350150606b39)
 - [GPUs In The Cloud - The Largest Providers Are Investing Heavily Today](https://www.forbes.com/sites/benjaminboxer/2017/04/12/gpus-in-the-cloud-the-largest-providers-are-investing-heavily-today/#67f554034751)
-- [HPC with Multicore and GPUs](http://www.icl.utk.edu/~tomov/TAMU09.pdf)
 - [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
 - [Visual History of Computing](http://www.akita.co.uk/computing-history/)
 - [Timeline of computing](https://en.wikipedia.org/wiki/Timeline_of_computing)
@@ -389,6 +388,7 @@ Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetwork
 - [Collective Mind: cleaning up the research and experimentation mess in computer engineering using crowdsourcing, big data and machine learning](https://arxiv.org/abs/1308.2410v1)
 - [High Performance Computing Clouds](http://dro.deakin.edu.au/eserv/DU:30044744/goscinski-highperformance-2012.pdf)
 - [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
+ - [HPC with Multicore and GPUs](http://www.icl.utk.edu/~tomov/TAMU09.pdf)
 - [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
 
 --------
@@ -574,6 +574,12 @@ CUDA
 
 ----------------
 
+
+![Artificial](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/Artificial%20intelligence%20The%20time%20to%20act%20is%20now/SVGZ-AI-Time-to-act-now-ex1.ashx
+)
+
+------------------
+
 ![97dffdafbb18437aae536632d2e53954_th](http://img.mp.itc.cn/upload/20170627/97dffdafbb18437aae536632d2e53954_th.jpg)
 
 ------
@@ -602,10 +608,7 @@ CUDA
 ![3302_fmyRpR_QQT4EP8](https://img.itw01.com/images/2017/12/20/23/3302_fmyRpR_QQT4EP8.jpg!r1024x0.jpg)
 
 
-------------------
 
-![Artificial](https://www.mckinsey.com/~/media/McKinsey/Industries/Advanced%20Electronics/Our%20Insights/Artificial%20intelligence%20The%20time%20to%20act%20is%20now/SVGZ-AI-Time-to-act-now-ex1.ashx
-)
 
 --------------
 
