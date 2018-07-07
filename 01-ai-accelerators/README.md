@@ -228,6 +228,7 @@ Development Platform
 - [Launch a GPU-backed Google Compute Engine instance and setup Tensorflow, Keras and Jupyter](https://hackernoon.com/launch-a-gpu-backed-google-compute-engine-instance-and-setup-tensorflow-keras-and-jupyter-902369ed5272)
 - [Gpu Startups](https://angel.co/gpu-1)
 
+
 -----------
 
 - [Google GPU Cloud](https://cloud.google.com/gpu/)
