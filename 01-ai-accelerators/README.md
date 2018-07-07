@@ -120,6 +120,26 @@ References:
 - [GPUs In The Cloud - The Largest Providers Are Investing Heavily Today](https://www.forbes.com/sites/benjaminboxer/2017/04/12/gpus-in-the-cloud-the-largest-providers-are-investing-heavily-today/#67f554034751)
 - [HPC with Multicore and GPUs](http://www.icl.utk.edu/~tomov/TAMU09.pdf)
 - [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
+- [Visual History of Computing](http://www.akita.co.uk/computing-history/)
+- [Timeline of computing](https://en.wikipedia.org/wiki/Timeline_of_computing)
+- [History of computing hardware (1960s–present)](https://en.wikipedia.org/wiki/History_of_computing_hardware_(1960s%E2%80%93present))
+- [Computer software and programming language timeline](https://en.wikipedia.org/wiki/History_of_software#Computer_software_and_programming_language_timeline)
+- [Vision processing unit(VPU)](https://en.wikipedia.org/wiki/Vision_processing_unit)
+- [holographic processing unit (HPU)](https://whatis.techtarget.com/definition/holographic-processing-unit-HPU)
+- [NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision](http://pub.clement.farabet.net/ecvw11.pdf)
+- [Intel® Movidius™ Myriad™ X VPU](https://www.movidius.com/myriadx)
+- [hololens](https://www.microsoft.com/en-us/hololens)
+- [Physical neural network](https://en.wikipedia.org/wiki/Physical_neural_network)
+- [TrueNorth](https://en.wikipedia.org/wiki/TrueNorth)
+- [Beyond von Neumann, Neuromorphic Computing Steadily Advances](https://www.hpcwire.com/2016/03/21/lacking-breakthrough-neuromorphic-computing-steadily-advance/)
+- [Eyeriss: An Energy-Efficient Reconfigurable Accelerator
+for Deep Convolutional Neural Networks ](http://eyeriss.mit.edu/)
+- [Zeroth_](https://en.wikipedia.org/wiki/Zeroth_(software))
+- [FPOA](https://en.wikipedia.org/wiki/Field-programmable_object_array)
+- [CPLD](https://en.wikipedia.org/wiki/Complex_programmable_logic_device)
+- [SoC](https://en.wikipedia.org/wiki/System_on_a_chip)
+- [Universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine)
+- [Timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
 
 Startups:
 
@@ -146,6 +166,7 @@ Startups:
 - [High Performance Computing Clouds](http://dro.deakin.edu.au/eserv/DU:30044744/goscinski-highperformance-2012.pdf)
 - [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
 - [45 startups now working on AI computer chips](http://hexus.net/tech/news/cpu/114323-45-startups-now-working-ai-computer-chips/)
+
 
 ------------
 
