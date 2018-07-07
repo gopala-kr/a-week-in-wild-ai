@@ -51,6 +51,35 @@
    
 --------------
 
+![97dffdafbb18437aae536632d2e53954_th](http://img.mp.itc.cn/upload/20170627/97dffdafbb18437aae536632d2e53954_th.jpg)
+
+------
+
+![image002_eiiwx8](https://res.cloudinary.com/engineering-com/image/upload/w_640,h_640,c_limit,q_auto,f_auto/image002_eiiwx8.jpg)
+
+
+----------
+
+![1482023821](https://image.slidesharecdn.com/announcingamazonec2f1instanceswithcustomfpgas-161218011608/95/announcing-amazon-ec2-f1-instances-with-custom-fpgas-7-638.jpg?cb=1482023821)
+
+-------
+
+![19553521_15035514908931_rId8](https://static.seekingalpha.com/uploads/2017/8/19553521_15035514908931_rId8.png)
+
+----------
+
+![nervana](http://iprcorp.com/wp-content/uploads/2017/08/nervana.png)
+
+-----------
+
+![Hardware](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fmoorinsights%2Ffiles%2F2017%2F08%2FMachine-Learning-Hardware.jpg)
+
+-----------
+
+![3302_fmyRpR_QQT4EP8](https://img.itw01.com/images/2017/12/20/23/3302_fmyRpR_QQT4EP8.jpg!r1024x0.jpg)
+
+-------
+
 ![nnai](https://github.com/gopala-kr/a-wild-week-in-ai/blob/master/01-ai-accelerators/nnai.JPG)
 
 
@@ -140,6 +169,7 @@ for Deep Convolutional Neural Networks ](http://eyeriss.mit.edu/)
 - [SoC](https://en.wikipedia.org/wiki/System_on_a_chip)
 - [Universal Turing machine](https://en.wikipedia.org/wiki/Universal_Turing_machine)
 - [Timeline of programming languages](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+- [Dally-NIPS-Tutorial-2015](https://media.nips.cc/Conferences/2015/tutorialslides/Dally-NIPS-Tutorial-2015.pdf)
 
 Startups:
 
