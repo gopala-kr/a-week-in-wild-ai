@@ -475,7 +475,7 @@ Quantum Computing
 - [Quantum Machine Learning Matrix Product States](https://arxiv.org/abs/1804.02398v1)
 - [A note on state preparation for quantum machine learning](https://arxiv.org/abs/1804.00281v1)
 - [Towards Quantum Machine Learning with Tensor Networks](https://arxiv.org/abs/1803.11537v1)
-- [owards a Quantum World Wide Web](https://arxiv.org/abs/1703.06642v2)
+- [Towards a Quantum World Wide Web](https://arxiv.org/abs/1703.06642v2)
 - [Quantum Artificial Life in an IBM Quantum Computer](https://arxiv.org/abs/1711.09442v1)
 - [Machine learning \& artificial intelligence in the quantum domain](https://arxiv.org/abs/1709.02779v1)
 - [A Survey of Quantum Learning Theory](https://arxiv.org/abs/1701.06806v3)
@@ -536,6 +536,9 @@ CUDA
 - [Awesome-CUDA](https://github.com/Erkaman/Awesome-CUDA) : This is a list of useful libraries and resources for CUDA development.
 - [DIY-Deep-Learning-Workstation](https://github.com/charlesq34/DIY-Deep-Learning-Workstation) : Build a deep learning workstation from scratch (HW & SW).
 - [coaster](https://github.com/spearow/coaster) : Extendable HPC-Framework for CUDA, OpenCL and common CPU https://spearow.io/projects/coaster
+- [DIGITS](https://github.com/NVIDIA/DIGITS) : Deep Learning GPU Training System https://developer.nvidia.com/digits
+- [compute](https://github.com/boostorg/compute) : A C++ GPU Computing Library for OpenCL http://boostorg.github.io/compute/
+- [Kubernetes-GPU-Guide](https://github.com/Langhalsdino/Kubernetes-GPU-Guide) : This guide should help fellow researchers and hobbyists to easily automate and accelerate there deep leaning training with their own Kubernetes GPU cluster.
 
 
 ----------------------
