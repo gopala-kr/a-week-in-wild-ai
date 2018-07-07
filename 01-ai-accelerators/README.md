@@ -1,24 +1,19 @@
 
 
-### Survey: AI-accelerators(CPU, GPU, FPGA, ASIC, SoC, HPC),  Neuromorphic and Quantum Compute for AI
+### AI-accelerators(CPU, GPU, FPGA, ASIC, SoC, HPC),  Neuromorphic and Quantum Compute for AI
 
 ------------
 
-- From the Edge to the Cloud
-- Hybrid Applications, Between the Cloud & the Edge
-- Hybrid Hardware for the Hybrid Environment
 - Hardware Advantages & Disadvantages for Deep Learning
 - GPUs in the Cloud
 - CPUs in the Cloud
 - FPGAs in the Cloud
 - ASICs in the Cloud
 - HPC in the Cloud
-- Quantum Cloud Compute
-- Neuromorphic Compute for AI
+- Quantum compute in Cloud
+- Neuromorphic Compute in Cloud
 - Typical Embedded SOCs & Embedded GPUs
 - Embedded Reconfigurable SOCs & FPGAs
-- Hardware programming tools
-
 
 ------------
 
@@ -125,6 +120,9 @@ References:
 - [Beyond von Neumann, Neuromorphic Computing Steadily Advances](https://www.hpcwire.com/2016/03/21/lacking-breakthrough-neuromorphic-computing-steadily-advance/)
 - [Eyeriss: An Energy-Efficient Reconfigurable Accelerator
 for Deep Convolutional Neural Networks ](http://eyeriss.mit.edu/)
+- [supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
+- [top500](https://www.top500.org/statistics/list/)
+- [HPC and Parallel Computing Vendors](http://wotug.org/parallel/vendors/)
 - [Zeroth_](https://en.wikipedia.org/wiki/Zeroth_(software))
 - [FPOA](https://en.wikipedia.org/wiki/Field-programmable_object_array)
 - [CPLD](https://en.wikipedia.org/wiki/Complex_programmable_logic_device)
