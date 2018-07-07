@@ -344,6 +344,7 @@ Semi-Supervised Classification for Scientific Data](https://arxiv.org/pdf/1708.0
 Theoretical and Practical Limits of Parallel
 Scalability.](https://arxiv.org/pdf/1609.06870.pdf)
 - [Evolving Deep Networks Using HPC](http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-567-cd-nd.pdf)
+- [Stanford Seminar: HPC Opportunities in Deep Learning](https://www.youtube.com/watch?v=gao_oc3gXqc)
 - [Intersection of HPC and Machine Learning](http://dsc.soic.indiana.edu/publications/ENGR-E%20687%20_%20IND%20STUDY%20INTEL%20SYS%20_%20Intersection%20of%20HPC%20and%20machine%20learning.pdf)
 - [High Performance Computing for Big Data: Methodologies and Applications](https://books.google.co.in/books?id=kXJQDwAAQBAJ&printsec=frontcover&dq=High+Performance+Computing+for+Big+Data:+Methodologies+and+Applications&hl=en&sa=X&ved=0ahUKEwij98KjyIrcAhVLKo8KHT_IAZwQ6AEIJjAA#v=onepage&q=High%20Performance%20Computing%20for%20Big%20Data%3A%20Methodologies%20and%20Applications&f=false)
 - [Adam Coates](https://cs.stanford.edu/~acoates/)
@@ -390,6 +391,9 @@ Neural Networks](https://hpcuserforum.com/presentations/tuscon2018/NeuralNetwork
 - [HPC Cloud for Scientific and Business Applications:Taxonomy, Vision, and Research Challenges](https://arxiv.org/pdf/1710.08731.pdf)
  - [HPC with Multicore and GPUs](http://www.icl.utk.edu/~tomov/TAMU09.pdf)
 - [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
+- [SYNTHESIS MODELING: THE INTERSECTION OF
+HPC AND MACHINE LEARNING](http://www.nvidia.com/content/g/pdfs/The-Intersection-of-HPC-and-Machine-Learning.pdf)
+- [HPC APPLICATION SUPPORT FOR GPU COMPUTING](http://www.nvidia.com/content/intersect-360-HPC-application-support.pdf)
 
 --------
 
