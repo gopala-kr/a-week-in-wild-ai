@@ -32,6 +32,16 @@ Genomics
 - [Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures](https://arxiv.org/pdf/1605.07156v1.pdf)
 
 
+--------------
+
+Genetic programming
+
+- [Evo2: Genetic Algorithm for Dynamic Programming & Optimization](http://www.modulusfe.com/products/trading-system-developer-components/evo2-genetic-algorithm/)
+- [geneticprogramming](http://geneticprogramming.com/)
+- [A Field Guide to Genetic Programming](https://cswww.essex.ac.uk/staff/poli/gp-field-guide/toc.html)
+
+
+
 -----------------
 
 Med
