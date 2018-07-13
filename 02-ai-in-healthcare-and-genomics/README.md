@@ -71,7 +71,6 @@ Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereit
 - [Interpretable Policies for Reinforcement Learning by Genetic Programming](https://arxiv.org/abs/1712.04170v2)
 - [Towards Deep Representation Learning with Genetic Programming](https://arxiv.org/abs/1802.07133v1)
 - [Genetic Algorithms for Evolving Computer Chess Programs](https://arxiv.org/abs/1711.08337v1)
-- [Genetic Algorithms for Evolving Deep Neural Networks](https://arxiv.org/abs/1711.07655v1)
 - [AI Programmer: Autonomously Creating Software Programs Using Genetic Algorithms](https://arxiv.org/abs/1709.05703v1)
 - [A Genetic Programming Approach to Designing Convolutional Neural Network Architectures](https://arxiv.org/abs/1704.00764v2)
 - [Genetic CNN](https://arxiv.org/abs/1703.01513v1)
