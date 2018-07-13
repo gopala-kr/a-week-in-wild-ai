@@ -60,6 +60,16 @@ Med
 
 -------------
 
+
+Startups
+
+- [Top AI Trends To
+Watch In 2018](https://www.cbinsights.com/reports/CB-Insights_State-of-Artificial-Intelligence-2018.pdf?utm_campaign=state-of-ai_2018-02&utm_medium=email&_hsenc=p2ANqtz--wBfB7AL2iByxuJGevlAMsRmTJqZj5Fa9qruBCDPuvf6Ag_zaVTmgG1ZksWgrao56GuEx6-pMWn1kkSHE7pW-POJ8fVg&_hsmi=60665752&utm_content=60665752&utm_source=hs_automation&hsCtaTracking=be5990ad-0aed-432b-a2e3-c76dfdc898e8%7C57a6f99e-da54-4bac-8857-8e3ad466c8ba)
+- [Top 62 AI startups in Healthcare](http://www.medicalstartups.org/top/ai/)
+- [AI Will Put 10 Million Jobs At High Risk — More Than Were Eliminated By The Great Recession](https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/)
+
+![AI_tracker_heatmap_Aug2017](https://s3.amazonaws.com/cbi-research-portal-uploads/2017/09/27102251/AI_tracker_heatmap_Aug2017.png)
+
 ![hl](https://camo.githubusercontent.com/9f0d48d52b61ed85590e9560bde6490383f330af/68747470733a2f2f6362692d626c6f672e73332e616d617a6f6e6177732e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f30312f6865616c7468636172655f41495f6d61705f323031365f312e706e67)
 
 
