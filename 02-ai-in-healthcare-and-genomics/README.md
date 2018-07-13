@@ -5,7 +5,7 @@
 
 
 
-#### References
+#### References :
 
 - [Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
 - [Medical Data for Machine Learning](https://github.com/beamandrew/medical-data)
@@ -61,7 +61,7 @@ Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereit
 
 - [Deep Neuroevolution: Genetic Algorithms Are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://arxiv.org/abs/1712.06567)
 - [Genetic Algorithms for Evolving Deep Neural Networks](https://arxiv.org/pdf/1711.07655.pdf)
-- [he Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453)
+- [The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities](https://arxiv.org/abs/1803.03453)
 - [Evolutionary Algorithms-18](https://arxiv.org/ftp/arxiv/papers/1805/1805.11014.pdf)
 - [Evolutionary algorithms-15-17](https://arxiv.org/pdf/1511.06987v2.pdf)
 - [Evolutionary Algorithms: Concepts, Designs, and Applications in Bioinformatics: Evolutionary Algorithms for Bioinformatics](https://arxiv.org/abs/1508.00468v1)
