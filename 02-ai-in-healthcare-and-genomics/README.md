@@ -46,6 +46,12 @@ Genetic programming
 - [A Survey of Evolutionary Algorithms for
 Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereitas-ga.pdf)
 - [Neural and Evolutionary Computing](https://arxiv.org/list/cs.NE/recent)
+- [Evolutionary Computation Journal](https://www.mitpressjournals.org/loi/evco)
+- [List of genetic algorithm applications](https://en.wikipedia.org/wiki/List_of_genetic_algorithm_applications)
+- [List of neuroscience databases](https://en.wikipedia.org/wiki/List_of_neuroscience_databases)
+- [Outline of evolution](https://en.wikipedia.org/wiki/Outline_of_evolution)
+- [History of evolutionary thought](https://en.wikipedia.org/wiki/History_of_evolutionary_thought)
+- [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism)
 
 ---------------
 
