@@ -63,10 +63,12 @@ Med
 
 Startups
 
+- [From Drug Discovery To Diagnostics: 100 Artificial Intelligence Startups Transforming Healthcare](https://www.cbinsights.com/research/ai-healthcare-startups-market-map-expert-research/)
+- [Mapping A.I. in Healthcare: Early Stage Startups VCs Should Keep An Eye On](https://medium.com/@tahmaseb/mapping-a-i-in-healthcare-early-stage-startups-vcs-should-keep-an-eye-on-728d89f366c2)
 - [Top AI Trends To
 Watch In 2018](https://www.cbinsights.com/reports/CB-Insights_State-of-Artificial-Intelligence-2018.pdf?utm_campaign=state-of-ai_2018-02&utm_medium=email&_hsenc=p2ANqtz--wBfB7AL2iByxuJGevlAMsRmTJqZj5Fa9qruBCDPuvf6Ag_zaVTmgG1ZksWgrao56GuEx6-pMWn1kkSHE7pW-POJ8fVg&_hsmi=60665752&utm_content=60665752&utm_source=hs_automation&hsCtaTracking=be5990ad-0aed-432b-a2e3-c76dfdc898e8%7C57a6f99e-da54-4bac-8857-8e3ad466c8ba)
 - [Top 62 AI startups in Healthcare](http://www.medicalstartups.org/top/ai/)
 - [AI Will Put 10 Million Jobs At High Risk — More Than Were Eliminated By The Great Recession](https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/)
-
+- [11 Indian Healthtech Startups To Watch Out For In 2018](https://inc42.com/features/watchlist-healthtech-startups-2018/)
 -----------------
 --------------------
