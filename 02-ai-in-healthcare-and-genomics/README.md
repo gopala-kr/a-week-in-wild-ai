@@ -32,6 +32,7 @@ Genomics
 - [Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures](https://arxiv.org/pdf/1605.07156v1.pdf)
 
 
+
 --------------
 
 Genetic programming
@@ -85,6 +86,21 @@ Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereit
 - [Higher-Order Quantum-Inspired Genetic Algorithms](https://arxiv.org/abs/1407.0977v1)
 - [A Powerful Genetic Algorithm for Traveling Salesman Problem](https://arxiv.org/abs/1402.4699v1)
 - [A Framework for Genetic Algorithms Based on Hadoop](https://arxiv.org/abs/1312.0086v2)
+
+---------------------
+
+- [tpot](https://github.com/EpistasisLab/tpot) : A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming. http://epistasislab.github.io/tpot/
+- [deepvariant](https://github.com/google/deepvariant) : DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
+- [AI-Programmer](https://github.com/primaryobjects/AI-Programmer) : Using artificial intelligence and genetic algorithms to automatically write programs. Tutorial: http://www.primaryobjects.com/cms/article149
+- [devol](https://github.com/joeddav/devol) : Automated deep neural network design via genetic algorithms
+- [gplearn](https://github.com/trevorstephens/gplearn) : Genetic Programming in Python, with a scikit-learn inspired API http://gplearn.readthedocs.io/
+- [gago](https://github.com/MaxHalford/gago) : Genetic algorithm library in Go.
+- [genetic-js](https://github.com/subprotocol/genetic-js) : Advanced genetic and evolutionary algorithm library written in Javascript http://subprotocol.com/
+- [jenetics](https://github.com/jenetics/jenetics) : Jenetics - Java Genetic Algorithm Library http://jenetics.io
+- [GeneticAlgorithmsWithPython](https://github.com/handcraftsman/GeneticAlgorithmsWithPython) : source code from the book Genetic Algorithms with Python by Clinton Sheppard
+- [neural-network-genetic-algorithm](https://github.com/harvitronix/neural-network-genetic-algorithm) : Evolving a neural network with a genetic algorithm. 
+- [GeneticAlgorithm-TSP](https://github.com/parano/GeneticAlgorithm-TSP) : Applying Genetic Algorithm to Travelling Salesman Problem experiment
+- [go-galib](https://github.com/thoj/go-galib) : Genetic Algorithms library written in Go / golang
 
 
 -----------------
