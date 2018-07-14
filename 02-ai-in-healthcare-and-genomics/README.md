@@ -20,6 +20,9 @@
 - [Healthcare Datasets](https://github.com/nickls/awesome-healthcare-datasets)
 - [Survial Analysis using Deep Learning](https://github.com/robi56/Survival-Analysis-using-Deep-Learning)
 - [healthcare-blockchains](https://github.com/acoravos/healthcare-blockchains)
+- [deeplearning-biology](https://github.com/hussius/deeplearning-biology)
+- [deepbio](https://github.com/gokceneraslan/awesome-deepbio)
+
 
 ----------------
 
