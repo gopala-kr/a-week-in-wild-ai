@@ -25,10 +25,6 @@
 
 Genomics
 
-![1200x822](https://www.techemergence.com/wp-content/uploads/2017/07/machine-learning-in-genomics-current-efforts-and-future-applications-4-1200x822.png)
-
-----------------
-
 - [Deep Learning for Genomics: A Concise Overview](https://arxiv.org/pdf/1802.00810v2.pdf)
 - [A Comparative Analysis of Ensemble Classifiers: Case Studies in Genomics](https://arxiv.org/pdf/1309.5047v1.pdf)
 - [Deep Recurrent Neural Networks for Sequential Phenotype Prediction in Genomics](https://arxiv.org/pdf/1511.02554v3.pdf)
@@ -36,7 +32,7 @@ Genomics
 - [Generating and designing DNA with deep generative models](https://arxiv.org/pdf/1712.06148v1.pdf)
 - [Learning Genomic Representations to Predict Clinical Outcomes in Cancer](https://arxiv.org/pdf/1609.08663v1.pdf)
 - [Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures](https://arxiv.org/pdf/1605.07156v1.pdf)
-
+- [Machine Learning in Genomics – Current Efforts and Future Applications](https://www.techemergence.com/machine-learning-in-genomics-applications/)
 
 
 --------------
@@ -59,6 +55,9 @@ Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereit
 - [Outline of evolution](https://en.wikipedia.org/wiki/Outline_of_evolution)
 - [History of evolutionary thought](https://en.wikipedia.org/wiki/History_of_evolutionary_thought)
 - [Universal Darwinism](https://en.wikipedia.org/wiki/Universal_Darwinism)
+- [Genetic engineering](https://en.wikipedia.org/wiki/Genetic_engineering)
+- [Outline of genetics](https://en.wikipedia.org/wiki/Outline_of_genetics)
+
 
 ---------------
 
@@ -92,6 +91,9 @@ Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereit
 - [Higher-Order Quantum-Inspired Genetic Algorithms](https://arxiv.org/abs/1407.0977v1)
 - [A Powerful Genetic Algorithm for Traveling Salesman Problem](https://arxiv.org/abs/1402.4699v1)
 - [A Framework for Genetic Algorithms Based on Hadoop](https://arxiv.org/abs/1312.0086v2)
+- [Why don't we invest in genetically engineering smart humans instead of building smart AI?](https://www.quora.com/Why-dont-we-invest-in-genetically-engineering-smart-humans-instead-of-building-smart-AI)
+- [Ray Kurzweil Predicts Three Technologies Will Define Our Future](https://singularityhub.com/2016/04/19/ray-kurzweil-predicts-three-technologies-will-define-our-future/#sm.000001r27dcmlcszz4v1kajmgjb72)
+- [TensorFlow Enabled Genetic Programming](https://arxiv.org/pdf/1708.03157.pdf)
 
 ---------------------
 
@@ -155,6 +157,11 @@ Startups
 - [Top 62 AI startups in Healthcare](http://www.medicalstartups.org/top/ai/)
 - [AI Will Put 10 Million Jobs At High Risk — More Than Were Eliminated By The Great Recession](https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/)
 - [11 Indian Healthtech Startups To Watch Out For In 2018](https://inc42.com/features/watchlist-healthtech-startups-2018/)
+
+
+--------
+
+![1200x822](https://www.techemergence.com/wp-content/uploads/2017/07/machine-learning-in-genomics-current-efforts-and-future-applications-4-1200x822.png)
 
 -----------------
 --------------------
