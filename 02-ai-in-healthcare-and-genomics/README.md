@@ -4,7 +4,6 @@
 ------------------
 
 
-
 #### References :
 
 - [Deep-Learning-for-Medical-Applications](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
@@ -25,6 +24,12 @@
 ----------------
 
 Genomics
+
+-------------
+
+! [1200x822](https://www.techemergence.com/wp-content/uploads/2017/07/machine-learning-in-genomics-current-efforts-and-future-applications-4-1200x822.png)
+
+----------------
 
 - [Deep Learning for Genomics: A Concise Overview](https://arxiv.org/pdf/1802.00810v2.pdf)
 - [A Comparative Analysis of Ensemble Classifiers: Case Studies in Genomics](https://arxiv.org/pdf/1309.5047v1.pdf)
@@ -109,6 +114,16 @@ Data Mining and Knowledge Discovery](http://neuro.bstu.by/our/Data-mining/fereit
 -----------------
 
 Med
+
+
+- AI Applications in Clinical Practice
+- Confluence of AI and Smart Devices for Monitoring Health and Disease
+- Create Comprehensive Training Databases of Health Data for AI Tool Development
+- Fill in Critical Missing Data Gaps
+- Embrace the Crowdsourcing Movement to Support AI development and Data Generation
+- Understand the Limitations of AI Methods in Health and Health care Applications 
+
+------------
 
 - [Opportunities in Machine Learning for Healthcare](https://arxiv.org/abs/1806.00388v2)
 - [Broad Learning for Healthcare](https://arxiv.org/abs/1803.08978v1)
