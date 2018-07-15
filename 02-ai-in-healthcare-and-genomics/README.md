@@ -307,6 +307,37 @@ Data:
 - [medicare.gov](https://www.medicare.gov/download/downloaddb.asp)
 - [oecd](https://data.oecd.org/)
 
+--------------
+
+AI and Neuroscience
+
+- [Deepmind: AI and Neuroscience: A virtuous circle](https://deepmind.com/blog/ai-and-neuroscience-virtuous-circle/)
+- [Neuroscience-Inspired Artificial Intelligence](https://www.cell.com/neuron/fulltext/S0896-6273(17)30509-3)
+- [What Can AI Get from Neuroscience? ](http://www.neurolab.gatech.edu/wp/wp-content/uploads/potter/publications/Potter-NeuroscienceForAIchapter.pdf)
+- [Why Neuroscience Is the Key to Innovation in AI](https://singularityhub.com/2017/08/02/why-neuroscience-is-the-key-to-innovation-in-ai/#sm.0001epn2x3mz5cyutor1j9rqrtndh)
+- [Neuroscience and AI - Matt Botvinick](https://www.youtube.com/watch?v=uv4Hh3wDH14)
+- [AI in Neuroscience - Understanding the Brain](https://www.intel.com/content/www/us/en/analytics/artificial-intelligence/ai-in-neuroscience-video.html)
+- [neurosciencenews](https://neurosciencenews.com/neuroscience-topics/artificial-intelligence-2/)
+- [Google’s AI Guru Says That Great Artificial Intelligence Must Build on Neuroscience](https://www.technologyreview.com/s/608317/googles-ai-guru-says-that-great-artificial-intelligence-must-build-on-neuroscience/)
+- [to-advance-artificial-intelligence-reverse-engineer-the-brain](https://www.wired.com/story/to-advance-artificial-intelligence-reverse-engineer-the-brain/)
+- [Theoretical Neuroscience & Artificial Intelligence ](https://www.psy.ox.ac.uk/research/oxford-centre-for-theoretical-neuroscience-and-artificial-intelligence)
+- [Artificial Intelligence and Neurology](https://www.omicsonline.org/open-access/artificial-intelligence-and-neurology-.php?aid=84397)
+- [Is computational neuroscience related to artificial intelligence in some way?](https://www.quora.com/Is-computational-neuroscience-related-to-artificial-intelligence-in-some-way)
+- [Neuro-AI Forging Links Between Neuroscience and Artificial Intelligence Symposium](http://www.ucl.ac.uk/complex/complex-news-publication/Neuro-AI-symposium)
+- [The brain as artificial intelligence: prospecting the frontiers of neuroscience](https://link.springer.com/article/10.1007/s00146-018-0820-1)
+- [Where Artificial Intelligence and Neuroscience Meet: The Search for Grounded Architectures of Cognition](https://www.hindawi.com/journals/aai/2010/918062/)
+- [Stanford: 
+NeuroAILab](http://neuroailab.stanford.edu/publications.html)
+- [AI neuroscience, liquid crystals, and depression in academia](https://www.nature.com/articles/d41586-018-05131-y)
+- [Brain Machine Interfaces, Artificial Intelligence and Neurorights
+RESEARCH](https://brain.ieee.org/newsletter/2017-issue-3/brain-machine-interfaces-artificial-intelligence-neurorights/)
+- [ut: COMPUTATIONAL NEUROSCIENCE LAB](http://neuro.cs.ut.ee/publications/)
+- [https://artivatic.ai/](https://artivatic.ai/)
+- [remi.ai](https://www.remi.ai/research)
+- [What are the top contributions from neuroscience to AI and viceversa? How much progress has been made from the interaction between these two fields?](https://ai.stackexchange.com/questions/6728/what-are-the-top-contributions-from-neuroscience-to-ai-and-viceversa-how-much-p/6768)
+- [Computational neuroscience](https://en.wikipedia.org/wiki/Category:Computational_neuroscience)
+- [The Foundations of Deep Learning with a Path Towards General Intelligence](https://arxiv.org/pdf/1806.08874v1.pdf)
+
 
 --------
 -------------
