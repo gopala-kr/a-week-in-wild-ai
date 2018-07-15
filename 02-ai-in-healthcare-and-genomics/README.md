@@ -155,6 +155,8 @@ Med
 - [Automated Diagnosis of Clinic Workflows](https://arxiv.org/abs/1805.02264v1)
 - [PANDA: Facilitating Usable AI Development](https://arxiv.org/abs/1804.09997v1)
 - [Distributed Data Vending on Blockchain](https://arxiv.org/abs/1803.05871v2)
+- [Personalized Prognostic Models for Oncology: A Machine Learning Approach](https://arxiv.org/abs/1606.07369v1)
+
 
 -------------
 
@@ -200,20 +202,30 @@ Startups
 
 -----------------
 
-Visual Nursing
+Drug Discovery
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Cancer Research UK Drug Discovery Process Mining](https://arxiv.org/abs/1805.08169v1)
+- [Predicting drug response of tumors from integrated genomic profiles by deep neural networks](https://arxiv.org/abs/1805.07702v1)
+- [Drug Recommendation toward Safe Polypharmacy](https://arxiv.org/abs/1803.03185v1)
+- [Machine Learning for Drug Overdose Surveillance](https://arxiv.org/abs/1710.02458v1)
+- [Unified Neural Architecture for Drug, Disease and Clinical Entity Recognition](https://arxiv.org/abs/1708.03447v1)
+- [An Investigation of Recurrent Neural Architectures for Drug Name Recognition](https://arxiv.org/abs/1609.07585v1)
+- [Computational Drug Repositioning Using Continuous Self-controlled Case Series](https://arxiv.org/abs/1604.05976v1)
+- [Accelerating Prototype-Based Drug Discovery using Conditional Diversity Networks](https://arxiv.org/abs/1804.02668v1)
+- [onformal Prediction in Learning Under Privileged Information Paradigm with Applications in Drug Discovery](https://arxiv.org/abs/1803.11136v2)
+- [Spatial Graph Convolutions for Drug Discovery](https://arxiv.org/abs/1803.04465v1)
+- [Learning Graph-Level Representation for Drug Discovery](https://arxiv.org/abs/1709.03741v2)
+- [ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity?](https://arxiv.org/abs/1708.08227v3)
+- [Generating Focussed Molecule Libraries for Drug Discovery with Recurrent Neural Networks](https://arxiv.org/abs/1701.01329v1)
+- [Low Data Drug Discovery with One-shot Learning](https://arxiv.org/abs/1611.03199v1)
+- [AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery](https://arxiv.org/abs/1510.02855v1)
+- [Massively Multitask Networks for Drug Discovery](https://arxiv.org/abs/1502.02072v1)
+- [Evolutionary Algorithm for Drug Discovery Interim Design Report](https://arxiv.org/abs/1403.4871v1)
+- [On the String Kernel Pre-Image Problem with Applications in Drug Discovery](https://arxiv.org/abs/1412.1463v2)
+- [Chemi-net: a graph convolutional network for accurate drug property prediction](https://arxiv.org/abs/1803.06236v2)
+- [Comparison of algorithms that detect drug side effects using electronic healthcare databases](https://arxiv.org/abs/1409.0748v1)
+- [Meta-QSAR: a large-scale application of meta-learning to drug design and discovery](https://arxiv.org/abs/1709.03854v1)
+- [Ensembling classification models based on phalanxes of variables with applications in drug discovery](https://arxiv.org/abs/1303.4805v4)
 
 --------
 
