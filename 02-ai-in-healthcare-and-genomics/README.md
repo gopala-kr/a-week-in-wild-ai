@@ -309,7 +309,7 @@ Data:
 
 
 -------------
-
+![iomt](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/02-ai-in-healthcare-and-genomics/iomt.JPG)
 ![Healthcare-1024x625](https://blog.appliedai.com/wp-content/uploads/2017/05/Healthcare-1024x625.jpg)
 ![healthcare_AI_map_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 ![1200x822](https://www.techemergence.com/wp-content/uploads/2017/07/machine-learning-in-genomics-current-efforts-and-future-applications-4-1200x822.png)
