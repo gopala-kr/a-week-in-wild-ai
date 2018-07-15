@@ -129,6 +129,8 @@ Med
 - [How To Democratize Healthcare: AI Gives Everyone The Very Best Doctor](https://www.forbes.com/sites/valleyvoices/2018/05/23/how-to-democratize-healthcare/#1fea72f02198)
 - [Artificial Intelligence In Healthcare: Separating Reality From Hype](https://www.forbes.com/sites/robertpearl/2018/03/13/artificial-intelligence-in-healthcare/#2ecabd851d75)
 - [Top 12 Ways Artificial Intelligence Will Impact Healthcare](https://healthitanalytics.com/news/top-12-ways-artificial-intelligence-will-impact-healthcare)
+- [Artificial Intelligence in Healthcare | survey](https://www.accenture.com/t20171215T032059Z__w__/us-en/_acnmedia/PDF-49/Accenture-Health-Artificial-Intelligence.pdf)
+- [HBR: 10 Promising AI Applications in Health Care](https://hbr.org/2018/05/10-promising-ai-applications-in-health-care)
 
 -------
 
@@ -196,10 +198,26 @@ Startups
 - [Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207v2)
 - [Monitoring tool usage in surgery videos using boosted convolutional and recurrent neural networks](https://arxiv.org/abs/1710.01559v2)
 
+-----------------
 
+Visual Nursing
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 --------
 
+![healthcare_AI_map_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 ![1200x822](https://www.techemergence.com/wp-content/uploads/2017/07/machine-learning-in-genomics-current-efforts-and-future-applications-4-1200x822.png)
 
 -----------------
