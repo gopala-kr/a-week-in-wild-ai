@@ -36,7 +36,7 @@ Genomics
 - [Learning Genomic Representations to Predict Clinical Outcomes in Cancer](https://arxiv.org/pdf/1609.08663v1.pdf)
 - [Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures](https://arxiv.org/pdf/1605.07156v1.pdf)
 - [Machine Learning in Genomics – Current Efforts and Future Applications](https://www.techemergence.com/machine-learning-in-genomics-applications/)
-
+- [Watson for Genomics](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=HLD12377USEN&)
 
 --------------
 
@@ -131,6 +131,23 @@ Med
 - [Top 12 Ways Artificial Intelligence Will Impact Healthcare](https://healthitanalytics.com/news/top-12-ways-artificial-intelligence-will-impact-healthcare)
 - [Artificial Intelligence in Healthcare | survey](https://www.accenture.com/t20171215T032059Z__w__/us-en/_acnmedia/PDF-49/Accenture-Health-Artificial-Intelligence.pdf)
 - [HBR: 10 Promising AI Applications in Health Care](https://hbr.org/2018/05/10-promising-ai-applications-in-health-care)
+- [15 AI Applications / Usecases in Healthcare [2018 update]](https://blog.appliedai.com/healthcare-ai/)
+- [How America’s 5 Top Hospitals are Using Machine Learning Today](https://www.techemergence.com/top-5-hospitals-using-machine-learning/)
+- [A Strategist’s Guide to Artificial Intelligence](https://www.strategy-business.com/article/A-Strategists-Guide-to-Artificial-Intelligence?gko=0abb5)
+- [The 3 most-cited studies in healthcare and AI](https://quid.com/feed/paging-dr-robot-how-ai-will-transform-healthcare)
+- [Big Data, Analytics &
+Artificial Intelligence
+The Future of Health Care is Here](http://newsroom.gehealthcare.com/wp-content/uploads/2016/12/GE-Healthcare-White-Paper_FINAL.pdf)
+- [healthitanalytics](https://healthitanalytics.com/)
+- [Artificial Intelligence
+in the Healthcare
+Industry in India](https://cis-india.org/internet-governance/files/ai-and-healtchare-report)
+- [Transforming Healthcare Through: Artificial Intelligence](http://ai-healthandlifesciences.com/hypfiles/uploads/2016/08/AI-Healthcare-Research-Insights-KisacoResearch.pdf)
+- [Artificial intelligence (AI) in healthcare and research](http://nuffieldbioethics.org/wp-content/uploads/Artificial-Intelligence-AI-in-healthcare-and-research.pdf)
+- [IBM Watson Health](https://www.ibm.com/watson/in-en/health/#solutions)
+- [IBM Watson: How Cognitive Computing Can Be
+Applied to Big Data Challenges in Life
+Sciences Research](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=HLW03045USEN&)
 
 -------
 
@@ -257,8 +274,41 @@ Medical image analysis
 
 --------
 
+Google in Healthcare
+
+- [Google in Health](https://www.google.com/intl/en_us/health/about/)
+- [How Google Plans To Use AI To Reinvent The $3 Trillion US Healthcare Industry](https://www.cbinsights.com/research/report/google-strategy-healthcare/)
+- [healthcare-biosciences](https://ai.google/research/teams/brain/healthcare-biosciences/)
+- [Why Apple, Amazon, and Google are making big health care moves](https://www.vox.com/technology/2018/3/6/17071750/amazon-health-care-apple-google-uber)
+- [Google Cloud for Healthcare: new APIs, customers, partners and security updates](https://www.blog.google/products/google-cloud/google-cloud-healthcare-new-apis-customers-partners-and-security-updates/)
+- [deepmind-health](https://deepmind.com/applied/deepmind-health/)
+
+-------------
+
+![Healthcare-1024x625](https://blog.appliedai.com/wp-content/uploads/2017/05/Healthcare-1024x625.jpg)
 ![healthcare_AI_map_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
 ![1200x822](https://www.techemergence.com/wp-content/uploads/2017/07/machine-learning-in-genomics-current-efforts-and-future-applications-4-1200x822.png)
+![Drug-discovery-landscape-v1](https://blog.appliedai.com/wp-content/uploads/2017/06/Drug-discovery-landscape-v1.png)
+![patient-data-analytics-1-1024x699](https://blog.appliedai.com/wp-content/uploads/2017/05/patient-data-analytics-1-1024x699.png)
+![healthtech1](https://blog.appliedai.com/wp-content/uploads/2017/05/healthtech1-1.png)
+![Health-AI-Scopus_Network](https://d15wj1jyee7mbq.cloudfront.net/Health-AI-Scopus_Network.jpeg?mtime=20170127120531)
+![Health-AI-Scopus_BarChart](https://d15wj1jyee7mbq.cloudfront.net/Health-AI-Scopus_BarChart.jpeg?mtime=20170127120917)
+![Scopus_Scatterplot](https://d15wj1jyee7mbq.cloudfront.net/Health-AI-Scopus_Scatterplot.jpeg?mtime=20170127121214)
+
+---------
+
+![Ca-content.001](https://d15wj1jyee7mbq.cloudfront.net/Ca-content.001.png?mtime=20180627112623)
+
+--------
+
+![e1516651031141](https://venturebeat.com/wp-content/uploads/2018/01/1_tc5gd5aov8epdekw9aatka-e1516651031141.png?resize=1400%2C990&strip=all)
+
+-------
+
+![deepmind](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/22123540/deepmind-data-infrastructure-768x432.png)
+![new-disease-google1](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/19163702/new-disease-google1.png)
+![google](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/19143226/google-consumer-diagnostics.png)
+![GV-health-insurance](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05164058/GV-health-insurance.png)
 
 -----------------
 --------------------
