@@ -308,7 +308,9 @@ Data:
 - [oecd](https://data.oecd.org/)
 
 
+--------
 -------------
+
 ![iomt](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/02-ai-in-healthcare-and-genomics/iomt.JPG)
 ![Healthcare-1024x625](https://blog.appliedai.com/wp-content/uploads/2017/05/Healthcare-1024x625.jpg)
 ![healthcare_AI_map_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
