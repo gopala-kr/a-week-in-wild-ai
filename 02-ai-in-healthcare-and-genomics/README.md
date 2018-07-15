@@ -37,6 +37,11 @@ Genomics
 - [Genetic Architect: Discovering Genomic Structure with Learned Neural Architectures](https://arxiv.org/pdf/1605.07156v1.pdf)
 - [Machine Learning in Genomics – Current Efforts and Future Applications](https://www.techemergence.com/machine-learning-in-genomics-applications/)
 - [Watson for Genomics](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=HLD12377USEN&)
+- [GOOGLE GENOMICS](https://cloud.google.com/genomics/#)
+- [Google Genomics Cookbook](https://googlegenomics.readthedocs.io/en/latest/)
+- [https://github.com/googlegenomics](https://github.com/googlegenomics)
+- [Microsoft Wants to Use Artificial Intelligence to Make CRISPR More Accurate](Researchers use AI to improve accuracy of gene editing with CRISPR)
+- [Where Genome Editing and Artificial Intelligence Collide](https://cspo.org/where-genome-editing-and-artificial-intelligence-collide/)
 
 --------------
 
@@ -283,6 +288,26 @@ Google in Healthcare
 - [Google Cloud for Healthcare: new APIs, customers, partners and security updates](https://www.blog.google/products/google-cloud/google-cloud-healthcare-new-apis-customers-partners-and-security-updates/)
 - [deepmind-health](https://deepmind.com/applied/deepmind-health/)
 
+
+-----------
+
+Data:
+
+- [Where Healthcare’s Big Data Actually Comes From](https://www.techemergence.com/where-healthcares-big-data-actually-comes-from/)
+- [Big healthcare data: preserving security and privacy](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-017-0110-7)
+- [innovaccer](https://innovaccer.com/indata)
+- [healthcaredatainstitute](https://healthcaredatainstitute.com/about/)
+- [https://www.healthdata.gov/](https://www.healthdata.gov/)
+- [10 Great Healthcare Data Sets](https://www.datasciencecentral.com/profiles/blogs/10-great-healthcare-data-sets)
+- [data.gov.in](https://data.gov.in)
+- [HBR: Making Better Use of Health Care Data](https://hbr.org/2018/03/making-better-use-of-health-care-data)
+- [who](http://www.who.int/gho/en/)
+- [mortality](https://www.mortality.org/)
+- [cdc](https://www.cdc.gov/)
+- [medicare.gov](https://www.medicare.gov/download/downloaddb.asp)
+- [oecd](https://data.oecd.org/)
+
+
 -------------
 
 ![Healthcare-1024x625](https://blog.appliedai.com/wp-content/uploads/2017/05/Healthcare-1024x625.jpg)
@@ -294,14 +319,6 @@ Google in Healthcare
 ![Health-AI-Scopus_Network](https://d15wj1jyee7mbq.cloudfront.net/Health-AI-Scopus_Network.jpeg?mtime=20170127120531)
 ![Health-AI-Scopus_BarChart](https://d15wj1jyee7mbq.cloudfront.net/Health-AI-Scopus_BarChart.jpeg?mtime=20170127120917)
 ![Scopus_Scatterplot](https://d15wj1jyee7mbq.cloudfront.net/Health-AI-Scopus_Scatterplot.jpeg?mtime=20170127121214)
-
----------
-
-![Ca-content.001](https://d15wj1jyee7mbq.cloudfront.net/Ca-content.001.png?mtime=20180627112623)
-
---------
-
-![e1516651031141](https://venturebeat.com/wp-content/uploads/2018/01/1_tc5gd5aov8epdekw9aatka-e1516651031141.png?resize=1400%2C990&strip=all)
 
 -------
 
