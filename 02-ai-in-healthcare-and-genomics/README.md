@@ -168,6 +168,8 @@ Startups
 - [Top 62 AI startups in Healthcare](http://www.medicalstartups.org/top/ai/)
 - [AI Will Put 10 Million Jobs At High Risk — More Than Were Eliminated By The Great Recession](https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/)
 - [11 Indian Healthtech Startups To Watch Out For In 2018](https://inc42.com/features/watchlist-healthtech-startups-2018/)
+- [Health Care Information Technology Startups](https://angel.co/health-care-information-technology)
+
 
 -----------
 
