@@ -1,6 +1,11 @@
 
 ### A brief survey : ai in healthcare and genomics
 
+---------------
+
+- [Timeline of AI in healthcare](http://www.modernhealthcare.com/indepth/artificial-intelligence-in-healthcare-makes-slow-impact/)
+- [ai_medicine_timeline](http://www.angelfire.com/ks2/kaz/ai_medicine/timeline.html#line)
+
 ------------------
 
 
