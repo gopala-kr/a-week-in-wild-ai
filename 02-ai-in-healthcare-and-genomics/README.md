@@ -40,7 +40,7 @@ Genomics
 - [GOOGLE GENOMICS](https://cloud.google.com/genomics/#)
 - [Google Genomics Cookbook](https://googlegenomics.readthedocs.io/en/latest/)
 - [https://github.com/googlegenomics](https://github.com/googlegenomics)
-- [Microsoft Wants to Use Artificial Intelligence to Make CRISPR More Accurate](Researchers use AI to improve accuracy of gene editing with CRISPR)
+- [Microsoft Wants to Use Artificial Intelligence to Make CRISPR More Accurate](https://blogs.microsoft.com/ai/crispr-gene-editing/)
 - [Where Genome Editing and Artificial Intelligence Collide](https://cspo.org/where-genome-editing-and-artificial-intelligence-collide/)
 
 --------------
