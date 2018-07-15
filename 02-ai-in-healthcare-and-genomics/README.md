@@ -161,6 +161,38 @@ Startups
 - [AI Will Put 10 Million Jobs At High Risk — More Than Were Eliminated By The Great Recession](https://www.cbinsights.com/research/jobs-automation-artificial-intelligence-risk/)
 - [11 Indian Healthtech Startups To Watch Out For In 2018](https://inc42.com/features/watchlist-healthtech-startups-2018/)
 
+-----------
+
+#### Robotic surgery
+
+- [clevelandclinic: robotic-assisted-surgery](https://my.clevelandclinic.org/health/treatments/16908-about-robotic-assisted-surgery/publications)
+- [Robotic Surgery: Applications, Limitations, and Impact on Surgical Education](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1681689/)
+- [apollohospitals: Robotic surgery Precision Technology & in depth expertise.](https://www.apollohospitals.com/departments/robotics-surgery)
+- [Robotic-Assisted Surgery – Current Challenges and Future Directions: Interview with Dr. Mona Orady](https://www.medgadget.com/2017/10/interview-dr-mona-orady-robotic-assisted-surgery-current-challenges-future-directions.html)
+- [Robotic prostatectomy: The new standard of care or a marketing success?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2792423/)
+- [articles](http://www.robot.md/articles/)
+- [Computer-Assisted Surgery: An Update](https://web.archive.org/web/20090301135726/http://www.fda.gov/fdac/features/2005/405_computer.html)
+- [Robotic Applications in Cardiac Surgery](https://arxiv.org/ftp/cs/papers/0412/0412055.pdf)
+
+---------
+- [Machine Learning Approach for Skill Evaluation in Robotic-Assisted Surgery](https://arxiv.org/abs/1611.05136v1)
+- [Evaluating surgical skills from kinematic data using convolutional neural networks](https://arxiv.org/abs/1806.02750v1)
+- [Coarse-to-fine Surgical Instrument Detection for Cataract Surgery Monitoring](https://arxiv.org/abs/1609.05619v1)
+- [Surgical Activity Recognition in Robot-Assisted Radical Prostatectomy using Deep Learning](https://arxiv.org/abs/1806.00466v1)
+- [Self-Supervised Siamese Learning on Stereo Image Pairs for Depth Estimation in Robotic Surgery](https://arxiv.org/abs/1705.08260v1)
+- [Deep Residual Learning for Instrument Segmentation in Robotic Surgery](https://arxiv.org/abs/1703.08580v1)
+- [Real-time 3D Tracking of Articulated Tools for Robotic Surgery](https://arxiv.org/abs/1605.03483v3)
+- [A Recurrent Convolutional Neural Network Approach for Sensorless Force Estimation in Robotic Surgery](https://arxiv.org/abs/1805.08545v1)
+- [Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207v2)
+- [SATR-DL: Improving Surgical Skill Assessment and Task Recognition in Robot-assisted Surgery with Deep Neural Networks](https://arxiv.org/abs/1806.05798v1)
+- [Deep Learning with Convolutional Neural Network for Objective Skill Evaluation in Robot-assisted Surgery](https://arxiv.org/abs/1806.05796v1)
+- [Comparative evaluation of instrument segmentation and tracking methods in minimally invasive surgery](https://arxiv.org/abs/1805.02475v1)
+- [Automatic Tool Landmark Detection for Stereo Vision in Robot-Assisted Retinal Surgery](https://arxiv.org/abs/1709.05665v2)
+- [Video Object Tracking and Analysis for Computer Assisted Surgery](https://arxiv.org/abs/1203.2404v1)
+- [utomatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207v2)
+- [Monitoring tool usage in surgery videos using boosted convolutional and recurrent neural networks](https://arxiv.org/abs/1710.01559v2)
+
+
 
 --------
 
