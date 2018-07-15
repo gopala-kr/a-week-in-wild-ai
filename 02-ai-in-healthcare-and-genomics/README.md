@@ -229,6 +229,32 @@ Drug Discovery
 - [Meta-QSAR: a large-scale application of meta-learning to drug design and discovery](https://arxiv.org/abs/1709.03854v1)
 - [Ensembling classification models based on phalanxes of variables with applications in drug discovery](https://arxiv.org/abs/1303.4805v4)
 
+--------------
+
+Medical image analysis
+
+- [Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?](https://arxiv.org/abs/1706.00712v1)
+- [Deep Lesion Graphs in the Wild: Relationship Learning and Organization of Significant Radiology Image Findings in a Diverse Large-scale Lesion Database](https://arxiv.org/abs/1711.10535v2)
+- [NegBio: a high-performance tool for negation and uncertainty detection in radiology reports](https://arxiv.org/abs/1712.05898v2)
+- [DeepLesion: Automated Deep Mining, Categorization and Detection of Significant Radiology Image Findings using Large-Scale Clinical Lesion Annotations](https://arxiv.org/abs/1710.01766v2)
+- [Classification of Radiology Reports Using Neural Attention Models](https://arxiv.org/abs/1708.06828v1)
+- [Rethinking Radiology: An Analysis of Different Approaches to BraTS](https://arxiv.org/abs/1806.03981v1)
+- [Development and Validation of Deep Learning Algorithms for Detection of Critical Findings in Head CT Scans](https://arxiv.org/abs/1803.05854v2)
+- [Lung Cancer Screening Using Adaptive Memory-Augmented Recurrent Networks](https://arxiv.org/abs/1710.05719v1)
+- [Multi-Planar Deep Segmentation Networks for Cardiac Substructures from MRI and CT](https://arxiv.org/abs/1708.00983v1)
+- [Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation](https://arxiv.org/abs/1603.08486v1)
+- [Using a bag of Words for Automatic Medical Image Annotation with a Latent Semantic](https://arxiv.org/abs/1306.0178v2)
+- [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://arxiv.org/abs/1806.05034v1)
+- [Recurrent Residual Convolutional Neural Network based on U-Net (R2U-Net) for Medical Image Segmentation](https://arxiv.org/abs/1802.06955v5)
+- [Three-Dimensional Radiotherapy Dose Prediction on Head and Neck Cancer Patients with a Hierarchically Densely Connected U-net Deep Learning Architecture](https://arxiv.org/abs/1805.10397v1)
+- [Attention U-Net: Learning Where to Look for the Pancreas](https://arxiv.org/abs/1804.03999v3)
+- [Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT](https://arxiv.org/abs/1708.08333v3)
+- [An Improved Neural Segmentation Method Based on U-NET](https://arxiv.org/abs/1708.04747v1)
+- [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](https://arxiv.org/abs/1606.06650v1)
+- [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597v1)
+- [Deep CNN ensembles and suggestive annotations for infant brain MRI segmentation](https://arxiv.org/abs/1712.05319v2)
+
+
 --------
 
 ![healthcare_AI_map_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/healthcare_AI_map_2016_1.png)
