@@ -336,6 +336,9 @@ RESEARCH](https://brain.ieee.org/newsletter/2017-issue-3/brain-machine-interface
 - [remi.ai](https://www.remi.ai/research)
 - [What are the top contributions from neuroscience to AI and viceversa? How much progress has been made from the interaction between these two fields?](https://ai.stackexchange.com/questions/6728/what-are-the-top-contributions-from-neuroscience-to-ai-and-viceversa-how-much-p/6768)
 - [Computational neuroscience](https://en.wikipedia.org/wiki/Category:Computational_neuroscience)
+- [Brain–computer interface](https://en.wikipedia.org/wiki/Brain%E2%80%93computer_interface)
+- [Biological neural network](https://en.wikipedia.org/wiki/Neural_circuit)
+- [Open Brain Computer Interface Project](http://openbci.com/)
 - [The Foundations of Deep Learning with a Path Towards General Intelligence](https://arxiv.org/pdf/1806.08874v1.pdf)
 
 
