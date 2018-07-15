@@ -125,8 +125,12 @@ Med
 - Fill in Critical Missing Data Gaps
 - Embrace the Crowdsourcing Movement to Support AI development and Data Generation
 - Understand the Limitations of AI Methods in Health and Health care Applications 
+- [Intel-powered AI helps diagnose heart disease](https://www.intel.in/content/www/in/en/healthcare-it/article/improved-diagnosis.html)
+- [How To Democratize Healthcare: AI Gives Everyone The Very Best Doctor](https://www.forbes.com/sites/valleyvoices/2018/05/23/how-to-democratize-healthcare/#1fea72f02198)
+- [Artificial Intelligence In Healthcare: Separating Reality From Hype](https://www.forbes.com/sites/robertpearl/2018/03/13/artificial-intelligence-in-healthcare/#2ecabd851d75)
+- [Top 12 Ways Artificial Intelligence Will Impact Healthcare](https://healthitanalytics.com/news/top-12-ways-artificial-intelligence-will-impact-healthcare)
 
-------------
+-------
 
 - [Opportunities in Machine Learning for Healthcare](https://arxiv.org/abs/1806.00388v2)
 - [Broad Learning for Healthcare](https://arxiv.org/abs/1803.08978v1)
@@ -189,7 +193,7 @@ Startups
 - [Comparative evaluation of instrument segmentation and tracking methods in minimally invasive surgery](https://arxiv.org/abs/1805.02475v1)
 - [Automatic Tool Landmark Detection for Stereo Vision in Robot-Assisted Retinal Surgery](https://arxiv.org/abs/1709.05665v2)
 - [Video Object Tracking and Analysis for Computer Assisted Surgery](https://arxiv.org/abs/1203.2404v1)
-- [utomatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207v2)
+- [Automatic Instrument Segmentation in Robot-Assisted Surgery Using Deep Learning](https://arxiv.org/abs/1803.01207v2)
 - [Monitoring tool usage in surgery videos using boosted convolutional and recurrent neural networks](https://arxiv.org/abs/1710.01559v2)
 
 
