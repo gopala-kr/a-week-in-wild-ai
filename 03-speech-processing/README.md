@@ -1,10 +1,5 @@
 ### Speech and audio processing: synthesis, recognition + Survey on chatbot platforms and API's
 
-
---------------
-
-![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
-
 ------
 
 - [Timeline of speech and voice recognition](https://en.wikipedia.org/wiki/Timeline_of_speech_and_voice_recognition)
@@ -26,6 +21,10 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
+
+--------------
+
+![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
 
 ---------
 --------------
