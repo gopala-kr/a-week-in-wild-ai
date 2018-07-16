@@ -26,13 +26,20 @@ Deep speech
 
 -----------------
 
+- [Intelligence Quotient and Intelligence Grade of Artificial Intelligence](https://arxiv.org/abs/1709.10242)
+- [What Is The Difference Between Siri And Viv?](https://www.forbes.com/sites/quora/2016/05/27/what-is-the-difference-between-siri-and-viv/#230a8fdf5b49)
+- [How Siri Works – Interview with Tom Gruber, CTO of SIRI](http://www.novaspivack.com/technology/how-hisiri-works-interview-with-tom-gruber-cto-of-siri)
+- [How Siri Works: Siri-A-Primer](http://www.venturewerks.com/Siri-A-Primer.pdf)
+- [How Siri Works (jeffwofford.com)](https://news.ycombinator.com/item?id=3111133)
+- [CHATBOT ASSISTING: SIRI](http://www.technicaljournalsonline.com/ijaers/VOL%20IV/IJAERS%20VOL%20IV%20ISSUE%20II%20JANUARY%20MARCH%202015/562.pdf)
+- [Apple: Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/2017/08/06/siri-voices.html)
+- [Apple has designed a new Siri Architecture allowing Two Digital Assistants to Communicate with Each Other](http://www.patentlyapple.com/patently-apple/2017/05/apple-has-designed-a-new-siri-architecture-allowing-two-digital-assistants-to-communicate-with-each-other.html)
+
+----------------
 
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
 
---------------
-
-![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
 
 ---------
 --------------
