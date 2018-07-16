@@ -3,6 +3,10 @@
 
 --------------
 
+![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
+
+------
+
 - [Timeline of speech and voice recognition](https://en.wikipedia.org/wiki/Timeline_of_speech_and_voice_recognition)
 - [List of speech recognition software](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
 - [Survey on Chatbot Design Techniques in Speech
@@ -12,8 +16,6 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 
 ---------------
-
-![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
 
 
 - [End-to-end Speech Recognition with Recurrent Neural Networks (D3L6 Deep Learning for Speech and Language UPC 2017)](https://www.slideshare.net/xavigiro/endtoend-speech-recognition-with-recurrent-neural-networks-d3l6-deep-learning-for-speech-and-language-upc-2017)
