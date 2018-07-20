@@ -42,7 +42,7 @@ Deep speech
 
 --------
 
-Infographs:
+Infograph
 
 ![oice_search-clean-hook](https://www.technology.org/texorgwp/wp-content/uploads/2018/07/voice_search-clean-hook.png)
 
