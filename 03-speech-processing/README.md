@@ -44,6 +44,10 @@ Deep speech
 
 Infographs:
 
+![oice_search-clean-hook](https://www.technology.org/texorgwp/wp-content/uploads/2018/07/voice_search-clean-hook.png)
+
+--------------
+
 ![speech-recognition-640](http://d2j1x4mfbglwr3.cloudfront.net/2011/09/speech-recognition-640.jpg)
 
 ---------
