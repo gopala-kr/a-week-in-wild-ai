@@ -100,13 +100,23 @@ gnition](http://www.cs.cmu.edu/~bhiksha/courses/11-756.asr/spring2010/class.19ap
 
 **Speech Decoding**
 
-- []()
-- []()
-- []()
-- []()
+- [Search and Decoding](https://www.inf.ed.ac.uk/teaching/courses/asr/2011-12/asr-search-nup4.pdf)
+- [Introduction
+Finite State Automata (FSA)
+Finite State Transducers (FST)](http://www.cs.upc.edu/~gatius/mai-inlp/2_FSModels.pdf)
+- [Finite-state transducer](https://en.wikipedia.org/wiki/Finite-state_transducer)
+- [Morphology and Finite State Transducers](https://people.cs.umass.edu/~brenocon/inlp2014/lectures/10-fst.pdf)
+- [Finite-State Techniques for Speech Recognition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/lecture-notes/lecture17.pdf)
+- [Weighted Finite State Transducers in
+Automatic Speec Recognition](http://www.fit.vutbr.cz/study/courses/ZRE/public/pred/13_wfst_sid_lid/zre_lecture_asr_wfst.pdf)
+- [Weighted Finite State Transducers in
+Automatic Speech Recognition](http://www.cs.brandeis.edu/~cs136a/CS136a_Slides/zre_lecture_asr_wfst.pdf)
+- [Introduction to the use of WFSTs in Speech and
+Language processing](http://www.lvcsr.com/static/pubs/apsipa_09_tutorial_dixon_furui.pdf)
 
 
 --------------
+
 
 **Deep speech**(recent state of the arts using DL)
 
