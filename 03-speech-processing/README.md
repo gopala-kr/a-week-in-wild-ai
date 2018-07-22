@@ -648,10 +648,11 @@ lucida high level archtecture:
 - [segan](https://github.com/santi-pdp/segan) : Speech Enhancement Generative Adversarial Network in TensorFlow
 - [tacotron](https://github.com/google/tacotron) : Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model. https://google.github.io/tacotron
 - [caffe-speech-recognition](https://github.com/pannous/caffe-speech-recognition) : Speech Recognition with the Caffe deep learning framework, migrating to https://github.com/pannous/tensorflow-speech-recognition
-- []() : 
-- []() : 
-- []() : 
-- []() : 
+- [SpeechKITT](https://github.com/TalAter/SpeechKITT) : A flexible GUI for Speech Recognition
+- [dc_tts](https://github.com/Kyubyong/dc_tts) : A TensorFlow Implementation of DC-TTS: yet another text-to-speech model
+- [watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) : A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
+- [node-speakable](https://github.com/sreuter/node-speakable) : A continuous speech recognition module for node.js
+
 - []() : 
 - []() : 
 - []() : 
