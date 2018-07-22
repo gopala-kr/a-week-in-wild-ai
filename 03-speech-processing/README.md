@@ -12,7 +12,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ---------------
 
-[Fundamentals equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)
+[Fundamental equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)
 
 ![eq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/eq.JPG)
 
@@ -149,7 +149,7 @@ Google assistant(Actions workflow)
 
 ![google-action-request](https://www.jovo.tech/blog/wp-content/uploads/2017/08/google-action-request.png)
 
-![[Tutorial] Build a Google Action in Node.js with Jovo](https://www.jovo.tech/blog/google-action-tutorial-nodejs/)
+[[Tutorial] Build a Google Action in Node.js with Jovo](https://www.jovo.tech/blog/google-action-tutorial-nodejs/)
 
 ---------
 
