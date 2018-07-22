@@ -665,9 +665,9 @@ lucida high level archtecture:
 - [speech](https://github.com/awni/speech) : A PyTorch Implementation of End-to-End Models for Speech-to-Text
 - [attention-lvcsr](https://github.com/rizar/attention-lvcsr) : End-to-End Attention-Based Large Vocabulary Speech Recognition
 - [nexmo-node](https://github.com/Nexmo/nexmo-node) : Nexmo REST API client for Node.js. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more.
-- []() : 
-- []() : 
-- []() : 
+- [text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs) : Sample Node.js Application for the IBM Watson Text to Speech Service
+- [speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) : A neural network for end-to-end speech denoising 
+- [kaldi-lstm](https://github.com/dophist/kaldi-lstm) : C++ implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc, the training can be switched between CPU and GPU(CUDA). This repo is now merged into official Kaldi codebase(Karel's setup), so this repo is no longer maintained, please check out the Kaldi proje…
 
 
 
