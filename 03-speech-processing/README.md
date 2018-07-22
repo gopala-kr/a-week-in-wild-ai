@@ -62,14 +62,45 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 **Langauge Modeling**
 
 
-- []()
-- []()
+- [Language model](https://en.wikipedia.org/wiki/Language_model)
+- [Microsoft: Language Modeling for Speech Recognition](https://www.microsoft.com/en-us/research/project/language-modeling-for-speech-recognition/)
+- [Gentle Introduction to Statistical Language Modeling and Neural Language Models](https://machinelearningmastery.com/statistical-language-modeling-and-neural-language-models/)
+- [Language Modelling for Speech Recognition](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-345-automatic-speech-recognition-spring-2003/lecture-notes/lecture1112.pdf)
+- [Language!
+Modeling](https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf)
+- [Large Scale Language Modeling in Automatic
+Speech Recognition](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40491.pdf)
+- [Language Modeling for Automatic Speech Recognition Meets the Web: Google Search by Voice](https://ai.google/research/pubs/pub40380)
+- [N-gram language models for speech
+reco
+gnition](http://www.cs.cmu.edu/~bhiksha/courses/11-756.asr/spring2010/class.19apr/ngrams.pdf)
+
+
+<ul><li><a rel="nofollow" class="external text" href="http://www.cs.columbia.edu/~mcollins/">Lecture notes on language models, parsing and machine translation with PCFG, CRF, MaxEnt, MEMM, EM, GLM, HMM by Michael Collins(Columbia University)</a></li>
+<li><a rel="nofollow" class="external text" href="http://www-lium.univ-lemans.fr/cslm">CSLM</a> – Free toolkit for <a href="/wiki/Feedforward_neural_network" title="Feedforward neural network">feedforward neural</a> language models</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/jnory/DALM">DALM</a> – Fast, Free software for language model queries</li>
+<li><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/irstlm">IRSTLM</a> – Free software for language modeling</li>
+<li><a rel="nofollow" class="external text" href="http://www.phontron.com/kylm">Kylm</a> (Kyoto Language Modeling Toolkit) – Free language modeling toolkit in Java</li>
+<li><a rel="nofollow" class="external text" href="http://kheafield.com/code/kenlm">KenLM</a> – Fast, Free software for language modeling</li>
+<li><a rel="nofollow" class="external text" href="https://lmsharp.codeplex.com/">LMSharp</a> – Free language model toolkit for <a href="/wiki/Kneser%E2%80%93Ney_smoothing" title="Kneser–Ney smoothing">Kneser–Ney-smoothed</a> <i>n</i>-gram models and <a href="/wiki/Recurrent_neural_network" title="Recurrent neural network">recurrent neural network</a> models</li>
+<li><a rel="nofollow" class="external text" href="https://code.google.com/p/mitlm">MITLM</a> – MIT Language Modeling toolkit.  Free software</li>
+<li><a rel="nofollow" class="external text" href="http://nlg.isi.edu/software/nplm">NPLM</a> – Free toolkit for <a href="/wiki/Feedforward_neural_network" title="Feedforward neural network">feedforward neural</a> language models</li>
+<li><a rel="nofollow" class="external text" href="http://openfst.cs.nyu.edu/twiki/bin/view/GRM/NGramLibrary">OpenGrm NGram</a> library – Free software for language modeling.  Built on <a href="/w/index.php?title=OpenFst&amp;action=edit&amp;redlink=1" class="new" title="OpenFst (page does not exist)">OpenFst</a>.</li>
+<li><a rel="nofollow" class="external text" href="https://github.com/pauldb89/OxLM">OxLM</a> – Free toolkit for <a href="/wiki/Feedforward_neural_network" title="Feedforward neural network">feedforward neural</a> language models</li>
+<li><a rel="nofollow" class="external text" href="http://sifaka.cs.uiuc.edu/~ylv2/pub/plm/plm.htm">Positional Language Model</a></li>
+<li><a rel="nofollow" class="external text" href="http://sourceforge.net/projects/randlm">RandLM</a> – Free software for <a href="/w/index.php?title=Randomised_language_modeling&amp;action=edit&amp;redlink=1" class="new" title="Randomised language modeling (page does not exist)">randomised language modeling</a></li>
+<li><a rel="nofollow" class="external text" href="http://rnnlm.org">RNNLM</a> – Free <a href="/wiki/Recurrent_neural_network" title="Recurrent neural network">recurrent neural network</a> language model toolkit</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120302151523/http://www-speech.sri.com/projects/srilm/">SRILM</a> – Proprietary software for language modeling</li>
+<li><a rel="nofollow" class="external text" href="https://vsiivola.github.io/variKN">VariKN</a> – Free software for creating, growing and pruning Kneser-Ney smoothed <i>n</i>-gram models.</li>
+<li><a rel="nofollow" class="external text" href="http://www.keithv.com/software/csr/">Language models trained on newswire data</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ngram.info/">Web Page NGram Viewer</a></li></ul>
 
 ---------
 
 **Speech Decoding**
 
-
+- []()
+- []()
 - []()
 - []()
 
