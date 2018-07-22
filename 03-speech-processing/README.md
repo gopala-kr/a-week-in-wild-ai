@@ -16,6 +16,23 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ---------------
 
+- Fundamental equation of speech recognition
+- Speech signal processing(preprocessing/feature extraction)
+- Acoustic Modeling
+- Langauge Modeling
+- Speech Decoding
+- Deep speech(recent state of the arts using DL)
+- State of the art results on various datasets
+- Literature reviews
+- Speaker Verification
+- Speech Synthesis
+- Language Modelling
+-
+-
+-
+-
+-
+-
 
 
 ---------
