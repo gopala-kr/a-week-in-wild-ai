@@ -7,7 +7,7 @@
 - [Timeline](#Timeline)
 - [Fundamental equation of speech recognition](#fundamental-equation-of-speech-recognition)
 - [Speech signal processing](#speech-signal-processing)
-- [Acoustic Modeling](#Acoustic Modeling)
+- [Acoustic Modeling](#acoustic-modeling)
 - [Langauge Modeling](#Langauge Modeling)
 - [Speech Decoding](#Speech Decoding)
 - [Deep speech](#Deep speech)
