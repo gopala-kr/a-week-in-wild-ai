@@ -673,8 +673,8 @@ lucida high level archtecture:
 - [speech-router](https://github.com/lukasolson/speech-router) : A way to utilize Chrome's speech recognition APIs to perform actions when specific text is heard.
 - [android-speech](https://github.com/gotev/android-speech) : Android speech recognition and text to speech made easy http://gotev.github.io/android-speech/
 - [tensorflow_end2end_speech_recognition](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition) : End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training) 
-- []() : 
-- []() : 
+- [Speech_Recognition_with_Tensorflow](https://github.com/thomasschmied/Speech_Recognition_with_Tensorflow) : Implementation of a seq2seq model for Speech Recognition using the latest version of TensorFlow. Architecture similar to Listen, Attend and Spell.
+- [pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python) : Python interface to CMU Sphinxbase and Pocketsphinx libraries 
 
 
 
