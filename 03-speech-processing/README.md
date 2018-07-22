@@ -521,6 +521,16 @@ Language Modelling
   * KIT + MIT + Univ. Toronto [[Paper](http://arxiv.org/abs/1512.02902)] [[Dataset](http://movieqa.cs.toronto.edu/home/)]
     * MovieQA: Understanding Stories in Movies through Question-Answering, arXiv:1512.02902
 
+
+Conversational UI's/Chotbots
+
+- [The Rapidly Changing Landscape of Conversational Agents](https://arxiv.org/abs/1803.08419v2)
+- [awesome-ChatBots](https://github.com/technopreneurG/awesome-ChatBots)
+- [awesome-conversational](https://github.com/mortenjust/awesome-conversational)
+
+
+
+
 -----------
 
 Startups
@@ -549,6 +559,11 @@ Startups
 - [Crunchbase: Speech Recognition](https://www.crunchbase.com/search/organizations/field/organizations/categories/24dad27e-6a49-ccc1-ec31-854b73d60d16)
 - [montreal-fluent-ai-startup-helping-speech-recognition](http://www.planetweb.ca/profiles/montreal-fluent-ai-startup-helping-speech-recognition/)
 - [Venture Reader: Top speech recognition Companies](https://www.ventureradar.com/keyword/speech%20recognition)
+
+
+
+
+
 
 ---------------
 
