@@ -426,7 +426,8 @@ Language Modelling
 - **Efficient Training and Evaluation of Recurrent Neural Network Language Models for Automatic Speech Recognition**(2016), Xie Chen et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7533441)
 - **Exploring the limits of language modeling**(2016), R Jozefowicz et al. [[pdf]](https://arxiv.org/pdf/1602.02410)
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
-
+- Language Modeling with Gated Convolutional Networks,(2017) [arxiv](https://arxiv.org/abs/1612.08083v3)
+- An Analysis of Neural Language Modeling at Multiple Scales. (2018) [arxiv](https://arxiv.org/abs/1803.08240v1)
 
 -----------
 
