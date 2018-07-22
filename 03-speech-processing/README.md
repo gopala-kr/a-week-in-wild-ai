@@ -18,7 +18,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 -------------
 
-Speech signal processing(preprocessing/feature extraction)
+**Speech signal processing**(preprocessing/feature extraction)
 
 - [Audio/Speech Signal Processing](http://home.iitk.ac.in/~nnaik/pdf/PPT_AudioSpeech.pdf)
 - [speech-signal-processing](https://www.slideshare.net/lucky43/speech-signal-processing)
@@ -228,10 +228,6 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 Automatic Speech Recognition
 
 
-
-
--------
-
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
 - **A Maximum Likelihood Approach to Continuous Speech Recognition**(1983), LALIT R. BAHL et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4767370&tag=1)
 - **Heterogeneous Acoustic Measurements and Multiple Classifiers for Speech Recognition**(1986), Andrew K. Halberstadt. [[pdf]](https://groups.csail.mit.edu/sls/publications/1998/phdthesis-drew.pdf)
@@ -356,7 +352,6 @@ Speech Synthesis
 - **Deep Voice 2: Multi-Speaker Neural Text-to-Speech**(2017), Sercan Arik et al. [[pdf]](https://arxiv.org/pdf/1705.08947)
 - **Deep Voice 3: 2000-Speaker Neural Text-to-speech**(2017), Wei Ping et al. [[pdf]](https://arxiv.org/pdf/1710.07654)
 - **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
-
 - **Parallel WaveNet: Fast High-Fidelity Speech Synthesis**(2017), Aaron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1711.10433)
 - **Statistical Parametric Speech Synthesis Using Generative Adversarial Networks Under A Multi-task Learning Framework**(2017), S Yang et al. [[pdf]](https://arxiv.org/pdf/1707.01670)
 - **Tacotron: Towards End-to-End Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://pdfs.semanticscholar.org/a072/c2a400f62f720b68dc54a662fb1ae115bf06.pdf?\_ga=2.133718478.1725061846.1494658711-1308334183.1494658711)
@@ -378,19 +373,6 @@ Language Modelling
 - **Exploring the limits of language modeling**(2016), R Jozefowicz et al. [[pdf]](https://arxiv.org/pdf/1602.02410)
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 
-
-
-------------------
-
-
-- [Intelligence Quotient and Intelligence Grade of Artificial Intelligence](https://arxiv.org/abs/1709.10242)
-- [What Is The Difference Between Siri And Viv?](https://www.forbes.com/sites/quora/2016/05/27/what-is-the-difference-between-siri-and-viv/#230a8fdf5b49)
-- [How Siri Works – Interview with Tom Gruber, CTO of SIRI](http://www.novaspivack.com/technology/how-hisiri-works-interview-with-tom-gruber-cto-of-siri)
-- [How Siri Works: Siri-A-Primer](http://www.venturewerks.com/Siri-A-Primer.pdf)
-- [How Siri Works (jeffwofford.com)](https://news.ycombinator.com/item?id=3111133)
-- [CHATBOT ASSISTING: SIRI](http://www.technicaljournalsonline.com/ijaers/VOL%20IV/IJAERS%20VOL%20IV%20ISSUE%20II%20JANUARY%20MARCH%202015/562.pdf)
-- [Apple: Deep Learning for Siri’s Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](https://machinelearning.apple.com/2017/08/06/siri-voices.html)
-- [Apple has designed a new Siri Architecture allowing Two Digital Assistants to Communicate with Each Other](http://www.patentlyapple.com/patently-apple/2017/05/apple-has-designed-a-new-siri-architecture-allowing-two-digital-assistants-to-communicate-with-each-other.html)
 
 ----------------
 ---------------
