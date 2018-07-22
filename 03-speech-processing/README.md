@@ -12,7 +12,7 @@
 - [Speech Decoding](#speech-decoding)
 - [Deep speech](#deep-speech)
 - [State of the art results on various datasets](#state-of-the-art-results-on-various-datasets)
-- [Literature reviews](#Literature reviews)
+- [Literature reviews](#literature-reviews)
   - [Automatic Speech Recognition](#Automatic Speech Recognition)
   - [Speaker Verification](#Speaker Verification)
   - [Speech Synthesis](#Speech Synthesis)
