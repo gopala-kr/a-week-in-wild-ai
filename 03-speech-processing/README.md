@@ -18,7 +18,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 -------------
 
-Speech signal processing
+Speech signal processing(preprocessing/feature extraction)
 
 - [Audio/Speech Signal Processing](http://home.iitk.ac.in/~nnaik/pdf/PPT_AudioSpeech.pdf)
 - [speech-signal-processing](https://www.slideshare.net/lucky43/speech-signal-processing)
@@ -36,6 +36,22 @@ Speech signal processing
 
 Acoustic Modeling
 
+
+- [Acoustic model](https://en.wikipedia.org/wiki/Acoustic_model)
+- [open source acoustic models at VoxForge](http://www.repository.voxforge1.org/downloads/Nightly_Builds/)
+- [Computational_linguistics](https://en.wikipedia.org/wiki/Category:Computational_linguistics)
+- [Phonetic_algorithms](https://en.wikipedia.org/wiki/Category:Phonetic_algorithms)
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+
+
+
 ----------
 
 Langauge Modeling
@@ -48,7 +64,7 @@ Speech Decoding
 
 --------------
 
-Deep speech
+Deep speech(recent state of the arts using DL)
 
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
@@ -70,9 +86,7 @@ Deep speech
 Automatic Speech Recognition
 
 
-The holy grail of ASR
 
-![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
 
 -------
 
@@ -254,11 +268,18 @@ Evolution of Search
 
 Architecture of ASR:
 
+
 ![0*-fsj14f4eQo2EZEI](https://cdn-images-1.medium.com/max/1600/0*-fsj14f4eQo2EZEI.)
 
 -----------
 
 ![1-s2.0-S0167639313000988-gr2](https://www.researchgate.net/profile/Alexey_Karpov2/publication/259118437/figure/fig1/AS:297010319118352@1447824186627/Architecture-of-a-state-of-the-art-automatic-speech-recognition-system-and-its-components.png)
+
+-------------
+
+The holy grail of ASR
+
+![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
 
 -----------
 
