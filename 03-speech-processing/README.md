@@ -14,7 +14,7 @@
 - [State of the art results on various datasets](#state-of-the-art-results-on-various-datasets)
 - [Literature reviews](#literature-reviews)
   - [Automatic Speech Recognition](#automatic-speech-recognition)
-  - [Speaker Verification](#Speaker Verification)
+  - [Speaker Verification](#speaker-verification)
   - [Speech Synthesis](#Speech Synthesis)
   - [Language Modelling](#Language Modelling)
   - [Natural Language Understanding](#Natural Language Understanding)
