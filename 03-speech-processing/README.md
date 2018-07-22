@@ -20,7 +20,7 @@
   - [Natural Language Understanding](#natural-language-understanding)
   - [Natural Language Generation](#natural-language-generation)
   - [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
-  - [Conversational UI's or Chotbots](#conversational-ui's-or-chotbots)
+  - [Conversational UIs or Chotbots](#conversational-uis-or-chotbots)
 - [Startups](#startups)
 - [Libraries and Implementations](#libraries-and-implementations)
 - [Appendix Reference images](#appendix-reference-images)
