@@ -619,9 +619,9 @@ lucida high level archtecture:
 - [sphinx4](https://github.com/cmusphinx/sphinx4) : Pure Java speech recognition library http://cmusphinx.sourceforge.net
 - [MessengerKit](https://github.com/steve228uk/MessengerKit) : A UI framework for building messenger interfaces on iOS
 - [python_speech_features](https://github.com/jameslyons/python_speech_features) : This library provides common speech features for ASR including MFCCs and filterbank energies.
-- []() : 
-- []() : 
-- []() : 
+- [speak.js](https://github.com/kripken/speak.js) : Text-to-Speech in JavaScript using eSpeak
+- [say.js](https://github.com/Marak/say.js) : TTS (text to speech) for node.js. send text from node.js to your speakers.
+- [tacotron](https://github.com/keithito/tacotron) : A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model
 - []() : 
 - []() : 
 - []() : 
