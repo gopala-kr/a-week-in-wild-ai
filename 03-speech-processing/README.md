@@ -11,6 +11,8 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 - [Speech_Technology](https://curlie.org/Computers/Speech_Technology)
 - [Speech_recognition](https://en.wikipedia.org/wiki/Speech_recognition)
 - [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
+- [CMUSphinx Tutorial For Developers](https://cmusphinx.github.io/wiki/tutorial/)
+
 
 ---------------
 
@@ -74,8 +76,7 @@ Speech Recognition](https://static.googleusercontent.com/media/research.google.c
 - [N-gram language models for speech
 reco
 gnition](http://www.cs.cmu.edu/~bhiksha/courses/11-756.asr/spring2010/class.19apr/ngrams.pdf)
-
-
+- [ngrams](http://ssli.ee.washington.edu/WS07/notes/ngrams.pdf)
 <ul><li><a rel="nofollow" class="external text" href="http://www.cs.columbia.edu/~mcollins/">Lecture notes on language models, parsing and machine translation with PCFG, CRF, MaxEnt, MEMM, EM, GLM, HMM by Michael Collins(Columbia University)</a></li>
 <li><a rel="nofollow" class="external text" href="http://www-lium.univ-lemans.fr/cslm">CSLM</a> – Free toolkit for <a href="/wiki/Feedforward_neural_network" title="Feedforward neural network">feedforward neural</a> language models</li>
 <li><a rel="nofollow" class="external text" href="https://github.com/jnory/DALM">DALM</a> – Fast, Free software for language model queries</li>
