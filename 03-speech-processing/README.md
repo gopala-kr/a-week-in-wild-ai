@@ -663,8 +663,8 @@ lucida high level archtecture:
 - [open-speech-recording](https://github.com/petewarden/open-speech-recording) : Web application to record speech for an open data set
 - [deepvoice](https://github.com/israelg99/deepvoice) : Deep Voice: Real-time Neural Text-to-Speech
 - [speech](https://github.com/awni/speech) : A PyTorch Implementation of End-to-End Models for Speech-to-Text
-- []() : 
-- []() : 
+- [attention-lvcsr](https://github.com/rizar/attention-lvcsr) : End-to-End Attention-Based Large Vocabulary Speech Recognition
+- [nexmo-node](https://github.com/Nexmo/nexmo-node) : Nexmo REST API client for Node.js. API support for SMS, Voice, Text-to-Speech, Numbers, Verify (2FA) and more.
 - []() : 
 - []() : 
 - []() : 
