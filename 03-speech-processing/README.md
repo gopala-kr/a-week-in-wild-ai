@@ -457,12 +457,11 @@ Startups
 - [montreal-fluent-ai-startup-helping-speech-recognition](http://www.planetweb.ca/profiles/montreal-fluent-ai-startup-helping-speech-recognition/)
 - [Venture Reader: Top speech recognition Companies](https://www.ventureradar.com/keyword/speech%20recognition)
 
-----------------
 ---------------
 
-Appendix: Reference images
+> Appendix: Reference images
 
---------
+
 
 Evolution of Search 
 
