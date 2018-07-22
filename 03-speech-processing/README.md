@@ -612,13 +612,13 @@ lucida high level archtecture:
 - [tensorflow-speech-recognition](https://github.com/pannous/tensorflow-speech-recognition) : Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks
 - [prose](https://github.com/jdkato/prose) : A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
 - [voice-elements](https://github.com/zenorocha/voice-elements) : Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer http://zenorocha.github.io/voice-elements/
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
+- [aeneas](https://github.com/readbeyond/aeneas) : aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment) http://www.readbeyond.it/aeneas/
+- [pocketsphinx.js](https://github.com/syl22-00/pocketsphinx.js) : Speech recognition in JavaScript
+- [tacotron](https://github.com/Kyubyong/tacotron) : A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model
+- [marytts](https://github.com/marytts/marytts) : MARY TTS -- an open-source, multilingual text-to-speech synthesis system written in pure java http://mary.dfki.de
+- [sphinx4](https://github.com/cmusphinx/sphinx4) : Pure Java speech recognition library http://cmusphinx.sourceforge.net
+- [MessengerKit](https://github.com/steve228uk/MessengerKit) : A UI framework for building messenger interfaces on iOS
+- [python_speech_features](https://github.com/jameslyons/python_speech_features) : This library provides common speech features for ASR including MFCCs and filterbank energies.
 - []() : 
 - []() : 
 - []() : 
