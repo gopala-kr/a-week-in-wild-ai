@@ -671,8 +671,8 @@ lucida high level archtecture:
 - [gantts](https://github.com/r9y9/gantts) : PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)
 - [react-voice-components](https://github.com/grvcoelho/react-voice-components) : Set of React components that use the Web Speech API to bring voice experience to React applications
 - [speech-router](https://github.com/lukasolson/speech-router) : A way to utilize Chrome's speech recognition APIs to perform actions when specific text is heard.
-- []() : 
-- []() : 
+- [android-speech](https://github.com/gotev/android-speech) : Android speech recognition and text to speech made easy http://gotev.github.io/android-speech/
+- [tensorflow_end2end_speech_recognition](https://github.com/hirofumi0810/tensorflow_end2end_speech_recognition) : End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training) 
 - []() : 
 - []() : 
 
