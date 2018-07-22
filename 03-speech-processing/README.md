@@ -668,7 +668,13 @@ lucida high level archtecture:
 - [text-to-speech-nodejs](https://github.com/watson-developer-cloud/text-to-speech-nodejs) : Sample Node.js Application for the IBM Watson Text to Speech Service
 - [speech-denoising-wavenet](https://github.com/drethage/speech-denoising-wavenet) : A neural network for end-to-end speech denoising 
 - [kaldi-lstm](https://github.com/dophist/kaldi-lstm) : C++ implementation of LSTM (Long Short Term Memory), in Kaldi's nnet1 framework. Used for automatic speech recognition, possibly language modeling etc, the training can be switched between CPU and GPU(CUDA). This repo is now merged into official Kaldi codebase(Karel's setup), so this repo is no longer maintained, please check out the Kaldi proje…
-
+- [gantts](https://github.com/r9y9/gantts) : PyTorch implementation of GAN-based text-to-speech synthesis and voice conversion (VC)
+- [react-voice-components](https://github.com/grvcoelho/react-voice-components) : Set of React components that use the Web Speech API to bring voice experience to React applications
+- [speech-router](https://github.com/lukasolson/speech-router) : A way to utilize Chrome's speech recognition APIs to perform actions when specific text is heard.
+- []() : 
+- []() : 
+- []() : 
+- []() : 
 
 
 
