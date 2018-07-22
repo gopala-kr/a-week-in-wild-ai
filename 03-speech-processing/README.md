@@ -438,65 +438,8 @@ Language Modelling
 - An Analysis of Neural Language Modeling at Multiple Scales. (2018) [arxiv](https://arxiv.org/abs/1803.08240v1)
 
 
-#### Text Embeddings
 
-
-Text embeddings allow deep learning to be effective on smaller datasets. These are often first inputs to a deep learning archiectures and most popular way of transfer learning in NLP. Embeddings are simply vectors or a more generically, real valued representations of strings. Word embeddings are considered a great starting point for most deep NLP tasks. 
-
-The most popular names in word embeddings are word2vec by Google (Mikolov) and GloVe by Stanford (Pennington, Socher and Manning). fastText seems to be a fairly popular for multi-lingual sub-word embeddings. 
-
-#### Word Embeddings 
-##### word2vec and GloVe
-**Don't use word2vec, don't use GloVe**. Use fastText vectors, which are much better from the same authors. word2vec was introduced by [T. Mikolov](https://scholar.google.com/citations?user=oBu8kMMAAAAJ&hl=en) et al. when he was with Google. 
-Performs well on word similarity and analogy tasks. 
-
-GloVe was introduced by Pennington, Socher, Manning from Stanford in 2014 as a statistical approximation to word embeddings. The word vectors are created by matrix factorizations of word-word co-occurence matrices here. [Back to Top](#contents)
-
-* [word2vec Official Implementation](https://code.google.com/p/word2vec/) , Explainer Blog: [Deep Learning, NLP, and Representations](http://colah.github.io/posts/2014-07-NLP-RNNs-Representations/), [word2vec tutorial](http://tensorflow.org/tutorials/word2vec/index.html), gensim's [making sense of word2vec](http://rare-technologies.com/making-sense-of-word2vec/), [Word2Vec Resources on Github](https://github.com/clulab/nlp-reading-group/wiki/Word2Vec-Resources)
-
-Papers: 
-* [Efficient Estimation of Word Representations in Vector Space](http://arxiv.org/pdf/1301.3781v3.pdf), [Distributed Representations of Words and Phrases and their Compositionality](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf), 
-
- [GloVe: Global vectors for word representation](http://nlp.stanford.edu/projects/glove/glove.pdf). Creates word vectors and relates word2vec to matrix factorizations. [Glove source code and training data](http://nlp.stanford.edu/projects/glove/)
-
-#### fastText
-fastText by Mikolov (from Facebook) supports sub-word embeddings in more than 200 languages. This allows it to work with out of vocabulary words as well. It captures language morphology well. It also supports a supervised classification mechanism | [Back to Top](#contents)
-
-  * [fastText on Github](https://github.com/facebookresearch/fastText) - for efficient learning of word representations and sentence classification
-  * [Pre-trained Vectors](https://fasttext.cc/docs/en/pretrained-vectors.html) in several languages
-  * [arXiv: Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606), [arXiv: Bag of Tricks for Efficient Text Classification](https://arxiv.org/abs/1607.01759), and [arXiv: FastText.zip: Compressing text classification models](https://arxiv.org/abs/1612.03651) were released as part of this project
-
-#### Sentence and Language Model Based Word Embeddings 
-
-
-
-* **ElMo** [Deep Contextualized Word Represenations](https://arxiv.org/abs/1802.05365) - [PyTorch](https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md) - [TF Implementation](https://github.com/allenai/bilm-tf)
-* **ULimFit** [Universal Language Model Fine-tuning for Text Classification](https://arxiv.org/abs/1801.06146)
-* **CoVe** [https://arxiv.org/abs/1708.00107](https://arxiv.org/abs/1708.00107)
-* **InferSent** [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data](https://arxiv.org/abs/1705.02364)
-* [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
-[Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ), Mikolov. 2014.  Introduces Paragraph Vector. Concatenates and averages pretrained, fixed word vectors to create vectors for sentences, paragraphs and documents. Also known as paragraph2vec.  Doesn't use a parse tree. Implemented in [gensim](https://github.com/piskvorky/gensim/).  See [doc2vec tutorial](http://rare-technologies.com/doc2vec-tutorial/)
-* [sense2vec](http://arxiv.org/abs/1511.06388) - on word sense disambiguation
-* [Infinite Dimensional Word Embeddings](http://arxiv.org/abs/1511.05392)
-* [Skip Thought Vectors](http://arxiv.org/abs/1506.06726) - word representation method
-* [Adaptive skip-gram](http://arxiv.org/abs/1502.07257) - similar approach, with adaptive properties
-* [Sequence to Sequence Learning](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) - word vectors for machine translation
-
-
-#### Thought Vectors
-Thought vectors are numeric representations for sentences, paragraphs, and documents.  The following papers are listed in order of date published, each one replaces the last as the state of the art in sentiment analysis | [Back to Top](#contents)
-
-* [Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.383.1327&rep=rep1&type=pdf)
-Socher et al. 2013.  Introduces Recursive Neural Tensor Network.  Uses a parse tree.
-* [Deep Recursive Neural Networks for Compositionality in Language](http://www.cs.cornell.edu/~oirsoy/files/nips14drsv.pdf)
-Irsoy & Cardie. 2014.  Uses Deep Recursive Neural Networks. Uses a parse tree.
-* [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://aclweb.org/anthology/P/P15/P15-1150.pdf)
-Tai et al. 2015  Introduces Tree LSTM. Uses a parse tree.
-* [Semi-supervised Sequence Learning](http://arxiv.org/pdf/1511.01432.pdf)
-Dai, Le 2015 "With pretraining, we are able to train long short term memory recurrent networks up to a few hundred
-timesteps, thereby achieving strong performance in many text classification tasks, such as IMDB, DBpedia and 20 Newsgroups."
-
-#### Machine Translation
+Machine Translation
 
 
 * Google Research's [blog post](https://research.googleblog.com/2017/07/building-your-own-neural-machine.html) for neural machine translation using encoder-decoder architecture with seq2seq models. [Tensorflow Code here](https://github.com/tensorflow/nmt)
@@ -510,7 +453,8 @@ Bahdanau, Cho 2014 introduced the **attention mechanism** in NLP
 * [Convolutional over Recurrent Encoder for neural machine translation](https://ufal.mff.cuni.cz/pbml/108/art-dakwale-monz.pdf) by Dakwale and Monz from University of Amsterdam compare the CNNs with a recurrent neural network with additional convolutonal layers
 * Open Source code: [OpenNMT](http://opennmt.net/) is an open source initiative for neural machine translation and neural sequence modeling. [PyTorch](https://github.com/OpenNMT/OpenNMT-py), [Tensorflow](https://github.com/OpenNMT/OpenNMT-tf) and the original [LuaTorch](https://github.com/OpenNMT/OpenNMT) implementation 
 
-####  Dialogs and Conversational 
+
+  Dialogs and Conversational 
 
 
 * [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses](http://arxiv.org/pdf/1506.06714v1.pdf)
@@ -521,7 +465,8 @@ Sordoni 2015. Generates responses to tweets.
 Shang et al. 2015  Uses Neural Responding Machine.  Trained on Weibo dataset.  Achieves one round conversations with 75% appropriate responses.
 * [arXiv: A Neural Conversation Model](http://arxiv.org/pdf/1506.05869v3.pdf) Vinyals, [Le](https://scholar.google.com/citations?user=vfT6-XIAAAAJ) 2015.  Uses LSTM RNNs to generate conversational responses
 
-#### Memory and Attention Models 
+
+ Memory and Attention Models 
 
 
 Some are courtesy [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
@@ -537,7 +482,7 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 * [Stack RNN source code](https://github.com/facebook/Stack-RNN) and [blog post](https://research.facebook.com/blog/1642778845966521/inferring-algorithmic-patterns-with-stack/)
 
 
-#### Natural Language Understanding
+ Natural Language Understanding
 
 
 
@@ -553,16 +498,9 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 * [Learning the Structure of Biomedical Relation Extractions](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004216)
 * [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) by T. Mikolov, 2012. * [Slides on the same here](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
 
-#### Named Entity Recognition
 
 
-
-* [A survey of named entity recognition and classification](http://nlp.cs.nyu.edu/sekine/papers/li07.pdf)
-* [Benchmarking the extraction and disambiguation of named entities on the semantic web](http://www.lrec-conf.org/proceedings/lrec2014/pdf/176_Paper.pdf)
-* [Knowledge base population: Successful approaches and challenges](http://www.aclweb.org/anthology/P11-1115)
-* [SpeedRead: A fast named entity recognition Pipeline](http://arxiv.org/pdf/1301.2857.pdf)
-
-#### Question Answering and Knowledge Extraction
+ Question Answering and Knowledge Extraction
 
 
 * [Markov Logic Networks for Natural Language Question Answering](http://arxiv.org/pdf/1507.03045v1.pdf)
@@ -576,26 +514,6 @@ Memory networks are implemented in [MemNN](https://github.com/facebook/MemNN).  
 * [Presentation slides for MLN tutorial](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/mln-summary-20150918.ppt)
 * [Presentation slides for QA applications of MLNs](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/Markov%20Logic%20Networks%20for%20Natural%20Language%20Question%20Answering.pdf)
 * [Presentation slides](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/poon-paper.pdf)
-
-#### Text Summarization
-
-
-
-* [awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) - curated list of resources in text summarization.
-* [Example blogpost](https://medium.com/@Currie32/text-summarization-with-amazon-reviews-41801c2210b) uses Amazon food reviews for text summarization. Code on [Github here](https://github.com/Currie32/Text-Summarization-with-Amazon-Reviews).
-* [TextRank- bringing order into text](http://web.eecs.umich.edu/~mihalcea/papers/mihalcea.emnlp04.pdf) by Mihalcea and Tarau. Code on [Github here](https://github.com/ceteri/pytextrank)
-* [Modelling compressions with Discourse constraints](http://jamesclarke.net/media/papers/clarke-lapata-emnlp07.pdf) by Clarke and Zapata provides a discourse informed model for summarization and subtitle generation.
-* [Deep Recurrent Generative Decoder model for Abstractive Text Summarization](https://arxiv.org/pdf/1708.00625v1.pdf) by Li et al, 2017 uses a sequence-to-sequence oriented encoder-decoder model equipped with a deep recurrent generative decoder.
-* [A Semantic Relevance Based Neural Network for Text Summarization and Text Simplification](https://arxiv.org/pdf/1710.02318v1.pdf) by Ma and Sun, 2017 uses a gated attention enocder-decoder for text summarization.
-* [TextSum](https://github.com/tensorflow/models/tree/master/research/textsum) implementation from Tensorflow
-
-#### Text Classification
-
-* [Brightmart/text_classification](https://github.com/brightmart/text_classification) has a list of all text classification models with their respective scores, trainings,explanations and their Python implementations.
-* [Facebook's fasttext](https://github.com/facebookresearch/fastText) is a library for text embeddings and text classification
-* [Convolutional Neural Networks for Sentence Classfication](https://arxiv.org/pdf/1408.5882v2.pdf) by Kim Yoon is now regarded as the standard baseline for text classification architecture. 
-* [Using a CNN for text classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/) by Denny Britz uses the same dataset as Kim Yoon's paper(mentioned above). The code implementation can be found [here](https://github.com/dennybritz/cnn-text-classification-tf).
-* [Character-level Convolutional Networks for Text Classification](https://arxiv.org/pdf/1509.01626v3.pdf) by Zhang et al uses CNN and compares them with the traditional text classification models. Its Lua implementation can be found [here](https://github.com/zhangxiangxiao/Crepe).
 
 -----------
 
