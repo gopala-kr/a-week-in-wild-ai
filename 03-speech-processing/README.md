@@ -18,7 +18,7 @@
   - [Speech Synthesis](#speech-synthesis)
   - [Language Modelling](#language-modelling)
   - [Natural Language Understanding](#natural-language-understanding)
-  - [Natural Language Generation](#Natural Language Generation)
+  - [Natural Language Generation](#natural-language-generation)
   - [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
   - [Conversational UI's or Chotbots](#Conversational UI's or Chotbots)
 - [Startups](#Startups)
