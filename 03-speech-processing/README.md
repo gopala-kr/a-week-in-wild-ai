@@ -43,11 +43,14 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 - [open source acoustic models at VoxForge](http://www.repository.voxforge1.org/downloads/Nightly_Builds/)
 - [Computational_linguistics](https://en.wikipedia.org/wiki/Category:Computational_linguistics)
 - [Phonetic_algorithms](https://en.wikipedia.org/wiki/Category:Phonetic_algorithms)
-- []()
-- []()
-- []()
-- []()
-
+- [A Survey of Markov Chain Models in Linguistics Applications](https://www.researchgate.net/publication/311555627_A_Survey_of_Markov_Chain_Models_in_Linguistics_Applications)
+- [Recent Progresses in Deep Learning based Acoustic Models (Updated)](https://arxiv.org/abs/1804.09298v2)
+- [Comparison of Decoding Strategies for CTC Acoustic Models](https://arxiv.org/abs/1708.04469v1)
+- [A Comparison between Deep Neural Nets and Kernel Acoustic Models for Speech Recognition](https://arxiv.org/abs/1603.05800v1)
+- [Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition](https://arxiv.org/abs/1507.06947v1)
+- [Building DNN Acoustic Models for Large Vocabulary Speech Recognition](https://arxiv.org/abs/1406.7806v2)
+- [Markov chain](https://en.wikipedia.org/wiki/Markov_chain)
+- [Hidden Markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 
 
 
@@ -58,10 +61,17 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 **Langauge Modeling**
 
+
+- []()
+- []()
+
 ---------
 
 **Speech Decoding**
 
+
+- []()
+- []()
 
 
 --------------
