@@ -657,6 +657,14 @@ lucida high level archtecture:
 - [google-tts](https://github.com/hiddentao/google-tts) : Javascript API for the Google Text-to-Speech engine
 - [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) : A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
 - [deepspeech.torch](https://github.com/SeanNaren/deepspeech.torch) : Speech Recognition using DeepSpeech2 network and the CTC activation function.
+- [espnet](https://github.com/espnet/espnet) : End-to-End Speech Processing Toolkit https://espnet.github.io/espnet/
+- [pyannote-audio](https://github.com/pyannote/pyannote-audio) : Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
+- [react-native-speech](https://github.com/naoufal/react-native-speech) : A text-to-speech library for React Native. 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
 - []() : 
 - []() : 
 - []() : 
