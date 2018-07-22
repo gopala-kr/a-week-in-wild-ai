@@ -10,7 +10,7 @@
 - [Acoustic Modeling](#acoustic-modeling)
 - [Langauge Modeling](#langauge-modeling)
 - [Speech Decoding](#speech-decoding)
-- [Deep speech](#Deep speech)
+- [Deep speech](#deep-speech)
 - [State of the art results on various datasets](#State of the art results on various datasets)
 - [Literature reviews](#Literature reviews)
   - [Automatic Speech Recognition](#Automatic Speech Recognition)
