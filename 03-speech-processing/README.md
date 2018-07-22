@@ -630,9 +630,9 @@ lucida high level archtecture:
 - [wer_are_we](https://github.com/syhw/wer_are_we) : Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
 - [speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) :Automatic Speech Recognition, Speaker Verification, Speech Synthesis, Language Modeling 
 - [artyom.js](https://github.com/sdkcarlos/artyom.js) : A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. https://sdkcarlos.github.io/sites/artyom.html
-- []() : 
-- []() : 
-- []() : 
+- [julius](https://github.com/julius-speech/julius) : Open-Source Large Vocabulary Continuous Speech Recognition Engine
+- [deepspeech.pytorch](https://github.com/SeanNaren/deepspeech.pytorch) : Speech Recognition using DeepSpeech2.
+- [Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech) : Alibaba speech technology
 - []() : 
 - []() : 
 - []() : 
