@@ -438,7 +438,7 @@ Language Modelling
 - An Analysis of Neural Language Modeling at Multiple Scales. (2018) [arxiv](https://arxiv.org/abs/1803.08240v1)
 
 
- Natural Language Understanding
+ Natural Language Understanding(NLU)
 
 
 * [Neural autocoder for paragraphs and documents](http://arxiv.org/abs/1506.01057) - LSTM representation
@@ -457,6 +457,15 @@ Language Modelling
 - Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces. [[arxiv](https://arxiv.org/abs/1805.10190v1)]
 - Towards end-to-end spoken language understanding. [[arxiv](https://arxiv.org/abs/1802.08395v1)]
 - Recent Trends in Deep Learning Based Natural Language Processing. [arxiv](https://arxiv.org/abs/1708.02709v5)
+
+ Natural Language Generation(NLG)
+ 
+- [A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/abs/1805.06553v1)
+- [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/abs/1703.09902v4)
+- [Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks](https://arxiv.org/abs/1706.00139v3)
+- [Automatic Generation of Natural Language Explanations](https://arxiv.org/abs/1707.01561v1)
+- [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/abs/1708.05148v1)
+
 
  Question Answering and Knowledge Extraction
 
