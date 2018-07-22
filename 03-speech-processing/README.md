@@ -3,6 +3,9 @@
 
 
 ---------------
+
+##### Contents
+
 - Timeline
 - Fundamental equation of speech recognition
 - Speech signal processing
@@ -24,10 +27,13 @@
 - Libraries and Implementations
 - Appendix Reference images
 
+[Back to top](#contents)
+
 ------
 
 #### Timeline
 
+[Back to top](#contents)
 
 - [Timeline of speech and voice recognition](https://en.wikipedia.org/wiki/Timeline_of_speech_and_voice_recognition)
 - [List of speech recognition software](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
@@ -44,6 +50,8 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 ---------
 #### Fundamental equation of speech recognition
 
+[Back to top](#contents)
+
 **[PPT](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)**
 
 ![eq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/eq.JPG)
@@ -53,6 +61,8 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 #### Speech signal processing
 (preprocessing/feature extraction)
+
+[Back to top](#contents)
 
 - [Audio/Speech Signal Processing](http://home.iitk.ac.in/~nnaik/pdf/PPT_AudioSpeech.pdf)
 - [speech-signal-processing](https://www.slideshare.net/lucky43/speech-signal-processing)
@@ -70,6 +80,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 #### Acoustic Modeling
 
+[Back to top](#contents)
 
 - [Acoustic model](https://en.wikipedia.org/wiki/Acoustic_model)
 - [open source acoustic models at VoxForge](http://www.repository.voxforge1.org/downloads/Nightly_Builds/)
@@ -93,6 +104,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 #### Langauge Modeling
 
+[Back to top](#contents)
 
 - [Language model](https://en.wikipedia.org/wiki/Language_model)
 - [Microsoft: Language Modeling for Speech Recognition](https://www.microsoft.com/en-us/research/project/language-modeling-for-speech-recognition/)
@@ -130,6 +142,8 @@ gnition](http://www.cs.cmu.edu/~bhiksha/courses/11-756.asr/spring2010/class.19ap
 
 #### Speech Decoding
 
+[Back to top](#contents)
+
 - [Search and Decoding](https://www.inf.ed.ac.uk/teaching/courses/asr/2011-12/asr-search-nup4.pdf)
 - [Introduction
 Finite State Automata (FSA)
@@ -151,6 +165,8 @@ Language processing](http://www.lvcsr.com/static/pubs/apsipa_09_tutorial_dixon_f
 #### Deep speech
 (recent state of the arts using DL)
 
+[Back to top](#contents)
+
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
 - Speech recognition with deep recurrent neural networks [[pdf]](http://arxiv.org/pdf/1303.5778.pdf)
@@ -165,6 +181,7 @@ Language processing](http://www.lvcsr.com/static/pubs/apsipa_09_tutorial_dixon_f
 
 #### State of the art results on various datasets
 
+[Back to top](#contents)
 
 ##### WER
 
@@ -308,9 +325,12 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 #### Literature reviews
 
+[Back to top](#contents)
 
 
 #### Automatic Speech Recognition
+
+[Back to top](#contents)
 
 
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
@@ -421,6 +441,8 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 #### Speaker Verification
 
+[Back to top](#contents)
+
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
 - **A tutorial on text-independent speaker verification**(2004), Frédéric Bimbot et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=1289376&ftid=464492&dwn=1&CFID=843437542&CFTOKEN=31448020)
 - **Deep neural networks for small footprint text-dependent speaker verification**(2014), E Variani et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6854363)
@@ -436,6 +458,9 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 -------------
 
 #### Speech Synthesis
+
+[Back to top](#contents)
+
 
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
 - **Text-to-speech synthesis**(2009), Paul Taylor et al. [[pdf]](https://books.google.com/books?hl=zh-CN&lr=&id=BFnkm-FpBAUC&oi=fnd&pg=PR9&dq=Text-to-Speech+Synthesis&ots=ucm6pVQ0bW&sig=1ZoIFILLQLbdHtJu0MlLHkmPnqE#v=onepage&q=Text-to-Speech%20Synthesis&f=false)
@@ -463,6 +488,9 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 #### Language Modelling
 
+[Back to top](#contents)
+
+
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
 - **An empirical study of smoothing techniques for language modeling**(1996), Stanley F. Chen et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=981904&ftid=567802&dwn=1&CFID=843437542&CFTOKEN=31448020)
 - **A Neural Probabilistic Language Model**(2000), Yoshua Bengio et al. [[pdf]](https://pdfs.semanticscholar.org/8d43/4a90b68fd0f2592d6fe7acf67d232123ad67.pdf?\_ga=2.262836293.895163446.1494660654-1308334183.1494658711)
@@ -481,6 +509,7 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 ####  Natural Language Understanding
 (NLU)
 
+[Back to top](#contents)
 
 * [Neural autocoder for paragraphs and documents](http://arxiv.org/abs/1506.01057) - LSTM representation
 * [LSTM over tree structures](http://arxiv.org/abs/1503.04881)
@@ -505,6 +534,8 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 ####  Natural Language Generation
 (NLG)
  
+ [Back to top](#contents)
+ 
 - [A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/abs/1805.06553v1)
 - [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/abs/1703.09902v4)
 - [Natural Language Generation for Spoken Dialogue System using RNN Encoder-Decoder Networks](https://arxiv.org/abs/1706.00139v3)
@@ -516,6 +547,7 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 ####  Question Answering and Knowledge Extraction
 
+[Back to top](#contents)
 
 * [Markov Logic Networks for Natural Language Question Answering](http://arxiv.org/pdf/1507.03045v1.pdf)
 * [Template-Based Information Extraction without the Templates](http://www.usna.edu/Users/cs/nchamber/pubs/acl2011-chambers-templates.pdf)
@@ -572,6 +604,8 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 #### Conversational UI's or Chotbots
 
+[Back to top](#contents)
+
 - [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a)
 - [The Rapidly Changing Landscape of Conversational Agents](https://arxiv.org/abs/1803.08419v2)
 - [The Rise of Bots: A Survey of Conversational Interfaces, Patterns, and Paradigms](https://www.researchgate.net/publication/317418656_The_Rise_of_Bots_A_Survey_of_Conversational_Interfaces_Patterns_and_Paradigms)
@@ -589,6 +623,8 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 -----------
 
 #### Startups
+
+[Back to top](#contents)
 
 - [Speech Recognition Startups - AngelList](https://angel.co/speech-recognition)
 - [Techcrunch: Speech Recognition](https://techcrunch.com/tag/speech-recognition/)
@@ -622,6 +658,8 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 -----------
 
 #### Libraries and Implementations
+
+[Back to top](#contents)
 
 - [speech-language-processing](https://github.com/edobashira/speech-language-processing) : A curated list of speech and natural language processing resources 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) : A TensorFlow implementation of Baidu's DeepSpeech architecture
@@ -716,6 +754,7 @@ lucida high level archtecture:
 
 #### Appendix Reference images
 
+[Back to top](#contents)
 
 
 Evolution of Search 
@@ -837,6 +876,8 @@ The complete ASR Infograph:
 
 #### Bot Ecosystem and frameworks
 
+[Back to top](#contents)
+
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
 
@@ -889,6 +930,9 @@ Source: [Conversational Bots Deep Dive – What’s new with the General Availab
 ------
 
 ![ch-int-3-channels](https://www.capgemini.com/wp-content/uploads/2017/08/ch-int-3-channels.jpg)
+
+
+[Back to top](#contents)
 
 ---------
 --------------
