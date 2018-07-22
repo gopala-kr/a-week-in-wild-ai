@@ -374,6 +374,35 @@ Language Modelling
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 
 
+-----------
+
+Startups
+
+- [Speech Recognition Startups - AngelList](https://angel.co/speech-recognition)
+- [Techcrunch: Speech Recognition](https://techcrunch.com/tag/speech-recognition/)
+- [Top 10 Startups Building Speech-to-text Conversion Solutions](https://vitalflux.com/top-10-startups-building-speech-text-conversion-solutions/)
+- [Three Startups That Lead the Way in Voice Recognition](https://www.rocketspace.com/corporate-innovation/three-startups-that-lead-the-way-in-voice-recognition)
+- [AI for Voice Transcription – Comparing Upcoming Startups and Established Players](https://www.techemergence.com/ai-for-voice-transcription/)
+- [Which startups are making real progress in speech recognition?](https://www.quora.com/Which-startups-are-making-real-progress-in-speech-recognition)
+- [voice-recognition-companies-alexa-accelerator-2017](https://www.globalme.net/blog/voice-recognition-companies-alexa-accelerator-2017)
+- [Nine things this startup has done better than Google, Apple and Amazon](https://economictimes.indiatimes.com/small-biz/startups/features/nine-things-this-startup-has-done-better-than-google-apple-and-amazon-liv-ai/articleshow/61995233.cms)
+- [AI led speech recognition tech startup Liv.ai breaks the lingo barriers for businesses, end-users](https://cio.economictimes.indiatimes.com/news/business-analytics/ai-led-speech-recognition-tech-startup-liv-ai-breaks-the-lingo-barriers-for-businesses-end-users/62561818)
+- [20 fascinating Asian startups you should know about](https://www.uniphore.com/news/20-fascinating-asian-startups-you-should-know-about)
+- [Uniphore is 10!](https://www.uniphore.com/blog/2018/05/uniphore-is-10)
+- [Technology trends for 2018: Voice recognition](https://startups.co.uk/tech-trends-2018-voice-recognition/)
+- [Voice Tech Landscape: 150+ Infrastructure, Horizontal and Vertical Startups Mapped and Analysed](https://medium.com/point-nine-news/voice-tech-landscape-150-startups-mapped-and-analysed-82c5adaf710)
+- [The Voice Enabled Revolution](https://medium.com/startup-grind/the-voice-enabled-revolution-f35f751c2f77)
+- [voice-recognition](https://bostonstartupsguide.com/tag/voice-recognition/)
+- [Indian start-ups bet on speech recognition tech](https://www.thehindubusinessline.com/info-tech/Indian-start-ups-bet-on-speech-recognition-tech/article20847021.ece)
+- [acquisitions: Speech Recognition](https://index.co/market/speech-recognition/acquisitions)
+- [Exclusive: Speech recognition startup Uniphore raises Series B round](https://www.vccircle.com/exclusive-speech-recognition-startup-uniphore-raises-series-b-round/)
+- [Why India’s speech-based AI companies can’t understand Hyderabadi](https://factordaily.com/speech-ai-india/)
+- [Microsoft acquires speech recognition AI startup Semantic Machines](https://www.bizjournals.com/boston/news/2018/05/21/microsoft-acquires-speech-recognition-ai-startup.html)
+- [NVIDIA Invests in Speech Recognition Startup Deepgram](https://blogs.nvidia.com/blog/2018/03/26/nvidia-invests-in-speech-recognition-startup-deepgram/)
+- [Crunchbase: Speech Recognition](https://www.crunchbase.com/search/organizations/field/organizations/categories/24dad27e-6a49-ccc1-ec31-854b73d60d16)
+- [montreal-fluent-ai-startup-helping-speech-recognition](http://www.planetweb.ca/profiles/montreal-fluent-ai-startup-helping-speech-recognition/)
+- [Venture Reader: Top speech recognition Companies](https://www.ventureradar.com/keyword/speech%20recognition)
+
 ----------------
 ---------------
 
