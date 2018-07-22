@@ -584,6 +584,82 @@ Startups
 - [top-7-chatbot-platforms-to-build-bots-for-your-business](https://www.analyticsinsight.net/top-7-chatbot-platforms-to-build-bots-for-your-business/)
 - [Top 10 Best Chatbot Builders & Chat Bot Building Platforms 2018](https://bloggerlocal.com/national/reviews/best-chatbot-builders-and-chat-bot-buildling-platforms)
 
+
+
+-----------
+
+libraries/Implementations
+
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+
+
+
+
+
 ---------------
 
 > Appendix: Reference images
