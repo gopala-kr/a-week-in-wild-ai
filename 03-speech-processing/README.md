@@ -652,9 +652,8 @@ lucida high level archtecture:
 - [dc_tts](https://github.com/Kyubyong/dc_tts) : A TensorFlow Implementation of DC-TTS: yet another text-to-speech model
 - [watson-word-watcher](https://github.com/dannguyen/watson-word-watcher) : A proof of concept using IBM's Speech-to-Text API to do quick-and-dirty transcriptions
 - [node-speakable](https://github.com/sreuter/node-speakable) : A continuous speech recognition module for node.js
-
-- []() : 
-- []() : 
+- [World](https://github.com/mmorise/World) : A high-quality speech analysis, manipulation and synthesis system 
+- [tensorflow_speech_recognition_demo](https://github.com/llSourcell/tensorflow_speech_recognition_demo) : This is the code for 'How to Make a Simple Tensorflow Speech Recognizer' by @Sirajology on Youtube
 - []() : 
 - []() : 
 - []() : 
