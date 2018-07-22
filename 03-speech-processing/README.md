@@ -524,11 +524,17 @@ Language Modelling
 
 Conversational UI's/Chotbots
 
+- [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a)
 - [The Rapidly Changing Landscape of Conversational Agents](https://arxiv.org/abs/1803.08419v2)
+- [The Rise of Bots: A Survey of Conversational Interfaces, Patterns, and Paradigms](https://www.researchgate.net/publication/317418656_The_Rise_of_Bots_A_Survey_of_Conversational_Interfaces_Patterns_and_Paradigms)
 - [awesome-ChatBots](https://github.com/technopreneurG/awesome-ChatBots)
 - [awesome-conversational](https://github.com/mortenjust/awesome-conversational)
-
-
+- [Conversational UI: How to walk the talk](https://www.slideshare.net/stephengay/conversational-ui-how-to-walk-the-talk)
+- [5 Reasons Why You Should Be Using Conversational Surveys](http://customerthink.com/5-reasons-why-you-should-be-using-conversational-surveys/)
+- [On chat as interface](https://medium.com/@acroll/on-chat-as-interface-92a68d2bf854)
+- [The State of Voice User Experience](https://medium.com/@Punchcut/the-state-of-voice-user-experience-48f4a0c3d628)
+- [Replacing Surveys With Chatbot Conversations](https://chatbotsmagazine.com/replacing-surveys-with-chatbot-conversations-8295614af367)
+- [A SURVEY OF VARIOUS CHATBOT IMPLEMENTATION TECHNIQUES](https://pdfs.semanticscholar.org/8e60/5c49d4a7cba9bf077d97b401ba78aafe693f.pdf)
 
 
 -----------
