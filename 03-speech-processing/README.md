@@ -24,13 +24,14 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 - Deep speech(recent state of the arts using DL)
 - State of the art results on various datasets
 - Literature reviews
-- Speaker Verification
-- Speech Synthesis
-- Language Modelling
-- Natural Language Understanding(NLU)
-- Natural Language Generation(NLG)
-- Question Answering and Knowledge Extraction
-- Conversational UI's/Chotbots
+  - Automatic Speech Recognition
+  - Speaker Verification
+  - Speech Synthesis
+  - Language Modelling
+  - Natural Language Understanding(NLU)
+  - Natural Language Generation(NLG)
+  - Question Answering and Knowledge Extraction
+  - Conversational UI's/Chotbots
 - Startups
 - libraries/Implementations
 - Appendix: Reference images
