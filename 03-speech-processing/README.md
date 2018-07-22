@@ -12,11 +12,41 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ---------------
 
-[Fundamentals of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)
+[Fundamentals equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)
 
 ![eq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/eq.JPG)
 
 -------------
+
+Speech signal processing
+
+- [Audio/Speech Signal Processing](http://home.iitk.ac.in/~nnaik/pdf/PPT_AudioSpeech.pdf)
+- [speech-signal-processing](https://www.slideshare.net/lucky43/speech-signal-processing)
+- [Research issues in speech processing](https://www.slideshare.net/SabarimalaiManikandan/speech-processing)
+- [Digital Signal Processing Overview]()
+- [Digital_signal_processing](https://en.wikipedia.org/wiki/Digital_signal_processing)
+- [Digital_signal_processor](https://en.wikipedia.org/wiki/Digital_signal_processor)
+- [Neurocomputational speech processing](https://en.wikipedia.org/wiki/Neurocomputational_speech_processing)
+- [Speech_coding](https://en.wikipedia.org/wiki/Speech_coding)
+- [Speech_synthesis](https://en.wikipedia.org/wiki/Speech_synthesis)
+- [speechlinks](http://www.speech.cs.cmu.edu/comp.speech/Section3/speechlinks.html)
+- [Lecture Notes in Speech Production, Speech Coding, and Speech Recognition](http://www.isle.illinois.edu/~hasegawa/notes/)
+
+------------
+
+Acoustic Modeling
+
+----------
+
+Langauge Modeling
+
+---------
+
+Speech Decoding
+
+
+
+--------------
 
 Deep speech
 
