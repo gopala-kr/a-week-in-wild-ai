@@ -4,6 +4,8 @@
 
 ---------------
 
+> ##### Contents
+
 - [Timeline](#Timeline)
 - [Fundamental equation of speech recognition](#fundamental-equation-of-speech-recognition)
 - [Speech signal processing](#speech-signal-processing)
@@ -26,7 +28,6 @@
 - [Appendix Reference images](#appendix-reference-images)
 
 
-##### Contents
 
 [Back to top](#contents)
 
