@@ -8,7 +8,7 @@
 - [Fundamental equation of speech recognition](#fundamental-equation-of-speech-recognition)
 - [Speech signal processing](#speech-signal-processing)
 - [Acoustic Modeling](#acoustic-modeling)
-- [Langauge Modeling](#Langauge Modeling)
+- [Langauge Modeling](#langauge-modeling)
 - [Speech Decoding](#Speech Decoding)
 - [Deep speech](#Deep speech)
 - [State of the art results on various datasets](#State of the art results on various datasets)
