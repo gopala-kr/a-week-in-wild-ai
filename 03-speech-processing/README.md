@@ -27,12 +27,13 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 - Speaker Verification
 - Speech Synthesis
 - Language Modelling
--
--
--
--
--
--
+- Natural Language Understanding(NLU)
+- Natural Language Generation(NLG)
+- Question Answering and Knowledge Extraction
+- Conversational UI's/Chotbots
+- Startups
+- libraries/Implementations
+- Appendix: Reference images
 
 
 ---------
