@@ -16,13 +16,18 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ---------------
 
+
+
+---------
+
 **[Fundamental equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)**
 
 ![eq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/eq.JPG)
 
 -------------
 
-**Speech signal processing**(preprocessing/feature extraction)
+
+#### Speech signal processing(preprocessing/feature extraction)
 
 - [Audio/Speech Signal Processing](http://home.iitk.ac.in/~nnaik/pdf/PPT_AudioSpeech.pdf)
 - [speech-signal-processing](https://www.slideshare.net/lucky43/speech-signal-processing)
@@ -38,7 +43,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ------------
 
-**Acoustic Modeling**
+#### Acoustic Modeling
 
 
 - [Acoustic model](https://en.wikipedia.org/wiki/Acoustic_model)
@@ -61,7 +66,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ----------
 
-**Langauge Modeling**
+#### Langauge Modeling
 
 
 - [Language model](https://en.wikipedia.org/wiki/Language_model)
@@ -98,7 +103,7 @@ gnition](http://www.cs.cmu.edu/~bhiksha/courses/11-756.asr/spring2010/class.19ap
 
 ---------
 
-**Speech Decoding**
+#### Speech Decoding
 
 - [Search and Decoding](https://www.inf.ed.ac.uk/teaching/courses/asr/2011-12/asr-search-nup4.pdf)
 - [Introduction
@@ -118,7 +123,7 @@ Language processing](http://www.lvcsr.com/static/pubs/apsipa_09_tutorial_dixon_f
 --------------
 
 
-**Deep speech**(recent state of the arts using DL)
+#### Deep speech(recent state of the arts using DL)
 
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
@@ -132,10 +137,10 @@ Language processing](http://www.lvcsr.com/static/pubs/apsipa_09_tutorial_dixon_f
 - [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/lec26_audio.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/LiDeng-BerlinOct2015-ASR-GenDisc-4by3.pptx)] [[PPT](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/HumansVsMachine-Afeka2017-invited.pdf)]
 ----------------
 
-> State of the art results on various datasets
+#### State of the art results on various datasets
 
 
-#### WER
+##### WER
 
 #### LibriSpeech
 
@@ -275,7 +280,7 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 -----------------
 
-> Literature reviews:
+#### Literature reviews
 
 
 
@@ -388,7 +393,7 @@ Automatic Speech Recognition
 
 ----------
 
-Speaker Verification
+#### Speaker Verification
 
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
 - **A tutorial on text-independent speaker verification**(2004), Frédéric Bimbot et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=1289376&ftid=464492&dwn=1&CFID=843437542&CFTOKEN=31448020)
@@ -404,7 +409,7 @@ Speaker Verification
 
 -------------
 
-Speech Synthesis
+#### Speech Synthesis
 
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
 - **Text-to-speech synthesis**(2009), Paul Taylor et al. [[pdf]](https://books.google.com/books?hl=zh-CN&lr=&id=BFnkm-FpBAUC&oi=fnd&pg=PR9&dq=Text-to-Speech+Synthesis&ots=ucm6pVQ0bW&sig=1ZoIFILLQLbdHtJu0MlLHkmPnqE#v=onepage&q=Text-to-Speech%20Synthesis&f=false)
@@ -430,7 +435,7 @@ Speech Synthesis
 
 --------------
 
-Language Modelling
+#### Language Modelling
 
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
 - **An empirical study of smoothing techniques for language modeling**(1996), Stanley F. Chen et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=981904&ftid=567802&dwn=1&CFID=843437542&CFTOKEN=31448020)
@@ -447,7 +452,7 @@ Language Modelling
 
 ----------------
 
- Natural Language Understanding(NLU)
+####  Natural Language Understanding(NLU)
 
 
 * [Neural autocoder for paragraphs and documents](http://arxiv.org/abs/1506.01057) - LSTM representation
@@ -470,7 +475,7 @@ Language Modelling
 
 -------------
 
- Natural Language Generation(NLG)
+####  Natural Language Generation(NLG)
  
 - [A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/abs/1805.06553v1)
 - [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/abs/1703.09902v4)
@@ -481,7 +486,7 @@ Language Modelling
 
 ------------------
 
- Question Answering and Knowledge Extraction
+####  Question Answering and Knowledge Extraction
 
 
 * [Markov Logic Networks for Natural Language Question Answering](http://arxiv.org/pdf/1507.03045v1.pdf)
@@ -537,7 +542,7 @@ Language Modelling
 
 -----------------
 
-Conversational UI's/Chotbots
+#### Conversational UI's/Chotbots
 
 - [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a)
 - [The Rapidly Changing Landscape of Conversational Agents](https://arxiv.org/abs/1803.08419v2)
@@ -555,7 +560,7 @@ Conversational UI's/Chotbots
 
 -----------
 
-Startups
+#### Startups
 
 - [Speech Recognition Startups - AngelList](https://angel.co/speech-recognition)
 - [Techcrunch: Speech Recognition](https://techcrunch.com/tag/speech-recognition/)
@@ -588,7 +593,7 @@ Startups
 
 -----------
 
-libraries/Implementations
+#### libraries/Implementations
 
 - [speech-language-processing](https://github.com/edobashira/speech-language-processing) : A curated list of speech and natural language processing resources 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) : A TensorFlow implementation of Baidu's DeepSpeech architecture
@@ -681,7 +686,7 @@ lucida high level archtecture:
 
 ---------------
 
-> Appendix: Reference images
+#### Appendix: Reference images
 
 
 
@@ -802,7 +807,7 @@ The complete ASR Infograph:
 
 ----------
 
-Bot ecosystem and frameworks:
+#### Bot ecosystem and frameworks:
 
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
