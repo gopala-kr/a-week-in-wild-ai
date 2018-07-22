@@ -601,9 +601,9 @@ lucida high level archtecture:
 - [annyang](https://github.com/TalAter/annyang) : Speech recognition for your site https://www.talater.com/annyang/
 - [kaldi](https://github.com/kaldi-asr/kaldi) : This is now the official location of the Kaldi project. http://kaldi-asr.org
 - [speech_recognition](https://github.com/Uberi/speech_recognition) : Speech recognition module for Python, supporting several engines and APIs, online and offline. https://pypi.org/project/SpeechRecognition/
-- []() : 
-- []() : 
-- []() : 
+- [juliusjs](https://github.com/zzmp/juliusjs) : A speech recognition library for the web https://zzmp.github.io/juliusjs 
+- [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) : Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
+- [translate-shell](https://github.com/soimort/translate-shell) :  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, DeepL Translator, etc. https://www.soimort.org/translate-shell
 - []() : 
 - []() : 
 - []() : 
