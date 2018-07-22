@@ -13,7 +13,7 @@
 - [Deep speech](#deep-speech)
 - [State of the art results on various datasets](#state-of-the-art-results-on-various-datasets)
 - [Literature reviews](#literature-reviews)
-  - [Automatic Speech Recognition](#Automatic Speech Recognition)
+  - [Automatic Speech Recognition](#automatic-speech-recognition)
   - [Speaker Verification](#Speaker Verification)
   - [Speech Synthesis](#Speech Synthesis)
   - [Language Modelling](#Language Modelling)
