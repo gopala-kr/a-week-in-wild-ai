@@ -714,7 +714,7 @@ lucida high level archtecture:
 
 ---------------
 
-#### Appendix: Reference images
+#### Appendix Reference images
 
 
 
@@ -835,7 +835,7 @@ The complete ASR Infograph:
 
 ----------
 
-#### Bot Ecosystem and frameworks:
+#### Bot Ecosystem and frameworks
 
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
