@@ -481,6 +481,11 @@ Language Modelling
 * [Presentation slides for MLN tutorial](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/mln-summary-20150918.ppt)
 * [Presentation slides for QA applications of MLNs](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/Markov%20Logic%20Networks%20for%20Natural%20Language%20Question%20Answering.pdf)
 * [Presentation slides](https://github.com/clulab/nlp-reading-group/blob/master/fall-2015-resources/poon-paper.pdf)
+- [[Neural Network Models for Paraphrase Identification, Semantic Textual Similarity, Natural Language Inference, and Question Answering](https://arxiv.org/abs/1806.04330v1)]
+- Survey of Recent Advances in Visual Question Answering. [[arxiv](https://arxiv.org/abs/1709.08203v1)]
+- Survey of Visual Question Answering: Datasets and Techniques. [[arxiv](https://arxiv.org/abs/1705.03865v2)]
+- Visual Question Answering: A Survey of Methods and Datasets [[arxiv](https://arxiv.org/abs/1607.05910v1)]
+
 
 -----------
 
