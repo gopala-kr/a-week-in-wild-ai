@@ -452,7 +452,11 @@ Language Modelling
 * [Computational Grounded Cognition: a new alliance between grounded cognition and computational modelling](http://journal.frontiersin.org/article/10.3389/fpsyg.2012.00612/full)
 * [Learning the Structure of Biomedical Relation Extractions](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004216)
 * [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf) by T. Mikolov, 2012. * [Slides on the same here](http://www.fit.vutbr.cz/~imikolov/rnnlm/google.pdf)
-
+- End-to-End Joint Learning of Natural Language Understanding and Dialogue Manager. 2017 [[arxiv](https://arxiv.org/abs/1612.00913v2)]
+- Natural Language Processing for Information Extraction. 2018 [[arxiv](https://arxiv.org/abs/1807.02383v1)]
+- Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces. [[arxiv](https://arxiv.org/abs/1805.10190v1)]
+- Towards end-to-end spoken language understanding. [[arxiv](https://arxiv.org/abs/1802.08395v1)]
+- Recent Trends in Deep Learning Based Natural Language Processing. [arxiv](https://arxiv.org/abs/1708.02709v5)
 
  Question Answering and Knowledge Extraction
 
