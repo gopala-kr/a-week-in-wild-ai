@@ -639,10 +639,10 @@ lucida high level archtecture:
 - [web-speech-api](https://github.com/mdn/web-speech-api) : A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [termit](https://github.com/pawurb/termit) : Translations with speech synthesis in your terminal as a ruby gem
 - [parrot](https://github.com/sotelo/parrot) : RNN-based generative models for speech.
-- []() : 
-- []() : 
-- []() : 
-- []() : 
+- [java-speech-api](https://github.com/lkuza2/java-speech-api) : The J.A.R.V.I.S. Speech API is designed to be simple and efficient, using the speech engines created by Google to provide functionality for parts of the API. Essentially, it is an API written in Java, including a recognizer, synthesizer, and a microphone capture utility. The project uses Google services for the synthesizer and recognizer. 
+- [google-speech-v2](https://github.com/gillesdemey/google-speech-v2) : Reverse Engineering Google's Speech To Text API (v2)
+- [uSpeech](https://github.com/arjo129/uSpeech) : Speech recognition toolkit for the arduino
+- [SpeechRecognitionView](https://github.com/zagum/SpeechRecognitionView) : Google Now" style animation for Speech Recognizer.
 - []() : 
 - []() : 
 - []() : 
