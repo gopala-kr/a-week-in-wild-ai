@@ -622,14 +622,14 @@ lucida high level archtecture:
 - [speak.js](https://github.com/kripken/speak.js) : Text-to-Speech in JavaScript using eSpeak
 - [say.js](https://github.com/Marak/say.js) : TTS (text to speech) for node.js. send text from node.js to your speakers.
 - [tacotron](https://github.com/keithito/tacotron) : A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
+- [gTTS](https://github.com/pndurette/gTTS) : Python library and CLI tool to interface with Google Translate's text-to-speech API http://gtts.readthedocs.org/
+- [loop](https://github.com/facebookresearch/loop) : A method to generate speech across multiple speakers
+- [react-simple-chatbot](https://github.com/LucasBassetti/react-simple-chatbot) : Easy way to create conversation chats
+- [deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch) : PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models https://r9y9.github.io/deepvoice3_pytorch/
+- [watson-developer-cloud/speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) : Sample Node.js Application for the IBM Watson Speech to Text Service https://speech-to-text-demo.ng.bluemix.net/
+- [wer_are_we](https://github.com/syhw/wer_are_we) : Attempt at tracking states of the arts and recent results (bibliography) on speech recognition.
+- [speech-recognition-speech-synthesis-papers](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers) :Automatic Speech Recognition, Speaker Verification, Speech Synthesis, Language Modeling 
+- [artyom.js](https://github.com/sdkcarlos/artyom.js) : A voice control - voice commands - speech recognition and speech synthesis javascript library. Create your own siri,google now or cortana with Google Chrome within your website. https://sdkcarlos.github.io/sites/artyom.html
 - []() : 
 - []() : 
 - []() : 
