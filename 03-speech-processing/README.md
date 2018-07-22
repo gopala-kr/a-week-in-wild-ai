@@ -598,9 +598,9 @@ lucida high level archtecture:
 
 ![high_level](https://raw.githubusercontent.com/claritylab/lucida/master/high_level.png)
 
-- []() : 
-- []() : 
-- []() : 
+- [annyang](https://github.com/TalAter/annyang) : Speech recognition for your site https://www.talater.com/annyang/
+- [kaldi](https://github.com/kaldi-asr/kaldi) : This is now the official location of the Kaldi project. http://kaldi-asr.org
+- [speech_recognition](https://github.com/Uberi/speech_recognition) : Speech recognition module for Python, supporting several engines and APIs, online and offline. https://pypi.org/project/SpeechRecognition/
 - []() : 
 - []() : 
 - []() : 
