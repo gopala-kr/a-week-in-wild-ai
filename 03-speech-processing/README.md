@@ -536,6 +536,7 @@ Conversational UI's/Chotbots
 - [Replacing Surveys With Chatbot Conversations](https://chatbotsmagazine.com/replacing-surveys-with-chatbot-conversations-8295614af367)
 - [A SURVEY OF VARIOUS CHATBOT IMPLEMENTATION TECHNIQUES](https://pdfs.semanticscholar.org/8e60/5c49d4a7cba9bf077d97b401ba78aafe693f.pdf)
 - [Chatbot Infographic](http://www.oracle.com/us/technologies/mobile/chatbot-infographic-3672253.pdf)
+- [Design Framework for Chatbots](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3)
 
 -----------
 
@@ -702,10 +703,49 @@ Bot ecosystem and frameworks:
 
 --------
 
+![bots_timeline_20160803](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/08/bots_timeline_20160803.png)
+
+----------
+
 ![5588dd73-2c97-4efb-9a8e-e24ff0f31806](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png)
 
 Source: [Conversational Bots Deep Dive – What’s new with the General Availability of Azure Bot Service and Language Understanding](https://azure.microsoft.com/en-us/blog/conversational-bots-deep-dive-what-s-new-with-the-general-availability-of-azure-bot-service-and-language-understanding/)
 
+---------
+
+![Skills_and_technologies_driving_chatbot_innovation](https://jasoren.com/wp-content/uploads/2018/01/Skills_and_technologies_driving_chatbot_innovation_-_Jasoren.jpg)
+
+
+------
+
+![architecture_chatbot2](https://openwt.com/sites/default/files/architecture_chatbot2.png)
+
+
+------
+
+![omni-channel-diagram](https://korezone-kore.netdna-ssl.com/wp-content/uploads/2016/06/omni-channel-diagram.png)
+
+
+-----------
+
+![687474703a2f2f692e696d6775722e636f6d2f6b423966544f6f2e706e67](https://camo.githubusercontent.com/166e121dadefd3599dc992db85a177bfc0b9d06e/687474703a2f2f692e696d6775722e636f6d2f6b423966544f6f2e706e67)
+
+-----------
+
+![anatomy_of_a_chatbot](https://dionhinchcliffe.files.wordpress.com/2016/04/anatomy_of_a_chatbot.png)
+
+------
+
+![bot-architecture.png?sfvrsn=4bb5a9ca_0](https://d117h1jjiq768j.cloudfront.net/images/default-source/blogs/2016-09/openedge-chatbot-architecture.png?sfvrsn=4bb5a9ca_0)
+
+-----------
+
+![Amazon_Eco_Chatbot](https://development.rojoinnovation.com/wp-content/uploads/2017/10/Amazon_Eco_Chatbot.png)
+
+
+------
+
+![ch-int-3-channels](https://www.capgemini.com/wp-content/uploads/2017/08/ch-int-3-channels.jpg)
 
 ---------
 --------------
