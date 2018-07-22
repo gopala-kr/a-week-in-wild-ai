@@ -633,9 +633,9 @@ lucida high level archtecture:
 - [julius](https://github.com/julius-speech/julius) : Open-Source Large Vocabulary Continuous Speech Recognition Engine
 - [deepspeech.pytorch](https://github.com/SeanNaren/deepspeech.pytorch) : Speech Recognition using DeepSpeech2.
 - [Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech) : Alibaba speech technology
-- []() : 
-- []() : 
-- []() : 
+- [ark-tweet-nlp](https://github.com/brendano/ark-tweet-nlp) : CMU ARK Twitter Part-of-Speech Tagger http://www.ark.cs.cmu.edu/TweetNLP/
+- [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) : Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
+- [speechpy](https://github.com/astorfi/speechpy) : SpeechPy - A Library for Speech Processing and Recognition: http://speechpy.readthedocs.io/en/latest/
 - []() : 
 - []() : 
 - []() : 
