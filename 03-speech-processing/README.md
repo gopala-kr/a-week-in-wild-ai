@@ -17,7 +17,7 @@
   - [Speaker Verification](#speaker-verification)
   - [Speech Synthesis](#speech-synthesis)
   - [Language Modelling](#language-modelling)
-  - [Natural Language Understanding](#Natural Language Understanding)
+  - [Natural Language Understanding](#natural-language-understanding)
   - [Natural Language Generation](#Natural Language Generation)
   - [Question Answering and Knowledge Extraction](#Question Answering and Knowledge Extraction)
   - [Conversational UI's or Chotbots](#Conversational UI's or Chotbots)
