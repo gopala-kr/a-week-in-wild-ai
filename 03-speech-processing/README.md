@@ -3,7 +3,7 @@
 
 
 ---------------
-- Timeline of speech and voice recognition
+- Timeline
 - Fundamental equation of speech recognition
 - Speech signal processing(preprocessing/feature extraction)
 - Acoustic Modeling
@@ -26,6 +26,9 @@
 
 ------
 
+#### Timeline
+
+
 - [Timeline of speech and voice recognition](https://en.wikipedia.org/wiki/Timeline_of_speech_and_voice_recognition)
 - [List of speech recognition software](https://en.wikipedia.org/wiki/List_of_speech_recognition_software)
 - [Survey on Chatbot Design Techniques in Speech
@@ -39,8 +42,9 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 
 ---------
+#### Fundamental equation of speech recognition
 
-**[Fundamental equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)**
+**[PPT](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)**
 
 ![eq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/eq.JPG)
 
