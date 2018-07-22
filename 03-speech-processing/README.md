@@ -643,9 +643,9 @@ lucida high level archtecture:
 - [google-speech-v2](https://github.com/gillesdemey/google-speech-v2) : Reverse Engineering Google's Speech To Text API (v2)
 - [uSpeech](https://github.com/arjo129/uSpeech) : Speech recognition toolkit for the arduino
 - [SpeechRecognitionView](https://github.com/zagum/SpeechRecognitionView) : Google Now" style animation for Speech Recognizer.
-- []() : 
-- []() : 
-- []() : 
+- [speech2text](https://github.com/taf2/speech2text) : Using Google Speech to Text API Provide a Simple Interface to Convert Audio Files http://calltrackingmetrics.com/
+- [pyttsx](https://github.com/RapidWareTech/pyttsx) : Cross-platform text-to-speech wrapper
+- [segan](https://github.com/santi-pdp/segan) : Speech Enhancement Generative Adversarial Network in TensorFlow
 - []() : 
 - []() : 
 - []() : 
