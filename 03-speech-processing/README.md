@@ -15,7 +15,7 @@
 - [Literature reviews](#literature-reviews)
   - [Automatic Speech Recognition](#automatic-speech-recognition)
   - [Speaker Verification](#speaker-verification)
-  - [Speech Synthesis](#Speech Synthesis)
+  - [Speech Synthesis](#speech-synthesis)
   - [Language Modelling](#Language Modelling)
   - [Natural Language Understanding](#Natural Language Understanding)
   - [Natural Language Generation](#Natural Language Generation)
