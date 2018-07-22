@@ -590,6 +590,7 @@ Startups
 
 libraries/Implementations
 
+- [speech-language-processing](https://github.com/edobashira/speech-language-processing) : A curated list of speech and natural language processing resources 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) : A TensorFlow implementation of Baidu's DeepSpeech architecture
 - [TextBlob](https://github.com/sloria/TextBlob) : Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. https://textblob.readthedocs.io/ 
 - [lucida](https://github.com/claritylab/lucida) : Speech and Vision Based Intelligent Personal Assistant
@@ -604,9 +605,8 @@ lucida high level archtecture:
 - [juliusjs](https://github.com/zzmp/juliusjs) : A speech recognition library for the web https://zzmp.github.io/juliusjs 
 - [speech-to-text-wavenet](https://github.com/buriburisuri/speech-to-text-wavenet) : Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow
 - [translate-shell](https://github.com/soimort/translate-shell) :  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, DeepL Translator, etc. https://www.soimort.org/translate-shell
-- []() : 
-- []() : 
-- []() : 
+- [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) : End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow
+- [say_what](https://github.com/joshnewlan/say_what) : Using speech-to-text to fully check out during con calls
 - []() : 
 - []() : 
 - []() : 
