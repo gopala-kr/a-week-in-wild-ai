@@ -63,10 +63,18 @@ Deep speech
 
 -----------------
 
-Literature reviews:
+> Literature reviews:
+
 
 
 Automatic Speech Recognition
+
+
+The holy grail of ASR
+
+![nJNxFmJaHxyJTtVFkhGTlg](https://cdn-images-1.medium.com/max/880/1*nJNxFmJaHxyJTtVFkhGTlg.png)
+
+-------
 
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
 - **A Maximum Likelihood Approach to Continuous Speech Recognition**(1983), LALIT R. BAHL et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4767370&tag=1)
@@ -325,12 +333,6 @@ Siri:
 Sirius:
 
 ![sirius-free-voice-systems-1](https://res.infoq.com/news/2015/04/sirius-free-voice-assistant/en/resources/sirius-free-voice-systems-1.jpg)
-
-
-------
-
-![Watson-Cortana-AIs](https://marionoioso.com/wp-content/uploads/2017/04/Watson-Cortana-AIs.jpg)
-
 
 ---------
 Mobile voice assistants architecture
