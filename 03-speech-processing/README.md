@@ -22,7 +22,7 @@
   - [Question Answering and Knowledge Extraction](#question-answering-and-knowledge-extraction)
   - [Conversational UI's or Chotbots](#conversational-ui's-or-chotbots)
 - [Startups](#startups)
-- [Libraries and Implementations](#Libraries and Implementations)
+- [Libraries and Implementations](#libraries-and-implementations)
 - [Appendix Reference images](#Appendix Reference images)
 
 
