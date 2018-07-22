@@ -377,6 +377,9 @@ Automatic Speech Recognition
 - **State-of-the-art Speech Recognition With Sequence-to-Sequence Models**(2017), Chung-Cheng Chiu et al. [[pdf]](https://arxiv.org/pdf/1712.01769)
 - **Towards Language-Universal End-to-End Speech Recognition**(2017), Suyoun Kim et al. [[pdf]](https://arxiv.org/pdf/1711.02207)
 - **Accelerating recurrent neural network language model based online speech recognition system**(2018), K Lee et al. [[pdf]](https://arxiv.org/pdf/1801.09866)
+- Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems. 2018 [arxiv](https://arxiv.org/abs/1709.04482v1)
+- Did you hear that? Adversarial Examples Against Automatic Speech Recognition. 2018 [arxiv](https://arxiv.org/abs/1801.00554v1)
+
 
 
 Speaker Verification
