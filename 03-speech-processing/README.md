@@ -8,7 +8,9 @@
 Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf)
 - [The 2018 State of Chatbots Report: How Chatbots Are Reshaping Online Experiences](https://blog.drift.com/chatbots-report/)
 - [Comparison of speech synthesizers](https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers)
-
+- [Speech_Technology](https://curlie.org/Computers/Speech_Technology)
+- [Speech_recognition](https://en.wikipedia.org/wiki/Speech_recognition)
+- [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 
 ---------------
 
