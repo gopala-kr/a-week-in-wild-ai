@@ -14,14 +14,19 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 #### Architecture of ASR
 
-------
 ![1-s2.0-S0167639313000988-gr2](https://www.researchgate.net/profile/Alexey_Karpov2/publication/259118437/figure/fig1/AS:297010319118352@1447824186627/Architecture-of-a-state-of-the-art-automatic-speech-recognition-system-and-its-components.png)
 
 -----------
 
-App flow:
+Example App flow:
 
 ![diagram-of-speech-recognition](https://www.researchgate.net/profile/Hae-Duck_Jeong/publication/287429405/figure/fig2/AS:310678364672001@1451082902257/Data-flow-diagram-of-speech-recognition.png)
+
+-----------
+
+QA flow:
+
+![CELI-dialogue-system_eng](https://www.celi.it/wp-content/uploads/2017/02/CELI-dialogue-system_eng.png)
 
 
 ---------
