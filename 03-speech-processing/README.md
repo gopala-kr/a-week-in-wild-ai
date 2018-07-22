@@ -379,7 +379,12 @@ Automatic Speech Recognition
 - **Accelerating recurrent neural network language model based online speech recognition system**(2018), K Lee et al. [[pdf]](https://arxiv.org/pdf/1801.09866)
 - Analyzing Hidden Representations in End-to-End Automatic Speech Recognition Systems. 2018 [arxiv](https://arxiv.org/abs/1709.04482v1)
 - Did you hear that? Adversarial Examples Against Automatic Speech Recognition. 2018 [arxiv](https://arxiv.org/abs/1801.00554v1)
-
+- End-to-End Speech Recognition From the Raw Waveform.2018 [arxiv](https://arxiv.org/abs/1806.07098v2)
+- A Purely End-to-end System for Multi-speaker Speech Recognition.2018 [arxiv](https://arxiv.org/abs/1805.05826v1)
+- End-to-end Audiovisual Speech Recognition.2018 [arxiv](https://arxiv.org/abs/1802.06424v2)
+- Attention-Based End-to-End Speech Recognition on Voice Search.2018 [arxiv](https://arxiv.org/abs/1707.07167v3)
+- Exploring Architectures, Data and Units For Streaming End-to-End Speech Recognition with RNN-Transducer.2018 [arxiv](https://arxiv.org/abs/1801.00841v1)
+- End-to-End Automatic Speech Translation of Audiobooks.2018 [arxiv](https://arxiv.org/abs/1802.04200v1)
 
 
 Speaker Verification
