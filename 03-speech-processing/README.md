@@ -485,7 +485,41 @@ Language Modelling
 - Survey of Recent Advances in Visual Question Answering. [[arxiv](https://arxiv.org/abs/1709.08203v1)]
 - Survey of Visual Question Answering: Datasets and Techniques. [[arxiv](https://arxiv.org/abs/1705.03865v2)]
 - Visual Question Answering: A Survey of Methods and Datasets [[arxiv](https://arxiv.org/abs/1607.05910v1)]
-
+* *Neural Responding Machine for Short-Text Conversation*, arXiv:1503.02364 / ACL 2015 [[Paper](http://arxiv.org/pdf/1503.02364)]
+* *A Neural Conversational Model*, arXiv:1506.05869 [[Paper](http://arxiv.org/pdf/1506.05869)]
+* *The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems*, arXiv:1506.08909 [[Paper](http://arxiv.org/pdf/1506.08909)]
+* *Evaluating Prerequisite Qualities for Learning End-to-End Dialog Systems*, arXiv:1511.06931 [[Paper](http://arxiv.org/pdf/1511.06931)]
+* *Dialog-based Language Learning*, arXiv:1604.06045, [[Paper](http://arxiv.org/pdf/1604.06045)]
+* *Learning End-to-End Goal-Oriented Dialog*, arXiv:1605.07683 [[Paper](http://arxiv.org/pdf/1605.07683)]
+* FAIR
+  * *Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks*, arXiv:1502.05698 [[Web](https://research.facebook.com/researchers/1543934539189348)] [[Paper](http://arxiv.org/pdf/1502.05698.pdf)]
+  * *Simple Question answering with Memory Networks*, arXiv:1506.02075 [[Paper](http://arxiv.org/abs/1506.02075)]
+  * "The Goldilocks Principle: Reading Children's Books with Explicit Memory Representations", ICLR 2016 [[Paper](http://arxiv.org/abs/1511.02301)]
+* DeepMind + Oxford [[Paper](http://arxiv.org/pdf/1506.03340.pdf)]
+  * *Teaching Machines to Read and Comprehend*, arXiv:1506.03340 / NIPS 2015
+* MetaMind [[Paper](http://arxiv.org/pdf/1506.07285.pdf)]
+  * *Ask Me Anything: Dynamic Memory Networks for Natural Language Processing*, arXiv:1506.07285
+* Virginia Tech. + MSR [[Web](http://www.visualqa.org/)] [[Paper](http://arxiv.org/pdf/1505.00468)]
+  * *VQA: Visual Question Answering*, arXiv:1505.00468 / CVPR 2015 SUNw:Scene Understanding workshop
+* MPI + Berkeley [[Web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/)] [[Paper](http://arxiv.org/pdf/1505.01121)]
+  * *Ask Your Neurons: A Neural-based Approach to Answering Questions about Images*, arXiv:1505.01121
+* Univ. Toronto [[Paper](http://arxiv.org/pdf/1505.02074)] [[Dataset](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)]
+  * *Exploring Models and Data for Image Question Answering*, arXiv:1505.02074 / ICML 2015 deep learning workshop
+* Baidu + UCLA [[Paper](http://arxiv.org/pdf/1505.05612)] [[Dataset]()]
+  * *Are You Talking to a Machine? Dataset and Methods for Multilingual Image Question Answering*, arXiv:1505.05612 / NIPS 2015
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
+  * *Multimodal Residual Learning for Visual QA*, arXiv:1606:01455
+* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
+  * *Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding*, arXiv:1606.01847
+* Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
+  * *Training Recurrent Answering Units with Joint Loss Minimization for VQA*, arXiv:1606.03647
+* SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
+  * *Hadamard Product for Low-rank Bilinear Pooling*, arXiv:1610.04325
+* Video QA
+  * CMU + UTS [[paper](http://arxiv.org/abs/1511.04670)]
+    * Uncovering Temporal Context for Video Question and Answering, arXiv:1511.04670
+  * KIT + MIT + Univ. Toronto [[Paper](http://arxiv.org/abs/1512.02902)] [[Dataset](http://movieqa.cs.toronto.edu/home/)]
+    * MovieQA: Understanding Stories in Movies through Question-Answering, arXiv:1512.02902
 
 -----------
 
