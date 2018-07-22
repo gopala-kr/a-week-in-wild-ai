@@ -5,24 +5,24 @@
 ---------------
 - Timeline
 - Fundamental equation of speech recognition
-- Speech signal processing(preprocessing/feature extraction)
+- Speech signal processing
 - Acoustic Modeling
 - Langauge Modeling
 - Speech Decoding
-- Deep speech(recent state of the arts using DL)
+- Deep speech
 - State of the art results on various datasets
 - Literature reviews
   - Automatic Speech Recognition
   - Speaker Verification
   - Speech Synthesis
   - Language Modelling
-  - Natural Language Understanding(NLU)
-  - Natural Language Generation(NLG)
+  - Natural Language Understanding
+  - Natural Language Generation
   - Question Answering and Knowledge Extraction
-  - Conversational UI's/Chotbots
+  - Conversational UI's or Chotbots
 - Startups
-- libraries/Implementations
-- Appendix: Reference images
+- Libraries and Implementations
+- Appendix Reference images
 
 ------
 
