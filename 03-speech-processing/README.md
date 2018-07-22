@@ -12,6 +12,101 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ---------------
 
+Fundamentals of speech recognition
+
+<div id="seq_contents_0"
+    aria-labelledby="tab_0"
+    aria-hidden="true"
+    class="seq_contents tex2jax_ignore asciimath2jax_ignore">
+    &lt;div class=&#34;xblock xblock-student_view xblock-student_view-vertical&#34; data-runtime-class=&#34;LmsRuntime&#34; data-init=&#34;VerticalStudentView&#34; data-course-id=&#34;course-v1:Microsoft+DEV287x+2T2018&#34; data-request-token=&#34;8c9b90da8d9011e89497068e1b74f120&#34; data-runtime-version=&#34;1&#34; data-usage-id=&#34;block-v1:Microsoft+DEV287x+2T2018+type@vertical+block@a2e9948d-de71-8029-7f01-afa6ce24179a&#34; data-block-type=&#34;vertical&#34;&gt;
+  
+
+  &lt;h2 class=&#34;hd hd-2 unit-title&#34;&gt;Other considerations&lt;/h2&gt;
+
+    
+
+
+
+&lt;div class=&#34;bookmark-button-wrapper&#34;&gt;
+  &lt;button class=&#34;btn btn-link bookmark-button &#34;
+    aria-pressed=&#34;false&#34;
+    data-bookmark-id=&#34;gopalakr243,block-v1:Microsoft+DEV287x+2T2018+type@vertical+block@a2e9948d-de71-8029-7f01-afa6ce24179a&#34;
+    data-bookmarks-api-url=&#34;/api/bookmarks/v1/bookmarks/&#34;&gt;
+     &lt;span class=&#34;bookmark-text&#34;&gt;Bookmark this page&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;vert-mod&#34;&gt;
+  &lt;div class=&#34;vert vert-0&#34; data-id=&#34;block-v1:Microsoft+DEV287x+2T2018+type@html+block@50d703c667f84883b94f56fef4e9312c&#34;&gt;
+    &lt;div class=&#34;xblock xblock-student_view xblock-student_view-html xmodule_display xmodule_HtmlModule&#34; data-runtime-class=&#34;LmsRuntime&#34; data-init=&#34;XBlockToXModuleShim&#34; data-block-type=&#34;html&#34; data-request-token=&#34;8c9b90da8d9011e89497068e1b74f120&#34; data-runtime-version=&#34;1&#34; data-usage-id=&#34;block-v1:Microsoft+DEV287x+2T2018+type@html+block@50d703c667f84883b94f56fef4e9312c&#34; data-type=&#34;HTMLModule&#34; data-course-id=&#34;course-v1:Microsoft+DEV287x+2T2018&#34;&gt;
+  &lt;script type=&#34;json/xblock-args&#34; class=&#34;xblock-json-init-args&#34;&gt;
+    {&#34;xmodule-type&#34;: &#34;HTMLModule&#34;}
+  &lt;/script&gt;
+  &lt;p&gt;Besides accuracy, there may be computational requirements that impact performance, such as processing speed or latency. Decoding speed is usually measured with respect to a real-time factor. A RTF of 1.0 means that the system processes the data in real-time, takes ten seconds to process ten seconds of audio.&lt;/p&gt;
+&lt;p&gt;Factors above 1.0 indicate that the system needs more time to process the data. For some applications, this may be acceptable. For instance, when creating a transcription of a meeting or lecture, it may be more important to take more time and produce accurate transcriptions than to get the transcriptions quickly.&lt;/p&gt;
+&lt;p&gt;When the RTF is below 1.0, the system processes the data more quickly than it arrives. This can be useful when more than one system runs on the same machine. In that case, multithreading can effectively use one machine to process multiple audio sources in parallel. RTF below 1.0 also indicates that the system can &amp;ldquo;catch up&amp;rdquo; to real-time in online streaming applications. For instance, when performing a remote voice query on the phone, network congestion can cause gaps and delays in receiving the audio at the server. If the ASR system can process data in faster than real-time, it can catch up after the data arrives, hiding the latency behind the speed of the recognition system.&lt;/p&gt;
+&lt;p&gt;In general, any ASR system can be tuned to tradeoff speed for accuracy. But, there is a limit. For a given model and test set, the speed-accuracy graph has an asymptote that is impossible to cross, even with unlimited computing power. The remaining errors can be entirely ascribed to modeling errors. Once the search finds the best result according to the model, further processing will not improve the accuracy.&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+  </div>
+  <div id="seq_contents_1"
+    aria-labelledby="tab_1"
+    aria-hidden="true"
+    class="seq_contents tex2jax_ignore asciimath2jax_ignore">
+    &lt;div class=&#34;xblock xblock-student_view xblock-student_view-vertical&#34; data-runtime-class=&#34;LmsRuntime&#34; data-init=&#34;VerticalStudentView&#34; data-course-id=&#34;course-v1:Microsoft+DEV287x+2T2018&#34; data-request-token=&#34;8c9b90da8d9011e89497068e1b74f120&#34; data-runtime-version=&#34;1&#34; data-usage-id=&#34;block-v1:Microsoft+DEV287x+2T2018+type@vertical+block@423e9a2a-7584-816d-6290-a2c8df171f3f&#34; data-block-type=&#34;vertical&#34;&gt;
+  
+
+  &lt;h2 class=&#34;hd hd-2 unit-title&#34;&gt;The Fundamental Equation&lt;/h2&gt;
+
+    
+
+
+
+&lt;div class=&#34;bookmark-button-wrapper&#34;&gt;
+  &lt;button class=&#34;btn btn-link bookmark-button &#34;
+    aria-pressed=&#34;false&#34;
+    data-bookmark-id=&#34;gopalakr243,block-v1:Microsoft+DEV287x+2T2018+type@vertical+block@423e9a2a-7584-816d-6290-a2c8df171f3f&#34;
+    data-bookmarks-api-url=&#34;/api/bookmarks/v1/bookmarks/&#34;&gt;
+     &lt;span class=&#34;bookmark-text&#34;&gt;Bookmark this page&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;vert-mod&#34;&gt;
+  &lt;div class=&#34;vert vert-0&#34; data-id=&#34;block-v1:Microsoft+DEV287x+2T2018+type@html+block@d3ddac86b2a04be39023597de7735789&#34;&gt;
+    &lt;div class=&#34;xblock xblock-student_view xblock-student_view-html xmodule_display xmodule_HtmlModule&#34; data-runtime-class=&#34;LmsRuntime&#34; data-init=&#34;XBlockToXModuleShim&#34; data-block-type=&#34;html&#34; data-request-token=&#34;8c9b90da8d9011e89497068e1b74f120&#34; data-runtime-version=&#34;1&#34; data-usage-id=&#34;block-v1:Microsoft+DEV287x+2T2018+type@html+block@d3ddac86b2a04be39023597de7735789&#34; data-type=&#34;HTMLModule&#34; data-course-id=&#34;course-v1:Microsoft+DEV287x+2T2018&#34;&gt;
+  &lt;script type=&#34;json/xblock-args&#34; class=&#34;xblock-json-init-args&#34;&gt;
+    {&#34;xmodule-type&#34;: &#34;HTMLModule&#34;}
+  &lt;/script&gt;
+  &lt;h3 id=&#34;user-content-bayes-rule-and-the-fundamental-equation-of-speech-recognition&#34;&gt;Bayes rule and the fundamental equation of speech recognition&lt;/h3&gt;
+&lt;p&gt;Speech recognition is cast as a statistical optimization problem. Specifically, for a given sequence of observations \(\mathbf{O} = \left\{ O_{1},\ldots,O_{N} \right\}\), we seek the most likely word sequence \(\mathbf{W} = \{ W_{1},\ldots,W_{M}\}\). That is, we are looking for the word sequence which maximizes the posterior probability \(P\left( \mathbf{W} \middle| \mathbf{O} \right)\text{.\ }\) Mathematically, this can be expressed as:&lt;/p&gt;
+&lt;p&gt;\[\hat{W} = argmax_{W}P(W|O)\]&lt;/p&gt;
+&lt;p&gt;To solve this expression, we employ Bayes rule&lt;/p&gt;
+&lt;p&gt;\[P\left( W \middle| O \right) = \frac{P\left( O \middle| W \right)P\left( W \right)}{P(O)}\]&lt;/p&gt;
+&lt;p&gt;Because the word sequence does not depend on the marginal probability of the observation \(P(O)\), this term can be ignored. This, we can rewrite this expression as&lt;/p&gt;
+&lt;p&gt;\[\hat{W} = argmax_{W}P\left( O \middle| W \right)P(W)\]&lt;/p&gt;
+&lt;p&gt;This is known as the &lt;em&gt;fundamental equation of speech recognition&lt;/em&gt;. The speech recognition problem can be cast as a search over this joint model for the best word sequence.&lt;/p&gt;
+&lt;p&gt;The equation has a component P(&lt;em&gt;O&lt;/em&gt;|&lt;em&gt;W&lt;/em&gt;) known as an &lt;strong&gt;acoustic model&lt;/strong&gt;, that describes the distribution over acoustic observations &lt;em&gt;O&lt;/em&gt; given the word sequence &lt;em&gt;W&lt;/em&gt;. The acoustic model is responsible for modeling how sequences of words are converted into acoustic realizations, and then into the acoustic observations presented to the ASR system. Acoustics and acoustic modeling are covered in Modules 2 and 3 of this course.&lt;/p&gt;
+&lt;p&gt;The equation has a component P(&lt;em&gt;W&lt;/em&gt;) called a &lt;strong&gt;language model&lt;/strong&gt; based solely on the word sequence &lt;em&gt;W&lt;/em&gt;. The language model assigns a probability to every possible word sequence. It is trained on sequences of words that are expected to be like those the final system will encounter in everyday use. A language model trained on English text will probably assign a high value to the word sequence &amp;ldquo;I like turtles&amp;rdquo; and a low value to &amp;ldquo;Turtles sing table.&amp;rdquo; The language model steers the search towards word sequences that follow the same patterns as in the training data. Language models can also be seen in purely text-based applications, such as the autocomplete field in modern web browsers. Module 4 of this course is dedicated to language modeling.&lt;/p&gt;
+&lt;p&gt;For a variety of reasons, building a speech recognition engine is much more complicated that this simple equation implies. In this course, we will describe how these models are constructed and used together in modern speech recognition systems.&lt;/p&gt;
+&lt;/div&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+  </div>
+<div id="seq_content" role="tabpanel"></div>
+
+
+
 
 ------------
 
