@@ -5,7 +5,7 @@
 ---------------
 
 - [Timeline](#Timeline)
-- [Fundamental equation of speech recognition](#Fundamental equation of speech recognition)
+- [Fundamental equation of speech recognition](#fundamental-equation-of-speech-recognition)
 - [Speech signal processing](#Speech signal processing)
 - [Acoustic Modeling](#Acoustic Modeling)
 - [Langauge Modeling](#Langauge Modeling)
