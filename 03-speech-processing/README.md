@@ -4,8 +4,6 @@
 
 ---------------
 
-##### Contents
-
 - Timeline
 - Fundamental equation of speech recognition
 - Speech signal processing
@@ -26,6 +24,9 @@
 - Startups
 - Libraries and Implementations
 - Appendix Reference images
+
+
+##### Contents
 
 [Back to top](#contents)
 
