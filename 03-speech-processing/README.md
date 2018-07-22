@@ -11,7 +11,7 @@
 - [Langauge Modeling](#langauge-modeling)
 - [Speech Decoding](#speech-decoding)
 - [Deep speech](#deep-speech)
-- [State of the art results on various datasets](#State of the art results on various datasets)
+- [State of the art results on various datasets](#state-of-the-art-results-on-various-datasets)
 - [Literature reviews](#Literature reviews)
   - [Automatic Speech Recognition](#Automatic Speech Recognition)
   - [Speaker Verification](#Speaker Verification)
