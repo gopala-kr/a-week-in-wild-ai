@@ -108,17 +108,15 @@ Siri:
 
 ![a7a976303e8fa3c272824daea4706188](https://qph.ec.quoracdn.net/main-qimg-a7a976303e8fa3c272824daea4706188.webp)
 
+-----------
 
+Sirius:
 
--------------
-
-
-![speech-recognition-640](http://d2j1x4mfbglwr3.cloudfront.net/2011/09/speech-recognition-640.jpg)
-
+![sirius-free-voice-systems-1](https://res.infoq.com/news/2015/04/sirius-free-voice-assistant/en/resources/sirius-free-voice-systems-1.jpg)
 
 --------------------
 
-The complete Infograph:
+The complete ASR Infograph:
 
 
 ![oice_search-clean-hook](https://www.technology.org/texorgwp/wp-content/uploads/2018/07/voice_search-clean-hook.png)
