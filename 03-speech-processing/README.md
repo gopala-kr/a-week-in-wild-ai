@@ -535,7 +535,7 @@ Conversational UI's/Chotbots
 - [The State of Voice User Experience](https://medium.com/@Punchcut/the-state-of-voice-user-experience-48f4a0c3d628)
 - [Replacing Surveys With Chatbot Conversations](https://chatbotsmagazine.com/replacing-surveys-with-chatbot-conversations-8295614af367)
 - [A SURVEY OF VARIOUS CHATBOT IMPLEMENTATION TECHNIQUES](https://pdfs.semanticscholar.org/8e60/5c49d4a7cba9bf077d97b401ba78aafe693f.pdf)
-
+- [Chatbot Infographic](http://www.oracle.com/us/technologies/mobile/chatbot-infographic-3672253.pdf)
 
 -----------
 
@@ -565,11 +565,8 @@ Startups
 - [Crunchbase: Speech Recognition](https://www.crunchbase.com/search/organizations/field/organizations/categories/24dad27e-6a49-ccc1-ec31-854b73d60d16)
 - [montreal-fluent-ai-startup-helping-speech-recognition](http://www.planetweb.ca/profiles/montreal-fluent-ai-startup-helping-speech-recognition/)
 - [Venture Reader: Top speech recognition Companies](https://www.ventureradar.com/keyword/speech%20recognition)
-
-
-
-
-
+- [top-7-chatbot-platforms-to-build-bots-for-your-business](https://www.analyticsinsight.net/top-7-chatbot-platforms-to-build-bots-for-your-business/)
+- [Top 10 Best Chatbot Builders & Chat Bot Building Platforms 2018](https://bloggerlocal.com/national/reviews/best-chatbot-builders-and-chat-bot-buildling-platforms)
 
 ---------------
 
@@ -698,6 +695,10 @@ Bot ecosystem and frameworks:
 
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
+
+---------
+
+![ted-image-at-2018_01_23](https://recast.ai/blog/wp-content/uploads/2018/01/Pasted-image-at-2018_01_23-07_03-PM.png)
 
 --------
 
