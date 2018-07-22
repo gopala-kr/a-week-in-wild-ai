@@ -43,7 +43,18 @@ Deep speech
 ----------------
 ---------------
 
-Appendix:
+Appendix: Reference images
+
+--------
+
+Evolution of Search 
+
+
+![cognitivesearch](https://marionoioso.com/wp-content/uploads/2018/06/cognitivesearch-768x414.jpg)
+
+![1496154841914](https://static1.squarespace.com/static/56e9401ef8baf3149e959bb3/t/592d82cf86e6c0040d66a212/1496154841914/?format=750w)
+
+------
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
 
@@ -83,11 +94,14 @@ IBM Watson(DeepQA) :
 
 --------------
 
-Alexa:
+Alexa/Echo:
+
+
+![alexa_skills_kit_architecture_diagram](https://3lhowb48prep40031529g5yj-wpengine.netdna-ssl.com/wp-content/uploads/2016/08/alexa_skills_kit_architecture_diagram.png)
 
 ![Ms9HNob9HyWcWkbk](https://cdn-images-1.medium.com/max/880/0*Ms9HNob9HyWcWkbk.png)
 
-
+- [Build an Alexa Skill with Python and AWS Lambda](https://moduscreate.com/blog/build-an-alexa-skill-with-python-and-aws-lambda/)
 
 --------
 
@@ -98,9 +112,17 @@ Google speech services:
 
 --------------
 
-Google assistance(Actions workflow)
+Google assistant(Actions workflow)
 
 ![action_sdk_workflow](https://www.grokkingandroid.com/wordpress/wp-content/uploads/2017/10/action_sdk_workflow.png)
+
+- [Using the Actions SDK for Google Assistant Development](https://dzone.com/articles/using-the-actions-sdk-for-google-assistant-develop)
+
+------
+
+![google-action-request](https://www.jovo.tech/blog/wp-content/uploads/2017/08/google-action-request.png)
+
+![[Tutorial] Build a Google Action in Node.js with Jovo](https://www.jovo.tech/blog/google-action-tutorial-nodejs/)
 
 ---------
 
@@ -110,9 +132,30 @@ Siri:
 
 -----------
 
+![cortana](https://image.slidesharecdn.com/nlandry-developing-windows10-apps-with-speech-and-cortana-150826134754-lva1-app6891/95/building-windows-10-universal-apps-with-speech-and-cortana-28-638.jpg?cb=1440597026)
+
+
+- [AI in Mobile Apps: How to Make an App like Siri](https://codetiburon.com/ai-mobile-apps-make-app-like-siri/)
+
+---------
+
 Sirius:
 
 ![sirius-free-voice-systems-1](https://res.infoq.com/news/2015/04/sirius-free-voice-assistant/en/resources/sirius-free-voice-systems-1.jpg)
+
+
+------
+
+![Watson-Cortana-AIs](https://marionoioso.com/wp-content/uploads/2017/04/Watson-Cortana-AIs.jpg)
+
+
+---------
+Mobile voice assistants architecture
+
+![Mobile voice assistants architecture](https://www.cleveroad.com/images/article-previews/Basic-technologies-in-mobile-voice-assistants.png)
+
+
+[how-to-create-virtual-assistant-apps-like-siri-and-google-assistant](https://www.cleveroad.com/blog/how-to-create-virtual-assistant-apps-like-siri-and-google-assistant)
 
 --------------------
 
@@ -120,6 +163,16 @@ The complete ASR Infograph:
 
 
 ![oice_search-clean-hook](https://www.technology.org/texorgwp/wp-content/uploads/2018/07/voice_search-clean-hook.png)
+
+
+
+----------
+
+Bot frameworks:
+
+![5588dd73-2c97-4efb-9a8e-e24ff0f31806](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png)
+
+Source: [Conversational Bots Deep Dive – What’s new with the General Availability of Azure Bot Service and Language Understanding](https://azure.microsoft.com/en-us/blog/conversational-bots-deep-dive-what-s-new-with-the-general-availability-of-azure-bot-service-and-language-understanding/)
 
 
 ---------
