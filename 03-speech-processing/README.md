@@ -12,7 +12,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 ---------------
 
-[Fundamental equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)
+**[Fundamental equation of speech recognition](https://www.inf.ed.ac.uk/teaching/courses/asr/2013-14/asr01-intro.pdf)**
 
 ![eq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/eq.JPG)
 
@@ -34,7 +34,7 @@ Speech signal processing(preprocessing/feature extraction)
 
 ------------
 
-Acoustic Modeling
+**Acoustic Modeling**
 
 
 - [Acoustic model](https://en.wikipedia.org/wiki/Acoustic_model)
@@ -54,17 +54,17 @@ Acoustic Modeling
 
 ----------
 
-Langauge Modeling
+**Langauge Modeling**
 
 ---------
 
-Speech Decoding
+**Speech Decoding**
 
 
 
 --------------
 
-Deep speech(recent state of the arts using DL)
+**Deep speech**(recent state of the arts using DL)
 
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
@@ -78,7 +78,7 @@ Deep speech(recent state of the arts using DL)
 - [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/lec26_audio.pptx)] [[PPT](https://github.com/gopala-kr/summary/blob/master/summaries/Week-1/LiDeng-BerlinOct2015-ASR-GenDisc-4by3.pptx)] [[PPT](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/07/HumansVsMachine-Afeka2017-invited.pdf)]
 ----------------
 
-> State of the art results on speech recognitions
+> State of the art results on various datasets
 
 
 #### WER
