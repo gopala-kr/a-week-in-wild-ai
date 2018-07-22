@@ -51,7 +51,8 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 -------------
 
 
-#### Speech signal processing(preprocessing/feature extraction)
+#### Speech signal processing
+(preprocessing/feature extraction)
 
 - [Audio/Speech Signal Processing](http://home.iitk.ac.in/~nnaik/pdf/PPT_AudioSpeech.pdf)
 - [speech-signal-processing](https://www.slideshare.net/lucky43/speech-signal-processing)
@@ -147,7 +148,8 @@ Language processing](http://www.lvcsr.com/static/pubs/apsipa_09_tutorial_dixon_f
 --------------
 
 
-#### Deep speech(recent state of the arts using DL)
+#### Deep speech
+(recent state of the arts using DL)
 
 
 - Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf)
@@ -308,7 +310,7 @@ Source:  [wer_are_we](https://github.com/syhw/wer_are_we/blob/master/README.md),
 
 
 
-Automatic Speech Recognition
+#### Automatic Speech Recognition
 
 
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
@@ -476,7 +478,8 @@ Automatic Speech Recognition
 
 ----------------
 
-####  Natural Language Understanding(NLU)
+####  Natural Language Understanding
+(NLU)
 
 
 * [Neural autocoder for paragraphs and documents](http://arxiv.org/abs/1506.01057) - LSTM representation
@@ -499,7 +502,8 @@ Automatic Speech Recognition
 
 -------------
 
-####  Natural Language Generation(NLG)
+####  Natural Language Generation
+(NLG)
  
 - [A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/abs/1805.06553v1)
 - [Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation](https://arxiv.org/abs/1703.09902v4)
@@ -566,7 +570,7 @@ Automatic Speech Recognition
 
 -----------------
 
-#### Conversational UI's/Chotbots
+#### Conversational UI's or Chotbots
 
 - [Literature Review: Chatbots & Conversational Experiences](https://studio.carnegiemuseums.org/literature-review-chatbots-conversational-experiences-566de218f92a)
 - [The Rapidly Changing Landscape of Conversational Agents](https://arxiv.org/abs/1803.08419v2)
@@ -617,7 +621,7 @@ Automatic Speech Recognition
 
 -----------
 
-#### libraries/Implementations
+#### Libraries and Implementations
 
 - [speech-language-processing](https://github.com/edobashira/speech-language-processing) : A curated list of speech and natural language processing resources 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) : A TensorFlow implementation of Baidu's DeepSpeech architecture
@@ -831,7 +835,7 @@ The complete ASR Infograph:
 
 ----------
 
-#### Bot ecosystem and frameworks:
+#### Bot Ecosystem and frameworks:
 
 
 ![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
