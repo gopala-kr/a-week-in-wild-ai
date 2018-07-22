@@ -607,11 +607,11 @@ lucida high level archtecture:
 - [translate-shell](https://github.com/soimort/translate-shell) :  Command-line translator using Google Translate, Bing Translator, Yandex.Translate, DeepL Translator, etc. https://www.soimort.org/translate-shell
 - [Automatic_Speech_Recognition](https://github.com/zzw922cn/Automatic_Speech_Recognition) : End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow
 - [say_what](https://github.com/joshnewlan/say_what) : Using speech-to-text to fully check out during con calls
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
+- [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) : PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
+- [facebookresearch/wav2letter](https://github.com/facebookresearch/wav2letter) : Facebook AI Research Automatic Speech Recognition Toolkit
+- [tensorflow-speech-recognition](https://github.com/pannous/tensorflow-speech-recognition) : Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks
+- [prose](https://github.com/jdkato/prose) : A Golang library for text processing, including tokenization, part-of-speech tagging, and named-entity extraction.
+- [voice-elements](https://github.com/zenorocha/voice-elements) : Web Component wrapper to the Web Speech API, that allows you to do voice recognition and speech synthesis using Polymer http://zenorocha.github.io/voice-elements/
 - []() : 
 - []() : 
 - []() : 
