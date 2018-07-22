@@ -390,7 +390,7 @@ Speaker Verification
 - **Deep Speaker Verification: Do We Need End to End?**(2017), Dong Wang et al. [[pdf]](https://arxiv.org/pdf/1706.07859)
 - **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
-
+- Text-Independent Speaker Verification Using Long Short-Term Memory Networks. (2018) [arxiv](https://arxiv.org/abs/1805.00604v2)
 
 Speech Synthesis
 
