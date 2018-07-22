@@ -9,7 +9,7 @@
 - [Speech signal processing](#speech-signal-processing)
 - [Acoustic Modeling](#acoustic-modeling)
 - [Langauge Modeling](#langauge-modeling)
-- [Speech Decoding](#Speech Decoding)
+- [Speech Decoding](#speech-decoding)
 - [Deep speech](#Deep speech)
 - [State of the art results on various datasets](#State of the art results on various datasets)
 - [Literature reviews](#Literature reviews)
