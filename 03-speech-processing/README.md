@@ -14,6 +14,10 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 
 #### Architecture of ASR
 
+![0*-fsj14f4eQo2EZEI](https://cdn-images-1.medium.com/max/1600/0*-fsj14f4eQo2EZEI.)
+
+-----------
+
 ![1-s2.0-S0167639313000988-gr2](https://www.researchgate.net/profile/Alexey_Karpov2/publication/259118437/figure/fig1/AS:297010319118352@1447824186627/Architecture-of-a-state-of-the-art-automatic-speech-recognition-system-and-its-components.png)
 
 -----------
@@ -26,13 +30,45 @@ Example App flow:
 
 QA flow:
 
-![CELI-dialogue-system_eng](https://www.celi.it/wp-content/uploads/2017/02/CELI-dialogue-system_eng.png)
+![1280px-DeepQA.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/DeepQA.svg/1280px-DeepQA.svg.png?1532246161874)
 
+-----------
+
+<a href="https://www.researchgate.net/Architecture-to-develop-user-adapted-spoken-conversational-agents_fig3_288480562"><img src="https://www.researchgate.net/publication/288480562/figure/fig3/AS:329780403687425@1455637183466/Architecture-to-develop-user-adapted-spoken-conversational-agents.png" alt="Architecture to develop user-adapted spoken conversational agents."/></a>
+
+--------------
+
+IBM Watson(DeepQA) :
+
+![DeepQA-Arch](https://researcher.watson.ibm.com/researcher/files/us-mike.barborak/DeepQA-Arch.PNG)
+
+
+--------------
+
+Alexa:
+
+![Ms9HNob9HyWcWkbk](https://cdn-images-1.medium.com/max/880/0*Ms9HNob9HyWcWkbk.png)
+
+
+
+--------
+
+Google speech services:
+
+![HBp13IJewSkrPZhb](https://cdn-images-1.medium.com/max/880/0*HBp13IJewSkrPZhb.png)
+
+
+--------------
+
+Google assistance(Actions workflow)
+
+![action_sdk_workflow](https://www.grokkingandroid.com/wordpress/wp-content/uploads/2017/10/action_sdk_workflow.png)
 
 ---------
 
+Siri:
 
-
+![a7a976303e8fa3c272824daea4706188](https://qph.ec.quoracdn.net/main-qimg-a7a976303e8fa3c272824daea4706188.webp)
 
 
 ------------
