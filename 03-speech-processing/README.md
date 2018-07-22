@@ -660,9 +660,9 @@ lucida high level archtecture:
 - [espnet](https://github.com/espnet/espnet) : End-to-End Speech Processing Toolkit https://espnet.github.io/espnet/
 - [pyannote-audio](https://github.com/pyannote/pyannote-audio) : Neural building blocks for speaker diarization: speech activity detection, speaker change detection, speaker embedding
 - [react-native-speech](https://github.com/naoufal/react-native-speech) : A text-to-speech library for React Native. 
-- []() : 
-- []() : 
-- []() : 
+- [open-speech-recording](https://github.com/petewarden/open-speech-recording) : Web application to record speech for an open data set
+- [deepvoice](https://github.com/israelg99/deepvoice) : Deep Voice: Real-time Neural Text-to-Speech
+- [speech](https://github.com/awni/speech) : A PyTorch Implementation of End-to-End Models for Speech-to-Text
 - []() : 
 - []() : 
 - []() : 
