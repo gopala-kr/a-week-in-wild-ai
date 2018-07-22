@@ -654,9 +654,9 @@ lucida high level archtecture:
 - [node-speakable](https://github.com/sreuter/node-speakable) : A continuous speech recognition module for node.js
 - [World](https://github.com/mmorise/World) : A high-quality speech analysis, manipulation and synthesis system 
 - [tensorflow_speech_recognition_demo](https://github.com/llSourcell/tensorflow_speech_recognition_demo) : This is the code for 'How to Make a Simple Tensorflow Speech Recognizer' by @Sirajology on Youtube
-- []() : 
-- []() : 
-- []() : 
+- [google-tts](https://github.com/hiddentao/google-tts) : Javascript API for the Google Text-to-Speech engine
+- [DeepSpeech](https://github.com/PaddlePaddle/DeepSpeech) : A PaddlePaddle implementation of DeepSpeech2 architecture for ASR.
+- [deepspeech.torch](https://github.com/SeanNaren/deepspeech.torch) : Speech Recognition using DeepSpeech2 network and the CTC activation function.
 - []() : 
 - []() : 
 - []() : 
