@@ -386,6 +386,7 @@ Automatic Speech Recognition
 - Exploring Architectures, Data and Units For Streaming End-to-End Speech Recognition with RNN-Transducer.2018 [arxiv](https://arxiv.org/abs/1801.00841v1)
 - End-to-End Automatic Speech Translation of Audiobooks.2018 [arxiv](https://arxiv.org/abs/1802.04200v1)
 
+----------
 
 Speaker Verification
 
@@ -399,6 +400,9 @@ Speaker Verification
 - **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
 - Text-Independent Speaker Verification Using Long Short-Term Memory Networks. (2018) [arxiv](https://arxiv.org/abs/1805.00604v2)
+
+
+-------------
 
 Speech Synthesis
 
@@ -423,6 +427,9 @@ Speech Synthesis
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık ,  Jitong Chen , 1 Kainan Peng , Wei Ping *  et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 - Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron. (2018). [arxiv](https://arxiv.org/abs/1803.09047v1)
 
+
+--------------
+
 Language Modelling
 
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
@@ -437,6 +444,8 @@ Language Modelling
 - Language Modeling with Gated Convolutional Networks,(2017) [arxiv](https://arxiv.org/abs/1612.08083v3)
 - An Analysis of Neural Language Modeling at Multiple Scales. (2018) [arxiv](https://arxiv.org/abs/1803.08240v1)
 
+
+----------------
 
  Natural Language Understanding(NLU)
 
@@ -458,6 +467,9 @@ Language Modelling
 - Towards end-to-end spoken language understanding. [[arxiv](https://arxiv.org/abs/1802.08395v1)]
 - Recent Trends in Deep Learning Based Natural Language Processing. [arxiv](https://arxiv.org/abs/1708.02709v5)
 
+
+-------------
+
  Natural Language Generation(NLG)
  
 - [A Deep Ensemble Model with Slot Alignment for Sequence-to-Sequence Natural Language Generation](https://arxiv.org/abs/1805.06553v1)
@@ -466,6 +478,8 @@ Language Modelling
 - [Automatic Generation of Natural Language Explanations](https://arxiv.org/abs/1707.01561v1)
 - [Natural Language Processing: State of The Art, Current Trends and Challenges](https://arxiv.org/abs/1708.05148v1)
 
+
+------------------
 
  Question Answering and Knowledge Extraction
 
@@ -521,6 +535,7 @@ Language Modelling
   * KIT + MIT + Univ. Toronto [[Paper](http://arxiv.org/abs/1512.02902)] [[Dataset](http://movieqa.cs.toronto.edu/home/)]
     * MovieQA: Understanding Stories in Movies through Question-Answering, arXiv:1512.02902
 
+-----------------
 
 Conversational UI's/Chotbots
 
