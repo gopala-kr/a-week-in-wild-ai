@@ -15,7 +15,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 #### Architecture of ASR
 
 ------
-![1-s2.0-S0167639313000988-gr2](https://ars.els-cdn.com/content/image/1-s2.0-S0167639313000988-gr2.jpg)
+![1-s2.0-S0167639313000988-gr2](https://www.researchgate.net/profile/Alexey_Karpov2/publication/259118437/figure/fig1/AS:297010319118352@1447824186627/Architecture-of-a-state-of-the-art-automatic-speech-recognition-system-and-its-components.png)
 
 -----------
 
