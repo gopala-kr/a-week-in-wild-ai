@@ -590,9 +590,14 @@ Startups
 
 libraries/Implementations
 
-- []() : 
-- []() : 
-- []() : 
+- [DeepSpeech](https://github.com/mozilla/DeepSpeech) : A TensorFlow implementation of Baidu's DeepSpeech architecture
+- [TextBlob](https://github.com/sloria/TextBlob) : Simple, Pythonic, text processing--Sentiment analysis, part-of-speech tagging, noun phrase extraction, translation, and more. https://textblob.readthedocs.io/ 
+- [lucida](https://github.com/claritylab/lucida) : Speech and Vision Based Intelligent Personal Assistant
+
+lucida high level archtecture:
+
+![high_level](https://raw.githubusercontent.com/claritylab/lucida/master/high_level.png)
+
 - []() : 
 - []() : 
 - []() : 
