@@ -636,9 +636,9 @@ lucida high level archtecture:
 - [ark-tweet-nlp](https://github.com/brendano/ark-tweet-nlp) : CMU ARK Twitter Part-of-Speech Tagger http://www.ark.cs.cmu.edu/TweetNLP/
 - [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) : Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [speechpy](https://github.com/astorfi/speechpy) : SpeechPy - A Library for Speech Processing and Recognition: http://speechpy.readthedocs.io/en/latest/
-- []() : 
-- []() : 
-- []() : 
+- [web-speech-api](https://github.com/mdn/web-speech-api) : A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
+- [termit](https://github.com/pawurb/termit) : Translations with speech synthesis in your terminal as a ruby gem
+- [parrot](https://github.com/sotelo/parrot) : RNN-based generative models for speech.
 - []() : 
 - []() : 
 - []() : 
