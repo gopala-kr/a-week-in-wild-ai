@@ -56,11 +56,6 @@ Evolution of Search
 
 ------
 
-![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
-
---------
-
-
 Architecture of ASR:
 
 ![0*-fsj14f4eQo2EZEI](https://cdn-images-1.medium.com/max/1600/0*-fsj14f4eQo2EZEI.)
@@ -168,7 +163,12 @@ The complete ASR Infograph:
 
 ----------
 
-Bot frameworks:
+Bot ecosystem and frameworks:
+
+
+![c2f9ee689ce32bef47152b8ed2046c1a](https://d3ansictanv2wj.cloudfront.net/bots-landscape-2-c2f9ee689ce32bef47152b8ed2046c1a.png)
+
+--------
 
 ![5588dd73-2c97-4efb-9a8e-e24ff0f31806](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/5588dd73-2c97-4efb-9a8e-e24ff0f31806.png)
 
