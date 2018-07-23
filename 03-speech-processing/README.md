@@ -750,7 +750,7 @@ lucida high level archtecture:
 - [pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python) : Python interface to CMU Sphinxbase and Pocketsphinx libraries 
 
 ---------------
-Speech and chot bot services:
+Speech and chotbot services:
 
 
 #### Google 
@@ -763,6 +763,11 @@ Speech and chot bot services:
 - [Speaking with a Webpage - Streaming speech transcripts](https://codelabs.developers.google.com/codelabs/speaking-with-a-webpage/index.html?index=..%2F..%2Findex#0)
 - [Using the Speech-to-Text API with C#](https://codelabs.developers.google.com/codelabs/cloud-speech-text-csharp/index.html?index=..%2F..%2Findex#0)
 - [Using the Text-to-Speech API with C#](https://codelabs.developers.google.com/codelabs/cloud-text-speech-csharp/index.html?index=..%2F..%2Findex#0)
+- [Classify Text into Categories with the Natural Language API](https://codelabs.developers.google.com/codelabs/cloud-nl-text-classification/index.html?index=..%2F..%2Findex#0)
+- [Using the Natural Language API from Google Docs](https://codelabs.developers.google.com/codelabs/nlp-from-google-docs/index.html?index=..%2F..%2Findex#0)
+- [Entity, Sentiment, and Syntax Analysis with the Natural Language API](https://codelabs.developers.google.com/codelabs/cloud-nl-intro/index.html?index=..%2F..%2Findex#0)
+- [Using the Natural Language API with C#](https://codelabs.developers.google.com/codelabs/cloud-natural-language-csharp/index.html?index=..%2F..%2Findex#0)
+- [Using the Natural Language API with Ruby](https://codelabs.developers.google.com/codelabs/cloud-natural-language-ruby/index.html?index=..%2F..%2Findex#0)
 
 
 ---------------
