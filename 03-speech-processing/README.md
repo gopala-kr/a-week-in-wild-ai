@@ -934,6 +934,19 @@ Source: [Conversational Bots Deep Dive – What’s new with the General Availab
 
 ------
 
+![commerce](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/commerce.JPG)
+
+---------
+![faq](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/faq.JPG)
+
+---------
+![info](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/info.JPG)
+
+---------
+![iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/03-speech-processing/iot.JPG)
+
+---------
+
 ![architecture_chatbot2](https://openwt.com/sites/default/files/architecture_chatbot2.png)
 
 
