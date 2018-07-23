@@ -6,7 +6,7 @@
 
 > ##### Contents
 
-- [Timeline](#Timeline)
+- [Timeline](#timeline)
 - [Fundamental equation of speech recognition](#fundamental-equation-of-speech-recognition)
 - [Speech signal processing](#speech-signal-processing)
 - [Acoustic Modeling](#acoustic-modeling)
