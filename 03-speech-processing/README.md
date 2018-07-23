@@ -770,6 +770,18 @@ Speech and chotbot services:
 - [Using the Natural Language API with Ruby](https://codelabs.developers.google.com/codelabs/cloud-natural-language-ruby/index.html?index=..%2F..%2Findex#0)
 
 
+
+#### Microsoft
+
+- [Bing Speech](https://azure.microsoft.com/en-us/services/cognitive-services/speech/)
+- [Translator Speech](https://azure.microsoft.com/en-us/services/cognitive-services/translator-speech-api/)
+- [Speaker Recognition](https://azure.microsoft.com/en-us/services/cognitive-services/speaker-recognition/)
+- [Custom Speech](https://azure.microsoft.com/en-us/services/cognitive-services/custom-speech-service/)
+- [Speech Services ](https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/)
+- [Language Understanding](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
+- [QnA Maker](https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/)
+
+
 ---------------
 
 #### Appendix Reference images
