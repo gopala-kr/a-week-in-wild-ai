@@ -749,7 +749,20 @@ lucida high level archtecture:
 - [Speech_Recognition_with_Tensorflow](https://github.com/thomasschmied/Speech_Recognition_with_Tensorflow) : Implementation of a seq2seq model for Speech Recognition using the latest version of TensorFlow. Architecture similar to Listen, Attend and Spell.
 - [pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python) : Python interface to CMU Sphinxbase and Pocketsphinx libraries 
 
+---------------
+Speech and chot bot services:
 
+
+#### Google 
+
+- [Cloud Speech API](https://cloud.google.com/speech-to-text/docs/reference/rest/)
+- [text-to-speech](https://cloud.google.com/text-to-speech/)
+- [speech-to-text](https://cloud.google.com/speech-to-text/)
+- [codelabs: Speech to Text Transcription with the Cloud Speech-to-Text API](https://codelabs.developers.google.com/codelabs/cloud-speech-intro/index.html?index=..%2F..%2Findex#0)
+- [Google Cloud Speech API : Node.js example](https://codelabs.developers.google.com/codelabs/cloud-speech-nodejs/index.html?index=..%2F..%2Findex#0)
+- [Speaking with a Webpage - Streaming speech transcripts](https://codelabs.developers.google.com/codelabs/speaking-with-a-webpage/index.html?index=..%2F..%2Findex#0)
+- [Using the Speech-to-Text API with C#](https://codelabs.developers.google.com/codelabs/cloud-speech-text-csharp/index.html?index=..%2F..%2Findex#0)
+- [Using the Text-to-Speech API with C#](https://codelabs.developers.google.com/codelabs/cloud-text-speech-csharp/index.html?index=..%2F..%2Findex#0)
 
 
 ---------------
