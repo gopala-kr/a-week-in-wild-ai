@@ -801,6 +801,12 @@ Speech and chotbot services:
 - [speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
 - [text-to-speech](https://www.ibm.com/watson/services/text-to-speech/)
 
+------------
+
+#### Amazon
+
+- [transcribe](https://aws.amazon.com/transcribe/)
+- [Machine Learning on AWS](https://aws.amazon.com/machine-learning/?nc2=h_l3_ai)
 
 ---------------
 
