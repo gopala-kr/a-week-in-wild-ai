@@ -799,7 +799,7 @@ lucida high level archtecture:
 
 -------
 
-### IBM watson
+#### IBM watson
 
 - [cloud services](https://www.ibm.com/watson/products-services/)
 - [speech-to-text](https://www.ibm.com/watson/services/speech-to-text/)
@@ -897,6 +897,21 @@ Google assistant(Actions workflow)
 ![google-action-request](https://www.jovo.tech/blog/wp-content/uploads/2017/08/google-action-request.png)
 
 [[Tutorial] Build a Google Action in Node.js with Jovo](https://www.jovo.tech/blog/google-action-tutorial-nodejs/)
+
+
+------------
+
+Google duplex
+
+![end_to_end_big.](https://2.bp.blogspot.com/-M75VzGyBSkM/WvEYy1jYSOI/AAAAAAAACsE/xAPLvXZe9cI7_YXkh8s1WF0bUHw9aNKRQCLcBGAs/s1600/end_to_end_big.png)
+
+------------
+
+![rnn_big](https://1.bp.blogspot.com/-WdgRuOg6lwc/WvEZTDLYg_I/AAAAAAAACsM/QNLSl4Yid9wKij_2KNpCRiXjiyeptu9vgCLcBGAs/s640/rnn_big.png)
+
+
+[Google Duplex: An AI System for Accomplishing Real-World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
+
 
 ---------
 
