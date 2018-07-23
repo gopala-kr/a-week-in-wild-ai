@@ -25,6 +25,7 @@
   - [Conversational UIs or Chotbots](#conversational-uis-or-chotbots)
 - [Startups](#startups)
 - [Libraries and Implementations](#libraries-and-implementations)
+- [Speech and chotbot services](#speech-and-chotbot-services)
 - [Appendix Reference images](#appendix-reference-images)
   - [Bot Ecosystem and frameworks](#bot-ecosystem-and-frameworks)
 
@@ -750,7 +751,7 @@ lucida high level archtecture:
 - [pocketsphinx-python](https://github.com/bambocher/pocketsphinx-python) : Python interface to CMU Sphinxbase and Pocketsphinx libraries 
 
 ---------------
-Speech and chotbot services:
+#### Speech and chotbot services
 
 
 #### Google 
