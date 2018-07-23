@@ -48,7 +48,7 @@ Conversation Systems](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on
 - [Speech_recognition](https://en.wikipedia.org/wiki/Speech_recognition)
 - [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 - [CMUSphinx Tutorial For Developers](https://cmusphinx.github.io/wiki/tutorial/)
-
+- [The Kaldi Speech Recognition Toolkit](https://homepages.inf.ed.ac.uk/aghoshal/pubs/asru11-kaldi.pdf)
 
 ---------
 #### Fundamental equation of speech recognition
@@ -794,6 +794,8 @@ lucida high level archtecture:
 - [cloud-asr](https://github.com/UFAL-DSG/cloud-asr) : Cloud-based Automatic Speech Recognition (ASR) platform and a public ASR webservice. http://www.cloudasr.com
 - [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) : Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
 - [keenresearch](https://keenresearch.com/)
+- [kaldi-asr](http://kaldi-asr.org/doc/about.html)
+
 -------
 
 ### IBM watson
