@@ -781,6 +781,18 @@ Speech and chotbot services:
 - [Language Understanding](https://azure.microsoft.com/en-us/services/cognitive-services/language-understanding-intelligent-service/)
 - [QnA Maker](https://azure.microsoft.com/en-us/services/cognitive-services/qna-maker/)
 
+-----------
+
+- [api.ai](https://dialogflow.com/)
+- [speechmatics](https://www.speechmatics.com/)
+- [speech-to-text-api](http://www.vocapia.com/speech-to-text-api.html)
+- [iflytek](http://www.iflytek.com/en/audioengine/index.html)
+- [speech-recognition](https://docs.microsoft.com/en-us/windows/uwp/design/input/speech-recognition)
+- [cmusphinx](https://cmusphinx.github.io/)
+- [kaldi](https://kaldi.sourceforge.io/)
+- [cloud-asr](https://github.com/UFAL-DSG/cloud-asr) : Cloud-based Automatic Speech Recognition (ASR) platform and a public ASR webservice. http://www.cloudasr.com
+- [kaldi-gstreamer-server](https://github.com/alumae/kaldi-gstreamer-server) : Real-time full-duplex speech recognition server, based on the Kaldi toolkit and the GStreamer framwork.
+- [keenresearch](https://keenresearch.com/)
 
 ---------------
 
