@@ -1,10 +1,10 @@
 
 
-### A brief survey : AI in transportation --> case study on (autonoumous vehicles --> Self driving car industry)
+### A brief survey :AI in transportation->case study on (autonoumous vehicles->self driving car industry)
 
 -------------
 
-<img src="https://cdn-images-1.medium.com/max/880/1*EsvRsQAC19pc_wRaXpJ6FA.gif" />
+<img src="https://cdn-images-1.medium.com/freeze/max/33/1*EsvRsQAC19pc_wRaXpJ6FA.gif?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
 
 ---------------
 
