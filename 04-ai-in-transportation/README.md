@@ -38,7 +38,7 @@
 - [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 3 Notes: Deep Reinforcement Learning](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-3-notes-deep-reinforcement-learning-fe9a8592e14a)
 - [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 4 Notes: Computer Vision](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-4-notes-computer-vision-f591f14b3b99)
 - [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 5 Notes: Deep Learning for Human Sensing](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-5-notes-deep-learning-for-human-5cb0f53e4f15)
-
+- [Amazing Self-Driving Car Projects](https://medium.com/udacity/amazing-self-driving-car-projects-d0599e2c2097)
 
 --------------
 
