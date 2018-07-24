@@ -109,7 +109,7 @@
 ------------
 
 
-<img src="https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202017/Magazine-Articles/April/CR-Autospotlight-Where-Driverless-Cars-are-04-17" width="500" height="1000" />
+<img src="https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202017/Magazine-Articles/April/CR-Autospotlight-Where-Driverless-Cars-are-04-17" width="1000" height="500" />
 
 
 ------------
