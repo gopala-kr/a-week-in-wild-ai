@@ -16,6 +16,8 @@
 - [Top 20 Pros and Cons Associated With Self-Driving Cars](https://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm)
 - [Why do we need Driverless Cars?](https://www.quora.com/Why-do-we-need-Driverless-Cars)
 - [We don't need fully self-driving cars to save lives](https://www.usatoday.com/story/tech/columnist/2018/02/04/we-dont-need-fully-self-driving-cars-save-lives/1085965001/)
+- [~$1 trillion of real estate is on the move … here’s why](https://medium.com/99-mph/1-trillion-of-real-estate-is-on-the-move-heres-why-94ee9233e5eb)
+- [waymo](https://medium.com/waymo)
 
 --------------
 
