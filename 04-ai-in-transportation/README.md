@@ -42,8 +42,10 @@
 
 --------------
 
+#### SAE (J3016) Autonomy Levels
+
 <table class="wikitable">
-<caption>SAE (J3016) Autonomy Levels
+<caption>
 </caption>
 <tbody><tr>
 <th>SAE Level</th>
