@@ -4,8 +4,7 @@
 
 -------------
 
-![EsvRsQAC19pc_wRaXpJ6FA](https://cdn-images-1.medium.com/max/880/1*EsvRsQAC19pc_wRaXpJ6FA.gif)
-
+<img src="https://cdn-images-1.medium.com/max/880/1*EsvRsQAC19pc_wRaXpJ6FA.gif" />
 
 ---------------
 
