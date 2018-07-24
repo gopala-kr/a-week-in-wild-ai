@@ -102,7 +102,19 @@
 <td>All driving modes
 </td></tr></tbody></table>
 
+---------------------
+
+startups
+
+
+- [44 Corporations Working On Autonomous Vehicles]()
+
+
 ---------------
+---------------
+
+
+reference images
 
 ![From_toeka_tot_nou](https://steemitimages.com/0x0/http://s26.postimg.org/u7eh0ofsp/From_toeka_tot_nou.png)
 
