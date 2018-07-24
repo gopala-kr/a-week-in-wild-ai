@@ -1,10 +1,17 @@
 
 
-#### A brief survey : AI in transportation --> case study on (autonoumous vehicles --> Self driving car industry)
+### A brief survey : AI in transportation --> case study on (autonoumous vehicles --> Self driving car industry)
 
 -------------
 
+![EsvRsQAC19pc_wRaXpJ6FA](https://cdn-images-1.medium.com/max/880/1*EsvRsQAC19pc_wRaXpJ6FA.gif)
 
+
+---------------
+
+#### The why
+
+- [The Unintended Ways Self-Driving Cars Will Change Our World](https://medium.com/swlh/the-unintended-ways-self-driving-cars-will-change-our-world-3b15d1db9026)
 - [Why do we need self-driving cars?](https://www.quora.com/Why-do-we-need-self-driving-cars-1)
 - [Andrew Ng: Do we really need self driving cars?](https://www.quora.com/Andrew-Ng-Do-we-really-need-self-driving-cars)
 - [Top 20 Pros and Cons Associated With Self-Driving Cars](https://www.autoinsurancecenter.com/top-20-pros-and-cons-associated-with-self-driving-cars.htm)
