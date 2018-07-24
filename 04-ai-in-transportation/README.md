@@ -20,11 +20,15 @@
 - [List of current automobile manufacturers by country](https://en.wikipedia.org/wiki/List_of_current_automobile_manufacturers_by_country)
 - [List of current automobile manufacturers (alphabetical)](https://en.wikipedia.org/wiki/List_of_current_automobile_manufacturers_(alphabetical))
 - [Autonomous car](https://en.wikipedia.org/wiki/Autonomous_car)
+- [The Self-Driving Car Timeline – Predictions from the Top 11 Global Automakers](https://www.techemergence.com/self-driving-car-timeline-themselves-top-11-automakers/)
+- [The Evolution of Self-Driving Cars](https://nytjournal.org/articles/ai_articles/evolution_of_self_driving_cars.php)
+- [Evolution of Self Driving Autonomous Car](http://robotglobe.org/evolution-of-self-driving-autonomous-car/)
 
 --------------
 
 #### The why and how
 
+- [73 Mind-Blowing Implications of Driverless Cars and Trucks](https://medium.com/@DonotInnovate/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d)
 - [The Unintended Ways Self-Driving Cars Will Change Our World](https://medium.com/swlh/the-unintended-ways-self-driving-cars-will-change-our-world-3b15d1db9026)
 - [Why do we need self-driving cars?](https://www.quora.com/Why-do-we-need-self-driving-cars-1)
 - [Andrew Ng: Do we really need self driving cars?](https://www.quora.com/Andrew-Ng-Do-we-really-need-self-driving-cars)
@@ -111,6 +115,34 @@
 
 -----------
 
+![From_toeka_tot_nou](https://steemitimages.com/0x0/http://s26.postimg.org/u7eh0ofsp/From_toeka_tot_nou.png)
+
+------------
+
+![Driverless-Cars-are-04-17](https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202017/Magazine-Articles/April/CR-Autospotlight-Where-Driverless-Cars-are-04-17)
+
+------------
+
+![57f2ca6c11c8e7ac008b50a2-750-488](https://amp.businessinsider.com/images/57f2ca6c11c8e7ac008b50a2-750-488.png)
+
+------------
+
+![sdn](https://rusdykrisman.com/wp-content/uploads/2018/01/sdn.png)
+
+-----------
+
+![Car-revolution1](https://marketrealist.imgix.net/uploads/2015/05/Car-revolution1.png)
+
+------------
+
+![Chart](http://www.bnymellonimoutlook.com/media/88716/Chart-2.jpg)
+
+-------------
+
+![mckinsey](https://anthonyvoigt.files.wordpress.com/2016/04/mckinsey.jpg?w=700)
+
+-----------
+
 ![cars](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fniallmccarthy%2Ffiles%2F2018%2F04%2F20180413_SelfDriving_Cars.jpg)
 
 -----------
@@ -136,6 +168,10 @@
 ------------
 
 ![60_americans_expect_driverless_cars_to_be_common_in_10_years_n](https://infographic.statista.com/normal/chartoftheday_13860_americans_expect_driverless_cars_to_be_common_in_10_years_n.jpg)
+
+------------
+
+![TPu3vsUhOkG2Iq1T0e85ug](https://cdn-images-1.medium.com/max/880/1*TPu3vsUhOkG2Iq1T0e85ug.png)
 
 ------------
 ---------------------
