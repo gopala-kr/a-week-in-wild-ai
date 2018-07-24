@@ -1,10 +1,10 @@
 
 
-### A brief survey :AI in transportation->case study on (autonoumous vehicles->self driving car industry)
+#### A brief survey :AI in transportation->case study on (autonomous vehicles->self driving car industry)
 
 -------------
 
-![1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif)
+<img src="https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif" width="40" height="40" />
 
 ---------------
 
