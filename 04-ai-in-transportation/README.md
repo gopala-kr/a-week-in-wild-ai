@@ -4,7 +4,7 @@
 
 -------------
 
-<img src="https://cdn-images-1.medium.com/freeze/max/33/1*EsvRsQAC19pc_wRaXpJ6FA.gif?q=20" crossorigin="anonymous" class="progressiveMedia-thumbnail js-progressiveMedia-thumbnail">
+![](https://cdn-images-1.medium.com/max/880/1*EsvRsQAC19pc_wRaXpJ6FA.gif)
 
 ---------------
 
