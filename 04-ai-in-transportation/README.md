@@ -4,7 +4,7 @@
 
 -------------
 
-<img src="https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif" width="500" height="250" />
+<img src="https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif" width="1000" height="250" />
 
 ---------------
 
