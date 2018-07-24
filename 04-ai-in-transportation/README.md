@@ -1,6 +1,6 @@
 
 
-#### A brief survey : AI in transportation->case study on (autonomous vehicles->self driving car industry)
+#### A brief survey : AI in transportation -> case study on autonomous vehicles
 
 -------------
 
