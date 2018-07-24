@@ -22,7 +22,7 @@
 
 --------------
 
-#### The why and how
+#### The why
 
 - [73 Mind-Blowing Implications of Driverless Cars and Trucks](https://medium.com/@DonotInnovate/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d)
 - [The Unintended Ways Self-Driving Cars Will Change Our World](https://medium.com/swlh/the-unintended-ways-self-driving-cars-will-change-our-world-3b15d1db9026)
@@ -32,13 +32,6 @@
 - [Why do we need Driverless Cars?](https://www.quora.com/Why-do-we-need-Driverless-Cars)
 - [We don't need fully self-driving cars to save lives](https://www.usatoday.com/story/tech/columnist/2018/02/04/we-dont-need-fully-self-driving-cars-save-lives/1085965001/)
 - [~$1 trillion of real estate is on the move … here’s why](https://medium.com/99-mph/1-trillion-of-real-estate-is-on-the-move-heres-why-94ee9233e5eb)
-- [waymo](https://medium.com/waymo)
-- [MIT 6.S094:Deep Learning for Self-Driving Cars 2018 Lecture 1 Notes](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-1-notes-807be1a50893)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 2 Notes](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-2-notes-e283b9ec10a0)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 3 Notes: Deep Reinforcement Learning](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-3-notes-deep-reinforcement-learning-fe9a8592e14a)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 4 Notes: Computer Vision](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-4-notes-computer-vision-f591f14b3b99)
-- [MIT 6.S094: Deep Learning for Self-Driving Cars 2018 Lecture 5 Notes: Deep Learning for Human Sensing](https://hackernoon.com/mit-6-s094-deep-learning-for-self-driving-cars-2018-lecture-5-notes-deep-learning-for-human-5cb0f53e4f15)
-- [Amazing Self-Driving Car Projects](https://medium.com/udacity/amazing-self-driving-car-projects-d0599e2c2097)
 
 --------------
 
@@ -109,10 +102,6 @@
 <td>All driving modes
 </td></tr></tbody></table>
 
------------
-
-<img src="https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif" width="1000" height="400" />
-
 ---------------
 
 ![From_toeka_tot_nou](https://steemitimages.com/0x0/http://s26.postimg.org/u7eh0ofsp/From_toeka_tot_nou.png)
@@ -169,9 +158,6 @@
 
 ![60_americans_expect_driverless_cars_to_be_common_in_10_years_n](https://infographic.statista.com/normal/chartoftheday_13860_americans_expect_driverless_cars_to_be_common_in_10_years_n.jpg)
 
-------------
-
-![TPu3vsUhOkG2Iq1T0e85ug](https://cdn-images-1.medium.com/max/880/1*TPu3vsUhOkG2Iq1T0e85ug.png)
 
 ------------
 ---------------------
