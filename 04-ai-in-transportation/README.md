@@ -4,10 +4,6 @@
 
 -------------
 
-<img src="https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif" width="1000" height="400" />
-
----------------
-
 #### Timeline
 
 - [History of autonomous cars](https://en.wikipedia.org/wiki/History_of_autonomous_cars)
@@ -114,6 +110,10 @@
 </td></tr></tbody></table>
 
 -----------
+
+<img src="https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/1_EsvRsQAC19pc_wRaXpJ6FA.gif" width="1000" height="400" />
+
+---------------
 
 ![From_toeka_tot_nou](https://steemitimages.com/0x0/http://s26.postimg.org/u7eh0ofsp/From_toeka_tot_nou.png)
 
