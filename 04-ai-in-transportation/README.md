@@ -104,9 +104,15 @@
 
 ---------------------
 
+#### Autonomous vehicle enabling technologies
 
-Enabling tech
 
+------------
+
+
+![sd-tech](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/sd-tech.JPG)
+
+--------
 
 AI, deep learning, Kalman filter, MPC controller, Path Planning, Semantic Segmentation, Localization, sensor fusion
 
