@@ -139,10 +139,11 @@ Implications for Transport Planning](https://www.vtpi.org/avip.pdf)
 - [GM: 2018
 SELF-DRIVING
 SAFETY REPORT](https://www.gm.com/content/dam/gm/en_us/english/selfdriving/gmsafetyreport.pdf)
-
-
-
-
+- [Towards Autonomous Driving](https://s21.q4cdn.com/600692695/files/doc_presentations/2018/CES-2018-final-MBLY.pdf)
+- [Measurements Systems and Sensors for
+Autonomous Vehicle and Smart Mobility](http://vancouver.ieee.ca/files/2017/12/IEEE-DL-Saponara.pdf)
+- [Three Sensor Types Drive Autonomous Vehicles](https://www.sensorsmag.com/components/three-sensor-types-drive-autonomous-vehicles)
+- [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
 
 
 ------------
