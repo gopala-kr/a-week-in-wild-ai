@@ -518,6 +518,38 @@ Working mechanism of AV's
 - [Moving Bits and Atoms at Scale – Uber Marketplace Architecture](https://docs.google.com/presentation/d/1aAkDp5JViza6UVT9Dbi02MI0ByE8iOu8UNMcotXR0cM/pub?start=false&loop=false&delayms=3000&slide=id.g1db52c1b40_0_232)
 - [9 Startups In India Working On Self Driving Technology](https://analyticsindiamag.com/9-startups-india-working-self-driving-technology/)
 
+------
+
+- Volkswagen Group of America
+- Mercedes Benz
+- Google
+- Delphi Automotive
+- Tesla Motors
+- Bosch
+- Nissan
+- GM Cruise LLC
+- BMW
+- Honda
+- Ford
+- Zoox, Inc.
+- Drive.ai
+- Faraday & Future Inc.
+- Baidu USA LLC
+- Wheego Electric Cars Inc.
+- Valeo North America, Inc.
+- NextEV USA, Inc.
+- Telenav, Inc.
+- NVIDIA Corporation
+- AutoX Technologies Inc
+- Subaru
+- Udacity, Inc
+- [Navya Inc](http://navya.tech/en/).
+- Renovo Motors Inc
+- UATC LLC (Uber)
+- PlusAi Inc
+- Nuro, Inc
+- CarOne LLC
+- Apple Inc.
 
 ---------------
 ---------------
