@@ -25,9 +25,15 @@
 - [Implementations and libraries](#implementations-and-libraries)
 - [startups](#startups)
 
+
+[Back to top](#contents)
+
 -------------
 
 #### Timeline
+
+
+[Back to top](#contents)
 
 - [History of autonomous cars](https://en.wikipedia.org/wiki/History_of_autonomous_cars)
 - [Intelligent transportation system](https://en.wikipedia.org/wiki/Intelligent_transportation_system)
@@ -47,6 +53,9 @@
 
 #### The why
 
+
+[Back to top](#contents)
+
 - [73 Mind-Blowing Implications of Driverless Cars and Trucks](https://medium.com/@DonotInnovate/73-mind-blowing-implications-of-a-driverless-future-58d23d1f338d)
 - [The Unintended Ways Self-Driving Cars Will Change Our World](https://medium.com/swlh/the-unintended-ways-self-driving-cars-will-change-our-world-3b15d1db9026)
 - [Why do we need self-driving cars?](https://www.quora.com/Why-do-we-need-self-driving-cars-1)
@@ -62,6 +71,7 @@
 
 SAE (J3016)
 
+[Back to top](#contents)
 
 <table class="wikitable">
 <caption>
@@ -132,6 +142,7 @@ SAE (J3016)
 
 #### Autonomous vehicle enabling technologies
 
+[Back to top](#contents)
 
 - [The Building Blocks of Autonomous Control](https://s3.amazonaws.com/visionsystemsintelligence/pdfs/VSI%20AUVSI%20Presentation_July_2016.pdf)
 - [Autonomous Vehicles – Risk or Opportunity?](https://higherlogicdownload.s3.amazonaws.com/AUVSI/14c12c18-fde1-4c1d-8548-035ad166c766/UploadedImages/documents/Com/ComSeries-Full.pdf)
@@ -241,7 +252,9 @@ Backend / Front End Software Engineers
 
 #### Autonomous vehicle architecture
 
-Working mechanism of AV's
+working mechanism of AV's
+
+[Back to top](#contents)
 
 -------------
 
@@ -250,6 +263,8 @@ Working mechanism of AV's
 ------------------
 
 #### Literature Review
+
+[Back to top](#contents)
 
 #### General
 * **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
@@ -465,6 +480,8 @@ Working mechanism of AV's
 ---------------
 #### Datasets
 
+[Back to top](#contents)
+
 * **[2018-March]** _The ApolloScape Dataset for Autonomous Driving_. [[ref](https://arxiv.org/pdf/1803.06184.pdf)]
 * **[2016-Oct]** _Udacity Open Sourcing 223GB of Driving Data_. [[ref](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5)] [[dataset](https://github.com/udacity/self-driving-car/tree/master/datasets)]
 * **[2016-08-02]** _comma.ai driving dataset_. [[ref](https://archive.org/details/comma-dataset)]
@@ -509,16 +526,21 @@ Working mechanism of AV's
 
 #### Implementations and libraries
 
+[Back to top](#contents)
+
 ---------------
 
 #### startups
 
+[Back to top](#contents)
 
 - [44 Corporations Working On Autonomous Vehicles](https://drivinghacks.quora.com/Quicklook-44-Corporations-Working-On-Autonomous-Vehicles)
 - [Moving Bits and Atoms at Scale – Uber Marketplace Architecture](https://docs.google.com/presentation/d/1aAkDp5JViza6UVT9Dbi02MI0ByE8iOu8UNMcotXR0cM/pub?start=false&loop=false&delayms=3000&slide=id.g1db52c1b40_0_232)
 - [9 Startups In India Working On Self Driving Technology](https://analyticsindiamag.com/9-startups-india-working-self-driving-technology/)
 
 ------
+
+[Back to top](#contents)
 
 - Volkswagen Group of America
 - Mercedes Benz
@@ -550,6 +572,8 @@ Working mechanism of AV's
 - [Nuro, Inc](https://nuro.ai/)
 - CarOne LLC
 - Apple Inc.
+
+[Back to top](#contents)
 
 ---------------
 ---------------
