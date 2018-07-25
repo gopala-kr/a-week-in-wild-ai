@@ -130,6 +130,24 @@ SAE (J3016)
 #### Autonomous vehicle enabling technologies
 
 
+- [The Building Blocks of Autonomous Control](https://s3.amazonaws.com/visionsystemsintelligence/pdfs/VSI%20AUVSI%20Presentation_July_2016.pdf)
+- [Autonomous Vehicles – Risk or Opportunity?](https://higherlogicdownload.s3.amazonaws.com/AUVSI/14c12c18-fde1-4c1d-8548-035ad166c766/UploadedImages/documents/Com/ComSeries-Full.pdf)
+- [Autonomous Car](https://www.slideshare.net/asertseminar/autonomous-car-32512833)
+- [Machine Learning for Self-Driving Cars](https://www.slideshare.net/jwiegelmann/machine-learning-for-selfdriving-cars)
+- [Autonomous Vehicle Implementation Predictions
+Implications for Transport Planning](https://www.vtpi.org/avip.pdf)
+- [GM: 2018
+SELF-DRIVING
+SAFETY REPORT](https://www.gm.com/content/dam/gm/en_us/english/selfdriving/gmsafetyreport.pdf)
+
+-------------
+
+
+![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
+
+
+
+
 ------------
 
 
