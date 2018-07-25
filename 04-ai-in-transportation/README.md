@@ -473,6 +473,37 @@ Working mechanism of AV's
 * **[]** _ _. [[ref]()]
 * **[]** _ _. [[ref]()]
 * **[]** _ _. [[ref]()]
+* [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/)
+* [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/raw_data.php)
+* [University of Michigan North Campus Long-Term Vision and LIDAR Dataset](http://robots.engin.umich.edu/nclt/)
+* [University of Michigan Ford Campus Vision and Lidar Data Set](http://robots.engin.umich.edu/SoftwareData/Ford)
+* [DIPLECS Autonomous Driving Datasets (2015)](http://cvssp.org/data/diplecs/)
+* [Velodyne SLAM Dataset from Karlsruhe Institute of Technology](http://www.mrt.kit.edu/z/publ/download/velodyneslam/dataset.html)
+* [SYNTHetic collection of Imagery and Annotations (SYNTHIA)](http://synthia-dataset.net/)
+* [Cityscape Dataset](https://www.cityscapes-dataset.com/)
+* [CSSAD Dataset](http://aplicaciones.cimat.mx/Personal/jbhayet/ccsad-dataset)
+* [Daimler Urban Segmetation Dataset](http://www.6d-vision.com/scene-labeling)
+* [Self Racing Cars - XSens/Fairchild Dataset](http://data.selfracingcars.com/)
+* [MIT AGE Lab](http://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)
+* [Yet Another Computer Vision Index To Datasets (YACVID)](http://yacvid.hayko.at/)
+* [KUL Belgium Traffic Sign Dataset](http://www.vision.ee.ethz.ch/~timofter/traffic_signs/)
+* [LISA: Laboratory for Intelligent & Safe Automobiles, UC San Diego Datasets](http://cvrr.ucsd.edu/LISA/datasets.html)
+* [Multisensory Omni-directional Long-term Place Recognition (MOLP) dataset for autonomous driving](http://hcr.mines.edu/code/MOLP.html)  [paper](https://arxiv.org/abs/1704.05215)
+
+-----------
+
+* [Center for Automotive Research at Stanford](https://cars.stanford.edu/) 
+* [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/)
+* [Berkeley DeepDrive](http://bdd.berkeley.edu/)
+* [Princeton Autonomous Vehicle Engineering](http://pave.princeton.edu/)
+* [University of Maryland Autonomous Vehicle Laboratory](http://www.avl.umd.edu/)
+* [University of Waterloo WAVE Laboratory](http://wavelab.uwaterloo.ca/)
+* [Oxford Robotics Institute – Autonomous Systems](http://mrg.robots.ox.ac.uk/)
+* [Autonomous Lab - Freie Universität Berlin](http://autonomos-labs.com/)
+* [Honda Research Institute - USA](http://usa.honda-ri.com/Pages/Research%20Area/Detail.aspx?listId=2)
+* [Toyota-CSAIL Research Center at MIT](http://toyota.csail.mit.edu/)
+* [Princeton Vision & Robotics](http://vision.princeton.edu/research.html)
+* [CMU The Robotic Institute Vision and Autonomous Systems Center (VASC)](http://www.ri.cmu.edu/research_center_detail.html?type=aboutcenter&center_id=4&menu_id=262)
 
 -------------------
 
