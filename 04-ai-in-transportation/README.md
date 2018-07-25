@@ -153,6 +153,8 @@ startups
 
 - [44 Corporations Working On Autonomous Vehicles](https://drivinghacks.quora.com/Quicklook-44-Corporations-Working-On-Autonomous-Vehicles)
 - [Moving Bits and Atoms at Scale – Uber Marketplace Architecture](https://docs.google.com/presentation/d/1aAkDp5JViza6UVT9Dbi02MI0ByE8iOu8UNMcotXR0cM/pub?start=false&loop=false&delayms=3000&slide=id.g1db52c1b40_0_232)
+- [9 Startups In India Working On Self Driving Technology](https://analyticsindiamag.com/9-startups-india-working-self-driving-technology/)
+
 
 ---------------
 ---------------
