@@ -466,6 +466,13 @@ Working mechanism of AV's
 #### Datasets
 
 * **[2018-March]** _The ApolloScape Dataset for Autonomous Driving_. [[ref](https://arxiv.org/pdf/1803.06184.pdf)]
+* **[2016-Oct]** _Udacity Open Sourcing 223GB of Driving Data_. [[ref](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5)] [[dataset](https://github.com/udacity/self-driving-car/tree/master/datasets)]
+* **[2016-08-02]** _comma.ai driving dataset_. [[ref](https://archive.org/details/comma-dataset)]
+* **[]** _ _. [[ref]()]
+* **[]** _ _. [[ref]()]
+* **[]** _ _. [[ref]()]
+* **[]** _ _. [[ref]()]
+* **[]** _ _. [[ref]()]
 
 -------------------
 
