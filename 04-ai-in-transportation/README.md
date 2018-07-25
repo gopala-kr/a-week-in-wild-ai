@@ -524,7 +524,7 @@ Working mechanism of AV's
 - Mercedes Benz
 - Google
 - Delphi Automotive
-- Tesla Motors
+- [Tesla Motors](https://www.tesla.com/autopilot)
 - Bosch
 - Nissan
 - GM Cruise LLC
@@ -532,7 +532,7 @@ Working mechanism of AV's
 - Honda
 - Ford
 - Zoox, Inc.
-- Drive.ai
+- [Drive.ai](https://www.drive.ai/)
 - Faraday & Future Inc.
 - Baidu USA LLC
 - Wheego Electric Cars Inc.
@@ -542,12 +542,12 @@ Working mechanism of AV's
 - NVIDIA Corporation
 - AutoX Technologies Inc
 - Subaru
-- Udacity, Inc
+- [Udacity, Inc](https://in.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)
 - [Navya Inc](http://navya.tech/en/).
 - Renovo Motors Inc
 - UATC LLC (Uber)
 - PlusAi Inc
-- Nuro, Inc
+- [Nuro, Inc](https://nuro.ai/)
 - CarOne LLC
 - Apple Inc.
 
