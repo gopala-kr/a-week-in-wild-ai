@@ -112,7 +112,50 @@
 
 ![sd-tech](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/sd-tech.JPG)
 
+
+Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonomous-vehicles/)
+
 --------
+
+
+![cs](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/c_s.JPG)
+
+--------------
+
+![gps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gps.JPG)
+
+---------------
+
+![radar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/radar.JPG)
+
+----------------------
+![lidar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/lidar.JPG)
+
+----------------------
+
+![smart](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/smart.JPG)
+
+-----------------
+
+![iot1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/iot1.JPG)
+
+------------------------
+![cloud](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/cloud.JPG)
+
+----------------------
+
+![ai](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ai.JPG)
+
+-------------------------
+
+
+![ml](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ml.JPG)
+
+-------------------------
+
+![ldp](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ldp.JPG)
+
+-------------------------
 
 AI, deep learning, Kalman filter, MPC controller, Path Planning, Semantic Segmentation, Localization, sensor fusion
 
