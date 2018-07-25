@@ -252,7 +252,7 @@ Working mechanism of AV's
 #### Literature Review
 
 #### General
-1. **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
+* **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
 * **[2015]** _An Empirical Evaluation of Deep Learning on Highway Driving_. [[ref](https://arxiv.org/abs/1504.01716)]
 * **[2015]** _Self-Driving Vehicles: The Challenges and Opportunities Ahead_. [[ref](http://dl.acm.org/citation.cfm?id=2823464)]
 * **[2014]** _Making Bertha Drive - An Autonomous Journey on a Historic Route_. [[ref](https://www.semanticscholar.org/paper/Making-Bertha-Drive-An-Autonomous-Journey-on-a-Ziegler-Bender/ec26d7b1cb028749d0d6972279cf4090930989d8)]
@@ -284,7 +284,7 @@ Working mechanism of AV's
 * **[2006]** _Stanley: The robot that won the DARPA Grand Challenge_. [[ref](https://www.semanticscholar.org/paper/Stanley-The-robot-that-won-the-DARPA-Grand-Thrun-Montemerlo/298500897243b17fa2ebe7bde0a1b8ebc00ea07f)]
 
 #### Localization & Mapping
-1. **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
+* **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
 * **[2016]** _Image Based Camera Localization: an Overview_. [[ref](https://arxiv.org/abs/1610.03660)]
 * **[2016]** _Ubiquitous real-time geo-spatial localization_ [[ref](http://dl.acm.org/citation.cfm?id=3005426)]
 * **[2016]** _Robust multimodal sequence-based loop closure detection via structured sparsity_. [[ref](http://www.roboticsproceedings.org/rss12/p43.pdf)]
@@ -297,7 +297,7 @@ Working mechanism of AV's
 * **[2007]** _Map-Based Precision Vehicle Localization in Urban Environments_. [[ref](https://www.semanticscholar.org/paper/Map-Based-Precision-Vehicle-Localization-in-Urban-Levinson-Montemerlo/924f7268d592d327f97ad4e96f48ad774d982ef3)]
 
 #### Perception
-1. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
+* **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
 * **[2016]** _Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?_. [[ref](https://arxiv.org/abs/1610.01983)]
 * **[2016]** _Lost and Found: Detecting Small Road Hazards for Self-Driving Vehicles_. [[ref](https://arxiv.org/abs/1609.04653)]
 * **[2016]** _Image segmentation of cross-country scenes captured in IR spectrum_. [[ref](https://arxiv.org/abs/1604.02469)]
@@ -348,7 +348,7 @@ Working mechanism of AV's
 
 
 #### Navigation & Planning
-1. **[2016]** _A Self-Driving Robot Using Deep Convolutional Neural Networks on Neuromorphic Hardware_. [[ref](https://arxiv.org/abs/1611.01235)]
+* **[2016]** _A Self-Driving Robot Using Deep Convolutional Neural Networks on Neuromorphic Hardware_. [[ref](https://arxiv.org/abs/1611.01235)]
 * **[2016]** _End to End Learning for Self-Driving Cars_. [[ref](https://arxiv.org/abs/1604.07316)]
 * **[2016]** _A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles_. [[ref](https://arxiv.org/abs/1604.07446)]
 * **[2016]** _A Convex Optimization Approach to Smooth Trajectories for Motion Planning with Car-Like Robots_. [[ref](https://www.semanticscholar.org/paper/A-Convex-Optimization-Approach-to-Smooth-Zhu-Schmerling/785b22bbdb04f2ddd4233a4c40d798ed3194374f)]
@@ -399,7 +399,7 @@ Working mechanism of AV's
 * **[2006]** _Probabilistic Terrain Analysis For High-Speed Desert Driving_.[[ref](https://www.semanticscholar.org/paper/Probabilistic-Terrain-Analysis-For-High-Speed-Thrun-Montemerlo/b23a7882b35d0252e5f3011bff15c6dca46ef84e)]
 
 #### Control
-1. **[2016]** _Predictive Control for Autonomous Driving with Experimental Evaluation on a Heavy-duty Construction Truck_. [[ref](https://www.semanticscholar.org/paper/Predictive-Control-for-Autonomous-Driving-with-Lima-Se/de87a5d5fbae0733806ba965b2d70fd04596f6e9)]
+* **[2016]** _Predictive Control for Autonomous Driving with Experimental Evaluation on a Heavy-duty Construction Truck_. [[ref](https://www.semanticscholar.org/paper/Predictive-Control-for-Autonomous-Driving-with-Lima-Se/de87a5d5fbae0733806ba965b2d70fd04596f6e9)]
 * **[2015]** _Model Predictive Control of Autonomous Mobility-on-Demand Systems_. [[ref](https://arxiv.org/abs/1509.03985)]
 * **[2015]** _Toward integrated motion planning and control using potential fields and torque-based steering actuation for autonomous driving_. [[ref](https://www.semanticscholar.org/paper/Toward-integrated-motion-planning-and-control-Galceran-Eustice/7b2f163eac946fac7351b0861c2b37fb19ffbaa5)]
 * **[2013]** _Strategic decision making for automated driving on two-lane, one way roads using model predictive control_. [[ref](https://www.semanticscholar.org/paper/Strategic-decision-making-for-automated-driving-on-Nilsson-Sj%C3%B6berg/0055ca2e60a2ab5cb66c4191d09563dd7f3edd00)]
@@ -409,7 +409,7 @@ Working mechanism of AV's
 * **[2009]** _Comparison of Three Control Methods for an Autonomous Vehicle_. [[ref](https://www.semanticscholar.org/paper/Comparison-of-Three-Control-Methods-for-an-Deshpande-Mathur/8fc0580499b0775db60096f52cd2f0ad2c6d24b5)]
 
 #### Simulation
-1. **[2016]** _Learning a Driving Simulator_. [[ref](https://arxiv.org/abs/1608.01230)]
+* **[2016]** _Learning a Driving Simulator_. [[ref](https://arxiv.org/abs/1608.01230)]
 * **[2014]** _From a Competition for Self-Driving Miniature Cars to a Standardized Experimental Platform: Concept, Models, Architecture, and Evaluation_. [[ref](https://arxiv.org/abs/1406.7768)]
 * **[2014]** _Technical evaluation of the Carolo-Cup 2014 - A competition for self-driving miniature cars_. [[ref](https://www.semanticscholar.org/paper/Technical-evaluation-of-the-Carolo-Cup-2014-A-Zug-Steup/4f57643b95e854bb05fa0c037cbf8898accdbdef)]
 * **[2014]** _Crowdsourcing as a methodology to obtain large and varied robotic data sets_. [[ref](https://www.semanticscholar.org/paper/Crowdsourcing-as-a-methodology-to-obtain-large-and-Croon-Gerke/8bdcb90d72eb0494f8f2635dad8ef05a66b8e445)]
@@ -432,7 +432,7 @@ Working mechanism of AV's
 * **[2007]** _Software & Systems Engineering Process and Tools for the Development of Autonomous Driving Intelligence_ [[ref](https://www.semanticscholar.org/paper/Software-Systems-Engineering-Process-and-Tools-for-Basarke-Berger/c564b62cd7df2ed47bb9a6266cc19c83024bc390)]
 
 #### Human-Machine Interaction
-1. **[2015]** _User interface considerations to prevent self-driving carsickness_. [[ref](http://dl.acm.org/citation.cfm?id=2809754)]
+* **[2015]** _User interface considerations to prevent self-driving carsickness_. [[ref](http://dl.acm.org/citation.cfm?id=2809754)]
 * **[2014]** _Public Opinion about Self-driving Vehicles_. [[ref](https://www.semanticscholar.org/paper/Public-Opinion-about-Self-driving-Vehicles-Schoettle-Sivak/4984ed8ae3355d58cfad2bd27cb2bc2488cb0e6a)]
 * **[2014]** _Setting the Stage for Self-driving Cars: Exploration of Future Autonomous Driving Experiences_. [[ref](https://www.semanticscholar.org/paper/Setting-the-Stage-for-Self-driving-Cars-Pettersson/df428d8015b92902416d07379fb3415a12d64e3f)]
 * **[2014]** _Three Decades of Driver Assistance Systems: Review and Future Perspectives_. [[ref](https://www.semanticscholar.org/paper/Three-Decades-of-Driver-Assistance-Systems-Review-Bengler-Dietmayer/2c6d7bcf2ae79b73ad5888f591e159a3d994322b)]
@@ -446,7 +446,7 @@ Working mechanism of AV's
 * **[2009]** _Driver Inattention Detection based on Eye Gaze - Road Event Correlation_. [[ref](https://www.semanticscholar.org/paper/Driver-Inattention-Detection-based-on-Eye-Gaze-Fletcher-Zelinsky/b46f706a9df142f36a58cd7a84c88962f85d93b5)]
 
 #### Infrastructure
-1. **[2014]** _Control of Robotic Mobility-On-Demand Systems: a Queueing-Theoretical Perspective_. [[ref](https://arxiv.org/abs/1404.4391)]
+* **[2014]** _Control of Robotic Mobility-On-Demand Systems: a Queueing-Theoretical Perspective_. [[ref](https://arxiv.org/abs/1404.4391)]
 * **[2014]** _Priority-based Intersection Control Framework for Self-Driving Vehicles: Agent-based Model Development and Evaluation_. [[ref](https://www.researchgate.net/publication/271738793_Priority-based_Intersection_Control_Framework_for_Self-Driving_Vehicles_Agent-based_Model_Development_and_Evaluation)]
 * **[2014]** _A lattice-based approach to multi-robot motion planning for non-holonomic vehicles_. [[ref](https://www.semanticscholar.org/paper/A-lattice-based-approach-to-multi-robot-motion-Cirillo-Uras/74ec451f463c4931c73f35cf327893ac2595e876)]
 * **[2005]** _Cooperative autonomous driving: intelligent vehicles sharing city roads_. [[ref](https://www.semanticscholar.org/paper/Cooperative-autonomous-driving-intelligent-Baber-Kolodko/a42f42fa95d8ee6498dff905ed4848437a8f0084)]
@@ -456,7 +456,7 @@ Working mechanism of AV's
 * **[2012]** _Progress toward multi-robot reconnaissance and the MAGIC 2010 competition_. [[ref](https://www.semanticscholar.org/paper/Progress-toward-multi-robot-reconnaissance-and-the-Olson-Strom/617943baefd909bbf06787fcb8b18b943820c87e)]
 
 #### Law & Society
-1. **[2016]** _Autonomous Vehicle Technology: A Guide for Policymakers_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Vehicle-Technology-A-Guide-for-Anderson-Kalra/a0231f6ab2a9feaef92d5481149cdb2142aaeb02)]
+* **[2016]** _Autonomous Vehicle Technology: A Guide for Policymakers_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Vehicle-Technology-A-Guide-for-Anderson-Kalra/a0231f6ab2a9feaef92d5481149cdb2142aaeb02)]
 * **[2014]** _**WHITE PAPER** Self-driving Vehicles: Current Status of Autonomous Vehicle Development and Minnesota Policy Implications Preliminary White Paper_. [[ref](https://www.semanticscholar.org/paper/Self-driving-Vehicles-Current-Status-of-Autonomous-Lari-Douma/581075c89f6a3945fa43d61aac1329d1e43f9fa3)]
 * **[2014]** _Are We Ready for Driver-less Vehicles? Security vs. Privacy- A Social Perspective_. [[ref](https://www.semanticscholar.org/paper/Are-We-Ready-for-Driver-less-Vehicles-Security-vs-Acharya/ec5b5c434f9d0bfc3954c212226d436e32bcf7d5)]
 * **[2014]** _A Survey of Public Opinion about Autonomous and Self-driving_.[[ref](https://www.semanticscholar.org/paper/A-Survey-of-Public-Opinion-about-Autonomous-and-Schoettle-Sivak/5d983c2d2160b9c159b2cdcfcfaded01a4ce2ad6)]
