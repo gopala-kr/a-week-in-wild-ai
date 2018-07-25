@@ -256,17 +256,3 @@ startups
 
 ---------------
 ---------------
-
-
-reference images
-
-![From_toeka_tot_nou](https://steemitimages.com/0x0/http://s26.postimg.org/u7eh0ofsp/From_toeka_tot_nou.png)
-
-------------
-
-
-<img src="https://article.images.consumerreports.org/prod/content/dam/CRO%20Images%202017/Magazine-Articles/April/CR-Autospotlight-Where-Driverless-Cars-are-04-17" width="1000" height="500" />
-
-
-------------
----------------------
