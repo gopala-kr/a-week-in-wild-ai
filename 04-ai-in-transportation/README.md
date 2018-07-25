@@ -2,6 +2,26 @@
 
 #### A brief survey : AI in transportation -> case study on autonomous vehicles
 
+------------
+> Contents
+
+- [Timeline](#timeline)
+- [The why](#the-why)
+- [Autonomy Levels](#autonomy-levels)
+- [Autonomous vehicle enabling technologies](#autonomous-vehicle-enabling-technologies)
+  - Sensors & Cameras
+  - Local Data Processors
+  - High-performance GPS
+  - Radar
+  - LIDAR
+  - Smart Technologies
+  - Connectivity to the Internet of Things
+  - Cloud-Based Data Processing & Management
+  - Artificial Intelligence
+  - Machine Learning
+- [Autonomous vehicle architecture](#autonomous-vehicle-architecture)
+
+
 -------------
 
 #### Timeline
@@ -35,7 +55,10 @@
 
 --------------
 
-#### SAE (J3016) Autonomy Levels
+#### Autonomy Levels
+
+SAE (J3016)
+
 
 <table class="wikitable">
 <caption>
