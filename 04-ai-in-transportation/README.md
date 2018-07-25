@@ -140,10 +140,7 @@ Implications for Transport Planning](https://www.vtpi.org/avip.pdf)
 SELF-DRIVING
 SAFETY REPORT](https://www.gm.com/content/dam/gm/en_us/english/selfdriving/gmsafetyreport.pdf)
 
--------------
 
-
-![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
 
 
 
@@ -237,6 +234,16 @@ Backend / Front End Software Engineers
 
 
 ---------------
+
+#### Autonomous vehicle architecture
+
+Working mechanism of AV's
+
+-------------
+
+![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
+
+------------------
 
 startups
 
