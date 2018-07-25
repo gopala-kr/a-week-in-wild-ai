@@ -110,7 +110,39 @@ Enabling tech
 
 AI, deep learning, Kalman filter, MPC controller, Path Planning, Semantic Segmentation, Localization, sensor fusion
 
+Machine Learning
+Deep Learning
+C++
+Python
+Computer Vision
+Robotics
+Perception
+Prediction
+Localization
+Calibration
+Motion Planning
+Motion Controls
+Simulation
+UI / Visualization
+Vehicle Infrastructure
+Backend / Front End Software Engineers
 
+
+➢ Computer Vision and Deep Learning
+- Traffic Sign Classifier
+- Behavioural Cloning
+- Advanced Lane Finding
+- Vehicle Detection and Tracking
+➢ Sensor Fusion, Localisation and Control
+- Extended Kalman Filter Project
+- Unscented Kalman Filter Project
+- Kidnapped Vehicle Project
+- PID Controller Project
+- Model Predictive Control Project
+➢ Path planning, Concentrations and Systems
+- Path Planning Project
+- Semantic Segmentation
+- Programming a Real Self-Driving Car
 
 
 
@@ -120,7 +152,7 @@ startups
 
 
 - [44 Corporations Working On Autonomous Vehicles](https://drivinghacks.quora.com/Quicklook-44-Corporations-Working-On-Autonomous-Vehicles)
-
+- [Moving Bits and Atoms at Scale – Uber Marketplace Architecture](https://docs.google.com/presentation/d/1aAkDp5JViza6UVT9Dbi02MI0ByE8iOu8UNMcotXR0cM/pub?start=false&loop=false&delayms=3000&slide=id.g1db52c1b40_0_232)
 
 ---------------
 ---------------
