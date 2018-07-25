@@ -104,6 +104,18 @@
 
 ---------------------
 
+
+Enabling tech
+
+
+AI, deep learning, Kalman filter, MPC controller, Path Planning, Semantic Segmentation, Localization, sensor fusion
+
+
+
+
+
+---------------
+
 startups
 
 
