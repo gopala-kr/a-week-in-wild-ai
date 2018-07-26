@@ -237,6 +237,14 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 -------------------------
 
+
+#### Autonomous vehicle architecture
+
+working mechanism of AV's
+
+[Back to top](#contents)
+
+
 AI, deep learning, Kalman filter, MPC controller, Path Planning, Semantic Segmentation, Localization, sensor fusion
 
 Machine Learning
@@ -274,14 +282,6 @@ Backend / Front End Software Engineers
 - Programming a Real Self-Driving Car
 
 
-
----------------
-
-#### Autonomous vehicle architecture
-
-working mechanism of AV's
-
-[Back to top](#contents)
 
 -------------
 
@@ -512,11 +512,6 @@ working mechanism of AV's
 * **[2018-March]** _The ApolloScape Dataset for Autonomous Driving_. [[ref](https://arxiv.org/pdf/1803.06184.pdf)]
 * **[2016-Oct]** _Udacity Open Sourcing 223GB of Driving Data_. [[ref](https://medium.com/udacity/open-sourcing-223gb-of-mountain-view-driving-data-f6b5593fbfa5)] [[dataset](https://github.com/udacity/self-driving-car/tree/master/datasets)]
 * **[2016-08-02]** _comma.ai driving dataset_. [[ref](https://archive.org/details/comma-dataset)]
-* **[]** _ _. [[ref]()]
-* **[]** _ _. [[ref]()]
-* **[]** _ _. [[ref]()]
-* **[]** _ _. [[ref]()]
-* **[]** _ _. [[ref]()]
 * [Oxford's Robotic Car](http://robotcar-dataset.robots.ox.ac.uk/)
 * [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/raw_data.php)
 * [University of Michigan North Campus Long-Term Vision and LIDAR Dataset](http://robots.engin.umich.edu/nclt/)
