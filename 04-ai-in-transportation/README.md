@@ -298,6 +298,14 @@ working mechanism of AV's
 
 [Back to top](#contents)
 
+
+
+
+
+![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
+
+--------
+
 ➢ Computer Vision and Deep Learning
 - Traffic Sign Classifier
 - Behavioural Cloning
@@ -341,10 +349,6 @@ Intelligence Architecture for Autonomous Vehicles](https://arxiv.org/pdf/1802.04
 - [An Integrated Architecture for Autonomous Vehicles
 Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf)
 
-
--------------
-
-![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
 
 ------------------
 
