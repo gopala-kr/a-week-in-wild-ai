@@ -21,16 +21,16 @@
   - Machine Learning
 - [Autonomous vehicle architecture](#autonomous-vehicle-architecture)
 - [Literature review](#literature-review)
-  - General
-  - Localization & Mapping
-  - Perception
-  - Navigation & Planning
-  - Control
-  - Simulation
-  - Software Engineering
-  - Human-Machine Interaction
-  - Infrastructure
-  - Law & Society
+  - [General](#general)
+  - [Localization & Mapping](#localization-&-mapping)
+  - [Perception](#)
+  - [Navigation & Planning](#perception)
+  - [Control](#control)
+  - [Simulation](#simulation)
+  - [Software Engineering](#software-engineering)
+  - [Human-Machine Interaction](#human-machine-interaction)
+  - [Infrastructure](#infrastructure)
+  - [Law & Society](#law-&-society)
 - [Datasets](#datasets)
 - [Implementations and libraries](#implementations-and-libraries)
 - [Startups](#startups)
