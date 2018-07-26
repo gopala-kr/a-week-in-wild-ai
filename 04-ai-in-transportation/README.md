@@ -200,11 +200,15 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 #### Sensors and Cameras
 
+[Back to top](#contents)
+
 ![cs](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/c_s.JPG)
 
 --------------
 
 #### Local Data Processors
+
+[Back to top](#contents)
 
 ![ldp](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ldp.JPG)
 
@@ -214,6 +218,8 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 #### High-performance GPS
 
+[Back to top](#contents)
+
  ![gps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gps.JPG) 
 
 
@@ -221,12 +227,16 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 #### Radar
 
+[Back to top](#contents)
+
   ![radar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/radar.JPG)
 
 
 ----------------------
 
 #### LIDAR
+
+[Back to top](#contents)
 
   
 ![lidar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/lidar.JPG)
@@ -236,12 +246,16 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 #### Smart Technologies
 
+[Back to top](#contents)
+
 ![smart](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/smart.JPG)
 
 
 ------------------------
 
 #### Connectivity to the Internet of Things
+
+[Back to top](#contents)
 
  ![iot1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/iot1.JPG) 
 
@@ -250,13 +264,16 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 #### Cloud-Based Data Processing & Management
 
-  
+[Back to top](#contents)
+
 ![cloud](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/cloud.JPG)
 
 
 -------------------------
 
 #### Artificial Intelligence
+
+[Back to top](#contents)
 
   
 ![ai](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ai.JPG)
@@ -266,7 +283,9 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 -------------------------
 
 #### Machine Learning
-  
+
+[Back to top](#contents)
+
 
 ![ml](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ml.JPG)
 
