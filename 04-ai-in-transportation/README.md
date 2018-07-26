@@ -48,6 +48,7 @@
 - [The Self-Driving Car Timeline – Predictions from the Top 11 Global Automakers](https://www.techemergence.com/self-driving-car-timeline-themselves-top-11-automakers/)
 - [The Evolution of Self-Driving Cars](https://nytjournal.org/articles/ai_articles/evolution_of_self_driving_cars.php)
 - [Evolution of Self Driving Autonomous Car](http://robotglobe.org/evolution-of-self-driving-autonomous-car/)
+- [sae.org)](https://www.sae.org)
 
 --------------
 
@@ -159,6 +160,20 @@ Autonomous Vehicle and Smart Mobility](http://vancouver.ieee.ca/files/2017/12/IE
 - [Three Sensor Types Drive Autonomous Vehicles](https://www.sensorsmag.com/components/three-sensor-types-drive-autonomous-vehicles)
 - [Industry 4.0: the fourth industrial revolution – guide to Industrie 4.0](https://www.i-scoop.eu/industry-4-0/)
 
+----------
+
+- [How Sensor Fusion Works for Self-Driving Cars](https://readbackline.com/self-driving-cars/how-sensor-fusion-works-self-driving-cars/)
+- [Autonomous Driving](https://www.quora.com/topic/Autonomous-Driving)
+- [What sensors do driverless cars have?](https://www.quora.com/What-sensors-do-driverless-cars-have)
+- [MEMS and Sensors in Automotive Applications on the Road to Autonomous Vehicles: HUD and ADAS](https://www.slideshare.net/MicroVision/mems-and-sensors-in-automotive-applications-on-the-road-to-autonomous-vehicles-hud-and-adas)
+- [SENSOR FUSION: A COMPARISON OF SENSING
+CAPABILITIES OF HUMAN DRIVERS AND
+HIGHLY AUTOMATED VEHICLES](http://umich.edu/~umtriswt/PDF/SWT-2017-12.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ------------
 
@@ -577,3 +592,13 @@ working mechanism of AV's
 
 ---------------
 ---------------
+
+
+Appendix:
+
+----
+
+![UBER-SELFDRIVING-SENSORS](https://fingfx.thomsonreuters.com/gfx/rngs/UBER-SELFDRIVING-SENSORS/010061BR2TH/UBER-SELFDRIVING-SENSORS.jpg)
+
+----------
+------------
