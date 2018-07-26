@@ -21,6 +21,16 @@
   - Machine Learning
 - [Autonomous vehicle architecture](#autonomous-vehicle-architecture)
 - [Literature review](#literature-review)
+  - General
+  - Localization & Mapping
+  - Perception
+  - Navigation & Planning
+  - Control
+  - Simulation
+  - Software Engineering
+  - Human-Machine Interaction
+  - Infrastructure
+  - Law & Society
 - [Datasets](#datasets)
 - [Implementations and libraries](#implementations-and-libraries)
 - [Startups](#startups)
