@@ -48,7 +48,7 @@
 - [The Self-Driving Car Timeline – Predictions from the Top 11 Global Automakers](https://www.techemergence.com/self-driving-car-timeline-themselves-top-11-automakers/)
 - [The Evolution of Self-Driving Cars](https://nytjournal.org/articles/ai_articles/evolution_of_self_driving_cars.php)
 - [Evolution of Self Driving Autonomous Car](http://robotglobe.org/evolution-of-self-driving-autonomous-car/)
-- [sae.org)](https://www.sae.org)
+- [sae.org](https://www.sae.org)
 
 --------------
 
