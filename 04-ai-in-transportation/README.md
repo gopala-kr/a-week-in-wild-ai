@@ -142,6 +142,8 @@ SAE (J3016)
 
 > **Note: _As of today, no car manufacturer has achieved level 3 or higher in production, although several have produced demonstration vehicles._**
  
+ ![Hecht-img2](https://www.osa-opn.org/opn/media/Images/Articles/2018/1801/Features/Hecht-img2.jpg?width=1200)
+ 
 ---------------------
 
 #### Autonomous vehicle enabling technologies
@@ -173,7 +175,7 @@ Autonomous Vehicle and Smart Mobility](http://vancouver.ieee.ca/files/2017/12/IE
 CAPABILITIES OF HUMAN DRIVERS AND
 HIGHLY AUTOMATED VEHICLES](http://umich.edu/~umtriswt/PDF/SWT-2017-12.pdf)
 - [Cameras vs. LiDAR for Self-Driving Cars]()
-- []()
+- [Lidar for Self-Driving Cars](https://www.osa-opn.org/home/articles/volume_29/january_2018/features/lidar_for_self-driving_cars/)
 - []()
 - []()
 - []()
@@ -555,6 +557,7 @@ working mechanism of AV's
 - [44 Corporations Working On Autonomous Vehicles](https://drivinghacks.quora.com/Quicklook-44-Corporations-Working-On-Autonomous-Vehicles)
 - [Moving Bits and Atoms at Scale – Uber Marketplace Architecture](https://docs.google.com/presentation/d/1aAkDp5JViza6UVT9Dbi02MI0ByE8iOu8UNMcotXR0cM/pub?start=false&loop=false&delayms=3000&slide=id.g1db52c1b40_0_232)
 - [9 Startups In India Working On Self Driving Technology](https://analyticsindiamag.com/9-startups-india-working-self-driving-technology/)
+- [mapped-top-263-companies-racing-toward-autonomous-cars](https://www.wired.com/2017/05/mapped-top-263-companies-racing-toward-autonomous-cars/)
 
 ------
 
@@ -601,11 +604,65 @@ Appendix:
 
 ----
 
-![bec963b2213dc3d11cdec4eb265c62fb](https://qph.ec.quoracdn.net/main-qimg-bec963b2213dc3d11cdec4eb265c62fb.webp)
+![swift_autonomousvehicles](https://www.swiftnav.com/sites/default/files/swift_autonomousvehicles.jpg)
+
+-----------
+
+![bec963b2213dc3d11cdec4eb265c62fb](https://www.osa-opn.org/opn/media/Images/Articles/2018/1801/Features/Hecht-img4.jpg?width=1200)
 
 ---------
 
 ![UBER-SELFDRIVING-SENSORS](https://fingfx.thomsonreuters.com/gfx/rngs/UBER-SELFDRIVING-SENSORS/010061BR2TH/UBER-SELFDRIVING-SENSORS.jpg)
+
+
+---------
+
+![csm_20170302_2025AD_Infographic_Sensors_7338bee200](https://www.2025ad.com/fileadmin/_processed_/a/a/csm_20170302_2025AD_Infographic_Sensors_7338bee200.jpg)
+
+
+----------
+
+![Impact_e714e59576](https://www.2025ad.com/fileadmin/_processed_/7/2/csm_240518_2025AD_Infographic_Economic-Impact_e714e59576.jpg)
+
+--------
+
+![csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d](https://www.2025ad.com/fileadmin/_processed_/8/1/csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d.jpg)
+
+
+---------
+
+![Development_final_cb5d6a9d5d](https://www.2025ad.com/fileadmin/_processed_/8/1/csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d.jpg)
+
+
+-----------
+
+![csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a](https://www.2025ad.com/fileadmin/_processed_/c/0/csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a.jpg)
+
+----------
+
+![autonomous-infographic-](https://www.intel.ie/content/dam/www/public/emea/xe/en/images/it-managers/autonomous-infographic-16x9.jpg.rendition.intel.web.1648.927.jpg)
+
+source: [Intel – Autonomous Cars](https://www.intel.ie/content/www/ie/en/it-managers/autonomous-cars.html)
+
+---------
+
+![Future-of-Transportation-Stack_V3-TA](https://media.wired.com/photos/592652fb8d4ebc5ab8069db7/master/w_1132,c_limit/Future-of-Transportation-Stack_V3-TA.jpg)
+
+---------
+
+![1-unbundling-car](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/05/1-unbundling-car.png)
+
+-----------
+
+![Where_In_The_World_Are_Self_Driving_Cars_Final-1024x857](https://insuranceblog.accenture.com/wp-content/uploads/2017/01/Where_In_The_World_Are_Self_Driving_Cars_Final-1024x857.png)
+
+------
+
+![car-infographic-1024x716](https://b-i.forbesimg.com/chunkamui/files/2013/05/car-infographic-1024x716.jpg)
+
+-------
+
+![Artefact-hyundai-autonomous-vehicles-Exploration-Infographic](https://www.artefactgroup.com/wp-content/uploads/2015/10/Artefact-hyundai-autonomous-vehicles-Exploration-Infographic.jpg)
 
 ----------
 ------------
