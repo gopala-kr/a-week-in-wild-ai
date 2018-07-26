@@ -22,15 +22,15 @@
 - [Autonomous vehicle architecture](#autonomous-vehicle-architecture)
 - [Literature review](#literature-review)
   - [General](#general)
-  - [Localization & Mapping](#localization-&-mapping)
+  - [Localization  and Mapping](#localization-and-mapping)
   - [Perception](#perception)
-  - [Navigation & Planning](#navigation-&-planning)
+  - [Navigation and Planning](#navigation-and-planning)
   - [Control](#control)
   - [Simulation](#simulation)
   - [Software Engineering](#software-engineering)
   - [Human-Machine Interaction](#human-machine-interaction)
   - [Infrastructure](#infrastructure)
-  - [Law & Society](#law-&-society)
+  - [Law and Society](#law-and-society)
 - [Datasets](#datasets)
 - [Implementations and libraries](#implementations-and-libraries)
 - [Startups](#startups)
@@ -334,7 +334,7 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2006]** _A Personal Account of the Development of Stanley, the Robot That Won the DARPA Grand Challenge_. [[ref](https://www.semanticscholar.org/paper/A-Personal-Account-of-the-Development-of-Stanley-Thrun/74a4de58be068d2dc38bb31cf54c3c49bdc0d4e4)]
 * **[2006]** _Stanley: The robot that won the DARPA Grand Challenge_. [[ref](https://www.semanticscholar.org/paper/Stanley-The-robot-that-won-the-DARPA-Grand-Thrun-Montemerlo/298500897243b17fa2ebe7bde0a1b8ebc00ea07f)]
 
-#### Localization & Mapping
+#### Localization and Mapping
 
 [Back to top](#contents)
 
@@ -405,7 +405,7 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2000]** _Real-time multiple vehicle detection and tracking from a moving vehicle_. [[ref](https://www.semanticscholar.org/paper/Real-time-multiple-vehicle-detection-and-tracking-Betke-Haritaoglu/864a7068c346ecbc4ef6c4da66e4c8bcc83fe560)]
 
 
-#### Navigation & Planning
+#### Navigation and Planning
 
 [Back to top](#contents)
 
@@ -503,7 +503,7 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2010]** _Automating acceptance tests for sensor- and actuator-based systems on the example of autonomous vehicles_. [[ref](https://www.semanticscholar.org/paper/Automating-acceptance-tests-for-sensor-and-Berger/3bc567143118f8fb34e0460cc3424701683c2511)]
 * **[2007]** _Software & Systems Engineering Process and Tools for the Development of Autonomous Driving Intelligence_ [[ref](https://www.semanticscholar.org/paper/Software-Systems-Engineering-Process-and-Tools-for-Basarke-Berger/c564b62cd7df2ed47bb9a6266cc19c83024bc390)]
 
-#### Human-Machine Interaction
+#### Human Machine Interaction
 
 [Back to top](#contents)
 
@@ -533,7 +533,7 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2012]** _Exploration and Mapping with Autonomous Robot Teams Results from the Magic 2010 Competition_. [[ref](https://www.semanticscholar.org/paper/Exploration-and-Mapping-with-Autonomous-Robot-Olson-Strom/9bf0e62b5b2343a0b509a1ac7a658be587a5c37d)]
 * **[2012]** _Progress toward multi-robot reconnaissance and the MAGIC 2010 competition_. [[ref](https://www.semanticscholar.org/paper/Progress-toward-multi-robot-reconnaissance-and-the-Olson-Strom/617943baefd909bbf06787fcb8b18b943820c87e)]
 
-#### Law & Society
+#### Law and Society
 
 [Back to top](#contents)
 
