@@ -261,9 +261,6 @@ working mechanism of AV's
 - Path Planning Project
 - Semantic Segmentation
 - Programming a Real Self-Driving Car
-
-
-
 -------------
 
 ![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
