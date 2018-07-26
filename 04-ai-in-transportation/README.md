@@ -140,7 +140,7 @@ SAE (J3016)
 </td></tr></tbody></table>
 
 
-> **Note: As of today, no car manufacturer has achieved level 3 or higher in production, although several have produced demonstration vehicles.**
+> **Note: _As of today, no car manufacturer has achieved level 3 or higher in production, although several have produced demonstration vehicles._**
  
 ---------------------
 
