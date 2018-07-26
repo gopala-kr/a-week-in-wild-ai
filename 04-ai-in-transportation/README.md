@@ -548,6 +548,64 @@ working mechanism of AV's
 
 [Back to top](#contents)
 
+
+- [self-driving-car](https://github.com/udacity/self-driving-car) : The Udacity open source self-driving car project https://udacity.com/self-driving-car
+- [self-driving-car-sim](https://github.com/udacity/self-driving-car-sim) : A self-driving car simulator built with Unity
+- [vehicle-detection](https://github.com/tatsuyah/vehicle-detection) :Vehicle detection using machine learning and computer vision techniques for Udacity's self-driving car course.
+- [donkey](https://github.com/wroscoe/donkey) : a python self driving library
+- [awesome-autonomous-vehicles](https://github.com/takeitallsource/awesome-autonomous-vehicles) : Curated List of Self-Driving Cars and Autonomous Vehicles Resources
+- [DeepGTAV](https://github.com/aitorzip/DeepGTAV) : A plugin for GTAV that transforms it into a vision-based self-driving car research environment.
+- [self-driving-car](https://github.com/ndrplz/self-driving-car) : 
+Udacity Self-Driving Car Engineer Nanodegree projects.
+- [udacity/CarND-LaneLines-P1](https://github.com/udacity/CarND-LaneLines-P1) : Lane Finding Project for Self-Driving Car ND
+- [self-driving-toy-car](https://github.com/experiencor/self-driving-toy-car) : A self driving toy car using end-to-end learning
+- [stanford_self_driving_car_code](https://github.com/emmjaykay/stanford_self_driving_car_code) : 
+Stanford Code From Cars That Entered DARPA Grand Challenges
+- [self-driving-car-nd](https://github.com/jessicayung/self-driving-car-nd) : Udacity's Self-Driving Car Nanodegree project files and notes.
+- [How_to_simulate_a_self_driving_car](https://github.com/llSourcell/How_to_simulate_a_self_driving_car) : This is the code for "How to Simulate a Self-Driving Car" by Siraj Raval on Youtube
+- [Cherry-Autonomous-Racecar](https://github.com/DJTobias/Cherry-Autonomous-Racecar) : Implementation of the CNN from End to End Learning for Self-Driving Cars on a Nvidia Jetson TX1 using Tensorflow and ROS
+- [sdsandbox](https://github.com/tawnkramer/sdsandbox) : This provides a sandbox simulator for training a self-driving car. This uses Unity for simulation and Python with Keras and Tensorflow for training. Recently updated to work on Python 3.4+ and Keras 2+
+- [Self-Driving-Car-AI](https://github.com/JianyangZhang/Self-Driving-Car-AI) : A simple self-driving car AI python script using the deep Q-learning algorithm
+- [self-driving-car](https://github.com/gtarobotics/self-driving-car) : Self Driving Car development tools and technologies from GTA Robotics Community members https://meetup.com/gta-robotics
+- [Behavioral-Cloning](https://github.com/upul/Behavioral-Cloning) : Third Project of the Udacity Self-Driving Car Nanodegree Program
+- [Autopilot](https://github.com/akshaybahadur21/Autopilot) : A self driving car model for humans.
+- [metacar](https://github.com/thibo73800/metacar) :  reinforcement learning environment for self-driving cars in the browser. https://www.metacar-project.com/
+- [gym-duckietown](https://github.com/duckietown/gym-duckietown) : Self-driving car simulator for the Duckietown universe http://duckietown.org
+- [SDCND-Prerequisites](https://github.com/ncondo/SDCND-Prerequisites) : A list of recommended prerequisites for Udacity's Self Driving Car Nanodegree
+- [CarND-Extended-Kalman-Filter-Project](https://github.com/udacity/CarND-Extended-Kalman-Filter-Project) : 
+Self-Driving Car Nanodegree Program Starter Code for the Extended Kalman Filter Project
+- [SDC-P5](https://github.com/diyjac/SDC-P5) : Udacity Self-Driving Car Project 5: Vehicle Detection and Tracking
+- [deepdrive-universe](https://github.com/OSSDC/deepdrive-universe) : Run self-driving car agents in GTAV Universe
+- [CarND-TensorFlow-Lab](https://github.com/udacity/CarND-TensorFlow-Lab) : TensorFlow Lab for Self-Driving Car ND
+- [Self-Driving-Car-Demo](https://github.com/llSourcell/Self-Driving-Car-Demo) : Self Driving Car Demo for Fresh Machine Learning #6
+- [Self-Driving-Car-3D-Simulator-With-CNN](https://github.com/sagar448/Self-Driving-Car-3D-Simulator-With-CNN) :
+- [self_driving_cars_explained](https://github.com/llSourcell/self_driving_cars_explained) : This is the code for "Self Driving Cars Explaioned" by Siraj Raval on Youtube
+- [awesome-self-driving-cars](https://github.com/philbort/awesome-self-driving-cars) : An awesome list of self-driving cars
+- [DRL_based_SelfDrivingCarControl](https://github.com/MLJejuCamp2017/DRL_based_SelfDrivingCarControl) : Deep Reinforcement Learning (DQN) based Self Driving Car Control with Vehicle Simulator
+- [self-driving](https://github.com/BoltzmannBrain/self-driving) : Machine learning models for self-driving cars
+- [Self-Driving-Car-Vehicle-Detection](https://github.com/JamesLuoau/Self-Driving-Car-Vehicle-Detection) : Self Driving Car Vehicle Detection
+- [behavioral-cloning](https://github.com/navoshta/behavioral-cloning) : 
+Behavioral cloning: end-to-end learning for self-driving cars. 
+- [keras-steering-angle-visualizations](https://github.com/jacobgil/keras-steering-angle-visualizations) : Visualizations for understanding the regressed wheel steering angle for self driving cars
+- [CarND-Traffic-Sign-Classifier-Project](https://github.com/jeremy-shannon/CarND-Traffic-Sign-Classifier-Project) : 
+My work-through of the Jupyter notebook for the Udacity Self-Driving Car Nanodegree program Project 2 - Traffic Sign Classifier
+- [Udacity-SDC-Radar-Driver-Micro-Challenge](https://github.com/diyjac/Udacity-SDC-Radar-Driver-Micro-Challenge) : Udacity Self-Driving Car Radar Driver Micro Challenge
+- [CarND-Vehicle-Detection](https://github.com/jeremy-shannon/CarND-Vehicle-Detection) : https://github.com/jeremy-shannon/CarND-Vehicle-Detection
+- [SDC-System-Integration](https://github.com/diyjac/SDC-System-Integration) : Self Driving Car Engineer Nanodegree System Integration Capstone Project
+- [MIT-6.S094](https://github.com/Carmezim/MIT-6.S094) : 
+MIT-6.S094: Deep Learning for Self-Driving Cars Assignments solutions
+- [selfdriving-robot-car](https://github.com/bdjukic/selfdriving-robot-car) : Raspberry Pi based robot car which is capable of autonomous driving using Deep Neural network.
+- [Road-Semantic-Segmentation](https://github.com/NikolasEnt/Road-Semantic-Segmentation) : Udacity Self-Driving Car Engineer Nanodegree. Project: Road Semantic Segmentation
+- [brahms](https://github.com/spicavigo/brahms) : Udacity's Self Driving Car Simulator (Challenge #2)
+- [End-to-End-Learning-for-Self-Driving-Cars](https://github.com/ymshao/End-to-End-Learning-for-Self-Driving-Cars) : End-to-End learning to train a simulated car keep on the track without crash
+- [Vehicle-Detection-and-Tracking](https://github.com/NikolasEnt/Vehicle-Detection-and-Tracking) : 
+Udacity Self-Driving Car Engineer Nanodegree. Project: Vehicle Detection and Tracking
+- [galvaneye](https://github.com/pseudoyim/galvaneye) : Self-driving RC car using OpenCV and Keras
+- [CarND-Behavioral-Cloning-Project](https://github.com/jeremy-shannon/CarND-Behavioral-Cloning-Project) : My solution to the Udacity Self-Driving Car Engineer Nanodegree behavioral cloning project.
+- [Lane-Detection](https://github.com/davidawad/Lane-Detection) : Using OpenCV to detect Lane lines on Roads
+- [Semantic_Segmentation_for_Autonomous_Driving](https://github.com/TheMoskowitz/Semantic_Segmentation_for_Autonomous_Driving) : Various networks that could be the basis of a vision system for self-driving cars
+- [MIT-6.S094-Deep-Learning-for-Self-Driving-Cars](https://github.com/init27/MIT-6.S094-Deep-Learning-for-Self-Driving-Cars) :
+
 ---------------
 
 #### Startups
