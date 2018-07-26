@@ -9,16 +9,16 @@
 - [The why](#the-why)
 - [Autonomy Levels](#autonomy-levels)
 - [Autonomous vehicle enabling technologies](#autonomous-vehicle-enabling-technologies)
-  - Sensors & Cameras
-  - Local Data Processors
-  - High-performance GPS
-  - Radar
-  - LIDAR
-  - Smart Technologies
-  - Connectivity to the Internet of Things
-  - Cloud-Based Data Processing & Management
-  - Artificial Intelligence
-  - Machine Learning
+  - [Sensors and Cameras](#sensors-and-cameras)
+  - [Local Data Processors](#local-data-processors)
+  - [High-performance GPS](#high-performance-gps)
+  - [Radar](#radar)
+  - [LIDAR](#lidar)
+  - [Smart Technologies](#smart-technologies)
+  - [Connectivity to the Internet of Things](#connectivity-to-the-internet-of-things)
+  - [Cloud-Based Data Processing & Management](#cloud-based-data-processing-management)
+  - [Artificial Intelligence](#artificial-intelligence)
+  - [Machine Learning](#machine-learning)
 - [Autonomous vehicle architecture](#autonomous-vehicle-architecture)
 - [Literature review](#literature-review)
   - [General](#general)
