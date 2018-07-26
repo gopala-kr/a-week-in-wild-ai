@@ -262,6 +262,24 @@ working mechanism of AV's
 - Path Planning Project
 - Semantic Segmentation
 - Programming a Real Self-Driving Car
+
+
+- [A common systems architecture for
+autonomous vehicles](https://pdfs.semanticscholar.org/presentation/cd7b/6813d5e804010742be02099eaaf2a1ba2728.pdf)
+- [Creating autonomous vehicle systems](https://www.oreilly.com/ideas/creating-autonomous-vehicle-systems)
+- [The vehicle architecture of automated driving level 2/3](http://www.embedded-computing.com/embedded-computing-design/the-vehicle-architecture-of-automated-driving-level-2-3)
+- [The Architectural Implications of Autonomous
+Driving: Constraints and Acceleration](https://web.eecs.umich.edu/~shihclin/papers/AutonomousCar-ASPLOS18.pdf)
+- [Towards a Functional System Architecture for
+Automated Vehicles](https://arxiv.org/pdf/1703.08557.pdf)
+- [A functional architecture for autonomous driving](https://sagar.se/files/wasa2015.pdf)
+- [Introduction to Software Architecture for
+Autonomous Systems](http://wasp-sweden.org/custom/uploads/2017/03/01_Introduction-to-Software-Architecture-for-Autonomous-Systems-Pellicione.pdf)
+- [Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice](https://arxiv.org/abs/1805.11773v1)
+- [Computer Science > Computers and Society
+MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation](https://arxiv.org/abs/1711.06976v1)
+
+
 -------------
 
 ![gm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gm.JPG)
