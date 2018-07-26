@@ -278,6 +278,7 @@ Autonomous Systems](http://wasp-sweden.org/custom/uploads/2017/03/01_Introductio
 - [Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice](https://arxiv.org/abs/1805.11773v1)
 - [Computer Science > Computers and Society
 MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation](https://arxiv.org/abs/1711.06976v1)
+- [A Systematic Comparison of Deep Learning Architectures in an Autonomous Vehicle](https://arxiv.org/abs/1803.09386v1)
 
 
 -------------
