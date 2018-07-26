@@ -244,38 +244,19 @@ working mechanism of AV's
 
 [Back to top](#contents)
 
-
-AI, deep learning, Kalman filter, MPC controller, Path Planning, Semantic Segmentation, Localization, sensor fusion
-
-Machine Learning
-Deep Learning
-C++
-Python
-Computer Vision
-Robotics
-Perception
-Prediction
-Localization
-Calibration
-Motion Planning
-Motion Controls
-Simulation
-UI / Visualization
-Vehicle Infrastructure
-Backend / Front End Software Engineers
-
-
 ➢ Computer Vision and Deep Learning
 - Traffic Sign Classifier
 - Behavioural Cloning
 - Advanced Lane Finding
 - Vehicle Detection and Tracking
+
 ➢ Sensor Fusion, Localisation and Control
 - Extended Kalman Filter Project
 - Unscented Kalman Filter Project
 - Kidnapped Vehicle Project
 - PID Controller Project
 - Model Predictive Control Project
+
 ➢ Path planning, Concentrations and Systems
 - Path Planning Project
 - Semantic Segmentation
