@@ -300,6 +300,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 [Back to top](#contents)
 
 #### General
+
+[Back to top](#contents)
+
 * **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
 * **[2015]** _An Empirical Evaluation of Deep Learning on Highway Driving_. [[ref](https://arxiv.org/abs/1504.01716)]
 * **[2015]** _Self-Driving Vehicles: The Challenges and Opportunities Ahead_. [[ref](http://dl.acm.org/citation.cfm?id=2823464)]
@@ -332,6 +335,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2006]** _Stanley: The robot that won the DARPA Grand Challenge_. [[ref](https://www.semanticscholar.org/paper/Stanley-The-robot-that-won-the-DARPA-Grand-Thrun-Montemerlo/298500897243b17fa2ebe7bde0a1b8ebc00ea07f)]
 
 #### Localization & Mapping
+
+[Back to top](#contents)
+
 * **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
 * **[2016]** _Image Based Camera Localization: an Overview_. [[ref](https://arxiv.org/abs/1610.03660)]
 * **[2016]** _Ubiquitous real-time geo-spatial localization_ [[ref](http://dl.acm.org/citation.cfm?id=3005426)]
@@ -345,6 +351,10 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2007]** _Map-Based Precision Vehicle Localization in Urban Environments_. [[ref](https://www.semanticscholar.org/paper/Map-Based-Precision-Vehicle-Localization-in-Urban-Levinson-Montemerlo/924f7268d592d327f97ad4e96f48ad774d982ef3)]
 
 #### Perception
+
+[Back to top](#contents)
+
+
 * **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
 * **[2016]** _Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?_. [[ref](https://arxiv.org/abs/1610.01983)]
 * **[2016]** _Lost and Found: Detecting Small Road Hazards for Self-Driving Vehicles_. [[ref](https://arxiv.org/abs/1609.04653)]
@@ -396,6 +406,10 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 
 
 #### Navigation & Planning
+
+[Back to top](#contents)
+
+
 * **[2016]** _A Self-Driving Robot Using Deep Convolutional Neural Networks on Neuromorphic Hardware_. [[ref](https://arxiv.org/abs/1611.01235)]
 * **[2016]** _End to End Learning for Self-Driving Cars_. [[ref](https://arxiv.org/abs/1604.07316)]
 * **[2016]** _A Survey of Motion Planning and Control Techniques for Self-driving Urban Vehicles_. [[ref](https://arxiv.org/abs/1604.07446)]
@@ -447,6 +461,10 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2006]** _Probabilistic Terrain Analysis For High-Speed Desert Driving_.[[ref](https://www.semanticscholar.org/paper/Probabilistic-Terrain-Analysis-For-High-Speed-Thrun-Montemerlo/b23a7882b35d0252e5f3011bff15c6dca46ef84e)]
 
 #### Control
+
+[Back to top](#contents)
+
+
 * **[2016]** _Predictive Control for Autonomous Driving with Experimental Evaluation on a Heavy-duty Construction Truck_. [[ref](https://www.semanticscholar.org/paper/Predictive-Control-for-Autonomous-Driving-with-Lima-Se/de87a5d5fbae0733806ba965b2d70fd04596f6e9)]
 * **[2015]** _Model Predictive Control of Autonomous Mobility-on-Demand Systems_. [[ref](https://arxiv.org/abs/1509.03985)]
 * **[2015]** _Toward integrated motion planning and control using potential fields and torque-based steering actuation for autonomous driving_. [[ref](https://www.semanticscholar.org/paper/Toward-integrated-motion-planning-and-control-Galceran-Eustice/7b2f163eac946fac7351b0861c2b37fb19ffbaa5)]
@@ -457,6 +475,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2009]** _Comparison of Three Control Methods for an Autonomous Vehicle_. [[ref](https://www.semanticscholar.org/paper/Comparison-of-Three-Control-Methods-for-an-Deshpande-Mathur/8fc0580499b0775db60096f52cd2f0ad2c6d24b5)]
 
 #### Simulation
+
+[Back to top](#contents)
+
 * **[2016]** _Learning a Driving Simulator_. [[ref](https://arxiv.org/abs/1608.01230)]
 * **[2014]** _From a Competition for Self-Driving Miniature Cars to a Standardized Experimental Platform: Concept, Models, Architecture, and Evaluation_. [[ref](https://arxiv.org/abs/1406.7768)]
 * **[2014]** _Technical evaluation of the Carolo-Cup 2014 - A competition for self-driving miniature cars_. [[ref](https://www.semanticscholar.org/paper/Technical-evaluation-of-the-Carolo-Cup-2014-A-Zug-Steup/4f57643b95e854bb05fa0c037cbf8898accdbdef)]
@@ -466,6 +487,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2006]** _Robot Competitions Ideal Benchmarks for Robotics Research_. [[ref](https://www.semanticscholar.org/paper/Robot-Competitions-Ideal-Benchmarks-for-Robotics-Behnke/71e5e9e8be8c870b22cadf58338f634ddd856050)]
 
 #### Software Engineering
+
+[Back to top](#contents)
+
 1. **[2016]** _Evaluation of Sandboxed Software Deployment for Real-time Software on the Example of a Self-Driving Heavy Vehicle_. [[ref](https://arxiv.org/abs/1608.06759)]
 * **[2014]** _Engineering the Hardware/Software Interface for Robotic Platforms - A Comparison of Applied Model Checking with Prolog and Alloy_. [[ref](https://arxiv.org/abs/1401.3985)]
 * **[2014]** _Comparison of Architectural Design Decisions for Resource-Constrained Self-Driving Cars - A Multiple Case-Study_. [[ref](https://www.semanticscholar.org/paper/Comparison-of-Architectural-Design-Decisions-for-Berger-Dukaczewski/c89f47c93c62c107e6bd75acde89ee7417ebf244)]
@@ -480,6 +504,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2007]** _Software & Systems Engineering Process and Tools for the Development of Autonomous Driving Intelligence_ [[ref](https://www.semanticscholar.org/paper/Software-Systems-Engineering-Process-and-Tools-for-Basarke-Berger/c564b62cd7df2ed47bb9a6266cc19c83024bc390)]
 
 #### Human-Machine Interaction
+
+[Back to top](#contents)
+
 * **[2015]** _User interface considerations to prevent self-driving carsickness_. [[ref](http://dl.acm.org/citation.cfm?id=2809754)]
 * **[2014]** _Public Opinion about Self-driving Vehicles_. [[ref](https://www.semanticscholar.org/paper/Public-Opinion-about-Self-driving-Vehicles-Schoettle-Sivak/4984ed8ae3355d58cfad2bd27cb2bc2488cb0e6a)]
 * **[2014]** _Setting the Stage for Self-driving Cars: Exploration of Future Autonomous Driving Experiences_. [[ref](https://www.semanticscholar.org/paper/Setting-the-Stage-for-Self-driving-Cars-Pettersson/df428d8015b92902416d07379fb3415a12d64e3f)]
@@ -494,6 +521,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2009]** _Driver Inattention Detection based on Eye Gaze - Road Event Correlation_. [[ref](https://www.semanticscholar.org/paper/Driver-Inattention-Detection-based-on-Eye-Gaze-Fletcher-Zelinsky/b46f706a9df142f36a58cd7a84c88962f85d93b5)]
 
 #### Infrastructure
+
+[Back to top](#contents)
+
 * **[2014]** _Control of Robotic Mobility-On-Demand Systems: a Queueing-Theoretical Perspective_. [[ref](https://arxiv.org/abs/1404.4391)]
 * **[2014]** _Priority-based Intersection Control Framework for Self-Driving Vehicles: Agent-based Model Development and Evaluation_. [[ref](https://www.researchgate.net/publication/271738793_Priority-based_Intersection_Control_Framework_for_Self-Driving_Vehicles_Agent-based_Model_Development_and_Evaluation)]
 * **[2014]** _A lattice-based approach to multi-robot motion planning for non-holonomic vehicles_. [[ref](https://www.semanticscholar.org/paper/A-lattice-based-approach-to-multi-robot-motion-Cirillo-Uras/74ec451f463c4931c73f35cf327893ac2595e876)]
@@ -504,6 +534,9 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 * **[2012]** _Progress toward multi-robot reconnaissance and the MAGIC 2010 competition_. [[ref](https://www.semanticscholar.org/paper/Progress-toward-multi-robot-reconnaissance-and-the-Olson-Strom/617943baefd909bbf06787fcb8b18b943820c87e)]
 
 #### Law & Society
+
+[Back to top](#contents)
+
 * **[2016]** _Autonomous Vehicle Technology: A Guide for Policymakers_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Vehicle-Technology-A-Guide-for-Anderson-Kalra/a0231f6ab2a9feaef92d5481149cdb2142aaeb02)]
 * **[2014]** _**WHITE PAPER** Self-driving Vehicles: Current Status of Autonomous Vehicle Development and Minnesota Policy Implications Preliminary White Paper_. [[ref](https://www.semanticscholar.org/paper/Self-driving-Vehicles-Current-Status-of-Autonomous-Lari-Douma/581075c89f6a3945fa43d61aac1329d1e43f9fa3)]
 * **[2014]** _Are We Ready for Driver-less Vehicles? Security vs. Privacy- A Social Perspective_. [[ref](https://www.semanticscholar.org/paper/Are-We-Ready-for-Driver-less-Vehicles-Security-vs-Acharya/ec5b5c434f9d0bfc3954c212226d436e32bcf7d5)]
