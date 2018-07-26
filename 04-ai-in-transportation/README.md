@@ -16,7 +16,7 @@
   - [LIDAR](#lidar)
   - [Smart Technologies](#smart-technologies)
   - [Connectivity to the Internet of Things](#connectivity-to-the-internet-of-things)
-  - [Cloud-Based Data Processing & Management](#cloud-based-data-processing-management)
+  - [Cloud-Based Data Processing & Management](#cloud-based-data-processing-and-management)
   - [Artificial Intelligence](#artificial-intelligence)
   - [Machine Learning](#machine-learning)
 - [Autonomous vehicle architecture](#autonomous-vehicle-architecture)
@@ -262,7 +262,7 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 ----------------------
 
-#### Cloud-Based Data Processing & Management
+#### Cloud-Based Data Processing and Management
 
 [Back to top](#contents)
 
