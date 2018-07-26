@@ -198,43 +198,77 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 --------
 
+#### Sensors & Cameras
 
 ![cs](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/c_s.JPG)
 
 --------------
 
-![gps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gps.JPG)
+#### Local Data Processors
+
+![ldp](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ldp.JPG)
+
+
 
 ---------------
 
-![radar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/radar.JPG)
+#### High-performance GPS
+
+ ![gps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gps.JPG) 
+
 
 ----------------------
+
+#### Radar
+
+  ![radar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/radar.JPG)
+
+
+----------------------
+
+#### LIDAR
+
+  
 ![lidar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/lidar.JPG)
 
-----------------------
-
-![smart](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/smart.JPG)
 
 -----------------
 
-![iot1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/iot1.JPG)
+#### Smart Technologies
+
+![smart](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/smart.JPG)
+
 
 ------------------------
-![cloud](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/cloud.JPG)
+
+#### Connectivity to the Internet of Things
+
+ ![iot1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/iot1.JPG) 
+
 
 ----------------------
 
+#### Cloud-Based Data Processing & Management
+
+  
+![cloud](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/cloud.JPG)
+
+
+-------------------------
+
+#### Artificial Intelligence
+
+  
 ![ai](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ai.JPG)
 
+
+
 -------------------------
 
+#### Machine Learning
+  
 
 ![ml](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ml.JPG)
-
--------------------------
-
-![ldp](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/ldp.JPG)
 
 -------------------------
 
