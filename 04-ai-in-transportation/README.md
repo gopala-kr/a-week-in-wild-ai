@@ -614,30 +614,6 @@ Appendix:
 
 ![UBER-SELFDRIVING-SENSORS](https://fingfx.thomsonreuters.com/gfx/rngs/UBER-SELFDRIVING-SENSORS/010061BR2TH/UBER-SELFDRIVING-SENSORS.jpg)
 
-
----------
-
-![csm_20170302_2025AD_Infographic_Sensors_7338bee200](https://www.2025ad.com/fileadmin/_processed_/a/a/csm_20170302_2025AD_Infographic_Sensors_7338bee200.jpg)
-
-
-----------
-
-![Impact_e714e59576](https://www.2025ad.com/fileadmin/_processed_/7/2/csm_240518_2025AD_Infographic_Economic-Impact_e714e59576.jpg)
-
---------
-
-![csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d](https://www.2025ad.com/fileadmin/_processed_/8/1/csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d.jpg)
-
-
----------
-
-![Development_final_cb5d6a9d5d](https://www.2025ad.com/fileadmin/_processed_/8/1/csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d.jpg)
-
-
------------
-
-![csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a](https://www.2025ad.com/fileadmin/_processed_/c/0/csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a.jpg)
-
 ----------
 
 ![autonomous-infographic-](https://www.intel.ie/content/dam/www/public/emea/xe/en/images/it-managers/autonomous-infographic-16x9.jpg.rendition.intel.web.1648.927.jpg)
@@ -660,9 +636,25 @@ source: [Intel – Autonomous Cars](https://www.intel.ie/content/www/ie/en/it-ma
 
 ![car-infographic-1024x716](https://b-i.forbesimg.com/chunkamui/files/2013/05/car-infographic-1024x716.jpg)
 
--------
+---------
 
-![Artefact-hyundai-autonomous-vehicles-Exploration-Infographic](https://www.artefactgroup.com/wp-content/uploads/2015/10/Artefact-hyundai-autonomous-vehicles-Exploration-Infographic.jpg)
+![csm_20170302_2025AD_Infographic_Sensors_7338bee200](https://www.2025ad.com/fileadmin/_processed_/a/a/csm_20170302_2025AD_Infographic_Sensors_7338bee200.jpg)
+
+
+----------
+
+![Impact_e714e59576](https://www.2025ad.com/fileadmin/_processed_/7/2/csm_240518_2025AD_Infographic_Economic-Impact_e714e59576.jpg)
+
+---------
+
+![Development_final_cb5d6a9d5d](https://www.2025ad.com/fileadmin/_processed_/8/1/csm_2025AD_Infographic_Urban-Development_final_cb5d6a9d5d.jpg)
+
+
+-----------
+
+![csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a](https://www.2025ad.com/fileadmin/_processed_/c/0/csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a.jpg)
+
+
 
 ----------
 ------------
