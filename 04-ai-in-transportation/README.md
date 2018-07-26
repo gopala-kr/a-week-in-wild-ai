@@ -594,6 +594,11 @@ working mechanism of AV's
 - CarOne LLC
 - Apple Inc.
 
+
+
+---------
+
+![AVSmartMobilityLandscape_](https://sudocat.sh/wp-content/uploads/2018/06/AVSmartMobilityLandscape_.png)
 [Back to top](#contents)
 
 ---------------
@@ -631,6 +636,9 @@ source: [Intel – Autonomous Cars](https://www.intel.ie/content/www/ie/en/it-ma
 -----------
 
 ![Where_In_The_World_Are_Self_Driving_Cars_Final-1024x857](https://insuranceblog.accenture.com/wp-content/uploads/2017/01/Where_In_The_World_Are_Self_Driving_Cars_Final-1024x857.png)
+
+
+
 
 ------
 
