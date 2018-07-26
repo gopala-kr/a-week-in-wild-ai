@@ -591,7 +591,7 @@ Udacity Self-Driving Car Engineer Nanodegree. Project: Vehicle Detection and Tra
 
 - Volkswagen Group of America
 - Mercedes Benz
-- Google
+- [Google](https://www.google.com/selfdrivingcar/)
 - Delphi Automotive
 - [Tesla Motors](https://www.tesla.com/autopilot)
 - Bosch
