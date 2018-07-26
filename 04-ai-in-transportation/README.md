@@ -169,7 +169,7 @@ Autonomous Vehicle and Smart Mobility](http://vancouver.ieee.ca/files/2017/12/IE
 - [SENSOR FUSION: A COMPARISON OF SENSING
 CAPABILITIES OF HUMAN DRIVERS AND
 HIGHLY AUTOMATED VEHICLES](http://umich.edu/~umtriswt/PDF/SWT-2017-12.pdf)
-- []()
+- [Cameras vs. LiDAR for Self-Driving Cars]()
 - []()
 - []()
 - []()
@@ -597,6 +597,10 @@ working mechanism of AV's
 Appendix:
 
 ----
+
+![bec963b2213dc3d11cdec4eb265c62fb](https://qph.ec.quoracdn.net/main-qimg-bec963b2213dc3d11cdec4eb265c62fb.webp)
+
+---------
 
 ![UBER-SELFDRIVING-SENSORS](https://fingfx.thomsonreuters.com/gfx/rngs/UBER-SELFDRIVING-SENSORS/010061BR2TH/UBER-SELFDRIVING-SENSORS.jpg)
 
