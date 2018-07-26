@@ -263,6 +263,7 @@ working mechanism of AV's
 - Semantic Segmentation
 - Programming a Real Self-Driving Car
 
+---------------
 
 - [A common systems architecture for
 autonomous vehicles](https://pdfs.semanticscholar.org/presentation/cd7b/6813d5e804010742be02099eaaf2a1ba2728.pdf)
@@ -279,6 +280,13 @@ Autonomous Systems](http://wasp-sweden.org/custom/uploads/2017/03/01_Introductio
 - [Computer Science > Computers and Society
 MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation](https://arxiv.org/abs/1711.06976v1)
 - [A Systematic Comparison of Deep Learning Architectures in an Autonomous Vehicle](https://arxiv.org/abs/1803.09386v1)
+- [Infrastructure Enabled Autonomy: A Distributed
+Intelligence Architecture for Autonomous Vehicles](https://arxiv.org/pdf/1802.04112.pdf)
+- [Architecting Autonomous Automotive Systems](https://www.diva-portal.org/smash/get/diva2:615888/FULLTEXT02.pdf)
+- [A Functional Reference Architecture for Autonomous Driving](https://www.researchgate.net/publication/288918943_A_Functional_Reference_Architecture_for_Autonomous_Driving)
+- [Automated Vehicle System Architecture with Performance Assessment](https://www.researchgate.net/publication/320324052_Automated_Vehicle_System_Architecture_with_Performance_Assessment)
+- [An Integrated Architecture for Autonomous Vehicles
+Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf)
 
 
 -------------
