@@ -837,6 +837,7 @@ source: [Intel – Autonomous Cars](https://www.intel.ie/content/www/ie/en/it-ma
 ![csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a](https://www.2025ad.com/fileadmin/_processed_/c/0/csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a.jpg)
 
 
+[Back to top](#contents)
 
 ----------
 ------------
