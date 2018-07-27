@@ -313,26 +313,34 @@ working mechanism of AV's
 
 -----------
 
-➢ Computer Vision and Deep Learning
+**Computer Vision and Deep Learning**
 - Traffic Sign Classifier
 - Behavioural Cloning
 - Advanced Lane Finding
 - Vehicle Detection and Tracking
 
-➢ Sensor Fusion, Localisation and Control
+**Sensor Fusion, Localisation and Control**
 - Extended Kalman Filter Project
 - Unscented Kalman Filter Project
 - Kidnapped Vehicle Project
 - PID Controller Project
 - Model Predictive Control Project
 
-➢ Path planning, Concentrations and Systems
+**Path planning, Concentrations and Systems**
 - Path Planning Project
 - Semantic Segmentation
 - Programming a Real Self-Driving Car
 
 ---------------
 
+- [Self-Driving Car Engineer](https://s3-us-west-2.amazonaws.com/udacity-email/Documents/Self-Driving+Car+Nanodegree+Handbook.pdf?utm_medium=email&utm_campaign=2017-03-16_carnd_march_term1_firstday&utm_source=blueshift&utm_content=2017-03-16_carnd_firstday_march&bsft_eid=4e53e27f-c6f3-4c3e-941b-c64061a308bc&bsft_clkid=95d74df9-11dd-45c2-b9c6-6ccc210694f4&bsft_uid=80aad2e4-4b0a-4fc1-bfa8-a9be4bf316c9&bsft_mid=33fd9f5f-b427-4d33-9b26-8496c6b93fab)
+- [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08)
+- [The New Udacity Self-Driving Car Engineer Nanodegree Program Syllabus](https://medium.com/udacity/the-new-udacity-self-driving-car-engineer-nanodegree-program-syllabus-87b9b1fd7c65)
+- [Term 2: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-2-in-depth-on-udacitys-self-driving-car-curriculum-775130aae502)
+- [Term 3: In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/udacity/term-3-in-depth-on-udacitys-self-driving-car-curriculum-15d03e45d7ea)
+- [Perception Projects from the Self-Driving Car Nanodegree Program](https://medium.com/udacity/perception-projects-from-the-self-driving-car-nanodegree-program-51fb88a38ff9)
+- [Udacity Self-Driving Car Engineer Nanodegree Projects](https://medium.com/udacity/udacity-self-driving-car-engineer-nanodegree-projects-12823ff1cd21)
+- [Udacity and Baidu’s New Course: Introduction to Apollo](https://medium.com/udacity/udacity-and-baidus-new-course-introduction-to-apollo-4eb244313e8c)
 - [A common systems architecture for
 autonomous vehicles](https://pdfs.semanticscholar.org/presentation/cd7b/6813d5e804010742be02099eaaf2a1ba2728.pdf)
 - [Creating autonomous vehicle systems](https://www.oreilly.com/ideas/creating-autonomous-vehicle-systems)
