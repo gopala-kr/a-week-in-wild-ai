@@ -244,6 +244,17 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 ![lidar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/lidar.JPG)
 
 
+- [What Is Lidar & How Is It Making Self-Driving Cars Safer?](https://www.ff.com/us/futuresight/what-is-lidar/)
+- [Tons of LIDARs at CES 2018](https://robohub.org/tons-of-lidars-at-ces-2018/)
+- [An Introduction to LIDAR: The Key Self-Driving Car Sensor](https://news.voyage.auto/an-introduction-to-lidar-the-key-self-driving-car-sensor-a7e405590cff)
+- [This new lidar sensor could equip every autonomous car in the world by the end of 2018](https://www.technologyreview.com/s/610858/this-new-lidar-sensor-could-equip-every-autonomous-car-in-the-world-by-the-end-of-2018/)
+- [Is LIDAR needed for self driving cars?](https://www.quora.com/Is-LIDAR-needed-for-self-driving-cars)
+- [A self-driving car in every driveway? Solid-state lidar is the key](https://www.digitaltrends.com/cars/solid-state-lidar-for-self-driving-cars/)
+- [Lidar for Self-Driving Cars](https://www.osapublishing.org/DirectPDFAccess/9292870F-BF30-8064-4DA260D1D4374634_380434/opn-29-1-26.pdf?da=1&id=380434&seq=0&mobile=no)
+- [Lidar](https://en.wikipedia.org/wiki/Lidar)
+- [lidarview.com/](http://lidarview.com/)
+- [lidarnews.com](https://lidarnews.com/)
+
 -----------------
 
 #### Smart Technologies
