@@ -225,6 +225,12 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
  ![gps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/gps.JPG) 
 
 
+- [High-Precision GPS for Autonomous Vehicles](https://www.novatel.com/industries/autonomous-vehicles/#overview)
+- [Robust GPS/GNSS: Driving the Future of Autonomous Vehicles](https://castnav.com/robust-gps-gnss-driving-future-autonomous-vehicles/)
+- [for-self-driving-vehicles-accuracy-in-gps-mapping-is-crucial](https://insuranceblog.accenture.com/for-self-driving-vehicles-accuracy-in-gps-mapping-is-crucial)
+- [GPS in Google Self Driving Cars](https://www.edsys.in/googles-driving-cars-cool-gps-vehicle-tracking-application/gps-in-google-self-driving-cars/)
+- [MIT Builds a Self-Driving Car for Unmapped Country Roads](https://www.extremetech.com/extreme/269059-mit-builds-a-self-driving-car-for-unmapped-country-roads)
+
 ----------------------
 
 #### Radar
