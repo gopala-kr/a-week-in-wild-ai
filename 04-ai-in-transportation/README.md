@@ -750,7 +750,7 @@ Udacity Self-Driving Car Engineer Nanodegree. Project: Vehicle Detection and Tra
 
 -----------
 
-Reaserch labs
+Research labs
 
 * [Center for Automotive Research at Stanford](https://cars.stanford.edu/) 
 * [SAIL-TOYOTA Center for AI Research at Stanford](http://aicenter.stanford.edu/research/)
