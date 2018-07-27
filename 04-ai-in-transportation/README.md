@@ -240,6 +240,7 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
 [Back to top](#contents)
 
+
   ![radar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/radar.JPG)
 
 
@@ -260,6 +261,7 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
 
   
 ![lidar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/lidar.JPG)
+
 
 
 - [What Is Lidar & How Is It Making Self-Driving Cars Safer?](https://www.ff.com/us/futuresight/what-is-lidar/)
