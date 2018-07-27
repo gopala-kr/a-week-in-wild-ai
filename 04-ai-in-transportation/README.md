@@ -316,14 +316,14 @@ working mechanism of AV's
 - Vehicle Detection and Tracking
 
 **Sensor Fusion, Localisation and Control**
-- Extended Kalman Filter Project
-- Unscented Kalman Filter Project
-- Kidnapped Vehicle Project
-- PID Controller Project
-- Model Predictive Control Project
+- Extended Kalman Filter
+- Unscented Kalman Filter
+- Kidnapped Vehicle
+- PID Controller
+- Model Predictive Control
 
 **Path planning, Concentrations and Systems**
-- Path Planning Project
+- Path Planning
 - Semantic Segmentation
 - Programming a Real Self-Driving Car
 
