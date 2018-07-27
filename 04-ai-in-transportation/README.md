@@ -234,6 +234,15 @@ Source: [MIT-TR](https://www.technologyreview.com/s/609674/whats-driving-autonom
   ![radar](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/04-ai-in-transportation/img/radar.JPG)
 
 
+- [lidar-vs-radar](https://www.sensorsmag.com/components/lidar-vs-radar)
+- [radar-technology-behind-autonomous-vehicles](https://www.ecnmag.com/article/2017/12/radar-technology-behind-autonomous-vehicles)
+- [This 1960s Radar Technology Is Making a Comeback in Self Driving Cars](https://motherboard.vice.com/en_us/article/3k5jen/this-1960s-radar-technology-is-making-a-comeback-in-self-driving-cars-vayyar-ces)
+- [LIDAR vs RADAR Comparison. Which System is Better for Automotive?](http://www.archer-soft.com/en/blog/lidar-vs-radar-comparison-which-system-better-automotive)
+- [The Autonomous Car: A Diverse Array of Sensors Drives Navigation, Driving, and Performance](https://www.mouser.in/applications/autonomous-car-sensors-drive-performance/)
+- [Lidar, Radar & Digital Cameras: the Eyes of Autonomous Vehicles](https://www.rs-online.com/designspark/lidar-radar-digital-cameras-the-eyes-of-autonomous-vehicles)
+- [How Sensor Fusion Works for Self-Driving Cars](https://readbackline.com/self-driving-cars/how-sensor-fusion-works-self-driving-cars/)
+
+
 ----------------------
 
 #### LIDAR
@@ -342,6 +351,7 @@ working mechanism of AV's
 
 ---------------
 
+- [Learning Self-Driving Cars](https://readbackline.com/self-driving-cars/)
 - [Self-Driving Car Engineer](https://s3-us-west-2.amazonaws.com/udacity-email/Documents/Self-Driving+Car+Nanodegree+Handbook.pdf?utm_medium=email&utm_campaign=2017-03-16_carnd_march_term1_firstday&utm_source=blueshift&utm_content=2017-03-16_carnd_firstday_march&bsft_eid=4e53e27f-c6f3-4c3e-941b-c64061a308bc&bsft_clkid=95d74df9-11dd-45c2-b9c6-6ccc210694f4&bsft_uid=80aad2e4-4b0a-4fc1-bfa8-a9be4bf316c9&bsft_mid=33fd9f5f-b427-4d33-9b26-8496c6b93fab)
 - [In-Depth on Udacity’s Self-Driving Car Curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08)
 - [The New Udacity Self-Driving Car Engineer Nanodegree Program Syllabus](https://medium.com/udacity/the-new-udacity-self-driving-car-engineer-nanodegree-program-syllabus-87b9b1fd7c65)
