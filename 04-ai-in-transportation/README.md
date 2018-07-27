@@ -154,6 +154,8 @@ SAE (J3016)
  
  ![Hecht-img2](https://www.osa-opn.org/opn/media/Images/Articles/2018/1801/Features/Hecht-img2.jpg?width=1200)
  
+ ![table-1-autonomous-vehicle-levels-1024x409](https://www.greyb.com/wp-content/uploads/2017/08/table-1-autonomous-vehicle-levels-1024x409.png)
+ 
 ---------------------
 
 #### Autonomous vehicle enabling technologies
@@ -359,7 +361,7 @@ Intelligence Architecture for Autonomous Vehicles](https://arxiv.org/pdf/1802.04
 - [Automated Vehicle System Architecture with Performance Assessment](https://www.researchgate.net/publication/320324052_Automated_Vehicle_System_Architecture_with_Performance_Assessment)
 - [An Integrated Architecture for Autonomous Vehicles
 Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf)
-
+- [How do Google's self-driving cars work?](https://www.quora.com/How-do-Googles-self-driving-cars-work)
 
 ------------------
 
@@ -840,6 +842,40 @@ source: [Intel – Autonomous Cars](https://www.intel.ie/content/www/ie/en/it-ma
 
 ![csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a](https://www.2025ad.com/fileadmin/_processed_/c/0/csm_20171025_2025AD_Blog_Infographic_Ethics_and_autonomous_vehicles_cae6a85d5a.jpg)
 
+
+------------
+
+![table-3-strategic-partnership-segments-1024x576](https://www.greyb.com/wp-content/uploads/2017/08/table-3-strategic-partnership-segments-1024x576.jpg)
+
+--------------
+
+![figure-7-2017-automated-driving-systems-leader-board-768x755](https://www.greyb.com/wp-content/uploads/2017/08/figure-7-2017-automated-driving-systems-leader-board-768x755.png)
+
+--------------
+
+![table-4-acquisition-investment-details](https://www.greyb.com/wp-content/uploads/2017/08/table-4-acquisition-investment-details.png)
+
+------------
+
+![figure-6-top-three-reasons-for-buying-a-partially-autonomous-vehicle-1024x547](https://www.greyb.com/wp-content/uploads/2017/08/figure-6-top-three-reasons-for-buying-a-partially-autonomous-vehicle-1024x547.png)
+
+---------------
+
+![top-car-companies-pioneering-self-driving-car-industry-1024x576](https://www.greyb.com/wp-content/uploads/2017/08/top-car-companies-pioneering-self-driving-car-industry-1024x576.jpg)
+
+
+--------------
+
+![table-2-funding-details-1024x387](https://www.greyb.com/wp-content/uploads/2017/08/table-2-funding-details-1024x387.png)
+
+-------------
+
+![table-4-launch-plan-details](https://www.greyb.com/wp-content/uploads/2017/08/table-4-launch-plan-details.png)
+
+
+Source: [Autonomous Cars: Everything You Need To Know About Market And Research Trends](https://searchenterpriseai.techtarget.com/definition/driverless-car)
+
+--------------
 
 [Back to top](#contents)
 
