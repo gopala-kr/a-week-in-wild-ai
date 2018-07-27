@@ -189,6 +189,9 @@ CAPABILITIES OF HUMAN DRIVERS AND
 HIGHLY AUTOMATED VEHICLES](http://umich.edu/~umtriswt/PDF/SWT-2017-12.pdf)
 - [Cameras vs. LiDAR for Self-Driving Cars]()
 - [Lidar for Self-Driving Cars](https://www.osa-opn.org/home/articles/volume_29/january_2018/features/lidar_for_self-driving_cars/)
+- [Edge Computing for AI Self-Driving Cars](https://aitrends.com/ai-insider/edge-computing-ai-self-driving-cars/)
+- [Centralized processing for autonomous vehicles](https://www.microcontrollertips.com/centralized-processing-autonomous-vehicles/)
+
 
 ------------
 
