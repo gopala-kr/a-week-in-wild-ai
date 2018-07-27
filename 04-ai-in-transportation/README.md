@@ -371,6 +371,8 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 
 [Back to top](#contents)
 
+* **[2018]** _A Systematic Comparison of Deep Learning Architectures in an Autonomous Vehicle _. [[ref](https://arxiv.org/abs/1803.09386v1)]
+* **[2017]** _MIT Autonomous Vehicle Technology Study: Large-Scale Deep Learning Based Analysis of Driver Behavior and Interaction with Automation _. [[ref](https://arxiv.org/abs/1711.06976v1)]
 * **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
 * **[2015]** _An Empirical Evaluation of Deep Learning on Highway Driving_. [[ref](https://arxiv.org/abs/1504.01716)]
 * **[2015]** _Self-Driving Vehicles: The Challenges and Opportunities Ahead_. [[ref](http://dl.acm.org/citation.cfm?id=2823464)]
@@ -422,7 +424,7 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 
 [Back to top](#contents)
 
-
+* **[2018]** _ All Weather Perception: Joint Data Association, Tracking, and Classification for Autonomous Ground Vehicles_. [[ref](https://arxiv.org/abs/1605.02196v1)]
 * **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
 * **[2016]** _Driving in the Matrix: Can Virtual Worlds Replace Human-Generated Annotations for Real World Tasks?_. [[ref](https://arxiv.org/abs/1610.01983)]
 * **[2016]** _Lost and Found: Detecting Small Road Hazards for Self-Driving Vehicles_. [[ref](https://arxiv.org/abs/1609.04653)]
@@ -605,6 +607,8 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 
 [Back to top](#contents)
 
+* **[2017]** _Creating a Social Brain for Cooperative Connected Autonomous Vehicles: Issues and Challenges _. [[ref](https://arxiv.org/abs/1710.00461v1)]
+* **[2018]** _ Robust Deep Reinforcement Learning for Security and Safety in Autonomous Vehicle Systems_. [[ref](https://arxiv.org/abs/1805.00983v2)]
 * **[2016]** _Autonomous Vehicle Technology: A Guide for Policymakers_. [[ref](https://www.semanticscholar.org/paper/Autonomous-Vehicle-Technology-A-Guide-for-Anderson-Kalra/a0231f6ab2a9feaef92d5481149cdb2142aaeb02)]
 * **[2014]** _**WHITE PAPER** Self-driving Vehicles: Current Status of Autonomous Vehicle Development and Minnesota Policy Implications Preliminary White Paper_. [[ref](https://www.semanticscholar.org/paper/Self-driving-Vehicles-Current-Status-of-Autonomous-Lari-Douma/581075c89f6a3945fa43d61aac1329d1e43f9fa3)]
 * **[2014]** _Are We Ready for Driver-less Vehicles? Security vs. Privacy- A Social Perspective_. [[ref](https://www.semanticscholar.org/paper/Are-We-Ready-for-Driver-less-Vehicles-Security-vs-Acharya/ec5b5c434f9d0bfc3954c212226d436e32bcf7d5)]
