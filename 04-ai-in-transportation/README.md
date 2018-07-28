@@ -644,6 +644,7 @@ Simulation](https://web.fe.up.pt/~niadr/PUBLICATIONS/2012/2_ACM-SAC_056_1886.pdf
 #### Law and Society
 
 
+
 [Back to top](#contents)
 
 * **[2017]** _Creating a Social Brain for Cooperative Connected Autonomous Vehicles: Issues and Challenges _. [[ref](https://arxiv.org/abs/1710.00461v1)]
