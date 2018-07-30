@@ -5,7 +5,7 @@
 - [[Week-2](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/02-ai-in-healthcare-and-genomics)] 15/07/2018 : AI in Healthcare and Genomics
 - [[Week-3](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)] 22/07/2018 : Speech processing: recognition, synthesis + Survey on chatbot platforms and API's
 - [[Week-4](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/04-ai-in-transportation)] 29/07/2018 : Autonomous Vehicles
-- [Week-5]
+- [[Week-5](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/05-ai-in-robotics)] 11/08/2018 : AI in Robotics
 - [Week-6]
 - [Week-7]
 - [Week-8]
