@@ -869,6 +869,10 @@ source: [Intel – Autonomous Cars](https://www.intel.ie/content/www/ie/en/it-ma
 
 ----------
 
+![JqCcGhO9gI1WpJ7XJq6P9tJKgcJJEvJKJCE](https://media.licdn.com/dms/image/C4E12AQEfxSLCs_oPZA/article-inline_image-shrink_1500_2232/0?e=2132524800&v=beta&t=ROGOyhn-JqCcGhO9gI1WpJ7XJq6P9tJKgcJJEvJKJCE)
+
+----------
+
 ![Impact_e714e59576](https://www.2025ad.com/fileadmin/_processed_/7/2/csm_240518_2025AD_Infographic_Economic-Impact_e714e59576.jpg)
 
 ---------
