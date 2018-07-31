@@ -32,6 +32,9 @@ Startups:
 - [Robotics Startups - AngelList](https://angel.co/robotics)
 - [Know Your Industries: 90+ Market Maps Covering Fintech, CPG, Auto Tech, Healthcare, And More](https://www.cbinsights.com/research/industry-market-map-landscape/)
 - [Robotics Market Map: 80+ Robot Startups Working In Factories, Homes, And Hospitals](https://www.cbinsights.com/research/robotics-startups-market-map-company-list/)
+- [Mining Companies Have Led On Autonomous Vehicle Adoption. Now They’re Going After The Next Phase Of Automation.](https://www.cbinsights.com/research/mining-companies-autonomous-vehicles-automation-expert-intelligence/)
+
+
 --------------------------------------
 
 ![robot_planet_2016_2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/robot_planet_2016_2.png)
