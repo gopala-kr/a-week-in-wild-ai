@@ -69,4 +69,10 @@ Startups:
 
 ![robots3](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/15191614/robots3.png)
 
+
+--------------
+
+![RnD](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
+
+
 -------------
