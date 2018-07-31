@@ -34,5 +34,9 @@ Startups:
 
 --------------------------------------
 
+![robot_planet_2016_2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/robot_planet_2016_2.png)
+
+
+-------------------
 
 
