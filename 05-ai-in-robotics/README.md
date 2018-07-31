@@ -22,8 +22,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [pwc-infographic-evolution-of-robotics](https://www.digitalpulse.pwc.com.au/wp-content/uploads/2017/08/pwc-infographic-evolution-of-robotics.pdf)
 - [Infographic
 Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infographic-evolution-robots-ai/)
-
-
+- [Infographics show jobs most likely to be lost to robots](https://bigthink.com/robby-berman/infographics-show-jobs-most-likely-to-be-lost-to-robots)
 -------------
 
 
