@@ -106,3 +106,8 @@ Startups:
 
 
 --------------
+
+![automation-the-value-of-person-hours](https://www.creditloan.com/media/automation-the-value-of-person-hours.png)
+
+
+--------------
