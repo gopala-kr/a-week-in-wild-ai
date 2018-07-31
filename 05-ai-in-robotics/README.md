@@ -84,5 +84,9 @@ Startups:
 
 ![Drones-Market-Map-High-Resolution](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Drones-Market-Map-High-Resolution.png)
 
+-----------
+
+![consumer_robots_map_q3-16](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/10/consumer_robots_map_q3-16.png)
+
 
 -------------
