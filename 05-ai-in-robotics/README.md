@@ -41,7 +41,7 @@ Startups:
 - [AI, Robotics, And The Future Of Precision Agriculture](https://www.cbinsights.com/research/ai-robotics-agriculture-tech-startups-future/)
 - [Future Factory: How Technology Is Transforming Manufacturing](https://www.cbinsights.com/research/future-factory-manufacturing-tech-trends/)
 - [drones-startup-market-map](https://www.cbinsights.com/research/drones-startup-market-map/)
-
+- [The Robotics Ecosystem: Startup Funding By Category Broken Down In One Infographic](https://www.cbinsights.com/research/robotics-deals-consumer-enterprise-medical/)
 
 --------------------------------------
 
