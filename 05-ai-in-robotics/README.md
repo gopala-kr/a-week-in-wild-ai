@@ -94,3 +94,7 @@ Startups:
 ![robotics_treemap_2016_2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/10/robotics_treemap_2016_2.png)
 
 ------------
+
+![robotics_deals_category_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/10/robotics_deals_category_2016_1.png)
+
+--------------
