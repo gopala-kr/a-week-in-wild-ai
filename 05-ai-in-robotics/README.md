@@ -43,6 +43,12 @@ Startups:
 
 --------------------------------------
 
+![Rise-of-robotics-1](http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2017/03/Rise-of-robotics-1.png)
+
+
+
+------------
+
 ![robot_planet_2016_2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/robot_planet_2016_2.png)
 
 ------------
