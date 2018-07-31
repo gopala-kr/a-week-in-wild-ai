@@ -100,3 +100,7 @@ Startups:
 ![robotics_deals_category_2016_1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/10/robotics_deals_category_2016_1.png)
 
 --------------
+
+![automation-jobs-likely-to-be-automated](https://content.creditloan.com/media/automation-jobs-likely-to-be-automated.png)
+
+------------
