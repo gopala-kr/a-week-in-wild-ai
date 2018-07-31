@@ -6,7 +6,7 @@
 
 - Timeline
 - Startups
-
+- Appendix
 
 -----------------
 
@@ -50,6 +50,9 @@ Startups:
 - [The Robotics Ecosystem: Startup Funding By Category Broken Down In One Infographic](https://www.cbinsights.com/research/robotics-deals-consumer-enterprise-medical/)
 
 --------------------------------------
+
+
+#### Appendix
 
 ![Rise-of-robotics-1](http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2017/03/Rise-of-robotics-1.png)
 
