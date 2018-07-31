@@ -30,7 +30,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 Startups:
 
 - [Robotics Startups - AngelList](https://angel.co/robotics)
-- []()
+- [Know Your Industries: 90+ Market Maps Covering Fintech, CPG, Auto Tech, Healthcare, And More](https://www.cbinsights.com/research/industry-market-map-landscape/)
 
 --------------------------------------
 
