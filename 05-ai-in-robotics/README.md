@@ -90,3 +90,7 @@ Startups:
 
 
 -------------
+
+![robotics_treemap_2016_2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/10/robotics_treemap_2016_2.png)
+
+------------
