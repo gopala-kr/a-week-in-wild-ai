@@ -111,3 +111,7 @@ Startups:
 
 
 --------------
+
+![automation-job-automation-by-education-level](https://www.creditloan.com/media/automation-job-automation-by-education-level.png)
+
+-----------------
