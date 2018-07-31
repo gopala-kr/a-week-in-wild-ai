@@ -80,5 +80,9 @@ Startups:
 
 ![180405-Future-Factory-V4](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05171259/180405-Future-Factory-V4.png)
 
+---------------
+
+![Drones-Market-Map-High-Resolution](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/06/Drones-Market-Map-High-Resolution.png)
+
 
 -------------
