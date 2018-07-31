@@ -74,5 +74,9 @@ Startups:
 
 ![RnD](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/03/13120644/RnD.png)
 
+--------------
+
+![180405-Future-Factory-V4](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/04/05171259/180405-Future-Factory-V4.png)
+
 
 -------------
