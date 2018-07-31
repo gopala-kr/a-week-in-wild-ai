@@ -49,4 +49,7 @@ Startups:
 
 -------------------
 
+![robotics_MnA_20160818-2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/08/robotics_MnA_20160818-2.png)
+
+----------------
 
