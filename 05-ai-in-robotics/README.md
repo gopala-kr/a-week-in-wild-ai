@@ -22,9 +22,9 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 ------------------------
 
+<div style="clear:both"><a href="https://www.digitalpulse.pwc.com.au/infographic-evolution-robots-AI/?utm_source=infographic&utm_medium=referral&utm_campaign=ai17"><img src="https://www.digitalpulse.pwc.com.au/wp-content/uploads/2017/08/pwc-history-of-robots.jpg" title="Infographic: The evolution of robotics" alt="Infographic: The evolution of robotics" width="" height="" border="0" /></a></div><div>Courtesy of: <a href="https://www.digitalpulse.pwc.com.au/?utm_source=infographic&utm_medium=referral&utm_campaign=ai17">Digital Pulse</a></div>
 
-
-
+-------------
 
 
 Startups:
