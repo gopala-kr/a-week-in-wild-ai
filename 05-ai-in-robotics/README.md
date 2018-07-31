@@ -55,3 +55,6 @@ Startups:
 
 ----------------
 
+![AI_robotics_Agriculture1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/07/AI_robotics_Agriculture1.png)
+
+----------------
