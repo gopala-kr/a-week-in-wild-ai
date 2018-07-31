@@ -41,6 +41,9 @@ Startups:
 
 ![robot_planet_2016_2](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/robot_planet_2016_2.png)
 
+------------
+
+![Robotics_corporates_BSG_q316](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/09/Robotics_corporates_BSG_q316.png)
 
 -------------------
 
