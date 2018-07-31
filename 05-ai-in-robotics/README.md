@@ -101,3 +101,8 @@ Startups:
 ![automation-jobs-likely-to-be-automated](https://content.creditloan.com/media/automation-jobs-likely-to-be-automated.png)
 
 ------------
+
+![automation-visualizing-the-time](https://content.creditloan.com/media/automation-visualizing-the-time.png)
+
+
+--------------
