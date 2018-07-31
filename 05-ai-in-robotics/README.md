@@ -45,7 +45,9 @@ Startups:
 
 ![Rise-of-robotics-1](http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2017/03/Rise-of-robotics-1.png)
 
+----------------
 
+![Rise-of-robotics-2-1](http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2017/03/Rise-of-robotics-2-1.png)
 
 ------------
 
