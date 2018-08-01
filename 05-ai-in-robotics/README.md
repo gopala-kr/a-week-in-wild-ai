@@ -4,11 +4,14 @@
 -----------
 > Contents
 
-- Timeline
-- Startups
-- Appendix
+- [Timeline](#timeline)
+- [Startups](#startups)
+- [Appendix](#appendix)
 
 -----------------
+
+#### Timeline
+
 
 - [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics)
 - [History of robots](https://en.wikipedia.org/wiki/History_of_robots)
@@ -33,7 +36,7 @@ Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infog
 -------------
 
 
-Startups:
+#### Startups
 
 - [Robotics Startups - AngelList](https://angel.co/robotics)
 - [Know Your Industries: 90+ Market Maps Covering Fintech, CPG, Auto Tech, Healthcare, And More](https://www.cbinsights.com/research/industry-market-map-landscape/)
