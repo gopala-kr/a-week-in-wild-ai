@@ -21,6 +21,7 @@
 - [History of robots](https://en.wikipedia.org/wiki/History_of_robots)
 - [Robot Hall of Fame](https://en.wikipedia.org/wiki/Robot_Hall_of_Fame)
 - [Competitions in artificial intelligence](https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence)
+- [MIT-TR: All Robotics stories](https://www.technologyreview.com/c/robotics/)
 
 ----------------------------
 
@@ -37,6 +38,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Infographic
 Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infographic-evolution-robots-ai/)
 - [Infographics show jobs most likely to be lost to robots](https://bigthink.com/robby-berman/infographics-show-jobs-most-likely-to-be-lost-to-robots)
+
 -------------
 
 
