@@ -24,6 +24,7 @@
 - [MIT-TR: All Robotics stories](https://www.technologyreview.com/c/robotics/)
 - [spectrum.ieee.robotics](https://spectrum.ieee.org/robotics)
 - [letsmakerobots](https://www.robotshop.com/letsmakerobots/)
+- [How do I learn Robotics?](https://www.quora.com/Whats-the-best-way-to-start-learning-robotics?redirected_qid=770465)
 
 ----------------------------
 
