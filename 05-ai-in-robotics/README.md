@@ -54,6 +54,43 @@ Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infog
 
 -------------
 
+#### ROS
+
+---------------
+
+#### Kinematics
+
+-------------------
+
+#### Perception
+
+------------
+
+#### Controls
+
+--------------
+
+#### DL in Robotics
+
+------------
+
+#### Localization
+
+-------------
+
+#### SLAM
+
+-----------------
+
+#### Reinforcement Learning for Robotics
+
+------------
+
+#### Path Planning and Navigation
+
+
+-------------
+
 #### Libraries
 
 
