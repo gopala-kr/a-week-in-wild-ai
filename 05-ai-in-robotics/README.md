@@ -28,6 +28,7 @@
 
 #### Misc
 
+[Back to top](#contents)
 
 - [On AI and Robotics
 Developing policy for the Fourth Industrial Revolution](https://policyatmanchester.shorthandstories.com/on_ai_and_robotics/index.html)
@@ -67,7 +68,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 --------------
 
-#### DL in Robotics
+#### DL for Robotics
 
 ------------
 
