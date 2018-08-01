@@ -22,7 +22,7 @@
 - [Robot Hall of Fame](https://en.wikipedia.org/wiki/Robot_Hall_of_Fame)
 - [Competitions in artificial intelligence](https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence)
 - [MIT-TR: All Robotics stories](https://www.technologyreview.com/c/robotics/)
-
+- [spectrum.ieee.robotics](https://spectrum.ieee.org/robotics)
 ----------------------------
 
 - [On AI and Robotics
