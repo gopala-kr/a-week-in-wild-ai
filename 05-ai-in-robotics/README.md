@@ -5,6 +5,7 @@
 > #### Contents
 
 - [Timeline](#timeline)
+- [Misc](#misc)
 - [Startups](#startups)
 - [Appendix](#appendix)
 
@@ -19,15 +20,21 @@
 
 - [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics)
 - [History of robots](https://en.wikipedia.org/wiki/History_of_robots)
+
+
+
+----------------------------
+
+#### Misc
+
 - [Robot Hall of Fame](https://en.wikipedia.org/wiki/Robot_Hall_of_Fame)
 - [Competitions in artificial intelligence](https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence)
 - [MIT-TR: All Robotics stories](https://www.technologyreview.com/c/robotics/)
 - [spectrum.ieee.robotics](https://spectrum.ieee.org/robotics)
 - [letsmakerobots](https://www.robotshop.com/letsmakerobots/)
 - [How do I learn Robotics?](https://www.quora.com/Whats-the-best-way-to-start-learning-robotics?redirected_qid=770465)
-
-----------------------------
-
+- [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
+- [47 Programmable Robotics Kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 - [On AI and Robotics
 Developing policy for the Fourth Industrial Revolution](https://policyatmanchester.shorthandstories.com/on_ai_and_robotics/index.html)
 - [deloitte: AI, robotics, and automation: Put humans in the loop](https://www2.deloitte.com/insights/us/en/focus/human-capital-trends/2018/ai-robotics-intelligent-machines.html)
