@@ -23,6 +23,8 @@
 - [Competitions in artificial intelligence](https://en.wikipedia.org/wiki/Competitions_and_prizes_in_artificial_intelligence)
 - [MIT-TR: All Robotics stories](https://www.technologyreview.com/c/robotics/)
 - [spectrum.ieee.robotics](https://spectrum.ieee.org/robotics)
+- [letsmakerobots](https://www.robotshop.com/letsmakerobots/)
+
 ----------------------------
 
 - [On AI and Robotics
