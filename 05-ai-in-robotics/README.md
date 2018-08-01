@@ -49,7 +49,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Infographic
 Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infographic-evolution-robots-ai/)
 - [Infographics show jobs most likely to be lost to robots](https://bigthink.com/robby-berman/infographics-show-jobs-most-likely-to-be-lost-to-robots)
-
+- [Stanford: Introduction to Robotics](https://see.stanford.edu/Course/CS223A)
 
 
 -------------
