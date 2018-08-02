@@ -7,6 +7,7 @@
 - [Timeline](#timeline)
 - [Misc](#misc)
 - [Libraries](#libraries)
+- [Literature Review](#literature-review)
 - [Startups](#startups)
 - [Appendix](#appendix)
 
@@ -99,6 +100,12 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Artificial Intelligence and Robotics](https://arxiv.org/ftp/arxiv/papers/1803/1803.10813.pdf), 2018.
 - [Artificial Intelligence for Long-Term Robot Autonomy: A Survey](https://arxiv.org/pdf/1807.05196.pdf)
 
+--------------
+
+![ai_r](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/05-ai-in-robotics/ai_r.JPG)
+
+
+------------------
 #### Startups
 
 [Back to top](#contents)
