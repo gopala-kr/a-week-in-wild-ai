@@ -94,6 +94,10 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 -------------
 
+#### Literature Review
+
+- [Artificial Intelligence and Robotics](https://arxiv.org/ftp/arxiv/papers/1803/1803.10813.pdf), 2018.
+
 
 #### Startups
 
