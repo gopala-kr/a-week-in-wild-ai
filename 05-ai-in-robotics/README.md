@@ -100,6 +100,8 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Artificial Intelligence and Robotics](https://arxiv.org/ftp/arxiv/papers/1803/1803.10813.pdf), 2018.
 - [Artificial Intelligence for Long-Term Robot Autonomy: A Survey](https://arxiv.org/pdf/1807.05196.pdf), 2018.
 - [Artificial Intelligence-Based Techniques for Emerging Robotics Communication: A Survey and Future Perspectives](https://arxiv.org/ftp/arxiv/papers/1804/1804.09671.pdf), 2018.
+- [A Survey of Knowledge Representation and Retrieval for Learning in Service Robotics](https://arxiv.org/pdf/1807.02192.pdf), 2018.
+- [A Survey of Deep Learning Techniques for Mobile Robot Applications](https://arxiv.org/pdf/1803.07608.pdf), 2018.
 
 --------------
 
