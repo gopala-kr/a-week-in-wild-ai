@@ -106,6 +106,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 #### Surveys
 
+
 - [Artificial Intelligence and Robotics](https://arxiv.org/ftp/arxiv/papers/1803/1803.10813.pdf), 2018.
 - [Artificial Intelligence for Long-Term Robot Autonomy: A Survey](https://arxiv.org/pdf/1807.05196.pdf), 2018.
 - [Artificial Intelligence-Based Techniques for Emerging Robotics Communication: A Survey and Future Perspectives](https://arxiv.org/ftp/arxiv/papers/1804/1804.09671.pdf), 2018.
@@ -135,6 +136,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
  
  
 --------------
+
 
 ![ai_r](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/05-ai-in-robotics/ai_r.JPG)
 
