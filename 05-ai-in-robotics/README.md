@@ -92,10 +92,15 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 #### Libraries
 
+[Back to top](#contents)
+
 
 -------------
 
 #### Literature Review
+
+[Back to top](#contents)
+
 
 - [Artificial Intelligence and Robotics](https://arxiv.org/ftp/arxiv/papers/1803/1803.10813.pdf), 2018.
 - [Artificial Intelligence for Long-Term Robot Autonomy: A Survey](https://arxiv.org/pdf/1807.05196.pdf), 2018.
