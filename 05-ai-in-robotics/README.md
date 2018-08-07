@@ -106,6 +106,11 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 [Back to top](#contents)
 
 
+- [Reflections on Designing a Virtual Highway Path Planner Part 1](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)
+- [Reflections on Designing a Virtual Highway Path Planner Part 2](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-2-3-392bc6cf11e7)
+- [Reflections on Designing a Virtual Highway Path Planner Part 3](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-3-3-a36bf629d239)
+
+
 #### Surveys
 
 
