@@ -18,6 +18,7 @@
   - [Path Planning and Navigation](#path-planning-and-navigation)
 - [Libraries](#libraries)
 - [Drones](#drones)
+- [Applications](#applications)
 - [Literature Review](#literature-review)
 - [Startups](#startups)
 - [Appendix](#appendix)
@@ -107,16 +108,16 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 </p>
 <ul><li>perception</li>
 <li>object identification</li>
-<li><a href="/wiki/Segmentation_(image_processing)" class="mw-redirect" title="Segmentation (image processing)">segmentation</a> and recognition</li>
-<li><a href="/wiki/Facial_recognition_system" title="Facial recognition system">Face recognition</a></li>
-<li><a href="/wiki/Gesture_recognition" title="Gesture recognition">gesture recognition</a></li>
-<li><a href="/wiki/Video_tracking" title="Video tracking">motion tracking</a></li>
-<li><a href="/wiki/Egomotion" class="mw-redirect" title="Egomotion">egomotion</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Segmentation_(image_processing)" class="mw-redirect" title="Segmentation (image processing)">segmentation</a> and recognition</li>
+<li><a href="https://en.wikipedia.org/wiki/Facial_recognition_system" title="Facial recognition system">Face recognition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Gesture_recognition" title="Gesture recognition">gesture recognition</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Video_tracking" title="Video tracking">motion tracking</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Egomotion" class="mw-redirect" title="Egomotion">egomotion</a></li>
 <li><a href="/w/index.php?title=Motion_understanding&amp;action=edit&amp;redlink=1" class="new" title="Motion understanding (page does not exist)">motion understanding</a></li>
-<li><a href="/wiki/Structure_from_motion" title="Structure from motion">structure from motion</a> (SFM)</li>
-<li><a href="/wiki/Stereopsis" title="Stereopsis">stereo vision</a>: depth perception via two cameras</li>
+<li><a href="https://en.wikipedia.org/wiki/Structure_from_motion" title="Structure from motion">structure from motion</a> (SFM)</li>
+<li><a href="https://en.wikipedia.org/wiki/Stereopsis" title="Stereopsis">stereo vision</a>: depth perception via two cameras</li>
 <li>motion</li>
-<li><a href="/wiki/Mobile_robotics" class="mw-redirect" title="Mobile robotics">mobile robotics</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mobile_robotics" class="mw-redirect" title="Mobile robotics">mobile robotics</a></li>
 <li>control</li>
 <li>planning</li>
 <li>grasping</li></ul>
@@ -186,20 +187,20 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 </p><p>Current and potential applications include:
 </p>
-<ul><li><a href="/wiki/Military_robot" title="Military robot">Military robots</a></li>
-<li><a href="/wiki/Caterpillar_Inc." title="Caterpillar Inc.">Caterpillar</a> plans to develop remote controlled machines and expects to develop fully autonomous heavy robots by 2021.  Some <a href="/wiki/Crane_(machine)" title="Crane (machine)">cranes</a> already are remote controlled.</li>
+<ul><li><a href="https://en.wikipedia.org/wiki/Military_robot" title="Military robot">Military robots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Caterpillar_Inc." title="Caterpillar Inc.">Caterpillar</a> plans to develop remote controlled machines and expects to develop fully autonomous heavy robots by 2021.  Some <a href="https://en.wikipedia.org/wiki/Crane_(machine)" title="Crane (machine)">cranes</a> already are remote controlled.</li>
 <li>It was demonstrated that a robot can perform a <a href="https://en.wiktionary.org/wiki/herding" class="extiw" title="wikt:herding">herding</a> task.</li>
-<li>Robots are increasingly used in manufacturing (since the 1960s). In the auto industry, they can amount for more than half of the "labor". There are even "<a href="/wiki/Lights_out_(manufacturing)" title="Lights out (manufacturing)">lights off</a>" factories such as an IBM keyboard manufacturing factory in Texas that is 100% automated.</li>
-<li>Robots such as HOSPI are used as <a href="/wiki/Courier" title="Courier">couriers</a> in hospitals (<a href="/w/index.php?title=Hospital_robot&amp;action=edit&amp;redlink=1" class="new" title="Hospital robot (page does not exist)">hospital robot</a>). Other hospital tasks performed by robots are receptionists, guides and porters helpers.</li>
-<li>Robots can serve as <a href="/wiki/Waiter" class="mw-redirect" title="Waiter">waiters</a> and cooks, also at home.  <a href="/w/index.php?title=Boris_(robot)&amp;action=edit&amp;redlink=1" class="new" title="Boris (robot) (page does not exist)">Boris</a> is a robot that can load a <a href="/wiki/Dishwasher" title="Dishwasher">dishwasher</a>. <a href="/wiki/Rotimatic" title="Rotimatic">Rotimatic</a> is a robotics kitchen appliance that cooks <a href="/wiki/Flatbread" title="Flatbread">flatbreads</a> automatically.</li>
-<li><a href="/wiki/Robot_combat" title="Robot combat">Robot combat</a> for sport – hobby or sport event where two or more robots fight in an arena to disable each other. This has developed from a hobby in the 1990s to several TV series worldwide.</li>
+<li>Robots are increasingly used in manufacturing (since the 1960s). In the auto industry, they can amount for more than half of the "labor". There are even "<a href="https://en.wikipedia.org/wiki/Lights_out_(manufacturing)" title="Lights out (manufacturing)">lights off</a>" factories such as an IBM keyboard manufacturing factory in Texas that is 100% automated.</li>
+<li>Robots such as HOSPI are used as <a href="https://en.wikipedia.org/wiki/Courier" title="Courier">couriers</a> in hospitals (<a href="/w/index.php?title=Hospital_robot&amp;action=edit&amp;redlink=1" class="new" title="Hospital robot (page does not exist)">hospital robot</a>). Other hospital tasks performed by robots are receptionists, guides and porters helpers.</li>
+<li>Robots can serve as <a href="https://en.wikipedia.org/wiki/Waiter" class="mw-redirect" title="Waiter">waiters</a> and cooks, also at home.  <a href="/w/index.php?title=Boris_(robot)&amp;action=edit&amp;redlink=1" class="new" title="Boris (robot) (page does not exist)">Boris</a> is a robot that can load a <a href="https://en.wikipedia.org/wiki/Dishwasher" title="Dishwasher">dishwasher</a>. <a href="https://en.wikipedia.org/wiki/Rotimatic" title="Rotimatic">Rotimatic</a> is a robotics kitchen appliance that cooks <a href="https://en.wikipedia.org/wiki/Flatbread" title="Flatbread">flatbreads</a> automatically.</li>
+<li><a href="https://en.wikipedia.org/wiki/Robot_combat" title="Robot combat">Robot combat</a> for sport – hobby or sport event where two or more robots fight in an arena to disable each other. This has developed from a hobby in the 1990s to several TV series worldwide.</li>
 <li>Cleanup of contaminated areas, such as toxic waste or nuclear facilities.</li>
-<li><a href="/wiki/Agricultural_robot" title="Agricultural robot">Agricultural robots</a>  (AgRobots).</li>
-<li><a href="/wiki/Domestic_robot" title="Domestic robot">Domestic robots</a>, cleaning and caring for the elderly</li>
-<li><a href="/wiki/Medical_robot" title="Medical robot">Medical robots</a> performing low-invasive surgery</li>
-<li><a href="/wiki/Household_robot" class="mw-redirect" title="Household robot">Household robots</a> with full use.</li>
-<li><a href="/wiki/Nanorobot" class="mw-redirect" title="Nanorobot">Nanorobots</a></li>
-<li><a href="/wiki/Swarm_robotics" title="Swarm robotics">Swarm robotics</a></li></ul>
+<li><a href="https://en.wikipedia.org/wiki/Agricultural_robot" title="Agricultural robot">Agricultural robots</a>  (AgRobots).</li>
+<li><a href="https://en.wikipedia.org/wiki/Domestic_robot" title="Domestic robot">Domestic robots</a>, cleaning and caring for the elderly</li>
+<li><a href="https://en.wikipedia.org/wiki/Medical_robot" title="Medical robot">Medical robots</a> performing low-invasive surgery</li>
+<li><a href="https://en.wikipedia.org/wiki/Household_robot" class="mw-redirect" title="Household robot">Household robots</a> with full use.</li>
+<li><a href="https://en.wikipedia.org/wiki/Nanorobot" class="mw-redirect" title="Nanorobot">Nanorobots</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Swarm_robotics" title="Swarm robotics">Swarm robotics</a></li></ul>
 
 #### Literature Review
 
