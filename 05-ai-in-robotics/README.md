@@ -56,6 +56,9 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 #### ROS
 
+- [ROS core stacks](https://github.com/ros)
+- [ROS package list](http://www.ros.org/browse/list.php)
+
 ---------------
 
 #### Kinematics
