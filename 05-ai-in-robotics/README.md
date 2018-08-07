@@ -65,6 +65,9 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [ETH Zurich: Institute of Robotics and Intelligent Systems](http://www.iris.ethz.ch/)
 - [robotigniteacademy](https://www.robotigniteacademy.com/en/)
 - [EDX Robotics courses](https://www.edx.org/course?search_query=robotics)
+- [Coursera: Robotics Specialization](https://www.coursera.org/specializations/robotics)
+- [Udacity ND: Become A Robotics Software Engineer](https://in.udacity.com/course/robotics-software-engineer--nd209)
+- [Udacity ND: Flying Car](https://in.udacity.com/course/flying-car-nanodegree--nd787)
 
 -------------
 
@@ -80,6 +83,9 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Find a Robot by tags](https://robots.ros.org/tags/)
 - [wiki.ros](http://wiki.ros.org/)
 - [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
+- [A Gentle Introduction to ROS](https://cse.sc.edu/~jokane/agitr/)
+- [89-685: Introduction to Robotics](http://u.cs.biu.ac.il/~yehoshr1/89-685/)
+
 
 <p>ROS areas include:
 </p>
