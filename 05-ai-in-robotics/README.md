@@ -6,7 +6,7 @@
 
 - [Timeline](#timeline)
 - [Misc](#misc)
-- [Robotics concepts](#robotics-concepts)
+- [Robotic concepts](#robotics-concepts)
   - [ROS](#ros)
   - [Kinematics](#kinematics)
   - [Perception](#perception)
@@ -78,7 +78,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 -------------
 
 
-### Robotics concepts
+### Robotic concepts
 
 #### ROS
 
@@ -181,6 +181,25 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 
 -------------
+
+#### Applications
+
+</p><p>Current and potential applications include:
+</p>
+<ul><li><a href="/wiki/Military_robot" title="Military robot">Military robots</a></li>
+<li><a href="/wiki/Caterpillar_Inc." title="Caterpillar Inc.">Caterpillar</a> plans to develop remote controlled machines and expects to develop fully autonomous heavy robots by 2021.  Some <a href="/wiki/Crane_(machine)" title="Crane (machine)">cranes</a> already are remote controlled.</li>
+<li>It was demonstrated that a robot can perform a <a href="https://en.wiktionary.org/wiki/herding" class="extiw" title="wikt:herding">herding</a> task.</li>
+<li>Robots are increasingly used in manufacturing (since the 1960s). In the auto industry, they can amount for more than half of the "labor". There are even "<a href="/wiki/Lights_out_(manufacturing)" title="Lights out (manufacturing)">lights off</a>" factories such as an IBM keyboard manufacturing factory in Texas that is 100% automated.</li>
+<li>Robots such as HOSPI are used as <a href="/wiki/Courier" title="Courier">couriers</a> in hospitals (<a href="/w/index.php?title=Hospital_robot&amp;action=edit&amp;redlink=1" class="new" title="Hospital robot (page does not exist)">hospital robot</a>). Other hospital tasks performed by robots are receptionists, guides and porters helpers.</li>
+<li>Robots can serve as <a href="/wiki/Waiter" class="mw-redirect" title="Waiter">waiters</a> and cooks, also at home.  <a href="/w/index.php?title=Boris_(robot)&amp;action=edit&amp;redlink=1" class="new" title="Boris (robot) (page does not exist)">Boris</a> is a robot that can load a <a href="/wiki/Dishwasher" title="Dishwasher">dishwasher</a>. <a href="/wiki/Rotimatic" title="Rotimatic">Rotimatic</a> is a robotics kitchen appliance that cooks <a href="/wiki/Flatbread" title="Flatbread">flatbreads</a> automatically.</li>
+<li><a href="/wiki/Robot_combat" title="Robot combat">Robot combat</a> for sport – hobby or sport event where two or more robots fight in an arena to disable each other. This has developed from a hobby in the 1990s to several TV series worldwide.</li>
+<li>Cleanup of contaminated areas, such as toxic waste or nuclear facilities.</li>
+<li><a href="/wiki/Agricultural_robot" title="Agricultural robot">Agricultural robots</a>  (AgRobots).</li>
+<li><a href="/wiki/Domestic_robot" title="Domestic robot">Domestic robots</a>, cleaning and caring for the elderly</li>
+<li><a href="/wiki/Medical_robot" title="Medical robot">Medical robots</a> performing low-invasive surgery</li>
+<li><a href="/wiki/Household_robot" class="mw-redirect" title="Household robot">Household robots</a> with full use.</li>
+<li><a href="/wiki/Nanorobot" class="mw-redirect" title="Nanorobot">Nanorobots</a></li>
+<li><a href="/wiki/Swarm_robotics" title="Swarm robotics">Swarm robotics</a></li></ul>
 
 #### Literature Review
 
