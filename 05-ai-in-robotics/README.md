@@ -23,7 +23,8 @@
 - [Outline of robotics](https://en.wikipedia.org/wiki/Outline_of_robotics)
 - [History of robots](https://en.wikipedia.org/wiki/History_of_robots)
 - [Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infographic-evolution-robots-ai/)
-
+- [ros history](https://en.wikipedia.org/wiki/Robot_Operating_System)
+- [Robotics_middleware](https://en.wikipedia.org/wiki/Robotics_middleware)
 
 ----------------------------
 
