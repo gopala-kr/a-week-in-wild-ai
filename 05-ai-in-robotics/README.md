@@ -64,6 +64,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Robotics Couses](http://wiki.ros.org/Courses)
 - [ETH Zurich: Institute of Robotics and Intelligent Systems](http://www.iris.ethz.ch/)
 - [robotigniteacademy](https://www.robotigniteacademy.com/en/)
+- [EDX Robotics courses](https://www.edx.org/course?search_query=robotics)
 
 -------------
 
