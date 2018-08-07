@@ -70,7 +70,10 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Udacity ND: Become A Robotics Software Engineer](https://in.udacity.com/course/robotics-software-engineer--nd209)
 - [Udacity ND: Flying Car](https://in.udacity.com/course/flying-car-nanodegree--nd787)
 - [Imperial Robotics](http://www.imperial.ac.uk/robotics/)
-
+- [societyofrobots](http://www.societyofrobots.com/)
+- [ijrr](http://www.ijrr.org/#)
+- [ieee-ras](http://www.ieee-ras.org/)
+- [ri.cmu](https://www.ri.cmu.edu/research/)
 
 -------------
 
