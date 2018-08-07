@@ -36,6 +36,7 @@
 - [Infographic: The evolution of robotic](https://www.digitalpulse.pwc.com.au/infographic-evolution-robots-ai/)
 - [ros history](https://en.wikipedia.org/wiki/Robot_Operating_System)
 - [Robotics_middleware](https://en.wikipedia.org/wiki/Robotics_middleware)
+- [Outline of automation](https://en.wikipedia.org/wiki/Outline_of_automation)
 
 ----------------------------
 
@@ -68,6 +69,8 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Coursera: Robotics Specialization](https://www.coursera.org/specializations/robotics)
 - [Udacity ND: Become A Robotics Software Engineer](https://in.udacity.com/course/robotics-software-engineer--nd209)
 - [Udacity ND: Flying Car](https://in.udacity.com/course/flying-car-nanodegree--nd787)
+- [Imperial Robotics](http://www.imperial.ac.uk/robotics/)
+
 
 -------------
 
