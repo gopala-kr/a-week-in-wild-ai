@@ -17,6 +17,7 @@
   - [Reinforcement Learning for Robotics](#reinforcement-learning-for-robotics)
   - [Path Planning and Navigation](#path-planning-and-navigation)
 - [Libraries](#libraries)
+- [Drones](#drones)
 - [Literature Review](#literature-review)
 - [Startups](#startups)
 - [Appendix](#appendix)
@@ -157,6 +158,9 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [highway-path-planning](https://github.com/mithi/highway-path-planning) : path-planning pipeline to navigate a car safely around a virtual highway with other traffic.
 - [SLAM_AND_PATH_PLANNING_ALGORITHMS](https://github.com/jfrascon/SLAM_AND_PATH_PLANNING_ALGORITHMS) : 
 - [Electric-Vehicle-Route-Planning-on-Google-Map-Reinforcement-Learning](https://github.com/Dungyichao/Electric-Vehicle-Route-Planning-on-Google-Map-Reinforcement-Learning) : User can set up destination for any agent to navigate on Google Map and learn the best route for the agent based on its current condition and the traffic. Our result is 10% less energy consumption than the route provided by Google map
+
+-------------
+#### Drones
 
 
 -------------
