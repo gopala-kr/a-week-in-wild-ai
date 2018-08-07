@@ -56,10 +56,42 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 #### ROS
 
+[Back to top](#contents)
+
 - [ROS core stacks](https://github.com/ros)
 - [ROS package list](http://www.ros.org/browse/list.php)
 - [Find a Robot by tags](https://robots.ros.org/tags/)
 - [wiki.ros](http://wiki.ros.org/)
+
+
+<p>ROS areas include:
+</p>
+<ul><li>a master coordination node</li>
+<li>publishing or subscribing to data streams: images, stereo, laser, control, actuator, contact ...</li>
+<li>multiplexing information</li>
+<li>node creation and destruction</li>
+<li>nodes are seamlessly distributed, allowing distributed operation over multi-core, multi-processor, GPUs and clusters</li>
+<li>logging</li>
+<li>parameter server</li>
+<li>test systems</li></ul>
+<p>ROS package application areas will include:
+</p>
+<ul><li>perception</li>
+<li>object identification</li>
+<li><a href="/wiki/Segmentation_(image_processing)" class="mw-redirect" title="Segmentation (image processing)">segmentation</a> and recognition</li>
+<li><a href="/wiki/Facial_recognition_system" title="Facial recognition system">Face recognition</a></li>
+<li><a href="/wiki/Gesture_recognition" title="Gesture recognition">gesture recognition</a></li>
+<li><a href="/wiki/Video_tracking" title="Video tracking">motion tracking</a></li>
+<li><a href="/wiki/Egomotion" class="mw-redirect" title="Egomotion">egomotion</a></li>
+<li><a href="/w/index.php?title=Motion_understanding&amp;action=edit&amp;redlink=1" class="new" title="Motion understanding (page does not exist)">motion understanding</a></li>
+<li><a href="/wiki/Structure_from_motion" title="Structure from motion">structure from motion</a> (SFM)</li>
+<li><a href="/wiki/Stereopsis" title="Stereopsis">stereo vision</a>: depth perception via two cameras</li>
+<li>motion</li>
+<li><a href="/wiki/Mobile_robotics" class="mw-redirect" title="Mobile robotics">mobile robotics</a></li>
+<li>control</li>
+<li>planning</li>
+<li>grasping</li></ul>
+
 
 ---------------
 
