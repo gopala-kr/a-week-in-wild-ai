@@ -62,6 +62,8 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 - [47 Programmable Robotics Kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 - [Robotics Couses](http://wiki.ros.org/Courses)
+- [ETH Zurich: Institute of Robotics and Intelligent Systems](http://www.iris.ethz.ch/)
+- [robotigniteacademy](https://www.robotigniteacademy.com/en/)
 
 -------------
 
@@ -110,6 +112,8 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 ---------------
 
 #### Kinematics
+
+- [Kinematics and Dynamics](https://people.mech.kuleuven.be/~bruyninc/robotics/H06U9B/20170928-KinDyn-nup.pdf)
 
 -------------------
 
