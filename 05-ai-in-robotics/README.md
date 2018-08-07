@@ -60,7 +60,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [How do I learn Robotics?](https://www.quora.com/Whats-the-best-way-to-start-learning-robotics?redirected_qid=770465)
 - [Free NXT Lego MindStorms NXT-G code tutorials](http://www.drgraeme.net/DrGraeme-free-NXT-G-tutorials/ChV4.htm)
 - [47 Programmable Robotics Kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
-
+- [Robotics Couses](http://wiki.ros.org/Courses)
 
 -------------
 
@@ -75,7 +75,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [ROS package list](http://www.ros.org/browse/list.php)
 - [Find a Robot by tags](https://robots.ros.org/tags/)
 - [wiki.ros](http://wiki.ros.org/)
-
+- [Core ROS Tutorials](http://wiki.ros.org/ROS/Tutorials)
 
 <p>ROS areas include:
 </p>
