@@ -138,7 +138,7 @@ Dynamically Stable Inverse Kinematics of
 Humanoid Robots](https://arxiv.org/pdf/1801.10425.pdf)
 - [A Survey of Motion Planning and Control
 Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)
-
+- [Kinematic Modeling of Robotic Manipulators](https://www.researchgate.net/publication/282648910_Kinematic_Modeling_of_Robotic_Manipulators)
 
 -------------------
 
