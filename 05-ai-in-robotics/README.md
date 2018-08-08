@@ -128,6 +128,15 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 #### Kinematics
 
 - [Kinematics and Dynamics](https://people.mech.kuleuven.be/~bruyninc/robotics/H06U9B/20170928-KinDyn-nup.pdf)
+- [11KinematicsRobot](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/51Robotics/11KinematicsRobot.pdf)
+- [robot-kinematics](https://www.slideshare.net/DamianGordon1/robot-kinematics)
+
+
+
+- [A Deep Reinforcement Learning Approach for
+Dynamically Stable Inverse Kinematics of
+Humanoid Robots](https://arxiv.org/pdf/1801.10425.pdf)
+
 
 -------------------
 
@@ -176,6 +185,7 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [highway-path-planning](https://github.com/mithi/highway-path-planning) : path-planning pipeline to navigate a car safely around a virtual highway with other traffic.
 - [SLAM_AND_PATH_PLANNING_ALGORITHMS](https://github.com/jfrascon/SLAM_AND_PATH_PLANNING_ALGORITHMS) : 
 - [Electric-Vehicle-Route-Planning-on-Google-Map-Reinforcement-Learning](https://github.com/Dungyichao/Electric-Vehicle-Route-Planning-on-Google-Map-Reinforcement-Learning) : User can set up destination for any agent to navigate on Google Map and learn the best route for the agent based on its current condition and the traffic. Our result is 10% less energy consumption than the route provided by Google map
+- [scikit-kinematics](https://github.com/thomas-haslwanter/scikit-kinematics) : Python functions for working with 3D kinematics.
 
 -------------
 #### Drones
