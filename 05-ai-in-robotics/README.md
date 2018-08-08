@@ -127,15 +127,17 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 
 #### Kinematics
 
+
 - [Kinematics and Dynamics](https://people.mech.kuleuven.be/~bruyninc/robotics/H06U9B/20170928-KinDyn-nup.pdf)
 - [11KinematicsRobot](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/51Robotics/11KinematicsRobot.pdf)
 - [robot-kinematics](https://www.slideshare.net/DamianGordon1/robot-kinematics)
-
-
-
+- [Robot Kinematics:
+ Forward and Inverse Kinematics]()
 - [A Deep Reinforcement Learning Approach for
 Dynamically Stable Inverse Kinematics of
 Humanoid Robots](https://arxiv.org/pdf/1801.10425.pdf)
+- [A Survey of Motion Planning and Control
+Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf)
 
 
 -------------------
