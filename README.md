@@ -13,10 +13,10 @@
 - [Week-11]
 
 
-
-
 -------------
-ML in a Week
+
+
+Basic ML in a Week
 
 - [Week-1]
 - [Week-2]
