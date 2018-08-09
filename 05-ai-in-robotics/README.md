@@ -207,6 +207,8 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 
 #### Applications
 
+[Back to top](#contents)
+
 <ul><li><a href="https://en.wikipedia.org/wiki/Military_robot" title="Military robot">Military robots</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Caterpillar_Inc." title="Caterpillar Inc.">Caterpillar</a> plans to develop remote controlled machines and expects to develop fully autonomous heavy robots by 2021.  Some <a href="https://en.wikipedia.org/wiki/Crane_(machine)" title="Crane (machine)">cranes</a> already are remote controlled.</li>
 <li>It was demonstrated that a robot can perform a <a href="https://en.wiktionary.org/wiki/herding" class="extiw" title="wikt:herding">herding</a> task.</li>
