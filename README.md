@@ -12,38 +12,6 @@
 - [Week-10]
 - [Week-11]
 
-
--------------
-
-
-Basic ML in a Week
-
-- [Week-1]
-- [Week-2]
-- [Week-3]
-- [Week-4]
-- [Week-5]
-
------------
-DL in a Week
-
-- [Week-1]
-- [Week-2]
-- [Week-3]
-- [Week-4]
-- [Week-5]
-
-----------
-
-RL in a Week
-
-- [Week-1]
-- [Week-2]
-- [Week-3]
-- [Week-4]
-- [Week-5]
-
-
 -----------
 
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
