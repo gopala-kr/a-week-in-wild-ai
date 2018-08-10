@@ -16,3 +16,6 @@
 - Negative Binomial Regression
 - Quasi-Poisson Regression
 - Cox Regression
+
+
+Source: [15 Types of Regression you should know](https://www.r-bloggers.com/15-types-of-regression-you-should-know/)
