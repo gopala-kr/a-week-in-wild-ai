@@ -186,7 +186,14 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 - [Reflections on Designing a Virtual Highway Path Planner Part 1](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)
 - [Reflections on Designing a Virtual Highway Path Planner Part 2](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-2-3-392bc6cf11e7)
 - [Reflections on Designing a Virtual Highway Path Planner Part 3](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-3-3-a36bf629d239)
-
+- [Simultaneous localization and mapping](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping)
+- [The Cumulative Levels of SLAM Competence](https://medium.com/slamcore-blog/the-cumulative-levels-of-slam-competence-5576f33c1c2a)
+- [Probabilistic Robotics](http://www.probabilistic-robotics.org/)
+- [SLAM for Dummies ](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2005/projects/1aslam_blas_repo.pdf)
+- [Andrew Davison: Research](http://www.doc.ic.ac.uk/~ajd/index.html)
+- [openslam](https://openslam-org.github.io/)
+- [FootSLAM and PlaceSLAM ](https://web.archive.org/web/20120313064730/http://www.kn-s.dlr.de/indoornav/footslam_video.html)
+- [List of SLAM Methods](https://en.wikipedia.org/wiki/List_of_SLAM_Methods)
 
 -------------
 
