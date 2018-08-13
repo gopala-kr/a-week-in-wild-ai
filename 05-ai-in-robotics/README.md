@@ -178,6 +178,11 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 - [FootSLAM and PlaceSLAM ](https://web.archive.org/web/20120313064730/http://www.kn-s.dlr.de/indoornav/footslam_video.html)
 - [List of SLAM Methods](https://en.wikipedia.org/wiki/List_of_SLAM_Methods)
 - [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
+- [Online demo of the Kalman Filter](http://www.data-assimilation.net/Tools/AssimDemo/?method=KF)
+- [The Kalman Filter](http://www.cs.unc.edu/~welch/kalman/)
+- [Design and use Kalman filters in MATLAB and Simulink](https://in.mathworks.com/discovery/kalman-filter.html)
+- [An Introduction to the Kalman Filterhttp://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf](http://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf)
+- [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 
 -----------------
