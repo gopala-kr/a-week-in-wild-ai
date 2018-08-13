@@ -168,7 +168,7 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 - [What Does The Future Hold For SLAM Robotics?](https://www.forbes.com/sites/quora/2017/12/22/what-does-the-future-hold-for-slam-robotics/#59ed7dfd1856)
 - [simulations](http://blogofrog.com/tag/simulations.html)
 - [Robotic mapping](https://en.wikipedia.org/wiki/Robotic_mapping)
-
+- [Matlab Toolbox of Kalman Filtering applied to Simultaneous Localization and Mapping](http://eia.udg.es/~qsalvi/Slam.zip)
 
 -----------------
 
