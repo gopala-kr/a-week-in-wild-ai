@@ -177,6 +177,8 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 - [openslam](https://openslam-org.github.io/)
 - [FootSLAM and PlaceSLAM ](https://web.archive.org/web/20120313064730/http://www.kn-s.dlr.de/indoornav/footslam_video.html)
 - [List of SLAM Methods](https://en.wikipedia.org/wiki/List_of_SLAM_Methods)
+- [Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)
+
 
 -----------------
 
