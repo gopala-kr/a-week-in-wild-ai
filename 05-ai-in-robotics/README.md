@@ -185,6 +185,10 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 - [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 
+![SLAM_Data_Flow](https://software.intel.com/sites/products/realsense/slam/SLAM_Data_Flow.PNG)
+
+![11409_LT_Mapping](https://www.machinedesign.com/sites/machinedesign.com/files/uploads/2013/09/11409_LT_Mapping-And.jpg)
+
 -----------------
 
 #### Reinforcement Learning for Robotics
@@ -389,5 +393,15 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 --------------
 
 ![automation-job-automation-by-education-level](https://www.creditloan.com/media/automation-job-automation-by-education-level.png)
+
+
+--------------
+
+![11409_LT_Robotics](https://www.machinedesign.com/sites/machinedesign.com/files/uploads/2013/09/11409_LT_Robotics%20Sy.jpg)
+
+-------------
+
+![image1_20120327143946](http://www.ni.com/cms/images/devzone/tut/image1_20120327143946.png)
+
 
 -----------------
