@@ -403,5 +403,6 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 
 ![image1_20120327143946](http://www.ni.com/cms/images/devzone/tut/image1_20120327143946.png)
 
+Source: [A Layered Approach to Designing Robot Software](http://www.ni.com/white-paper/13929/en/#toc2)
 
 -----------------
