@@ -166,9 +166,8 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 - [Teaching Robots Presence: What You Need to Know About SLAM](https://blog.cometlabs.io/teaching-robots-presence-what-you-need-to-know-about-slam-9bf0ca037553)
 - [Robotic Mapping: Simultaneous Localization and Mapping (SLAM)](https://www.gislounge.com/robotic-mapping-simultaneous-localization-and-mapping-slam/)
 - [What Does The Future Hold For SLAM Robotics?](https://www.forbes.com/sites/quora/2017/12/22/what-does-the-future-hold-for-slam-robotics/#59ed7dfd1856)
-
-
-
+- [simulations](http://blogofrog.com/tag/simulations.html)
+- [Robotic mapping](https://en.wikipedia.org/wiki/Robotic_mapping)
 
 
 -----------------
