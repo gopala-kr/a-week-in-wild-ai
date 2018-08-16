@@ -4,9 +4,16 @@
 
 http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-week/
 
+----------
 
+- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
+- [Machine Learning Math Essentials](https://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Mathematics of Machine Learning Lecture Notes](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf)
 
 ## Core Mathematical Implementations
+
+
 
 ### Supervised Learning
 - [Adaboost]()
