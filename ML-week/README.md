@@ -10,6 +10,11 @@ http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-we
 - [Machine Learning Math Essentials](https://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Mathematics of Machine Learning Lecture Notes](https://ocw.mit.edu/courses/mathematics/18-657-mathematics-of-machine-learning-fall-2015/lecture-notes/MIT18_657F15_LecNote.pdf)
+- [Mathematics of Deep Learning](https://arxiv.org/pdf/1712.04741.pdf)
+- [Mathematics of Deep Learning ](http://www.vision.jhu.edu/tutorials/ICCV17-Tutorial-Math-Deep-Learning-Intro-Rene.pdf)
+- [Mathematics of Deep Learning](https://cims.nyu.edu/~bruna/Media/cims_oct19.pdf)
+
+------------------
 
 ## Core Mathematical Implementations
 
