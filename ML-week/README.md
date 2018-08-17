@@ -13,6 +13,9 @@ http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-we
 - [Mathematics of Deep Learning](https://arxiv.org/pdf/1712.04741.pdf)
 - [Mathematics of Deep Learning ](http://www.vision.jhu.edu/tutorials/ICCV17-Tutorial-Math-Deep-Learning-Intro-Rene.pdf)
 - [Mathematics of Deep Learning](https://cims.nyu.edu/~bruna/Media/cims_oct19.pdf)
+- [Google: Rules of Machine Learning:
+Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
+
 
 ------------------
 
