@@ -166,6 +166,21 @@ based on human-robot interaction](http://vislab.isr.ist.utl.pt/wp-content/upload
 
 #### Controls
 
+- [Control in Robotics](http://ieeecss.org/sites/ieeecss.org/files/documents/IoCT-Part1-04Robotics.pdf)
+- [Robot
+Manipulator
+Control
+Theory and Practice](http://www.robot.bmstu.ru/files/books/Robot%20Manipulator%20Control%20Theory%20and%20Practice%20-%20Frank%20L.Lewis.pdf)
+- [Robot Contro](https://see.stanford.edu/materials/aiircs223a/handout8_Control.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 --------------
 
 #### DL for Robotics
