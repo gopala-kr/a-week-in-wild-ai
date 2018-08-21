@@ -12,7 +12,6 @@
   - [Perception](#perception)
   - [Controls](#controls) 
   - [DL for Robotics](#dl-for-robotics)
-  - [Localization](#localization)
   - [SLAM](#slam)
   - [Reinforcement Learning for Robotics](#reinforcement-learning-for-robotics)
   - [Path Planning and Navigation](#path-planning-and-navigation)
@@ -185,10 +184,6 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 --------------
 
 #### DL for Robotics
-
-------------
-
-#### Localization
 
 -------------
 
