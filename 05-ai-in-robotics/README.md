@@ -235,7 +235,21 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 
 [Back to top](#contents)
 
+![landscape](https://github.com/tangzhenyu/Reinforcement-Learning-in-Robotics/blob/master/images/landscape.jpeg)
 
+
+- [Reinforcement-Learning-in-Robotics](https://github.com/tangzhenyu/Reinforcement-Learning-in-Robotics)
+- [Reinforcement learning in robotics](https://vmayoral.github.io/robots,/ai,/deep/learning,/rl,/reinforcement/learning/2016/07/06/rl-intro/)
+- [CMU: Reinforcement Learning in Robotics: A Survey](https://www.ri.cmu.edu/publications/reinforcement-learning-in-robotics-a-survey/)
+- [Reinforcement Learning in Robotics:
+A Survey](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_IJRR_2013.pdf)
+- [Making a robot learn how to move, part 2 – reinforcement learning in the real, wild world](https://towardsdatascience.com/making-a-robot-learn-how-to-move-part-2-reinforcement-learning-in-the-real-wild-world-9427da7b9b21)
+- [Deep Reinforcement Learning for Robotics](http://www.fujitsu.com/us/Images/Panel3_Pieter_Abbeel.pdf)
+- [Google: Scalable Deep Reinforcement Learning for Robotic Manipulation](https://ai.googleblog.com/2018/06/scalable-deep-reinforcement-learning.html)
+- [Google X’s Deep Reinforcement Learning in Robotics using Vision](https://hackernoon.com/google-xs-deep-reinforcement-learning-in-robotics-using-vision-7a78e87ab171)
+- [Overview on Reinforcement Learning for
+Robotics](https://openreview.net/pdf?id=rkNzJ4m0-)
+- [How Deep Reinforcement Learning Will Make Robots Smarter](https://www.forbes.com/sites/danielnewman/2017/05/11/how-deep-reinforcement-learning-will-make-robots-smarter/#2cd08bdb433a)
 
 ------------
 
