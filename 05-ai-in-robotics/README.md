@@ -311,7 +311,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 
 -------------
 
-#### Libraries
+### Libraries
 
 [Back to top](#contents)
 
@@ -329,25 +329,25 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 
 
 -------------
-#### Drones
+### Drones
 
 [Back to top](#contents)
 
 -------------
 
-#### Automation
+### Automation
 
 [Back to top](#contents)
 
 ----------------
 
-#### Case study Manufacturing automation
+### Case study Manufacturing automation
 
 [Back to top](#contents)
 
 -------------
 
-#### Applications
+### Applications
 
 [Back to top](#contents)
 
@@ -369,7 +369,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 
 ---------------------------
 
-#### Literature Review
+### Literature Review
 
 [Back to top](#contents)
 
@@ -412,7 +412,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 
 
 ------------------
-#### Startups
+### Startups
 
 [Back to top](#contents)
 
@@ -433,7 +433,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 --------------------------------------
 
 
-#### Appendix
+### Appendix
 
 [Back to top](#contents)
 
