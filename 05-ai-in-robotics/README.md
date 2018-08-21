@@ -231,6 +231,7 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 
 [Back to top](#contents)
 
+- [Planning algorithms](http://planning.cs.uiuc.edu/)
 - [Navigation and path planning for robotics](https://pdfs.semanticscholar.org/ddca/e7df6b735b9670ef708acc3cb879d2a0bbad.pdf)
 - [Robot Motion Planning](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf)
 - [Reflections on Designing a Virtual Highway Path Planner Part 1](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)
@@ -245,6 +246,14 @@ Environment: A Survey](http://tost.unise.org/pdfs/vol3/no1/3131_40.pdf)
 using various artificial and computing techniques](http://medcraveonline.com/IRATJ/IRATJ-04-00109.pdf)
 - [A survey on path planning techniques for autonomous
 mobilerobots](http://www.iosrjournals.org/iosr-jmce/papers/ICAET-2014/me/volume-4/16.pdf)
+- [Multi-Robot Path Planning](https://www.cpp.edu/~ftang/courses/CS599-DI/notes/path%20planning.pdf)
+- [Autonomous Path Planning and Navigation of a Mobile Robot
+with Multi-Sensors based on Fuzzy Logic in Dynamic
+Environment](https://www.cscjournals.org/manuscript/Journals/IJRA/Volume7/Issue1/IJRA-161.pdf)
+- [Evolving A Diverse Collection of Robot Path
+Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06.pdf)
+- [PATH AND TRAJECTORY PLANNING](http://www.ene.ttu.ee/elektriajamid/oppeinfo/materjal/AAR0040/03_Robotics.pdf)
+- [Localization and Mapping with Autonomous Robots](https://www.ru.nl/publish/pages/769526/master_thesis_benjamin_mader.pdf)
 
 -------------
 
