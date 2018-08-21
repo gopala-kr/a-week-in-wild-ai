@@ -196,6 +196,29 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 
 [Back to top](#contents)
 
+- [Deepmind: Deep Learning for Robots](http://raiahadsell.com/uploads/3/6/4/2/36428762/erf2017_keynote_talk.pdf)
+- [Deep Learning for Robotics](https://simons.berkeley.edu/sites/default/files/docs/5928/simonsmlbootcamp2017.pdf)
+- []()
+- [stanford: deep learning for robotics](https://www.cs.stanford.edu/people/asaxena/papers/ianlenz_phdthesis.pdf)
+- [Deep Learning in Robotics: A Review of Recent Research](https://arxiv.org/ftp/arxiv/papers/1707/1707.07217.pdf)
+- [Deep Learning for Robotics - Prof. Pieter Abbeel - NIPS 2017 Keynote](https://www.youtube.com/watch?v=TyOooJC_bLY)
+- [The Limits and Potentials of Deep Learning for Robotics](https://arxiv.org/pdf/1804.06557.pdf)
+- [NVIDIA’s Deep Learning AI Trains Robots to Copy and Execute Human Actions](https://www.analyticsvidhya.com/blog/2018/05/nvidias-deep-learning-ai-trains-robots-to-copy-and-execute-human-actions/)
+- [Deep-learning in Mobile Robotics - from Perception to Control Systems: A Survey on Why and Why not](https://www.researchgate.net/publication/311805526_Deep-learning_in_Mobile_Robotics_-_from_Perception_to_Control_Systems_A_Survey_on_Why_and_Why_not)
+- [Machine Learning Application in Robotics](https://www.cs.rpi.edu/twiki/pub/RoboticsWeb/ReadingGroup/ML-Robotics.pdf)
+- [Robot Learning - Three case studies in
+Robotics and Machine Learning
+](https://pdfs.semanticscholar.org/6266/a91ab2d02a1d3afda8b848ecf276757ed7f7.pdf)
+- [Intel nervana: Deep Learning for Robotics](https://www.slideshare.net/nervanasys/deep-learning-for-robotics)
+- [Statement on Artificial
+Intelligence,
+Robotics and
+‘Autonomous’
+Systems 2018](http://ec.europa.eu/research/ege/pdf/ege_ai_statement_2018.pdf)
+- [Machine learning powers
+autonomous industrial systems ](http://www.ti.com/lit/wp/sszy032/sszy032.pdf)
+
+
 
 -------------
 
