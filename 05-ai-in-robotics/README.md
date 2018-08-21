@@ -18,7 +18,7 @@
 - [Libraries](#libraries)
 - [Drones](#drones)
 - [Automation](#automation)
-- [Case study manufacturing automation](#case-study-manufacturing-automation)
+- [Case Study Manufacturing Automation](#case-study-manufacturing-automation)
 - [Applications](#applications)
 - [Literature Review](#literature-review)
 - [Startups](#startups)
