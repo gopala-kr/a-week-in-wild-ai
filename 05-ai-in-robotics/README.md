@@ -198,7 +198,6 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 
 - [Deepmind: Deep Learning for Robots](http://raiahadsell.com/uploads/3/6/4/2/36428762/erf2017_keynote_talk.pdf)
 - [Deep Learning for Robotics](https://simons.berkeley.edu/sites/default/files/docs/5928/simonsmlbootcamp2017.pdf)
-- []()
 - [stanford: deep learning for robotics](https://www.cs.stanford.edu/people/asaxena/papers/ianlenz_phdthesis.pdf)
 - [Deep Learning in Robotics: A Review of Recent Research](https://arxiv.org/ftp/arxiv/papers/1707/1707.07217.pdf)
 - [Deep Learning for Robotics - Prof. Pieter Abbeel - NIPS 2017 Keynote](https://www.youtube.com/watch?v=TyOooJC_bLY)
