@@ -328,6 +328,16 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 - [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
 
 
+SLAM
+
+- [cartographer](https://github.com/googlecartographer/cartographer) : Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+- []() : 
+
 -------------
 ### Drones
 
