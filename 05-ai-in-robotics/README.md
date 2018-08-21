@@ -146,6 +146,8 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 
 #### Perception
 
+[Back to top](#contents)
+
 - [ETH ZURICH : Perception: Sensors
 Autonomous Mobile Robots](https://www.ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/asl-dam/documents/lectures/autonomous_mobile_robots/spring-2015/04_-_Perception_I_-_Sensors.pdf)
 - [ori.ox.ac.uk.perception](http://ori.ox.ac.uk/theme/perception/)
@@ -167,6 +169,9 @@ based on human-robot interaction](http://vislab.isr.ist.utl.pt/wp-content/upload
 
 #### Controls
 
+[Back to top](#contents)
+
+
 - [Control in Robotics](http://ieeecss.org/sites/ieeecss.org/files/documents/IoCT-Part1-04Robotics.pdf)
 - [Robot
 Manipulator
@@ -186,6 +191,9 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 --------------
 
 #### DL for Robotics
+
+[Back to top](#contents)
+
 
 -------------
 
@@ -222,6 +230,8 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 -----------------
 
 #### Reinforcement Learning for Robotics
+
+[Back to top](#contents)
 
 
 
