@@ -327,6 +327,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 - [flexible-collsion-library](https://github.com/flexible-collision-library/fcl) - Performs three types of proximity queries on a pair of geometric models composed of triangles, integrated with ROS. 
 - [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
 - [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement)
+- [Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/tag/v1.9.1)
 
 SLAM
 
