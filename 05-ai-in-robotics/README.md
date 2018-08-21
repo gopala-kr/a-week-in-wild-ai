@@ -17,6 +17,8 @@
   - [Path Planning and Navigation](#path-planning-and-navigation)
 - [Libraries](#libraries)
 - [Drones](#drones)
+- [Automation](#automation)
+- [Case study manufacturing automation](#case-study-manufacturing-automation)
 - [Applications](#applications)
 - [Literature Review](#literature-review)
 - [Startups](#startups)
