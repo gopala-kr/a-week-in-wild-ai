@@ -172,13 +172,14 @@ Manipulator
 Control
 Theory and Practice](http://www.robot.bmstu.ru/files/books/Robot%20Manipulator%20Control%20Theory%20and%20Practice%20-%20Frank%20L.Lewis.pdf)
 - [Robot Contro](https://see.stanford.edu/materials/aiircs223a/handout8_Control.pdf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Robot Dynamics and Control](http://home.deib.polimi.it/gini/robot/docs/spong.pdf)
+- [https://pdfs.semanticscholar.org/5bb5/ed04e2d2953b80391bc8f14c680f783ea0c4.pdf](https://pdfs.semanticscholar.org/5bb5/ed04e2d2953b80391bc8f14c680f783ea0c4.pdf)
+- [Robot Dynamics and
+Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.pdf)
+- [Introduction to Robotics](http://engineering.nyu.edu/mechatronics/smart/Archive/intro_to_rob/Intro2Robotics.pdf)
+- [MOTION PLANNING AND CONTROL](https://nptel.ac.in/courses/112108093/module7/lecture.pdf)
+- [Handbook-mcontrol](https://users.dimi.uniud.it/~antonio.dangelo/Robotica/2012/helper/Handbook-mcontrol.pdf)
+- [Control Theory](https://ipvs.informatik.uni-stuttgart.de/mlr/marc/teaching/13-Robotics/08-controlTheory.pdf)
 
 
 --------------
