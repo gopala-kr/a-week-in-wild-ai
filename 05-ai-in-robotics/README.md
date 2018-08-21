@@ -39,6 +39,8 @@
 - [ros history](https://en.wikipedia.org/wiki/Robot_Operating_System)
 - [Robotics_middleware](https://en.wikipedia.org/wiki/Robotics_middleware)
 - [Outline of automation](https://en.wikipedia.org/wiki/Outline_of_automation)
+- [Unmanned aerial vehicle](https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle)
+- [List of unmanned aerial vehicle applications](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicle_applications)
 
 ----------------------------
 
