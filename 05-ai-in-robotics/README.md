@@ -330,6 +330,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 - [Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/tag/v1.9.1)
 - [AutonomousDrivingCookbook](https://github.com/Microsoft/AutonomousDrivingCookbook)
 - [NVIDIA-Jetson/redtail](https://github.com/NVIDIA-Jetson/redtail) : Perception and AI components for autonomous mobile robotics.
+- [jetson-reinforcement c++](https://github.com/dusty-nv/jetson-reinforcement) : Deep reinforcement learning GPU libraries for NVIDIA Jetson with PyTorch, OpenAI Gym, and Gazebo robotics simulator.
 
 SLAM
 
