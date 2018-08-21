@@ -218,6 +218,8 @@ Robotics and
 Systems 2018](http://ec.europa.eu/research/ege/pdf/ege_ai_statement_2018.pdf)
 - [Machine learning powers
 autonomous industrial systems ](http://www.ti.com/lit/wp/sszy032/sszy032.pdf)
+- [Deep	Learning	for	Robotics
+Pieter	Abbeel](https://orfe.princeton.edu/~alaink/SmartDrivingCars/PDFs/2017_12_xx_NIPS-keynote-final.pdf)
 
 
 
