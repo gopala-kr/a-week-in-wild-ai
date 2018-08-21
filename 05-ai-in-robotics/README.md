@@ -328,6 +328,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 - [robot_calibration](https://github.com/mikeferguson/robot_calibration) - generic robot kinematics calibration for ROS
 - [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement)
 - [Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/tag/v1.9.1)
+- [AutonomousDrivingCookbook](https://github.com/Microsoft/AutonomousDrivingCookbook)
 
 SLAM
 
