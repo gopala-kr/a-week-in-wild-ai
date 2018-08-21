@@ -152,6 +152,15 @@ Autonomous Mobile Robots](https://www.ethz.ch/content/dam/ethz/special-interest/
 - [Perception & Sensing
 in Robotic Mobility and Manipulation](https://see.stanford.edu/materials/aiircs223a/handout5_Robots_and_Vision.pdf)
 - [onrobot.com](https://onrobot.com/)
+- [MIT: Perception and Perspective in Robotic](https://people.csail.mit.edu/paulfitz/pub/cogsci03perception.pdf)
+- [Sensing/Perception](https://www.cpp.edu/~ftang/courses/CS521/notes/sensing.pdf)
+- [Touch and tactile perception
+for robots](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/55AutonomRobotics/140TactileRobotics.pdf)
+- [Cognitive architecture for robot perception and learning
+based on human-robot interaction](http://vislab.isr.ist.utl.pt/wp-content/uploads/2015/10/IROS2015_workshop_Uriel_Martinez.pdf)
+- [Revisiting Active Perception](https://arxiv.org/ftp/arxiv/papers/1603/1603.02729.pdf)
+- [Perception: Sensors for Mobile Robots](http://web.eecs.utk.edu/~leparker/Courses/CS594-fall08/Lectures/Sept-16-Perception-1.pdf)
+- [Intelligent perception and control for space robotics](http://web.cs.ucla.edu/~dt/papers/mva08/mva08.pdf)
 
 ------------
 
