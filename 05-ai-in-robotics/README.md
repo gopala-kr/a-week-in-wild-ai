@@ -29,7 +29,7 @@
 
 -----------------
 
-#### Timeline
+### Timeline
 
 [Back to top](#contents)
 
@@ -44,7 +44,7 @@
 
 ----------------------------
 
-#### Misc
+### Misc
 
 [Back to top](#contents)
 
