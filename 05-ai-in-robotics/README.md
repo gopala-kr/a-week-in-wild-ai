@@ -291,6 +291,17 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 
 [Back to top](#contents)
 
+-------------
+
+#### Automation
+
+[Back to top](#contents)
+
+----------------
+
+#### Case study Manufacturing automation
+
+[Back to top](#contents)
 
 -------------
 
