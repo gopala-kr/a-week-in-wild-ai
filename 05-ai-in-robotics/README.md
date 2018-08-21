@@ -250,6 +250,8 @@ A Survey](https://www.ias.informatik.tu-darmstadt.de/uploads/Publications/Kober_
 - [Overview on Reinforcement Learning for
 Robotics](https://openreview.net/pdf?id=rkNzJ4m0-)
 - [How Deep Reinforcement Learning Will Make Robots Smarter](https://www.forbes.com/sites/danielnewman/2017/05/11/how-deep-reinforcement-learning-will-make-robots-smarter/#2cd08bdb433a)
+- [NVIDIA Webinar — Deep Reinforcement Learning in Robotics with NVIDIA Jetson](https://devtalk.nvidia.com/default/topic/1035408/jetson-tx1/nvidia-webinar-mdash-deep-reinforcement-learning-in-robotics-with-nvidia-jetson/)
+
 
 ------------
 
