@@ -331,12 +331,11 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 SLAM
 
 - [cartographer](https://github.com/googlecartographer/cartographer) : Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
-- []() : 
+- [slambook](https://github.com/gaoxiang12/slambook) : 
+- [awesome-slam](https://github.com/kanster/awesome-slam) : 
+- [slam](https://github.com/jslee02/awesome-robotics-libraries#slam) : 
+- [awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list) : 
+
 
 -------------
 ### Drones
