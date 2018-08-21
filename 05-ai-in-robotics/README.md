@@ -74,6 +74,8 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [ijrr](http://www.ijrr.org/#)
 - [ieee-ras](http://www.ieee-ras.org/)
 - [ri.cmu](https://www.ri.cmu.edu/research/)
+- [Advanced Robotics: Autonomous
+Mobile Robots](https://www.iitk.ac.in/tkic/workshop/robotics/ppt/day5/arshad.pdf)
 
 -------------
 
@@ -229,10 +231,20 @@ Control](https://www.cds.caltech.edu/~murray/books/MLS/pdf/mls94-manipdyn_v1_2.p
 
 [Back to top](#contents)
 
+- [Navigation and path planning for robotics](https://pdfs.semanticscholar.org/ddca/e7df6b735b9670ef708acc3cb879d2a0bbad.pdf)
+- [Robot Motion Planning](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/18-robot-motion-planning.pdf)
 - [Reflections on Designing a Virtual Highway Path Planner Part 1](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-1-3-937259164650)
 - [Reflections on Designing a Virtual Highway Path Planner Part 2](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-2-3-392bc6cf11e7)
 - [Reflections on Designing a Virtual Highway Path Planner Part 3](https://medium.com/@mithi/reflections-on-designing-a-virtual-highway-path-planner-part-3-3-a36bf629d239)
-
+- [Advanced Robotics
+Path Planning & Navigation](http://www.ist.tugraz.at/steinbauer_mediawiki/images/8/86/Ar13_5_path_planning_navigation.pdf)
+- [Navigation Meshes and Real-Time Dynamic Planning for Virtual Worlds](http://graphics.ucmerced.edu/papers/14-sig-navplan-s.pdf)
+- [Path Planning Algorithm in Complex
+Environment: A Survey](http://tost.unise.org/pdfs/vol3/no1/3131_40.pdf)
+- [Advancement in navigational path planning of robots
+using various artificial and computing techniques](http://medcraveonline.com/IRATJ/IRATJ-04-00109.pdf)
+- [A survey on path planning techniques for autonomous
+mobilerobots](http://www.iosrjournals.org/iosr-jmce/papers/ICAET-2014/me/volume-4/16.pdf)
 
 -------------
 
