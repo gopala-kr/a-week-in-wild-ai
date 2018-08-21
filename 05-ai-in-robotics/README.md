@@ -329,6 +329,7 @@ Planning Problems](http://eldar.mathstat.uoguelph.ca/dashlock/eprints/DPP-CEC-06
 - [jetson-reinforcement](https://github.com/dusty-nv/jetson-reinforcement)
 - [Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases/tag/v1.9.1)
 - [AutonomousDrivingCookbook](https://github.com/Microsoft/AutonomousDrivingCookbook)
+- [NVIDIA-Jetson/redtail](https://github.com/NVIDIA-Jetson/redtail) : Perception and AI components for autonomous mobile robotics.
 
 SLAM
 
