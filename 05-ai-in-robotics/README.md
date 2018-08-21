@@ -149,6 +149,9 @@ Techniques for Self-driving Urban Vehicles](https://arxiv.org/pdf/1604.07446.pdf
 Autonomous Mobile Robots](https://www.ethz.ch/content/dam/ethz/special-interest/mavt/robotics-n-intelligent-systems/asl-dam/documents/lectures/autonomous_mobile_robots/spring-2015/04_-_Perception_I_-_Sensors.pdf)
 - [ori.ox.ac.uk.perception](http://ori.ox.ac.uk/theme/perception/)
 - [Robotics: Perception](https://www.coursera.org/learn/robotics-perception)
+- [Perception & Sensing
+in Robotic Mobility and Manipulation](https://see.stanford.edu/materials/aiircs223a/handout5_Robots_and_Vision.pdf)
+
 
 ------------
 
