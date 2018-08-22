@@ -346,6 +346,16 @@ SLAM
 
 [Back to top](#contents)
 
+- [AI and drones are being used to control construction projects](https://www.technologyreview.com/the-download/610545/ai-and-drones-are-being-used-to-control-construction-projects/)
+- [5 Ways AI And Drones Are Opening Up A Billion Dollar Market](https://www.forbes.com/sites/mnewlands/2017/08/10/5-ways-ai-and-drones-are-opening-up-a-billion-dollar-market/#535e5da61348)
+- [The Future of Drones in Artificial Intelligence](https://dzone.com/articles/the-future-of-drones-in-artificial-intelligence)
+- [AI-powered autonomous drone could bring new capabilities to agriculture, logistics, more](https://www.techrepublic.com/article/scientists-create-miniature-drone-that-can-fly-itself-with-ai/)
+- [Scientists Develop AI-Enabled Drones That Can Detect Violence in Crowds](https://interestingengineering.com/scientists-develop-ai-enabled-drones-that-can-detect-violence-in-crowds)
+- []()
+- []()
+- []()
+
+
 -------------
 
 ### Automation
