@@ -353,8 +353,14 @@ SLAM
 - [Scientists Develop AI-Enabled Drones That Can Detect Violence in Crowds](https://interestingengineering.com/scientists-develop-ai-enabled-drones-that-can-detect-violence-in-crowds)
 - [Artificial Intelligence Gives Drones Abilities We’ve Only Dreamed About](http://blogs.discovermagazine.com/drone360/2017/12/04/artificial-intelligence-drones-abilities-dreamed-about/#.W32Nvugzbcs)
 - [airoboticsdrones](https://www.airoboticsdrones.com/)
+- [12 Ways AI is Shaping the Drone Industry](https://dronelife.com/2018/07/06/12-ways-ai-is-shaping-the-drone-industry/)
+- [The Development of Drones with Artificial Intelligence](https://ems.de/en/mainzer-manager/the-development-of-drones-with-artificial-intelligence/)
+- [Pentagon makes massive new AI push for tanks, ships, weapons, drones and networks](http://www.foxnews.com/tech/2018/07/19/pentagon-makes-massive-new-ai-push-for-tanks-ships-weapons-drones-and-networks.html)
 - []()
-
+- []()
+- []()
+- []()
+- []()
 
 -------------
 
