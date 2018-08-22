@@ -351,8 +351,8 @@ SLAM
 - [The Future of Drones in Artificial Intelligence](https://dzone.com/articles/the-future-of-drones-in-artificial-intelligence)
 - [AI-powered autonomous drone could bring new capabilities to agriculture, logistics, more](https://www.techrepublic.com/article/scientists-create-miniature-drone-that-can-fly-itself-with-ai/)
 - [Scientists Develop AI-Enabled Drones That Can Detect Violence in Crowds](https://interestingengineering.com/scientists-develop-ai-enabled-drones-that-can-detect-violence-in-crowds)
-- []()
-- []()
+- [Artificial Intelligence Gives Drones Abilities We’ve Only Dreamed About](http://blogs.discovermagazine.com/drone360/2017/12/04/artificial-intelligence-drones-abilities-dreamed-about/#.W32Nvugzbcs)
+- [airoboticsdrones](https://www.airoboticsdrones.com/)
 - []()
 
 
