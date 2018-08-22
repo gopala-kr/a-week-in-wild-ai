@@ -356,11 +356,6 @@ SLAM
 - [12 Ways AI is Shaping the Drone Industry](https://dronelife.com/2018/07/06/12-ways-ai-is-shaping-the-drone-industry/)
 - [The Development of Drones with Artificial Intelligence](https://ems.de/en/mainzer-manager/the-development-of-drones-with-artificial-intelligence/)
 - [Pentagon makes massive new AI push for tanks, ships, weapons, drones and networks](http://www.foxnews.com/tech/2018/07/19/pentagon-makes-massive-new-ai-push-for-tanks-ships-weapons-drones-and-networks.html)
-- []()
-- []()
-- []()
-- []()
-- []()
 
 -------------
 
