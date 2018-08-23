@@ -362,6 +362,16 @@ SLAM
 - [Cities and Drones](https://web.archive.org/web/20160909214339/http://www.nlc.org/Documents/Find%20City%20Solutions/City-Solutions-and-Applied-Research/NLC%20Drone%20Report.pdf)
 - [diydrones](https://diydrones.com/)
 - [Robotics: Aerial Robotics](https://www.coursera.org/learn/robotics-flight)
+- [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0)
+- [Drone Knowledge](https://www.dronezon.com/category/learn-about-drones-quadcopters/)
+- [Drone Courses](https://www.udemy.com/topic/drone/)
+- [DRONE RESOURCES](https://airdronecraze.com/drone-resources/)
+- [The Top Drone News Sites of 2015](https://uavcoach.com/drone-news/)
+
+
+
+
+
 
 -------------
 
