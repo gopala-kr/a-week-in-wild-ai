@@ -368,8 +368,7 @@ SLAM
 - [DRONE RESOURCES](https://airdronecraze.com/drone-resources/)
 - [The Top Drone News Sites of 2015](https://uavcoach.com/drone-news/)
 - [awesome-drone](https://github.com/Pana/awesome-drone)
-
-
+- [awesome-drones](https://github.com/janesmae/awesome-drones)
 
 
 
