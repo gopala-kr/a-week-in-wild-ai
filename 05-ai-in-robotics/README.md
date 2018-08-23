@@ -451,6 +451,22 @@ SLAM
   - Autonomous helicopter control using Reinforcement Learning Policy Search Methods (Bagnell, ICRA 2001) [[Paper]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1082&context=robotics)
 
  
+ Drones/UAV
+ 
+ - [Multi-tier Drone Architecture for 5G/B5G Cellular
+Networks: Challenges, Trends, and Prospects](https://arxiv.org/pdf/1711.08407.pdf)
+ - [Amateur Drone Monitoring: State-of-the-Art
+Architectures, Key Enabling Technologies, and
+Future Research Directions](https://arxiv.org/ftp/arxiv/papers/1710/1710.02382.pdf)
+ - [Economics of UAV-aided Mobile Services Deployment](https://arxiv.org/pdf/1805.08357.pdf)
+ - [DroNet: Efficient convolutional neural network detector for real-time UAV applications](https://arxiv.org/pdf/1807.06789.pdf)
+ - [Disaster Monitoring using Unmanned Aerial Vehicles and Deep Learning](https://arxiv.org/abs/1807.11805v2)
+ - [Google Map Aided Visual Navigation for UAVs in GPS-denied Environment](https://arxiv.org/abs/1703.10125v1)
+ - [Fast and Accurate, Convolutional Neural Network Based Approach for Object Detection from UAV](https://arxiv.org/abs/1808.05756v1)
+ - [Automatic classification of trees using a UAV onboard camera and deep learning](https://arxiv.org/abs/1804.10390v1)
+ - [Radiation Search Operations using Scene Understanding with Autonomous UAV and UGV](https://arxiv.org/abs/1609.00017v1)
+ - [A Unified Framework for Joint Mobility Prediction and Object Profiling of Drones in UAV Networks](https://arxiv.org/abs/1808.00058v1)
+ 
  
 --------------
 
