@@ -370,9 +370,11 @@ SLAM
 - [The Top Drone News Sites of 2015](https://uavcoach.com/drone-news/)
 - [awesome-drone](https://github.com/Pana/awesome-drone)
 - [awesome-drones](https://github.com/janesmae/awesome-drones)
+- [How Do Drones Work?](http://www.westcoastplacer.com/how-do-drones-work/)
 
 
-
+---------
+![GlobalHawk](http://www.westcoastplacer.com/wp-content/uploads/2015/10/GlobalHawk.jpg)
 
 -------------
 
