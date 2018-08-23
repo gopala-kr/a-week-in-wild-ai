@@ -348,6 +348,7 @@ SLAM
 
 - [Drones: The Complete Guide | WIRED](https://www.wired.com/story/guide-drones/)
 - [TED: A collection of TED Talks (and more) on the topic of drones.](https://www.ted.com/topics/drones)
+- [Times Special Report: THE DRONE AGE](http://time.com/collection/drones/)
 - [AI and drones are being used to control construction projects](https://www.technologyreview.com/the-download/610545/ai-and-drones-are-being-used-to-control-construction-projects/)
 - [5 Ways AI And Drones Are Opening Up A Billion Dollar Market](https://www.forbes.com/sites/mnewlands/2017/08/10/5-ways-ai-and-drones-are-opening-up-a-billion-dollar-market/#535e5da61348)
 - [The Future of Drones in Artificial Intelligence](https://dzone.com/articles/the-future-of-drones-in-artificial-intelligence)
