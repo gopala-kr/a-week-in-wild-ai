@@ -346,6 +346,7 @@ SLAM
 
 [Back to top](#contents)
 
+- [how_do_drones_work](https://github.com/tizianofiorenzani/how_do_drones_work)
 - [Drones: The Complete Guide | WIRED](https://www.wired.com/story/guide-drones/)
 - [TED: A collection of TED Talks (and more) on the topic of drones.](https://www.ted.com/topics/drones)
 - [Times Special Report: THE DRONE AGE](http://time.com/collection/drones/)
