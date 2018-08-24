@@ -16,7 +16,10 @@ http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-we
 - [Google: Rules of Machine Learning:
 Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [deep-learning-glossary](http://www.wildml.com/deep-learning-glossary/)
-
+- [Supervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning.html)
+- [Deep Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-deep-learning.html)
+- [Unsupervised Learning cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning.html)
+- [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
 
 ------------------
 
