@@ -6,7 +6,7 @@
 - [[Week-3](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/03-speech-processing)] 22/07/2018 : Speech processing: recognition, synthesis + Survey on chatbot platforms and API's
 - [[Week-4](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/04-ai-in-transportation)] 29/07/2018 : Autonomous Vehicles
 - [[Week-5-6-7-8](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/05-ai-in-robotics)] 26/08/2018 : AI in Robotics
-- [[Week-9](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/09-ai-in-finance)] : AI in Finance
+- [[Week-9](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/09-ai-in-finance)] 02/09/2018 : AI in Finance
 - [Week-10]
 - [Week-11]
 - [Week-12]
