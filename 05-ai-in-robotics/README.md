@@ -393,10 +393,10 @@ The History and Future of Workplace
 Automation†](https://economics.mit.edu/files/11563)
 - [What is the difference between Automation and Artificial Intelligence?](https://www.quora.com/What-is-the-difference-between-Automation-and-Artificial-Intelligence)
 - [5 Applications & Benefits of Artificial Intelligence in Automation](https://www.newgenapps.com/blog/artificial-intelligence-in-automation-applications-benefits-uses)
-- []()
-- []()
-- []()
-- []()
+- [Deloitte: https://www.newgenapps.com/blog/artificial-intelligence-in-automation-applications-benefits-uses](https://www2.deloitte.com/content/dam/Deloitte/lu/Documents/operations/lu-intelligent-automation-business-world.pdf)
+- [Artificial Intelligence and Automation](https://link.springer.com/chapter/10.1007/978-3-540-78831-7_14)
+- [How AI is Already Changing Test Automation: 6 Examples](https://www.joecolantonio.com/how-ai-is-changing-test-automation/)
+- [What’s now and next in analytics, AI, and automation](https://www.mckinsey.com/featured-insights/digital-disruption/whats-now-and-next-in-analytics-ai-and-automation)
 - []()
 - []()
 
@@ -598,3 +598,9 @@ Future Research Directions](https://arxiv.org/ftp/arxiv/papers/1710/1710.02382.p
 Source: [A Layered Approach to Designing Robot Software](http://www.ni.com/white-paper/13929/en/#toc2)
 
 -----------------
+
+![Automation_Briefing](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Digital%20Disruption/Whats%20now%20and%20next%20in%20analytics%20automation/SVGZ_Insights_Analytics-AI-Automation_Briefing%20note_ex8.ashx)
+
+
+-----------------
+----------
