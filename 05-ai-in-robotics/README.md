@@ -386,6 +386,19 @@ SLAM
 
 [Back to top](#contents)
 
+- [Automation](https://en.wikipedia.org/wiki/Automation)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 ----------------
 
 ### Case study Manufacturing automation
