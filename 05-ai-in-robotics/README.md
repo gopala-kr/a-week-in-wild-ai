@@ -392,7 +392,7 @@ SLAM
 The History and Future of Workplace
 Automation†](https://economics.mit.edu/files/11563)
 - [What is the difference between Automation and Artificial Intelligence?](https://www.quora.com/What-is-the-difference-between-Automation-and-Artificial-Intelligence)
-- []()
+- [5 Applications & Benefits of Artificial Intelligence in Automation](https://www.newgenapps.com/blog/artificial-intelligence-in-automation-applications-benefits-uses)
 - []()
 - []()
 - []()
