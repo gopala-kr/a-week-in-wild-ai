@@ -18,7 +18,7 @@
 - [Libraries](#libraries)
 - [Drones](#drones)
 - [Automation](#automation)
-- [Case Study Manufacturing Automation](#case-study-manufacturing-automation)
+- [Manufacturing](#manufacturing)
 - [Applications](#applications)
 - [Literature Review](#literature-review)
 - [Startups](#startups)
@@ -415,9 +415,27 @@ Automation†](https://economics.mit.edu/files/11563)
 
 ----------------
 
-### Case study Manufacturing automation
+### Manufacturing
 
 [Back to top](#contents)
+
+- [manufacturing-ai-perspective](https://www.infosys.com/human-amplification/Documents/manufacturing-ai-perspective.pdf)
+- [intel: manufacturing](https://www.intel.in/content/www/in/en/manufacturing.html)
+- [Artificial Intelligence Transforms Manufacturing](https://www.asme.org/engineering-topics/articles/manufacturing-design/artificial-intelligence-transforms-manufacturing)
+- [The power of Artificial Intelligence in manufacturing](https://www.themanufacturer.com/articles/power-artificial-intelligence-manufacturing/)
+- [Machine Learning in Manufacturing – Present and Future Use-Cases](https://www.techemergence.com/machine-learning-in-manufacturing/)
+- [How AI Builds A Better Manufacturing Process](https://www.forbes.com/sites/insights-intelai/2018/07/17/how-ai-builds-a-better-manufacturing-process/)
+- [aimanufacturingconference](http://aimanufacturingconference.com/)
+- [AI, Making Manufacturing Great Again](https://www.roboticsbusinessreview.com/ai/ai-making-manufacturing-great-again/)
+- [Future Factories: How AI enables smart manufacturing](https://medium.com/topbots/future-factories-how-ai-enables-smart-manufacturing-c1405f4ec0e6)
+- [THE IMPACT OF ARTIFICIAL INTELLIGENCE (AI) ON OUR MANUFACTURING WORKFORCE](https://www.majentasolutions.com/blog/the-impact-of-ai-on-our-manufacturing-workforce/)
+- [ROI on AI investments could take up to 5 years, 56% of manufacturing CEOs say]()
+- [Adaptive Intelligent Apps for Manufacturing](https://cloud.oracle.com/ai-apps-for-manufacturing)
+- [What does AI mean for the future of manufacturing?](https://www.telegraph.co.uk/business/social-innovation/artificial-intelligence-future-of-manufacture/)
+- [AI and Its Applications in
+Manufacturing](https://pdfs.semanticscholar.org/presentation/e4d2/91bb18d1f66b743e3fa1043f2546e2fca22f.pdf)
+- [Industrial artificial intelligence](https://en.wikipedia.org/wiki/Industrial_artificial_intelligence)
+- [AI in the Factory of the Future](https://www.bcg.com/en-in/publications/2018/artificial-intelligence-factory-future.aspx)
 
 -------------
 
