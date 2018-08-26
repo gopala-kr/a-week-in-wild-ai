@@ -373,12 +373,8 @@ SLAM
 - [How Do Drones Work?](http://www.westcoastplacer.com/how-do-drones-work/)
 - [Technology: Drones](https://4h.extension.illinois.edu/members/projects/technology-drones)
 - [Beginners guide to drone autopilots (flight controllers) and how they work](https://www.dronetrest.com/t/beginners-guide-to-drone-autopilots-flight-controllers-and-how-they-work/1380)
+- [List of unmanned aerial vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles)
 
-
----------
-[List of unmanned aerial vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles)
-
-![GlobalHawk](http://www.westcoastplacer.com/wp-content/uploads/2015/10/GlobalHawk.jpg)
 
 -------------
 
