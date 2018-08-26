@@ -386,12 +386,12 @@ SLAM
 
 [Back to top](#contents)
 
+- [automation-ai](https://www.computerscienceonline.org/cutting-edge/automation-ai/)
 - [Automation](https://en.wikipedia.org/wiki/Automation)
 - [Why Are There Still So Many Jobs?
 The History and Future of Workplace
 Automation†](https://economics.mit.edu/files/11563)
 - [What is the difference between Automation and Artificial Intelligence?](https://www.quora.com/What-is-the-difference-between-Automation-and-Artificial-Intelligence)
-- [automation-ai](https://www.computerscienceonline.org/cutting-edge/automation-ai/)
 - []()
 - []()
 - []()
