@@ -21,6 +21,8 @@ for Financial Services](https://simularity.com/wp-content/uploads/2016/11/Simula
 
 ------------------
 
+Source: Accenture - Banking Heatmap
+
 ![banking_ai_heat_map_acc](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/banking_ai_heat_map_acc.PNG)
 
 
