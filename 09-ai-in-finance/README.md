@@ -17,17 +17,21 @@ systemic risk](http://www.systemicrisk.ac.uk/sites/default/files/downloads/publi
 for Financial Services](https://simularity.com/wp-content/uploads/2016/11/Simularity-White-Paper-Driving-AI-for-Financial-Services-11-4pk.pdf)
 - [AWS FS: AI/ML for Financial Services](http://www.eletsonline.com/ppt/bfsi/madhusudan-shekar-aispl.pdf)
 - [fs-deloitte-banking-colloquium-thoughtpaper](https://www2.deloitte.com/content/dam/Deloitte/in/Documents/financial-services/in-fs-deloitte-banking-colloquium-thoughtpaper-cii.pdf)
-
+- [A Survey on the Role of Artificial Intelligence
+in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
+- [Financial Services
+Technology 2020 and Beyond:
+Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/technology2020-and-beyond.pdf)
 
 ------------------
 
-Source: Accenture - Banking Heatmap
+
 
 ![banking_ai_heat_map_acc](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/banking_ai_heat_map_acc.PNG)
 
 
 
-
+Source: Accenture - Banking Heatmap
 
 
 
