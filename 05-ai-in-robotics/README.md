@@ -48,6 +48,8 @@
 
 [Back to top](#contents)
 
+- [sTANFORD: Artificial Intelligence and Economic Growth
+](https://web.stanford.edu/~chadj/AI.pdf)
 - [On AI and Robotics
 Developing policy for the Fourth Industrial Revolution](https://policyatmanchester.shorthandstories.com/on_ai_and_robotics/index.html)
 - [deloitte: AI, robotics, and automation: Put humans in the loop](https://www2.deloitte.com/insights/us/en/focus/human-capital-trends/2018/ai-robotics-intelligent-machines.html)
