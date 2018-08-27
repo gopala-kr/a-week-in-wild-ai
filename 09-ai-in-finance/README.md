@@ -25,6 +25,12 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 
 ------------------
 
+Startups
+
+- [The Fintech 250: The Tech Startups Redefining The Financial Services Industry](https://www.cbinsights.com/research/fintech-250-startups-most-promising/)
+
+-------------
+
 
 
 ![banking_ai_heat_map_acc](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/banking_ai_heat_map_acc.PNG)
