@@ -629,6 +629,9 @@ Source: [A Layered Approach to Designing Robot Software](http://www.ni.com/white
 
 ![Automation_Briefing](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/Digital%20Disruption/Whats%20now%20and%20next%20in%20analytics%20automation/SVGZ_Insights_Analytics-AI-Automation_Briefing%20note_ex8.ashx)
 
+-----------
+
+![AI_Technology](http://analystpov.com/wp-content/uploads/2017/08/AI_Technology-Landscape.png)
 
 -----------------
 ----------
