@@ -48,7 +48,7 @@
 
 [Back to top](#contents)
 
-- [sTANFORD: Artificial Intelligence and Economic Growth
+- [STANFORD: Artificial Intelligence and Economic Growth
 ](https://web.stanford.edu/~chadj/AI.pdf)
 - [On AI and Robotics
 Developing policy for the Fourth Industrial Revolution](https://policyatmanchester.shorthandstories.com/on_ai_and_robotics/index.html)
