@@ -80,6 +80,8 @@ Developing policy for the Fourth Industrial Revolution](https://policyatmanchest
 - [ri.cmu](https://www.ri.cmu.edu/research/)
 - [Advanced Robotics: Autonomous
 Mobile Robots](https://www.iitk.ac.in/tkic/workshop/robotics/ppt/day5/arshad.pdf)
+- [Artificial Intelligence Technology Landscape infographic](https://www.callaghaninnovation.govt.nz/sites/all/files/callaghan-innovation-infographic-artificial-intelligence.pdf)
+- [10 Charts That Will Change Your Perspective On Artificial Intelligence's Growth](https://www.forbes.com/sites/louiscolumbus/2018/01/12/10-charts-that-will-change-your-perspective-on-artificial-intelligences-growth/#432485624758)
 
 -------------
 
