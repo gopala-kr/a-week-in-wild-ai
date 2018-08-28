@@ -30,6 +30,7 @@ Startups
 - [The Fintech 250: The Tech Startups Redefining The Financial Services Industry](https://www.cbinsights.com/research/fintech-250-startups-most-promising/)
 - [The India Fintech Market Map: 72 Startups Working Across Lending, Payments, Insurance & Banking](https://www.cbinsights.com/research/india-fintech-startup-market-map/)
 - [145+ Tech Startups Focused On Transforming Capital Markets In One Market Map](https://www.cbinsights.com/research/capital-markets-tech-market-map-fintech/)
+- [The AI In Fintech Market Map: 100+ Companies Using AI Algorithms To Improve The Fin Services Industry](https://www.cbinsights.com/research/ai-fintech-startup-market-map/)
 
 -------------
 
