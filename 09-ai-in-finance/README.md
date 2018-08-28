@@ -53,6 +53,7 @@ Startups
 
 Source: Accenture - Banking Heatmap
 
+
 ----------------
 
 ![AI-in-FinTech-Market-Map-Image3](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/03/AI-in-FinTech-Market-Map-Image3.png)
