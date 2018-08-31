@@ -11,10 +11,13 @@
 - [Startups](#startups)
 - [Literature review](#literature-review)
 
+[Back to top](#contents)
 
 ------------
 
 Finance Industry
+
+[Back to top](#contents)
 
 - [The Future of Financial Services](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-fsi-wef-the-future-of-financial-services.pdf)
 
@@ -23,6 +26,7 @@ Finance Industry
 
 #### Misc
 
+[Back to top](#contents)
 
 - [AI in finance](https://helda.helsinki.fi/dhanken/bitstream/handle/123456789/170154/zavadskaya.pdf?sequence=1&isAllowed=y)
 - [Joachim Wuermeling: Artificial intelligence (AI) in finance - six
@@ -50,6 +54,8 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 
 #### Finance Technology
 
+[Back to top](#contents)
+
 - [Fintech: Ecosystem, businessmodels, investmentdecisions, andchallenges, 2017 Kelley Schoolof Business,Indiana University](https://reader.elsevier.com/reader/sd/8C3B30A4914DB739BD020882E73671EC27812D43980A6A0FDC7ACA02E31F8E7E1AE8815E90D173F9E3AFBD90007C8251)
 - [FINANCIAL TECHNOLOGIES EFFECT ON FINANCIAL SERVICES FROM AN OPEN INNOVATION PERSPECTIVE](https://www.researchgate.net/publication/316145220_FINANCIAL_TECHNOLOGIES_EFFECT_ON_FINANCIAL_SERVICES_FROM_AN_OPEN_INNOVATION_PERSPECTIVE)
 - [PwC’s FinTech Insights January 2018](https://www.pwc.in/assets/pdfs/consulting/financial-services/fintech/point-of-view/pwcs-fintech-insights-january-2018.pdf)
@@ -58,6 +64,8 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 ----------
 
 Startups
+
+[Back to top](#contents)
 
 - [The Fintech 250: The Tech Startups Redefining The Financial Services Industry](https://www.cbinsights.com/research/fintech-250-startups-most-promising/)
 - [The India Fintech Market Map: 72 Startups Working Across Lending, Payments, Insurance & Banking](https://www.cbinsights.com/research/india-fintech-startup-market-map/)
@@ -78,6 +86,7 @@ Startups
 -------------
 
 
+[Back to top](#contents)
 
 ![banking_ai_heat_map_acc](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/banking_ai_heat_map_acc.PNG)
 
@@ -93,6 +102,8 @@ Source: Accenture - Banking Heatmap
 
 ![unicorns-focused-in-payments-or-lending-Developed-by-the-author-based](https://www.researchgate.net/profile/Can_Erman/publication/316145220/figure/fig12/AS:483425258872834@1492268971199/Fintechs-global-unicorns-focused-in-payments-or-lending-Developed-by-the-author-based.ppm)
 
+
+[Back to top](#contents)
 
 ------------------
 -------------------
