@@ -48,7 +48,7 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [Financial Services
 Technology 2020 and Beyond:
 Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/technology2020-and-beyond.pdf)
-
+- [The Role of the Financial Services Sector in Expanding Economic Opportunity](https://sites.hks.harvard.edu/m-rcbg/CSRI/publications/report_19_EO%20Finance%20Final.pdf)
 ------------------
 
 #### Finance Technology
