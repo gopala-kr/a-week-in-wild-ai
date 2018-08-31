@@ -83,8 +83,10 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 
 [Back to top](#contents)
 
+- FinBrain: When Finance Meets AI 2.0. [arxiv](https://arxiv.org/abs/1808.08497v1)
 - Deep Learning in Finance. [arxiv](https://arxiv.org/abs/1602.06561v3) - 2018
 - Forecasting Economics and Financial Time Series: ARIMA vs. LSTM. [arxiv](https://arxiv.org/abs/1803.06386v1) - 2018
+- TSViz: Demystification of Deep Learning Models for Time-Series Analysis. [arxiv](https://arxiv.org/abs/1802.02952v1) - 2018
 - Geometric Learning and Filtering in Finance. [arxiv](https://arxiv.org/abs/1710.05829v2) - 2017
 - On Feature Reduction using Deep Learning for Trend Prediction in Finance. [arxiv](https://arxiv.org/abs/1704.03205v1) - 2017
 - Forecasting Volatility in Indian Stock Market using Artificial Neural Network with Multiple Inputs and Outputs. [arxiv](https://arxiv.org/abs/1604.05008v1) - 2016
@@ -92,6 +94,7 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - Identifying Metaphoric Antonyms in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3139v2) - 2013
 - Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts. [arxiv](https://arxiv.org/abs/1307.5336v2) - 2013
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
+
 
 --------------
 
