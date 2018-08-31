@@ -4,21 +4,12 @@
 
 > #### Contents
 
-- Finance Industry
-- Finance Technology
-- AI in Fintech
-- Startups
-- Literature review
-- Misc
-
-
-
-
-
-
-
-
-
+- [Misc](#misc)
+- [Finance Industry](#finance-industry)
+- [Finance Technology](#finance-technology)
+- [AI in Fintech](#ai-in-fintech)
+- [Startups](#startups)
+- [Literature review](#literature-review)
 
 
 ------------
