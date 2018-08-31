@@ -67,6 +67,8 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 #### AI in Fintech
 
 
+[Back to top](#contents)
+
 
 - [AI in finance](https://helda.helsinki.fi/dhanken/bitstream/handle/123456789/170154/zavadskaya.pdf?sequence=1&isAllowed=y)
 - [DeepLearning_Finance_NVAndrew_1018](http://www.ftrc.nccu.edu.tw/wordpresseng/wp-content/uploads/2017/10/DeepLearning_Finance_NVAndrew_1018.pdf)
@@ -75,6 +77,9 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 ----------
 
 #### Literature review
+
+
+[Back to top](#contents)
 
 --------------
 
