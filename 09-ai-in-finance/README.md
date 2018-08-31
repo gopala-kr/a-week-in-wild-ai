@@ -1,5 +1,31 @@
 #### A brief survey  : ai in finance
 
+---------------
+
+> #### Contents
+
+- Finance Industry
+- Finance Technology
+- AI in Fintech
+- Startups
+- Literature review
+- Misc
+
+
+
+
+
+
+
+
+
+
+
+------------
+
+
+
+--------------
 
 #### Misc
 
