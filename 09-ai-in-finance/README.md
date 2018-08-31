@@ -32,7 +32,7 @@ Finance Industry
 
 #### Misc
 
-- [Outline of finance](https://en.wikipedia.org/wiki/Outline_of_finance)
+
 - [AI in finance](https://helda.helsinki.fi/dhanken/bitstream/handle/123456789/170154/zavadskaya.pdf?sequence=1&isAllowed=y)
 - [Joachim Wuermeling: Artificial intelligence (AI) in finance - six
 warnings from a central banker](https://www.bis.org/review/r180307d.pdf)
@@ -52,6 +52,9 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 Technology 2020 and Beyond:
 Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/technology2020-and-beyond.pdf)
 - [The Role of the Financial Services Sector in Expanding Economic Opportunity](https://sites.hks.harvard.edu/m-rcbg/CSRI/publications/report_19_EO%20Finance%20Final.pdf)
+- [Outline of economics](https://en.wikipedia.org/wiki/Outline_of_economics)
+- [Outline of finance](https://en.wikipedia.org/wiki/Outline_of_finance)
+
 ------------------
 
 #### Finance Technology
