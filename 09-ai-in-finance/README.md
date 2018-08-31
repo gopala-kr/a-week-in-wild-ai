@@ -51,6 +51,12 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 
 ------------------
 
+#### Finance Technology
+
+- [Fintech:Ecosystem,businessmodels,investmentdecisions,andchallenges,2017KelleySchoolofBusiness,IndianaUniversity ](https://reader.elsevier.com/reader/sd/8C3B30A4914DB739BD020882E73671EC27812D43980A6A0FDC7ACA02E31F8E7E1AE8815E90D173F9E3AFBD90007C8251)
+
+----------
+
 Startups
 
 - [The Fintech 250: The Tech Startups Redefining The Financial Services Industry](https://www.cbinsights.com/research/fintech-250-startups-most-promising/)
