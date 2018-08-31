@@ -15,7 +15,7 @@
 
 ------------
 
-Finance Industry
+#### Finance Industry
 
 [Back to top](#contents)
 
@@ -61,9 +61,17 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 - [PwC’s FinTech Insights January 2018](https://www.pwc.in/assets/pdfs/consulting/financial-services/fintech/point-of-view/pwcs-fintech-insights-january-2018.pdf)
 - [Fintech and banking: today and tomorrow](https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2018/panetta-120518.pdf)
 
+------------
+
+#### AI in Fintech
+
 ----------
 
-Startups
+#### Literature review
+
+--------------
+
+### Startups
 
 [Back to top](#contents)
 
