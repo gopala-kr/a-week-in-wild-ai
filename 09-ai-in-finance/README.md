@@ -7,6 +7,8 @@
 - [Misc](#misc)
 - [Finance Industry](#finance-industry)
 - [Finance Technology](#finance-technology)
+  - Technologies
+  - BusinessModels
 - [AI in Fintech](#ai-in-fintech)
   - [Archtectures]()
   - [Tools]()
