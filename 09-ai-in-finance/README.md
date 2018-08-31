@@ -12,8 +12,8 @@
   - [Tools]()
   - [Data]()
   - [ML/DL Services]()
-- [Startups](#startups)
 - [Literature review](#literature-review)
+- [Startups](#startups)
 - [Appendix](#appendix)
 
 [Back to top](#contents)
