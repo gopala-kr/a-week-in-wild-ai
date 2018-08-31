@@ -8,8 +8,13 @@
 - [Finance Industry](#finance-industry)
 - [Finance Technology](#finance-technology)
 - [AI in Fintech](#ai-in-fintech)
+  - [Archtectures]()
+  - [Tools]()
+  - [Data]()
+  - [ML/DL Services]()
 - [Startups](#startups)
 - [Literature review](#literature-review)
+- [Appendix](#appendix)
 
 [Back to top](#contents)
 
@@ -111,6 +116,10 @@ Source: Accenture - Banking Heatmap
 
 
 ![unicorns-focused-in-payments-or-lending-Developed-by-the-author-based](https://www.researchgate.net/profile/Can_Erman/publication/316145220/figure/fig12/AS:483425258872834@1492268971199/Fintechs-global-unicorns-focused-in-payments-or-lending-Developed-by-the-author-based.ppm)
+
+---------------
+
+![S0007681317301246](https://ars.els-cdn.com/content/image/1-s2.0-S0007681317301246-gr1_lrg.jpg)
 
 
 [Back to top](#contents)
