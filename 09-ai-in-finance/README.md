@@ -23,6 +23,9 @@
 
 ------------
 
+Finance Industry
+
+- [The Future of Financial Services](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-fsi-wef-the-future-of-financial-services.pdf)
 
 
 --------------
@@ -56,7 +59,7 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 - [Fintech: Ecosystem, businessmodels, investmentdecisions, andchallenges, 2017 Kelley Schoolof Business,Indiana University](https://reader.elsevier.com/reader/sd/8C3B30A4914DB739BD020882E73671EC27812D43980A6A0FDC7ACA02E31F8E7E1AE8815E90D173F9E3AFBD90007C8251)
 - [FINANCIAL TECHNOLOGIES EFFECT ON FINANCIAL SERVICES FROM AN OPEN INNOVATION PERSPECTIVE](https://www.researchgate.net/publication/316145220_FINANCIAL_TECHNOLOGIES_EFFECT_ON_FINANCIAL_SERVICES_FROM_AN_OPEN_INNOVATION_PERSPECTIVE)
 - [PwC’s FinTech Insights January 2018](https://www.pwc.in/assets/pdfs/consulting/financial-services/fintech/point-of-view/pwcs-fintech-insights-january-2018.pdf)
-
+- [Fintech and banking: today and tomorrow](https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2018/panetta-120518.pdf)
 
 ----------
 
