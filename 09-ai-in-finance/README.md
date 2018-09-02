@@ -53,11 +53,15 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 - [Outline of economics](https://en.wikipedia.org/wiki/Outline_of_economics)
 - [Outline of finance](https://en.wikipedia.org/wiki/Outline_of_finance)
 
+
+
 ------------------
 
 #### Finance Technology
 
 [Back to top](#contents)
+
+![Screen-Shot-2018-07-18-at-7.38.18-PM-1024x467](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/18193851/Screen-Shot-2018-07-18-at-7.38.18-PM-1024x467.png)
 
 Tech Solution Areas: 
 
@@ -72,7 +76,7 @@ Tech Solution Areas:
     - Blockchain-based solutions;
     - Risk&Compliance management technology.
 
-Solutions: 
+Tech Solutions: 
 
     - Automation of customer-facing and back office operations,
     - Mobility solutions,
@@ -113,6 +117,12 @@ FinTech in banking](https://www.ey.com/Publication/vwLUAssets/ey-unleashing-the-
 - [pwc-global-fintech-report-2017](https://www.pwc.com/gx/en/industries/financial-services/assets/pwc-global-fintech-report-2017.pdf)
 - [AI Strategies in Financial Services](https://www.h2o.ai/wp-content/uploads/2018/06/AI-TRANSFORMATION-NEW-2-1.pdf)
 - [Is This the Best Way to Do Digital Transformation in Banking?](https://www.n-ix.com/best-digital-transformation-banking/)
+- [2017
+FINTECH100
+Leading Global
+Fintech Innovators](https://home.kpmg.com/content/dam/kpmg/qm/pdf/H2-Fintech-Innovators-2017.pdf)
+- [Banking Is Only The Beginning: 42 Big Industries Blockchain Could Transform](https://www.cbinsights.com/research/industries-disrupted-blockchain/)
+- [Banks On Notice: Fintechs Are Coming For Checking Accounts & Debit Cards](https://www.cbinsights.com/research/fintech-checking-accounts-debit-card-disruption/)
 
 ------------
 
@@ -126,6 +136,9 @@ FinTech in banking](https://www.ey.com/Publication/vwLUAssets/ey-unleashing-the-
 - [DeepLearning_Finance_NVAndrew_1018](http://www.ftrc.nccu.edu.tw/wordpresseng/wp-content/uploads/2017/10/DeepLearning_Finance_NVAndrew_1018.pdf)
 - [A Survey on the Role of Artificial Intelligence
 in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
+- [AI In Financial Services: The Deep Learning Revolution](https://www.cbinsights.com/research/briefing/financial-services-deep-learning-artificial-intelligence/)
+
+
 ----------
 
 #### Literature review
@@ -152,6 +165,9 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 
 [Back to top](#contents)
 
+
+- [Forbes: Fintech 50 2018](https://www.forbes.com/fintech/list/#tab:overall)
+- [cbinsights: fintech](https://www.cbinsights.com/research/fintech/)
 - [The Fintech 250: The Tech Startups Redefining The Financial Services Industry](https://www.cbinsights.com/research/fintech-250-startups-most-promising/)
 - [The India Fintech Market Map: 72 Startups Working Across Lending, Payments, Insurance & Banking](https://www.cbinsights.com/research/india-fintech-startup-market-map/)
 - [145+ Tech Startups Focused On Transforming Capital Markets In One Market Map](https://www.cbinsights.com/research/capital-markets-tech-market-map-fintech/)
@@ -299,6 +315,42 @@ Source: Accenture - Banking Heatmap
 ---------
 
 ![iX_infographics_01_09](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2018/07/05151440/N-iX_infographics_01_09-1024x819.jpg)
+
+
+---------
+
+![1024x542](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/07150120/Screen-Shot-2018-08-07-at-11.08.54-AM-1024x542.png)
+
+
+-------------
+
+![Amazon_financial_services_unbundling_banking_LD](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/08/10144953/Amazon_financial_services_unbundling_banking_LD-1024x576.png)
+
+--------------
+
+![Screen](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/18200103/Screen-Shot-2018-07-18-at-8.00.26-PM-1024x480.png)
+
+------------
+
+![Screen-Shot-2018-06-29-a](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/06/29095442/Screen-Shot-2018-06-29-at-9.54.06-AM-1024x545.png)
+
+-----------
+
+![Top-Fintech-Unicorn-Investors_7](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/11140239/Top-Fintech-Unicorn-Investors_7.11.18.png)
+
+------------
+
+![Top-Early-Fintech-Investors](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/06/28123604/Top-Early-Fintech-Investors-.png)
+
+
+-----------
+
+![Screen-Shot-2018-07-10-at-6.43.20-PM-1024x598](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/10184402/Screen-Shot-2018-07-10-at-6.43.20-PM-1024x598.png)
+
+
+-------------
+
+![Screen-Shot-2018-07-02-at-5.16.47-PM-1024x612](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/02172156/Screen-Shot-2018-07-02-at-5.16.47-PM-1024x612.png)
 
 -------------
 
