@@ -59,7 +59,7 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 
 [Back to top](#contents)
 
-Tech Solution Areas
+Tech Solution Areas: 
 
     - Payment/billing software;
     - Money transfer/remittance;
@@ -72,6 +72,26 @@ Tech Solution Areas
     - Blockchain-based solutions;
     - Risk&Compliance management technology.
 
+Solutions: 
+
+    - Automation of customer-facing and back office operations,
+    - Mobility solutions,
+    - Data Science and AI,
+    - Integrating back office with a ready application,
+    - Chatbots,
+    - Cloud-based solutions,
+    - Microservice architecture,
+    - Distributed ledger technology,
+    - blockchain, 
+    
+challenges:
+
+    - High value of data and accuracy of operations;
+    - Preventing data loss;
+    - Load-balancing;
+    - Scalability;
+    - Implementing complex integrations;
+    - The security concerns and compliance with fintech regulations.
 
 - [Fintech: Ecosystem, businessmodels, investmentdecisions, andchallenges, 2017 Kelley Schoolof Business,Indiana University](https://reader.elsevier.com/reader/sd/8C3B30A4914DB739BD020882E73671EC27812D43980A6A0FDC7ACA02E31F8E7E1AE8815E90D173F9E3AFBD90007C8251)
 - [FINANCIAL TECHNOLOGIES EFFECT ON FINANCIAL SERVICES FROM AN OPEN INNOVATION PERSPECTIVE](https://www.researchgate.net/publication/316145220_FINANCIAL_TECHNOLOGIES_EFFECT_ON_FINANCIAL_SERVICES_FROM_AN_OPEN_INNOVATION_PERSPECTIVE)
@@ -92,7 +112,7 @@ potential of
 FinTech in banking](https://www.ey.com/Publication/vwLUAssets/ey-unleashing-the-potential-of-fin-tech-in-banking/$File/ey-unleashing-the-potential-of-fin-tech-in-banking.pdf)
 - [pwc-global-fintech-report-2017](https://www.pwc.com/gx/en/industries/financial-services/assets/pwc-global-fintech-report-2017.pdf)
 - [AI Strategies in Financial Services](https://www.h2o.ai/wp-content/uploads/2018/06/AI-TRANSFORMATION-NEW-2-1.pdf)
-
+- [Is This the Best Way to Do Digital Transformation in Banking?](https://www.n-ix.com/best-digital-transformation-banking/)
 
 ------------
 
@@ -266,6 +286,19 @@ Source: Accenture - Banking Heatmap
 ---------
 
 ![changes_ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Bracing%20for%20seven%20critical%20changes%20as%20fintech%20matures/SVGZ__Insights_Bracing-for-seven-critical-changes_ex1.ashx)
+
+
+----------
+
+![iX_infographics_01_05](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2018/07/05150935/N-iX_infographics_01_05-918x1024.jpg)
+
+----------
+
+![iX_infographics_01_06](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2018/07/05151040/N-iX_infographics_01_06-1024x546.jpg)
+
+---------
+
+![iX_infographics_01_09](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2018/07/05151440/N-iX_infographics_01_09-1024x819.jpg)
 
 -------------
 
