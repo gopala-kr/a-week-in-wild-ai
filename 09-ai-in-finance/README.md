@@ -147,6 +147,13 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
 - [Artificial Intelligence Powered Banking](http://images.explore.finacle.com/Web/EdgeverveSystemsLimited1/%7B0d89e17a-8124-459c-a6b6-7dd588ebcee6%7D_finacle_artificial_intelligence_powered_banking_PoV.pdf)
 - [In which areas in banking/finance is machine learning used?](https://www.quora.com/In-which-areas-in-banking-finance-is-machine-learning-used)
+- [Machine Learning in Banking](https://www.slideshare.net/accenture/machine-learning-in-banking)
+- [How is deep learning used in finance?](https://www.quora.com/How-is-deep-learning-used-in-finance)
+- [Deep Learning in Finance](https://towardsdatascience.com/deep-learning-in-finance-9e088cb17c03)
+- [Coursera: Machine Learning and Reinforcement Learning in Finance Specialization](https://www.coursera.org/specializations/machine-learning-reinforcement-finance)
+- [Coursera: Fundamentals of Machine Learning in Finance](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance)
+- [Machine Learning for Trading](https://in.udacity.com/course/machine-learning-for-trading--ud501)
+- [Top 10 Videos on Machine Learning in Finance ](https://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 
 ----------
 
@@ -167,6 +174,26 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts. [arxiv](https://arxiv.org/abs/1307.5336v2) - 2013
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
 
+
+----------
+
+#### Libraries
+
+- [ml-fraud-detection](https://github.com/georgymh/ml-fraud-detection)
+- [watson-banking-chatbot](https://github.com/IBM/watson-banking-chatbot)
+
+
+![architecture](https://github.com/IBM/watson-banking-chatbot/blob/master/doc/source/images/architecture.png)
+
+- [Deep-Trading](https://github.com/Rachnog/Deep-Trading)
+- [Trading-Gym](https://github.com/thedimlebowski/Trading-Gym)
+- [gym-trading](https://github.com/hackthemarket/gym-trading)
+- [mosquito](https://github.com/miro-ka/mosquito)
+- [deep-algotrading](https://github.com/LiamConnell/deep-algotrading)
+- [Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras](https://github.com/curiousily/Credit-Card-Fraud-Detection-using-Autoencoders-in-Keras)
+- [Fraud-detection-using-deep-learning](https://github.com/aaxwaz/Fraud-detection-using-deep-learning)
+- [credit-card-fraud](https://github.com/ellisvalentiner/credit-card-fraud)
+- [ml-fraud-detection](https://github.com/georgymh/ml-fraud-detection)
 
 --------------
 
