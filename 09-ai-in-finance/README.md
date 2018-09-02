@@ -27,7 +27,7 @@
 [Back to top](#contents)
 
 - [The Future of Financial Services](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-fsi-wef-the-future-of-financial-services.pdf)
-- ![Finance Areas](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
+- [Finance Areas](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
 
 --------------
 
