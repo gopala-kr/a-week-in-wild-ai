@@ -131,7 +131,7 @@ Fintech Innovators](https://home.kpmg.com/content/dam/kpmg/qm/pdf/H2-Fintech-Inn
 
 ------------
 
-#### AI in Fintech
+#### AI in Finance
 
 
 [Back to top](#contents)
@@ -155,6 +155,7 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [Machine Learning for Trading](https://in.udacity.com/course/machine-learning-for-trading--ud501)
 - [Top 10 Videos on Machine Learning in Finance ](https://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
 
+
 ----------
 
 #### Literature review
@@ -174,6 +175,23 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - Good Debt or Bad Debt: Detecting Semantic Orientations in Economic Texts. [arxiv](https://arxiv.org/abs/1307.5336v2) - 2013
 - Identifying Metaphor Hierarchies in a Corpus Analysis of Finance Articles. [arxiv](https://arxiv.org/abs/1212.3138v1) - 2012
 
+
+Fraud detection:
+
+- [One-Class Adversarial Nets for Fraud Detection](https://arxiv.org/pdf/1803.01798.pdf)
+- [Detection of Anomalies in Large-Scale
+Accounting Data using Deep Autoencoder
+Networks](https://arxiv.org/pdf/1709.05254.pdf)
+- [Bypass Fraud Detection:
+Artificial Intelligence Approach](https://arxiv.org/ftp/arxiv/papers/1711/1711.04627.pdf)
+- [Transaction Fraud Detection Using GRU-centered Sandwich-structured Model](https://arxiv.org/ftp/arxiv/papers/1711/1711.01434.pdf)
+- [Opinion Fraud Detection via Neural Autoencoder Decision Forest](https://arxiv.org/pdf/1805.03379.pdf)
+- [Instance-Level Explanations for Fraud Detection: A Case Study](https://arxiv.org/abs/1806.07129)
+- [A Comprehensive Survey of
+Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1009/1009.6119.pdf)
+- [Streaming Active Learning Strategies for Real-Life Credit Card Fraud Detection: Assessment and Visualization](https://arxiv.org/abs/1804.07481)
+- [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
+- [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
 
 ----------
 
