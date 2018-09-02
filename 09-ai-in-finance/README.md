@@ -206,6 +206,12 @@ PF:
 - [PersonaBank: A Corpus of Personal Narratives and Their Story Intention Graphs](https://arxiv.org/abs/1708.09082v1)
 - [Intelligent Personal Assistant with Knowledge Navigation](https://arxiv.org/abs/1704.08950v1)
 
+Sentiment Analysis:
+
+- [Deep Learning for Sentiment Analysis : A Survey](https://arxiv.org/abs/1801.07883v2)
+- [Financial Aspect-Based Sentiment Analysis using Deep Representations](https://arxiv.org/abs/1808.07931v1)
+- [The Evolution of Sentiment Analysis - A Review of Research Topics, Venues, and Top Cited Papers](https://arxiv.org/abs/1612.01556v4)
+
 ----------
 
 #### Libraries
