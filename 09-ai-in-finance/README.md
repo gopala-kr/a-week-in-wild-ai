@@ -442,6 +442,13 @@ Source: Accenture - Banking Heatmap
 
 ![Applications_of_AI_in_marketing_revb](https://thefinancialbrand.com/wp-content/uploads/2018/03/Applications_of_AI_in_marketing_revb.png)
 
+---------
+
+![partnerships_](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/partnerships_.JPG)
+
+-----------
+
+![fraud_man](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/fraud_man.JPG)
 
 -------------
 
