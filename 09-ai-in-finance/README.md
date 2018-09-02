@@ -245,7 +245,24 @@ Source: Accenture - Banking Heatmap
 ![block_1](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2016/10/12192019/block_1-1.png)
 
 
------------
+----------
+![banking_core_fintech](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/banking_core_fintech.JPG)
+
+-------------
+
+![Inno_adoption_framework](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/Inno_adoption_framework.JPG)
+
+-------------
+![inn_approach](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/inn_approach.JPG)
+
+-------------
+![pros_cons](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/pros_cons.JPG)
+
+
+![pros_cons_2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/pros_cons_2.JPG)
+
+-------------
+
 
 <h5><span style="font-weight: 400;">Sources</span></h5>
 <ol>
