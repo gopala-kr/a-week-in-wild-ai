@@ -63,6 +63,10 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 - [FINANCIAL TECHNOLOGIES EFFECT ON FINANCIAL SERVICES FROM AN OPEN INNOVATION PERSPECTIVE](https://www.researchgate.net/publication/316145220_FINANCIAL_TECHNOLOGIES_EFFECT_ON_FINANCIAL_SERVICES_FROM_AN_OPEN_INNOVATION_PERSPECTIVE)
 - [PwC’s FinTech Insights January 2018](https://www.pwc.in/assets/pdfs/consulting/financial-services/fintech/point-of-view/pwcs-fintech-insights-january-2018.pdf)
 - [Fintech and banking: today and tomorrow](https://www.bancaditalia.it/pubblicazioni/interventi-direttorio/int-dir-2018/panetta-120518.pdf)
+- [Microservice Adaptation for Fintech –
+A necessity](https://www.aspiresys.com/articles/microservice-adaption-for-fintech.pdf?pdf=microservice-article)
+- [Banking Architecture: a framework for assessing if and where your FinTech concept might apply](https://medium.com/the-fintech-book/banking-architecture-a-framework-for-assessing-if-and-where-your-fintech-concept-might-apply-a2c8d962038a)
+- [evolving-architectures-of-fintech](https://www.oreilly.com/programming/free/files/evolving-architectures-of-fintech.pdf)
 
 ------------
 
