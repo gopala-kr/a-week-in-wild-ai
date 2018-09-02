@@ -57,6 +57,7 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 - [The Financial Services Industry in the United States](https://www.selectusa.gov/financial-services-industry-united-states)
 - [Financial Services in India](https://www.ibef.org/industry/financial-services-india.aspx)
 - [Foresight 2020 Economic, industry and corporate trends](http://graphics.eiu.com/files/ad_pdfs/eiuForesight2020_WP.pdf)
+- [Should You Fear AI in Finance?](https://www.techemergence.com/dont-fear-ai-in-finance/)
 
 ------------------
 
@@ -126,6 +127,7 @@ Leading Global
 Fintech Innovators](https://home.kpmg.com/content/dam/kpmg/qm/pdf/H2-Fintech-Innovators-2017.pdf)
 - [Banking Is Only The Beginning: 42 Big Industries Blockchain Could Transform](https://www.cbinsights.com/research/industries-disrupted-blockchain/)
 - [Banks On Notice: Fintechs Are Coming For Checking Accounts & Debit Cards](https://www.cbinsights.com/research/fintech-checking-accounts-debit-card-disruption/)
+- [FinTech Trends Report India 2017](https://www.pwc.in/assets/pdfs/publications/2017/fintech-india-report-2017.pdf)
 
 ------------
 
@@ -134,13 +136,17 @@ Fintech Innovators](https://home.kpmg.com/content/dam/kpmg/qm/pdf/H2-Fintech-Inn
 
 [Back to top](#contents)
 
+![Artificial-Intelligence-Financial-Industry](https://thefinancialbrand.com/wp-content/uploads/2018/05/Artificial-Intelligence-Financial-Industry.png)
+
 
 - [AI in finance](https://helda.helsinki.fi/dhanken/bitstream/handle/123456789/170154/zavadskaya.pdf?sequence=1&isAllowed=y)
 - [DeepLearning_Finance_NVAndrew_1018](http://www.ftrc.nccu.edu.tw/wordpresseng/wp-content/uploads/2017/10/DeepLearning_Finance_NVAndrew_1018.pdf)
 - [A Survey on the Role of Artificial Intelligence
 in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [AI In Financial Services: The Deep Learning Revolution](https://www.cbinsights.com/research/briefing/financial-services-deep-learning-artificial-intelligence/)
-
+- [Machine Learning in Finance – Present and Future Applications](https://www.techemergence.com/machine-learning-in-finance/)
+- [Artificial Intelligence Powered Banking](http://images.explore.finacle.com/Web/EdgeverveSystemsLimited1/%7B0d89e17a-8124-459c-a6b6-7dd588ebcee6%7D_finacle_artificial_intelligence_powered_banking_PoV.pdf)
+- [In which areas in banking/finance is machine learning used?](https://www.quora.com/In-which-areas-in-banking-finance-is-machine-learning-used)
 
 ----------
 
@@ -186,6 +192,11 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [Ledger Fever: 95 Bitcoin & Blockchain Startups In One Market Map](https://www.cbinsights.com/research/bitcoin-blockchain-startup-market-map/)
 - [Disrupting Banking: The Fintech Startups That Are Unbundling Wells Fargo, Citi and Bank of America](https://www.cbinsights.com/research/disrupting-banking-fintech-startups-2016/)
 - [Bracing for seven critical changes as fintech matures](https://www.mckinsey.com/industries/financial-services/our-insights/bracing-for-seven-critical-changes-as-fintech-matures)
+- [AI Applications in the Top 4 Indian Banks](https://www.techemergence.com/ai-applications-in-the-top-4-indian-banks/)
+- [AI in Banking – An Analysis of America’s 7 Top Banks](https://www.techemergence.com/ai-in-banking-analysis/)
+- [Artificial Intelligence and The Banking Industry’s $1 Trillion Opportunity](https://thefinancialbrand.com/72653/artificial-intelligence-trends-banking-industry/)
+- [The use of Artificial Intelligence (AI) based technological applications by Indian Banks ](https://www.researchgate.net/publication/299430567_The_use_of_Artificial_Intelligence_AI_based_technological_applications_by_Indian_Banks)
+
 
 -------------
 
@@ -362,6 +373,11 @@ Source: Accenture - Banking Heatmap
 -------
 
 ![g_gdp_web](https://www.livemint.com/r/LiveMint/Period1/2014/03/03/Photos/g_gdp_web.jpg)
+
+-----------
+
+![Applications_of_AI_in_marketing_revb](https://thefinancialbrand.com/wp-content/uploads/2018/03/Applications_of_AI_in_marketing_revb.png)
+
 
 -------------
 
