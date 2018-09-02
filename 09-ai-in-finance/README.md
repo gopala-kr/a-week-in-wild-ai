@@ -9,7 +9,7 @@
 - [Finance Technology](#finance-technology)
   - [Technologies](#technologies)
   - [Business Models](#business-models)
-- [AI in Fintech](#ai-in-fintech)
+- [AI in Finance](#ai-in-fintech)
   - [Architectures](#architectures)
   - [Tools](#tools)
   - [Data](#data)
@@ -154,7 +154,7 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [Coursera: Fundamentals of Machine Learning in Finance](https://www.coursera.org/learn/fundamentals-machine-learning-in-finance)
 - [Machine Learning for Trading](https://in.udacity.com/course/machine-learning-for-trading--ud501)
 - [Top 10 Videos on Machine Learning in Finance ](https://www.kdnuggets.com/2017/09/top-10-videos-machine-learning-finance.html)
-
+- [Credit Scoring with Machine Learning](https://medium.com/henry-jia/how-to-score-your-credit-1c08dd73e2ed)
 
 ----------
 
@@ -192,6 +192,7 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 - [Streaming Active Learning Strategies for Real-Life Credit Card Fraud Detection: Assessment and Visualization](https://arxiv.org/abs/1804.07481)
 - [Sequential Behavioral Data Processing Using Deep Learning and the Markov Transition Field in Online Fraud Detection](https://arxiv.org/abs/1808.05329v1)
 - [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
+
 
 ----------
 
