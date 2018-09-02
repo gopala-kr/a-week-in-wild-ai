@@ -91,6 +91,8 @@ A necessity](https://www.aspiresys.com/articles/microservice-adaption-for-fintec
 potential of
 FinTech in banking](https://www.ey.com/Publication/vwLUAssets/ey-unleashing-the-potential-of-fin-tech-in-banking/$File/ey-unleashing-the-potential-of-fin-tech-in-banking.pdf)
 - [pwc-global-fintech-report-2017](https://www.pwc.com/gx/en/industries/financial-services/assets/pwc-global-fintech-report-2017.pdf)
+- [AI Strategies in Financial Services](https://www.h2o.ai/wp-content/uploads/2018/06/AI-TRANSFORMATION-NEW-2-1.pdf)
+
 
 ------------
 
@@ -260,6 +262,11 @@ Source: Accenture - Banking Heatmap
 
 
 ![pros_cons_2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/pros_cons_2.JPG)
+
+
+--------
+
+![Areas-Finance](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
 
 -------------
 
