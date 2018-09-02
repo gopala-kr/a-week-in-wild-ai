@@ -59,6 +59,20 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 
 [Back to top](#contents)
 
+Tech Solution Areas
+
+    - Payment/billing software;
+    - Money transfer/remittance;
+    - Digital banks;
+    - P2P lending;
+    - Crowdfunding;
+    - Personal finance management;
+    - Insurtech;
+    - Investment;
+    - Blockchain-based solutions;
+    - Risk&Compliance management technology.
+
+
 - [Fintech: Ecosystem, businessmodels, investmentdecisions, andchallenges, 2017 Kelley Schoolof Business,Indiana University](https://reader.elsevier.com/reader/sd/8C3B30A4914DB739BD020882E73671EC27812D43980A6A0FDC7ACA02E31F8E7E1AE8815E90D173F9E3AFBD90007C8251)
 - [FINANCIAL TECHNOLOGIES EFFECT ON FINANCIAL SERVICES FROM AN OPEN INNOVATION PERSPECTIVE](https://www.researchgate.net/publication/316145220_FINANCIAL_TECHNOLOGIES_EFFECT_ON_FINANCIAL_SERVICES_FROM_AN_OPEN_INNOVATION_PERSPECTIVE)
 - [PwC’s FinTech Insights January 2018](https://www.pwc.in/assets/pdfs/consulting/financial-services/fintech/point-of-view/pwcs-fintech-insights-january-2018.pdf)
@@ -68,7 +82,15 @@ A necessity](https://www.aspiresys.com/articles/microservice-adaption-for-fintec
 - [Banking Architecture: a framework for assessing if and where your FinTech concept might apply](https://medium.com/the-fintech-book/banking-architecture-a-framework-for-assessing-if-and-where-your-fintech-concept-might-apply-a2c8d962038a)
 - [evolving-architectures-of-fintech](https://www.oreilly.com/programming/free/files/evolving-architectures-of-fintech.pdf)
 - [10 Big Financial Technology Trends for 2018](https://thefinancialbrand.com/69779/financial-technology-trends-data-ai-blockchain/)
-
+- [How to Solve Big Growth Problems in Fintech Development: Scale-up Report](https://www.n-ix.com/how-to-solve-big-growth-problems-fintech-development/)
+- [10 Massive FinTech Software Development Fields with the Most Cash](https://www.n-ix.com/10-massive-fintech-software-development-fields-most-cash/)
+- [Exploring the Use Cases of Blockchain Technology in Fintech](https://www.n-ix.com/exploring-use-cases-blockchain-technology-fintech/)
+- [Fintech Development Outsourcing: a Complete Guide](https://www.n-ix.com/fintech-development-outsourcing-complete-guide/)
+- [Digital Transformation Framework: How to Turn the Tables on Fintechs?](https://www.n-ix.com/digital-transformation-framework-turn-tables-on-fintechs/)
+- [Unleashing the
+potential of
+FinTech in banking](https://www.ey.com/Publication/vwLUAssets/ey-unleashing-the-potential-of-fin-tech-in-banking/$File/ey-unleashing-the-potential-of-fin-tech-in-banking.pdf)
+- [pwc-global-fintech-report-2017](https://www.pwc.com/gx/en/industries/financial-services/assets/pwc-global-fintech-report-2017.pdf)
 
 ------------
 
@@ -195,6 +217,33 @@ Source: Accenture - Banking Heatmap
 --------------
 
 ![fintech_report](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2018/04/20163548/fintech_report-infographi%E2%95%A4%D0%91-02.png)
+
+-------------
+
+![05](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2017/10/11155533/05.png)
+
+-----------
+
+![DX_Framework_infographic](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2017/11/09144631/DX_Framework_infographic-02a.png)
+
+
+-------------
+
+![iX_infographics_01_07](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2017/09/25150847/N-iX_infographics_01_07-1024x490.jpg)
+
+------------
+
+![DX_Framework_infographic](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2017/11/09151235/DX_Framework_infographic-04-1.png)
+
+
+-------------
+
+![innovationinsuranceinfographic](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2017/01/18145048/innovationinsuranceinfographic-final.png)
+
+-------------
+
+![block_1](https://s3-eu-west-1.amazonaws.com/img3.n-ix.com/wp-content/uploads/2016/10/12192019/block_1-1.png)
+
 
 -----------
 
