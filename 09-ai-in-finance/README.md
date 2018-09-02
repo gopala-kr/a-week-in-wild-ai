@@ -27,7 +27,8 @@
 [Back to top](#contents)
 
 - [The Future of Financial Services](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-fsi-wef-the-future-of-financial-services.pdf)
-- [Finance Areas](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
+- [HBS: The Growth of Finance](http://www.people.hbs.edu/dscharfstein/growth_of_finance_jep.pdf)
+
 
 --------------
 
@@ -52,8 +53,10 @@ Technology 2020 and Beyond:
 Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/technology2020-and-beyond.pdf)
 - [Outline of economics](https://en.wikipedia.org/wiki/Outline_of_economics)
 - [Outline of finance](https://en.wikipedia.org/wiki/Outline_of_finance)
-
-
+- [Finance Areas](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
+- [The Financial Services Industry in the United States](https://www.selectusa.gov/financial-services-industry-united-states)
+- [Financial Services in India](https://www.ibef.org/industry/financial-services-india.aspx)
+- [Foresight 2020 Economic, industry and corporate trends](http://graphics.eiu.com/files/ad_pdfs/eiuForesight2020_WP.pdf)
 
 ------------------
 
@@ -351,6 +354,14 @@ Source: Accenture - Banking Heatmap
 -------------
 
 ![Screen-Shot-2018-07-02-at-5.16.47-PM-1024x612](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/07/02172156/Screen-Shot-2018-07-02-at-5.16.47-PM-1024x612.png)
+
+-----------
+
+![1_AD_to_2003_AD_Historical_Trends_in_global_distribution_of_GDP_China_India_Western_Europe_USA_Middle_East](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/1_AD_to_2003_AD_Historical_Trends_in_global_distribution_of_GDP_China_India_Western_Europe_USA_Middle_East.png/1280px-1_AD_to_2003_AD_Historical_Trends_in_global_distribution_of_GDP_China_India_Western_Europe_USA_Middle_East.png)
+
+-------
+
+![g_gdp_web](https://www.livemint.com/r/LiveMint/Period1/2014/03/03/Photos/g_gdp_web.jpg)
 
 -------------
 
