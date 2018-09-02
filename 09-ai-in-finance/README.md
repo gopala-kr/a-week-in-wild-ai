@@ -194,6 +194,18 @@ Data Mining-based Fraud Detection Research](https://arxiv.org/ftp/arxiv/papers/1
 - [A Survey of Credit Card Fraud Detection Techniques: Data and Technique Oriented Perspective](https://arxiv.org/abs/1611.06439v1)
 
 
+Credit scoring:
+
+- [Segment-Based Credit Scoring Using Latent Clusters in the Variational Autoencoder](https://arxiv.org/abs/1806.02538v1)
+- [Improving a Credit Scoring Model by Incorporating Bank Statement Derived Features](https://arxiv.org/abs/1611.00252v2)
+- [Transfer Learning Using Logistic Regression in Credit Scoring](https://arxiv.org/abs/1212.6167v1)
+
+PF:
+
+- [Different but Equal: Comparing User Collaboration with Digital Personal Assistants vs. Teams of Expert Agents](https://arxiv.org/abs/1808.08157v1)
+- [PersonaBank: A Corpus of Personal Narratives and Their Story Intention Graphs](https://arxiv.org/abs/1708.09082v1)
+- [Intelligent Personal Assistant with Knowledge Navigation](https://arxiv.org/abs/1704.08950v1)
+
 ----------
 
 #### Libraries
