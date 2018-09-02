@@ -27,7 +27,7 @@
 [Back to top](#contents)
 
 - [The Future of Financial Services](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/Financial-Services/gx-fsi-wef-the-future-of-financial-services.pdf)
-
+- ![Finance Areas](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
 
 --------------
 
@@ -146,7 +146,7 @@ in FinTech](http://www.ijircce.com/upload/2017/june/47_2_A_Survey.pdf)
 - [Millennial Personal Finance: 63 Fintech Startups Targeting Millennials](https://www.cbinsights.com/research/fin-tech-startups-millennials/)
 - [Ledger Fever: 95 Bitcoin & Blockchain Startups In One Market Map](https://www.cbinsights.com/research/bitcoin-blockchain-startup-market-map/)
 - [Disrupting Banking: The Fintech Startups That Are Unbundling Wells Fargo, Citi and Bank of America](https://www.cbinsights.com/research/disrupting-banking-fintech-startups-2016/)
-
+- [Bracing for seven critical changes as fintech matures](https://www.mckinsey.com/industries/financial-services/our-insights/bracing-for-seven-critical-changes-as-fintech-matures)
 
 -------------
 
@@ -263,10 +263,9 @@ Source: Accenture - Banking Heatmap
 
 ![pros_cons_2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/pros_cons_2.JPG)
 
+---------
 
---------
-
-![Areas-Finance](https://www.smu.edu.sg/sites/default/files/smu/aoe/chart/AoE-Research-Areas-Finance.jpg)
+![changes_ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Financial%20Services/Our%20Insights/Bracing%20for%20seven%20critical%20changes%20as%20fintech%20matures/SVGZ__Insights_Bracing-for-seven-critical-changes_ex1.ashx)
 
 -------------
 
