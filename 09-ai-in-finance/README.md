@@ -624,7 +624,27 @@ Source: Accenture - Banking Heatmap
 -------------
 ![578cf8a6771aea736009648f](https://media-bii.businessinsider.com/images/578cf8a6771aea736009648f-640-480.png)
 
+---------
+
+![57e0fa7c771aea481341b616](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/57e0fa7c771aea481341b616-1136-428.jpg)
+
 -------------
+![587e5cae76c7d1317e218f59](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/587e5cae76c7d1317e218f59-1334-752.jpg)
+
+-------------
+![587e5d47771aead7065804b5](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/587e5d47771aead7065804b5-1334-752.jpg)
+
+-------------
+![587e5d90771aea84075804b5](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/587e5d90771aea84075804b5-1334-752.jpg)
+
+-------------
+![587e5dd3771aea89095804ac](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/587e5dd3771aea89095804ac-1334-752.jpg)
+
+-------------
+![594a9fa54a2489ab028b45eb](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/594a9fa54a2489ab028b45eb-1334-1125.png)
+
+-------------
+
 <h5><span style="font-weight: 400;">Sources</span></h5>
 <ol>
 <li style="font-weight: 400;"><span style="font-weight: 400;">KPMG, <a href="https://assets.kpmg.com/content/dam/kpmg/xx/pdf/2018/02/pulse_of_fintech_q4_2017.pdf">The Pulse of Fintech Q4 2017</a></span></li>
