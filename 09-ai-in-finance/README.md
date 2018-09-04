@@ -58,6 +58,7 @@ Embracing disruption](https://www.pwc.com/gx/en/financial-services/assets/pdf/te
 - [Financial Services in India](https://www.ibef.org/industry/financial-services-india.aspx)
 - [Foresight 2020 Economic, industry and corporate trends](http://graphics.eiu.com/files/ad_pdfs/eiuForesight2020_WP.pdf)
 - [Should You Fear AI in Finance?](https://www.techemergence.com/dont-fear-ai-in-finance/)
+- [Indian-Economy](http://www.mentorstudypoint.in/downloads/Indian-Economy-For-Civil-Services-Examinations-7e%20xaam.in.pdf)
 
 ------------------
 
@@ -678,6 +679,117 @@ Source: Accenture - Banking Heatmap
 <li style="font-weight: 400;">Kalske M., Mäkitalo N., Mikkonen T. (2018) Challenges When Moving from Monolith to Microservice Architecture. In: Garrigós I., Wimmer M. (eds) Current Trends in Web Engineering. <span class="ls7">ICWE 2017. Lecture Notes in Computer Science, vol 10544. Springer, Cham</span></li>
 </ol>
                         </div>
+
+
+-------------
+
+<table class="plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="" width="40" height="40" srcset="" data-file-width="128" data-file-height="128" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article may need to be <b>rewritten entirely</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Finance&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Finance" title="Talk:Finance">discussion page</a> may contain suggestions.</span>  <small><i>(July 2018)</i></small></div></td></tr></tbody></table>
+    </div>
+</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a class="mw-selflink selflink">Finance</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="" class="image"><img alt="" src="" width="250" height="188" srcset="" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Financial_market" title="Financial market">Markets</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding-left:0.5em;padding-right:0.5em;">
+<ul><li><a href="/wiki/Bond_market" title="Bond market">Bond</a></li>
+<li><a href="/wiki/Commodity_market" title="Commodity market">Commodity</a></li>
+<li><a href="/wiki/Derivatives_market" title="Derivatives market">Derivatives</a></li>
+<li><a href="/wiki/Foreign_exchange_market" title="Foreign exchange market">Foreign exchange</a></li>
+<li><a href="/wiki/Money_market" title="Money market">Money</a></li>
+<li><span class="nowrap"><a href="/wiki/Over-the-counter_(finance)" title="Over-the-counter (finance)">Over-the-counter</a></span></li>
+<li><a href="/wiki/Private_equity" title="Private equity">Private equity</a></li>
+<li><a href="/wiki/Real_estate" title="Real estate">Real estate</a></li>
+<li><a href="/wiki/Spot_market" title="Spot market">Spot</a></li>
+<li><a href="/wiki/Stock_market" title="Stock market">Stock</a></li></ul></td>
+</tr><tr><th style="padding:0.1em;background:#e9e9ff;font-weight:normal;font-style:italic;">
+<a href="/wiki/Financial_market_participants" title="Financial market participants">Participants</a></th></tr><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding-top:0.15em;">
+<ul><li><a href="/wiki/Investor" title="Investor">Investor</a>
+<ul><li><a href="/wiki/Institutional_investor" title="Institutional investor">institutional</a></li></ul></li>
+<li><a href="/wiki/Retail" title="Retail">Retail</a></li>
+<li><a href="/wiki/Speculation" title="Speculation">Speculator</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Financial_instrument" title="Financial instrument">Instruments</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-left:2.0em;padding-right:2.0em;"><div class="hlist">
+<ul><li><a href="/wiki/Bond_(finance)" title="Bond (finance)">Bond</a></li>
+<li><a href="/wiki/Cash" title="Cash">Cash</a></li>
+<li><a href="/wiki/Collateralised_debt_obligation" class="mw-redirect" title="Collateralised debt obligation">Collateralised debt obligation</a></li>
+<li><a href="/wiki/Credit_default_swap" title="Credit default swap">Credit default swap</a></li>
+<li><a href="/wiki/Time_deposit" title="Time deposit">Time deposit</a> (<a href="/wiki/Certificate_of_deposit" title="Certificate of deposit">certificate of deposit</a>)</li>
+<li><a href="/wiki/Line_of_credit" title="Line of credit">Credit line</a></li>
+<li><a href="/wiki/Deposit_account" title="Deposit account">Deposit</a></li>
+<li><a href="/wiki/Derivative_(finance)" title="Derivative (finance)">Derivative</a></li>
+<li><a href="/wiki/Futures_contract" title="Futures contract">Futures contract</a></li>
+<li><a href="/wiki/Indemnity" title="Indemnity">Indemnity</a></li>
+<li><a href="/wiki/Insurance" title="Insurance">Insurance</a></li>
+<li><a href="/wiki/Letter_of_credit" title="Letter of credit">Letter of credit</a></li>
+<li><a href="/wiki/Loan" title="Loan">Loan</a></li>
+<li><a href="/wiki/Mortgage" class="mw-redirect" title="Mortgage">Mortgage</a></li></ul>
+<div class="hlist hlist-separated"><ul><li><a href="/wiki/Option_(finance)" title="Option (finance)">Option</a>&#160;(<a href="/wiki/Call_option" title="Call option">call</a></li><li><a href="/wiki/Exotic_option" title="Exotic option">exotic</a></li><li><a href="/wiki/Put_option" title="Put option">put</a>)</li></ul></div>
+<ul><li><a href="/wiki/Performance_bonds" class="mw-redirect" title="Performance bonds">performance bonds</a></li>
+<li><a href="/wiki/Repurchase_agreement" title="Repurchase agreement">Repurchase agreement</a></li>
+<li><a href="/wiki/Stock" title="Stock">Stock</a></li>
+<li><a href="/wiki/Security_(finance)" title="Security (finance)">Security</a></li>
+<li><a href="/wiki/Syndicated_loan" title="Syndicated loan">Syndicated loan</a></li>
+<li><a href="/wiki/Synthetic_CDO" title="Synthetic CDO">Synthetic CDO</a></li></ul></div></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Corporate_finance" title="Corporate finance">Corporate</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Accounting" title="Accounting">Accounting</a></li><li><a href="/wiki/Audit" title="Audit">Audit</a></li><li><a href="/wiki/Capital_budgeting" title="Capital budgeting">Capital budgeting</a></li></ul></div></li>
+<li><a href="/wiki/Credit_rating_agency" title="Credit rating agency">Credit rating agency</a></li>
+<li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Financial_risk_management" title="Financial risk management">Risk management</a></li><li><a href="/wiki/Financial_statement" title="Financial statement">Financial statement</a></li></ul></div></li>
+<li><a href="/wiki/Leveraged_buyout" title="Leveraged buyout">Leveraged buyout</a></li>
+<li><a href="/wiki/Mergers_and_acquisitions" title="Mergers and acquisitions">Mergers and acquisitions</a></li>
+<li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Structured_finance" title="Structured finance">Structured finance</a></li><li><a href="/wiki/Venture_capital" title="Venture capital">Venture capital</a></li></ul></div></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Personal_finance" title="Personal finance">Personal</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/Credit_(finance)" class="mw-redirect" title="Credit (finance)">Credit</a>&#160;/&#32;<a href="/wiki/Consumer_debt" title="Consumer debt">Debt</a></li>
+<li><a href="/wiki/Employment_contract" title="Employment contract">Employment contract</a></li>
+<li><a href="/wiki/Financial_planner" title="Financial planner">Financial planning</a></li>
+<li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Retirement" title="Retirement">Retirement</a></li><li><a href="/wiki/Student_loan" title="Student loan">Student loan</a></li></ul></div></li></ul>
+</div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Public_finance" title="Public finance">Public</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th style="padding:0.1em;background:#e9e9ff;font-weight:normal;font-style:italic;;display:block;margin-top:0.15em;">
+<a href="/wiki/Government_spending" title="Government spending">Government spending</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.15em;">
+<ul><li><a href="/wiki/Government_final_consumption_expenditure" title="Government final consumption expenditure">Final consumption expenditure</a></li>
+<li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Government_operations" title="Government operations">Operations</a></li><li><a href="/wiki/Redistribution_of_income_and_wealth" title="Redistribution of income and wealth">Redistribution</a></li></ul></div></li>
+<li><a href="/wiki/Transfer_payment" title="Transfer payment">Transfer payment</a></li></ul>
+</td>
+</tr><tr><th style="padding:0.1em;background:#e9e9ff;font-weight:normal;font-style:italic;">
+<a href="/wiki/Government_revenue" title="Government revenue">Government revenue</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.15em;;padding-left:0.5em;padding-right:0.5em;">
+<ul><li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Tax" title="Tax">Taxation</a></li><li><a href="/wiki/Deficit_spending" title="Deficit spending">Deficit spending</a></li></ul></div></li>
+<li><div class="hlist hlist-separated"><ul><li><a href="/wiki/Government_budget" title="Government budget">Budget</a>&#160;(<a href="/wiki/Government_budget_balance" title="Government budget balance">balance</a>)</li><li><a href="/wiki/Government_debt" title="Government debt">Debt</a></li></ul></div></li>
+<li><a href="/wiki/Non-tax_revenue" title="Non-tax revenue">Non-tax revenue</a></li>
+<li><a href="/wiki/Warrant_of_payment" title="Warrant of payment">Warrant of payment</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Bank" title="Bank">Banks and banking</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><div class="hlist">
+<ul><li><a href="/wiki/Central_bank" title="Central bank">Central bank</a></li>
+<li><a href="/wiki/Deposit_account" title="Deposit account">Deposit account</a></li>
+<li><a href="/wiki/Fractional-reserve_banking" title="Fractional-reserve banking">Fractional-reserve banking</a></li>
+<li><a href="/wiki/Loan" title="Loan">Loan</a></li>
+<li><a href="/wiki/Money_supply" title="Money supply">Money supply</a></li></ul>
+</div>
+<ul><li><a href="/wiki/Lists_of_banks" title="Lists of banks">Lists of banks</a></li></ul>
+ <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><th style="padding:0.1em;background:#e9e9ff;font-weight:normal;font-style:italic;;display:block;margin-top:0.15em;">
+<a href="/wiki/Bank_regulation" title="Bank regulation">Bank regulation</a></th></tr><tr><td style="padding:0 0.1em 0.4em;padding-top:0.15em;">
+<ul><li><a href="/wiki/Banking_license" title="Banking license">Banking license</a></li>
+<li><a href="/wiki/Basel_Accords" title="Basel Accords">Basel Accords</a></li>
+<li><a href="/wiki/Bank_for_International_Settlements" title="Bank for International Settlements">Bank for International Settlements</a></li>
+<li><a href="/wiki/Financial_Stability_Board" title="Financial Stability Board">Financial Stability Board</a></li>
+<li><a href="/wiki/Deposit_insurance" title="Deposit insurance">Deposit insurance</a></li>
+<li><a href="/wiki/Separation_of_investment_and_retail_banking" title="Separation of investment and retail banking">Separation of investment and retail banking</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Financial_regulation" title="Financial regulation">Regulation</a>&#160;<b>·</b> <a href="/wiki/Financial_law" title="Financial law">Financial law</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td style="padding:0 0.1em 0.4em">
+<ul><li><a href="/wiki/International_Financial_Reporting_Standards" title="International Financial Reporting Standards">International Financial Reporting Standards</a></li>
+<li><a href="/wiki/ISO_31000" title="ISO 31000">ISO 31000</a></li>
+<li><a href="/wiki/Professional_certification_in_financial_services" title="Professional certification in financial services">Professional certification</a></li>
+<li><a href="/wiki/Fund_governance" title="Fund governance">Fund governance</a></li></ul></td>
+</tr></tbody></table></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Economic_history" title="Economic history">Economic history</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul><li><a href="/wiki/History_of_private_equity_and_venture_capital" title="History of private equity and venture capital">Private equity and venture capital</a></li>
+<li><a href="/wiki/Recession" title="Recession">Recession</a></li>
+<li><a href="/wiki/Stock_market_bubble" title="Stock market bubble">Stock market bubble</a></li>
+<li><a href="/wiki/Stock_market_crash" title="Stock market crash">Stock market crash</a></li>
+<li><a href="/wiki/Accounting_scandals" title="Accounting scandals">Accounting scandals</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Finance_sidebar" title="Template:Finance sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Finance_sidebar" title="Template talk:Finance sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Finance_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
 
 [Back to top](#contents)
 
