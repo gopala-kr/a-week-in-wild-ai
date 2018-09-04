@@ -638,7 +638,16 @@ Source: Accenture - Banking Heatmap
 -------------
 ![594a9fa54a2489ab028b45eb](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/594a9fa54a2489ab028b45eb-1334-1125.png)
 
+----------
+
+
+![Monolithic-vs-Serverless](https://blog.algorithmia.com/wp-content/uploads/2018/01/Monolithic-vs-Serverless-1024x683.png)
+
 -------------
+
+![enterprise-ai-layer-architecture](https://algorithmia.com/static/images/enterprise-ai-layer-architecture.5cab76f.svg)
+
+------------
 
 <h5><span style="font-weight: 400;">Sources</span></h5>
 <ol>
