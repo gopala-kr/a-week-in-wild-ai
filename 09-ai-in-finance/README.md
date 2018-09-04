@@ -7,7 +7,7 @@
 - [Misc](#misc)
 - [Finance Industry](#finance-industry)
 - [Finance Technology](#finance-technology)
-- [AI in Finance](#ai-in-fintech)
+- [AI in Finance](#ai-in-finance)
 - [Literature review](#literature-review)
 - [Startups](#startups)
 - [Appendix](#appendix)
