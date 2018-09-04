@@ -683,9 +683,6 @@ Source: Accenture - Banking Heatmap
 
 -------------
 
-<table class="plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/File:Crystal_Clear_app_kedit.svg" class="image"><img alt="Crystal Clear app kedit.svg" src="" width="40" height="40" srcset="" data-file-width="128" data-file-height="128" /></a></div></td><td class="mbox-text"><div class="mbox-text-span">This article may need to be <b>rewritten entirely</b> to comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>.<span class="hide-when-compact"> <a class="external text" href="//en.wikipedia.org/w/index.php?title=Finance&amp;action=edit">You can help</a>. The <a href="/wiki/Talk:Finance" title="Talk:Finance">discussion page</a> may contain suggestions.</span>  <small><i>(July 2018)</i></small></div></td></tr></tbody></table>
-    </div>
-</div><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
 <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a class="mw-selflink selflink">Finance</a></th></tr><tr><td style="padding:0.2em 0 0.4em"><a href="" class="image"><img alt="" src="" width="250" height="188" srcset="" /></a></td></tr><tr><td style="padding:0 0.1em 0.4em">
 <div class="NavFrame collapsed" style="border:none;padding:0"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Financial_market" title="Financial market">Markets</a></div><div class="NavContent plainlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none"><tbody><tr><td class="hlist" style="padding:0 0.1em 0.4em;padding-left:0.5em;padding-right:0.5em;">
 <ul><li><a href="/wiki/Bond_market" title="Bond market">Bond</a></li>
@@ -789,7 +786,7 @@ Source: Accenture - Banking Heatmap
 <li><a href="/wiki/Stock_market_bubble" title="Stock market bubble">Stock market bubble</a></li>
 <li><a href="/wiki/Stock_market_crash" title="Stock market crash">Stock market crash</a></li>
 <li><a href="/wiki/Accounting_scandals" title="Accounting scandals">Accounting scandals</a></li></ul></div></div></td>
-</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Finance_sidebar" title="Template:Finance sidebar"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Finance_sidebar" title="Template talk:Finance sidebar"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Finance_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;"></td></tr></tbody></table>
 
 [Back to top](#contents)
 
