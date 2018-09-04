@@ -623,6 +623,7 @@ Source: Accenture - Banking Heatmap
 
 ![57e0fa7c771aea481341b616](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/57e0fa7c771aea481341b616-1136-428.jpg)
 
+
 -------------
 ![587e5cae76c7d1317e218f59](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/09-ai-in-finance/imgs/587e5cae76c7d1317e218f59-1334-752.jpg)
 
