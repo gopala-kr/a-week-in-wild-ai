@@ -27,10 +27,10 @@
  - Marketing
  - Sales
  - Custermer Service
- - enterprise HR and finance
+ - enterprise hr and finance
  - enerprise security
  - poductivity tools
- - policy regulation/law/complience
+ - policy regulation/law/compliance
  - RPA
 
 ---------------
@@ -103,9 +103,9 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 
 ----------
 
-## Custermer Service
+#### Custermer Service
 
-- []()
+
 
 
 
