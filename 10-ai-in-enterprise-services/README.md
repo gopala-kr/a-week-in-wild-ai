@@ -2,6 +2,40 @@
 
 
 
+#### A complete survey: ai in enterprise services
+
+
+- Data Generation
+- Data Souces
+- Data Collection
+- Data Streaming
+- Data Design patterns
+- Data architectures
+ - Data pipelines
+ - Databases
+- System architectures
+  - Hardware Options
+    - Switching
+  - On-premise
+  - Cloud
+    - SAP
+    - IBM
+    - Oracle
+    - AWS
+    - GCP
+    - Azure
+    - private clouds
+ - Adverizing
+ - Marketing
+ - Sales
+ - Custermer Service
+ - enterprise HR and finance
+ - enerprise security
+ - poductivity tools
+ - regulation/law
+ - RPA
+
+---------------
 
 
 
@@ -9,14 +43,14 @@
 
 
 
+#### Advertizing
 
 
 
 
 
 
-
-
+----------------------------
 
 ##### IBM
 
@@ -26,7 +60,7 @@ Overcome Enterprise Data Challenges with One Solution](https://www-01.ibm.com/co
 
 
 
-
+---------------------------------------
 
 SAP 
 
