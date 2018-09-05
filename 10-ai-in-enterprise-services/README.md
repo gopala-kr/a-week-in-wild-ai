@@ -6,13 +6,13 @@
 
 
 - Data Generation
-- Data Souces
+- Data Sources
 - Data Collection
 - Data Streaming
 - Data Design patterns
 - Data architectures
- - Data pipelines
- - Databases
+  - Data pipelines
+  - Databases
 - System architectures
   - Hardware Options
     - Switching
@@ -32,16 +32,16 @@
  - enterprise HR and finance
  - enerprise security
  - poductivity tools
- - regulation/law
+ - policy regulation/law/complience
  - RPA
 
 ---------------
 
+#### Marketing
 
 
 
-
-
+-----
 
 #### Advertizing
 
