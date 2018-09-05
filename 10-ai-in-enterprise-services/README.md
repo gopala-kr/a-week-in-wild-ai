@@ -44,14 +44,6 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 
 ------------
 
-Appendix
 
-
-
-
----------
-![]()
-
----------
 
 
