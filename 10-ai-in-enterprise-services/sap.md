@@ -79,3 +79,7 @@ iot
 ![Pic-2](http://blogs.saphana.com/wp-content/uploads/2018/02/Pic-2.jpg)
 
 --------
+
+![sap_ml_capabilities](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/sap_ml_capabilities.PNG)
+
+----------
