@@ -1,9 +1,8 @@
 
-![SAP-HANA-and-hadoop-data-integration-with-Applications](https://i0.wp.com/www.zarantech.com/blog/wp-content/uploads/2018/04/SAP-HANA-and-hadoop-data-integration-with-Applications.png?resize=768%2C524)
+![hana01](https://cdn2.hubspot.net/hubfs/2703967/Expertum_Theme_November-2016/Images/hana01.png?t=1536061327792)
 
-----------
+-----------
 
-![SAP-HANA-and-hadoop-data-integration-with-Applications](https://mindmajix.com/docs/images/Screenshot_1110(1).png)
 
 ---------
 
@@ -32,3 +31,13 @@ iot
 ![analytictechniques](https://practicalanalytics.files.wordpress.com/2011/12/analytictechniques.png)
 
 ---------
+
+![SAP-HANA-and-hadoop-data-integration-with-Applications](https://i0.wp.com/www.zarantech.com/blog/wp-content/uploads/2018/04/SAP-HANA-and-hadoop-data-integration-with-Applications.png?resize=768%2C524)
+
+----------
+
+![SAP-HANA-and-hadoop-data-integration-with-Applications](https://mindmajix.com/docs/images/Screenshot_1110(1).png)
+
+---------------
+
+
