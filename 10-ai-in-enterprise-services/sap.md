@@ -41,3 +41,37 @@ iot
 ---------------
 
 
+![2017-07-19_21-20-39](https://blogs.sap.com/wp-content/uploads/2017/07/2017-07-19_21-20-39.png)
+
+--------
+
+![RDBMS_HANA_HADOOP](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/RDBMS_HANA_HADOOP.PNG)
+
+------------
+
+![hadoop_scenario](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/hadoop_scenario.PNG)
+
+------------
+
+![hardware_eample](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/hardware_eample.PNG)
+
+------------
+![retail_example](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/retail_example.PNG)
+
+------------
+
+![telecom_example](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/telecom_example.PNG)
+
+------------
+
+![reference_achitecture](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/reference_achitecture.PNG)
+
+------------
+
+![]()
+
+------------
+
+![]()
+
+------------
