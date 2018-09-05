@@ -36,7 +36,7 @@ SAP
 with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana_with_big_data.pdf)
 - [A future-proof Big Data Architecture](https://blogs.saphana.com/2017/10/10/future-proof-big-data-architecture/)
 - [SAP HANA Data Management Suite](https://www.sap.com/india/products/technology-platforms/data-management.html)
-- []()
+- [SAP Big Data Architecture – a high level perspective](https://blogs.sap.com/2013/10/09/sap-big-dara-architecture-a-high-level-perspective/)
 - []()
 - []()
 
@@ -46,39 +46,6 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 Appendix
 
 
-![SAP-HANA-and-hadoop-data-integration-with-Applications](https://i0.wp.com/www.zarantech.com/blog/wp-content/uploads/2018/04/SAP-HANA-and-hadoop-data-integration-with-Applications.png?resize=768%2C524)
-
-----------
-
-![SAP-HANA-and-hadoop-data-integration-with-Applications](https://mindmajix.com/docs/images/Screenshot_1110(1).png)
-
----------
-
-classic
-
-![DWH](http://blogs.saphana.com/wp-content/uploads/2017/09/DWH.png)
-
----------
-
-Gen-1
-
-![Big-Data-Architecture-Gen-1](http://blogs.saphana.com/wp-content/uploads/2017/09/Big-Data-Architecture-Gen-1.png)
-
----------
-
-Gen-2
-![Big-Data-Architecture-Gen-2](http://blogs.saphana.com/wp-content/uploads/2017/09/Big-Data-Architecture-Gen-2.png)
-
----------
-
-iot
-
-![iot_reference_architecture](http://blogs.saphana.com/wp-content/uploads/2017/09/iot_reference_architecture.png)
-
----------
-![]()
-
----------
 ![]()
 
 ---------
