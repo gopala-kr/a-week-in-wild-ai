@@ -1,7 +1,4 @@
 
-
-
-
 #### A complete survey: ai in enterprise services
 
 
@@ -18,6 +15,7 @@
     - Switching
   - On-premise
   - Cloud
+    - SAS
     - SAP
     - IBM
     - Oracle
@@ -52,11 +50,14 @@
 
 ----------------------------
 
-##### IBM
+#### SAS
 
-- [The Power of One: IBM + Hortonworks
-Overcome Enterprise Data Challenges with One Solution](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=27016927USEN)
-- [Build a better data lake](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=16014716USEN&)
+
+
+
+----------------
+
+#### IBM
 
 
 
@@ -94,9 +95,20 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 - [SAP ML Tutorials](https://www.sap.com/india/developer/topics/machine-learning.tutorials.html#tutorials)
 - [SAP ML Resources](https://www.sap.com/india/developer/topics/machine-learning.resources.html#resources)
 
+-----------
+
+#### Azure
+
+- [Azure Architecture Center](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics)
+
+----------
+
+## Custermer Service
+
+- []()
+
+
+
+
 
 ------------
-
-
-
-
