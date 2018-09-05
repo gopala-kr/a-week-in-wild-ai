@@ -35,7 +35,7 @@ SAP
 - [Extend the Value of SAP HANA
 with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana_with_big_data.pdf)
 - [A future-proof Big Data Architecture](https://blogs.saphana.com/2017/10/10/future-proof-big-data-architecture/)
-- []()
+- [SAP HANA Data Management Suite](https://www.sap.com/india/products/technology-platforms/data-management.html)
 - []()
 - []()
 - []()
@@ -50,7 +50,7 @@ Appendix
 
 ----------
 
-![SAP-HANA-and-hadoop-data-integration-with-Applications](https://i0.wp.com/www.zarantech.com/blog/wp-content/uploads/2018/04/SAP-HANA-and-hadoop-data-integration-with-Applications.png?resize=768%2C524)
+![SAP-HANA-and-hadoop-data-integration-with-Applications](https://mindmajix.com/docs/images/Screenshot_1110(1).png)
 
 ---------
 
