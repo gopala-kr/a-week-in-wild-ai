@@ -68,10 +68,7 @@ iot
 
 ------------
 
-![]()
+![loio5aa367beab8948a794b6e606a20ed587_LowRes](https://help.sap.com/doc/PRODUCTION/0991e2320f5940d988ed32b995d28a44/2.1/en-US/loio5aa367beab8948a794b6e606a20ed587_LowRes.png)
 
 ------------
 
-![]()
-
-------------
