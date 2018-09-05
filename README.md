@@ -7,7 +7,7 @@
 - [[Week-4](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/04-ai-in-transportation)] 29/07/2018 : Autonomous Vehicles
 - [[Week-5-6-7-8](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/05-ai-in-robotics)] 26/08/2018 : AI in Robotics
 - [[Week-9](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/09-ai-in-finance)] 02/09/2018 : AI in Finance
-- [Week-10]
+- [[Week-10](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/10-ai-in-enterprise-services)] 09/09/2018 : AI in enterprise services
 - [Week-11]
 - [Week-12]
 - [Week-13]
