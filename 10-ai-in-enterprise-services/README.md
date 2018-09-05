@@ -40,7 +40,13 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 - [Leveraging SAP HANA with Apache Hadoop and SAP Analytics](https://www.slideshare.net/Method360/leveraging-sap-hana-with-apache-hadoop-and-sap-analytics)
 - [Understanding the basics of Big Data, Hadoop and SAP ‘HANA’ VORA](https://blogs.sap.com/2017/07/18/understanding-the-basics-of-big-data-hadoop-and-sap-vora/)
 - [Hadoop and HANA Integration](https://blogs.sap.com/2013/10/15/b/)
-
+- [Integrating SAP HANA with Hadoop – all you always wanted to know](https://blogs.sap.com/2016/01/08/integrating-sap-hana-with-sap-vora-all-you-always-wanted-to-know/)
+- [SAP HANA and Hadoop Integration: ETL vs. SDA vs. SDI vs. HANA Vora](https://blogs.sap.com/2017/04/05/sap-meets-big-data-sap-hana-and-hadoop-ecosystem/)
+- [Integrate SAP HANA and Hadoop for effective Big Data landscape](http://www.klouddata.com/blogs/integrate-sap-hana-and-hadoop/)
+- [Bridging two worlds : Integration of SAP and Hadoop Ecosystems](https://blogs.sap.com/2017/07/19/bridging-two-worlds-integration-of-sap-and-hadoop-ecosystems/)
+- [Introduction to SAP Vora](https://help.sap.com/viewer/0991e2320f5940d988ed32b995d28a44/2.1/en-US/76f9954e468c4edb916b18c7e3583463.html)
+- [SAP HANA Data Warehousing Foundation](https://help.sap.com/viewer/p/SAP_HANA_DATA_WAREHOUSING_FOUNDATION)
+- [Introduction to SAP HANA Administration](https://help.sap.com/viewer/6b94445c94ae495c83a19646e7c3fd56/2.0.00/en-US/bd394568bb571014a11fd729973e9843.html)
 
 ------------
 
