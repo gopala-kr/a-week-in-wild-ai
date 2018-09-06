@@ -4,9 +4,7 @@
 
 ![hana01](https://cdn2.hubspot.net/hubfs/2703967/Expertum_Theme_November-2016/Images/hana01.png?t=1536061327792)
 
------------
 
-![data-lake-architecture](https://www.searchtechnologies.com/images/blog-graphics/data-lake-architecture.jpg)
 
 ---------
 
@@ -75,13 +73,7 @@ iot
 
 -------
 
-![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
 
------------
-
-![loio5aa367beab8948a794b6e606a20ed587_LowRes](https://help.sap.com/doc/PRODUCTION/0991e2320f5940d988ed32b995d28a44/2.1/en-US/loio5aa367beab8948a794b6e606a20ed587_LowRes.png)
-
------------
 
 ![Pic-](http://blogs.saphana.com/wp-content/uploads/2018/02/Pic-1.jpg)
 
