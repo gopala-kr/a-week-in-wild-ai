@@ -33,7 +33,7 @@ iot
 ---------
 
 
-![SAP-HANA-and-hadoop-data-integration-with-Applications](https://i0.wp.com/www.zarantech.com/blog/wp-content/uploads/2018/04/SAP-HANA-and-hadoop-data-integration-with-Applications.png?resize=768%2C524)
+![SAP-HANA-and-hadoop-data-integration-with-Applications](https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2013/09/MDA.20130909.png)
 
 ----------
 
