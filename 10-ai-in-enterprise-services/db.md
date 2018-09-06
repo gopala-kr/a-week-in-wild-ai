@@ -24,7 +24,7 @@ Souce: [a-brief-history-of-databases](https://peterjamesthomas.com/wp-content/up
 
 -------
 
-![os_big_data_open_source_tools](https://cdn.datafloq.com/cms/os_big_data_open_source_tools-v2.png)
+![os_big_data_open_source_tools](http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2016/09/mw-15-1351-database-evolution-dist.png)
 
 --------
 
