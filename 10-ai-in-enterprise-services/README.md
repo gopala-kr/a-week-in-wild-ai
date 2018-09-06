@@ -65,6 +65,9 @@
 
 SAP 
 
+- [SAP HANA Platform](https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/Cloud-Computing/HANA/SAP%20HANA-cloud.pdf)
+- [SAP HANA datasheet](https://www.sap.com/india/documents/2016/04/ac1e84d4-697c-0010-82c7-eda71af511fa.html)
+- [SAP HANA Master Guide](https://help.sap.com/doc/e95f6750b0fd10148ea5c6be75016694/2.0.03/en-US/SAP_HANA_Master_Guide_en.pdf)
 - [SAP ML](https://www.sap.com/dmc/exp/2018-04-machine-learning-5-lessons-from-fast-learners/en-us/index.html)
 - [CIO.Guide_.How_.to_.Use_.Hadoop.with_.Your_.SAP_.Software.Landscape](https://hortonworks.com/wp-content/uploads/2013/09/CIO.Guide_.How_.to_.Use_.Hadoop.with_.Your_.SAP_.Software.Landscape.pdf)
 - [Integrating SAP HANA 2.0 with Big Data Hadoop Ecosystems](http://www.zarantech.com/blog/integrating-sap-hana-2-0-with-big-data-hadoop-ecosystems/)
