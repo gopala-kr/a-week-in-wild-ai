@@ -6,6 +6,7 @@
 
 -----------
 
+![data-lake-architecture](https://www.searchtechnologies.com/images/blog-graphics/data-lake-architecture.jpg)
 
 ---------
 
