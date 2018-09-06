@@ -66,15 +66,16 @@ iot
 
 ![reference_achitecture](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/reference_achitecture.PNG)
 
-------------
-
-
-![3765_02_06](https://www.packtpub.com/graphics/9781784396688/graphics/3765_02_06.jpg)
-
--------
 
 
 
+
+
+-----------
+
+![loio5aa367beab8948a794b6e606a20ed587_LowRes](https://help.sap.com/doc/PRODUCTION/0991e2320f5940d988ed32b995d28a44/2.1/en-US/loio5aa367beab8948a794b6e606a20ed587_LowRes.png)
+
+-----------------
 ![Pic-](http://blogs.saphana.com/wp-content/uploads/2018/02/Pic-1.jpg)
 
 ------------
