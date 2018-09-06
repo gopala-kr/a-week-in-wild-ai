@@ -1,8 +1,6 @@
 
 
----------
 
-![60_s](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/60_s.PNG)
 
 ----
 
@@ -10,15 +8,23 @@
 
 -------
 
+![3765_02_06](https://www.packtpub.com/graphics/9781784396688/graphics/3765_02_06.jpg)
+
+
+
+-----------
+
 ![hadoop-ecosystem](https://mydataexperiments.files.wordpress.com/2017/04/hadoop-ecosystem.png)
 
------------
+-------
 
-![loio5aa367beab8948a794b6e606a20ed587_LowRes](https://help.sap.com/doc/PRODUCTION/0991e2320f5940d988ed32b995d28a44/2.1/en-US/loio5aa367beab8948a794b6e606a20ed587_LowRes.png)
 
------------
 
 ![data-lake-architecture](https://www.searchtechnologies.com/images/blog-graphics/data-lake-architecture.jpg)
+
+---------
+
+![60_s](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/60_s.PNG)
 
 -----------
 
