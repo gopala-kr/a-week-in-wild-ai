@@ -28,9 +28,7 @@ iot
 ![iot_reference_architecture](http://blogs.saphana.com/wp-content/uploads/2017/09/iot_reference_architecture.png)
 
 ---------
-![analytictechniques](https://practicalanalytics.files.wordpress.com/2011/12/analytictechniques.png)
 
----------
 
 ![SAP-HANA-and-hadoop-data-integration-with-Applications](https://i0.wp.com/www.zarantech.com/blog/wp-content/uploads/2018/04/SAP-HANA-and-hadoop-data-integration-with-Applications.png?resize=768%2C524)
 
@@ -83,3 +81,7 @@ iot
 ![sap_ml_capabilities](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/sap_ml_capabilities.PNG)
 
 ----------
+
+![analytictechniques](https://practicalanalytics.files.wordpress.com/2011/12/analytictechniques.png)
+
+---------
