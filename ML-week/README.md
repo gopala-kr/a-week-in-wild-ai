@@ -26,6 +26,7 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 Learning for Engineers](https://arxiv.org/pdf/1709.02840v3.pdf)
 - [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
 - [120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+- [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 
 ------------------
 
