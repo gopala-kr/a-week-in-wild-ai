@@ -106,7 +106,155 @@
 -------
 ![analytictechniques](https://practicalanalytics.files.wordpress.com/2011/12/analytictechniques.png)
 
+---------
 
+![Table-1-Comparison-of-teh-best-Big-Data-frameworks-2.jpg?ssl=1](https://i2.wp.com/opensourceforu.com/wp-content/uploads/2018/03/Table-1-Comparison-of-teh-best-Big-Data-frameworks-2.jpg?ssl=1)
+
+---------
+
+![Hadoop-Vs-MapReduce](https://cdn.educba.com/academy/wp-content/uploads/2018/03/Hadoop-Vs-MapReduce.jpg)
+
+-------
+
+![Hadoop-Vs-MapReduce....](https://cdn.educba.com/academy/wp-content/uploads/2018/03/Hadoop-Vs-MapReduce.....png)
+
+-----------
+
+![Hadoop-Vs-MapReduce...png](https://cdn.educba.com/academy/wp-content/uploads/2018/03/Hadoop-Vs-MapReduce...png)
+
+-----
+
+![magnificent-hadoop-big-data-architecture-on-architecture-intended-big-data](http://cialisalto.com/wp-content/uploads/2017/12/magnificent-hadoop-big-data-architecture-on-architecture-intended-big-data-hadoop-think-big-and-earn-big-best-ccie-ccnp-ccna-8.jpg)
+
+---------
+
+![F57KVrkxOrm9ZLAM](https://cdn-images-1.medium.com/max/1600/0*F57KVrkxOrm9ZLAM.png)
+
+-----------
+
+![cloudera-vs-hortonworks-vs-mapr](https://wtdata.files.wordpress.com/2015/04/cloudera-vs-hortonworks-vs-mapr.jpg)
+
+-----------
+
+![hadooptable](http://blog.aaumanalytics.com/wp-content/uploads/2016/05/hadooptable.png)
+
+----------
+
+![opensource](http://blog.aaumanalytics.com/wp-content/uploads/2016/05/opensource.png)
+
+------
+
+![Hadoop-Distributions-Compared-820x1024](https://blog.blazeclan.com/wp-content/uploads/2013/03/Hadoop-Distributions-Compared-820x1024.jpg)
+
+-------
+
+![Screen+Shot+2014-10-09+at+11.32.51+PM](https://community.emc.com/servlet/JiveServlet/showImage/38-10544-97277/Screen+Shot+2014-10-09+at+11.32.51+PM.png)
+
+----------
+
+![Screen+Shot+2014-10-13+at+2.52.06+PM](https://community.emc.com/servlet/JiveServlet/showImage/38-10544-97285/Screen+Shot+2014-10-13+at+2.52.06+PM.png)
+
+-----
+
+![Ss74NCTxbB46uwV7](https://cdn-images-1.medium.com/max/800/0*Ss74NCTxbB46uwV7.)
+
+Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
+
+----------
+
+![gobblin-for-data-analytics-7-638](https://image.slidesharecdn.com/hadoopgobblinatintel01162-160113193141/95/gobblin-for-data-analytics-7-638.jpg?cb=1452713693)
+
+-------
+
+![Data-Ingestion-Using-Apache-Nifi-For-Building-Data-Lakes-Twitter-Data](https://images.xenonstack.com/blog/Data-Ingestion-Using-Apache-Nifi-For-Building-Data-Lakes-Twitter-Data.jpg)
+
+-------
+
+![Data+Acquisition+and+Ingestion+Detail](https://slideplayer.com/slide/12299631/72/images/22/Data+Acquisition+and+Ingestion+Detail.jpg)
+
+---------
+
+![big-data-landscape](https://images.projectmanagers.org/wp-content/uploads/2017/03/big-data-landscape.jpg)
+
+-----------
+
+![real-time-iot-analytics-platform-using-mqtt-xenonify-with-azure-google-cloud-aws1](https://images.xenonstack.com/blog/real-time-iot-analytics-platform-using-mqtt-xenonify-with-azure-google-cloud-aws1.png)
+
+-------
+
+![the-emerging-data-lake](https://image.slidesharecdn.com/the-20emerging-20data-20lake-20it-20strategy-140429143633-phpapp02/95/the-emerging-data-lake-it-strategy-15-638.jpg?cb=1398782306)
+
+----------
+
+![Hadoop+File+Formats+and+Data+Ingestion](https://slideplayer.com/slide/6666437/23/images/11/Hadoop+File+Formats+and+Data+Ingestion.jpg)
+
+--------
+
+![Screen-Shot-2017-08-19-at-8.29.17-AM](http://www.invertible.io/wp-content/uploads/2017/08/Screen-Shot-2017-08-19-at-8.29.17-AM.png)
+
+-------
+
+![dba75f5a5285153678cf473d9b2866e7](https://qph.fs.quoracdn.net/main-qimg-dba75f5a5285153678cf473d9b2866e7.webp)
+
+-------
+
+![streamific-the-ingestion-service-for-hadoop-big-data-at-uber-streamificsetup](https://anatomybody-charts.co/takken/2644828/streamific-the-ingestion-service-for-hadoop-big-data-at-uber-streamificsetup.jpg)
+
+-----------
+
+![tutorial-ingesting-data-and-configuring-a-domain](https://anatomybody-charts.co/takken/1495893/tutorial-ingesting-data-and-configuring-a-domain.jpg)
+
+-------
+
+![the-mapr-difference-mapr-if-you-build-your-big-data-platform-on-top-of-hdfs-you-quickly-realize-that-you-need-distinct-systems-to-ingest-data-to-handle-transactional-workloads](https://anatomybody-charts.co/takken/2644832/the-mapr-difference-mapr-if-you-build-your-big-data-platform-on-top-of-hdfs-you-quickly-realize-that-you-need-distinct-systems-to-ingest-data-to-handle-transactional-workloads.png)
+
+-------
+
+![7028-selfservice1](https://community.hortonworks.com/storage/attachments/7028-selfservice1.png)
+
+--------
+
+![Redpoint_data_lake](http://insidebigdata.com/wp-content/uploads/2016/06/Redpoint_data_lake.png)
+
+-------
+
+![big-data-architecture-full](https://www.rttsweb.com/Site/web/images/big-data-architecture-full.png)
+
+------
+
+![1-s2.0-S0040162517310946-gr2](https://ars.els-cdn.com/content/image/1-s2.0-S0040162517310946-gr2.jpg)
+
+-----------
+
+![1-s2.0-S0040162517310946-gr4](https://ars.els-cdn.com/content/image/1-s2.0-S0040162517310946-gr4.jpg)
+
+-------
+
+![Hadoop-BI-Builders-overview](http://bi-builders.com/wp-content/uploads/2017/06/Hadoop-BI-Builders-overview.png)
+
+-------
+
+![aafor-blog-2](http://blogs.saphana.com/wp-content/uploads/2015/01/aafor-blog-2.png)
+
+----------
+
+![aafor-blog-1](http://blogs.saphana.com/wp-content/uploads/2015/02/aafor-blog-1.png)
+
+--------
+
+![data-lake-definition](https://www.dragon1.com/images/data-lake-definition.png)
+
+---------
+
+- [Building a Modern Data Architecture with Enterprise Hadoop](https://www.slideshare.net/sbaltagi/building-a-modern-data-architecture-with-enterprise-hadoop)
+
+--------
+
+![fig2](https://www.ibm.com/developerworks/library/bd-archpatterns3/fig2-2.png)
+
+--------
+
+![big-data-architecture-framework-on-architecture-regarding-fine-big-data-architecture-framework-on-intended-for-innovative-4](http://dentrodelasala.com/wp-content/uploads/2018/06/big-data-architecture-framework-on-architecture-regarding-fine-big-data-architecture-framework-on-intended-for-innovative-4.jpg)
 
 -----
 
@@ -127,6 +275,23 @@
 - [introduction to big data pipelining with cassandra &amp; spark ](https://www.slideshare.net/langworth/sa-introduction-to-big-data-pipelining-with-cassandra-amp-spark-west-minster-meetup-black2015-0112)
 - [Spark Kernel Talk ](https://www.slideshare.net/RobertChipSenkbeil/spark-kernel-meetup-talk)
 - [Applying the Kappa architecture in the telco industry](https://www.oreilly.com/ideas/applying-the-kappa-architecture-in-the-telco-industry)
+- [A Comparison on Hadoop and Spark](http://www.ijircce.com/upload/2018/march/51_A%20COMPARISON.pdf)
+- [Hadoop 3: Comparison with Hadoop 2 and Spark](https://medium.com/activewizards-machine-learning-company/hadoop-3-comparison-with-hadoop-2-and-spark-67efd0e78f81)
+- [Hadoop, Storm, Samza, Spark, and Flink: Big Data Frameworks Compared](https://www.digitalocean.com/community/tutorials/hadoop-storm-samza-spark-and-flink-big-data-frameworks-compared)
+- [COMPREHENSIVE STUDY OF HADOOP DISTRIBUTIONS](http://blog.aaumanalytics.com/?p=482)
+- [ISILON AND HADOOP – THE ENTERPRISE DATA LAKE SUBSTRATE](https://bigdatabeard.com/isilon-and-hadoop-the-enterprise-data-lake-substrate/)
+- [Hadoop Distributions Compared](https://blog.blazeclan.com/252-2/)
+- [A Comparative Study of Hadoop-based Big Data Architectures](https://www.researchgate.net/publication/322686691_A_Comparative_Study_of_Hadoop-based_Big_Data_Architectures)
+- [Gobblin: A Framework for Solving Big Data Ingestion Problem](https://www.slideshare.net/InfoQ/gobblin-a-framework-for-solving-big-data-ingestion-problem)
+- [Gobblin for Data Analytics](https://www.slideshare.net/IntelITCenter/gobblin-for-data-analytics)
+- [Architectural Patterns for Streaming Applications](https://www.slideshare.net/hadooparchbook/architectural-patterns-for-streaming-applications)
+- [Real-Time, Streaming Data Lake and Analytics with Apache Nifi](https://www.xenonstack.com/blog/big-data-engineering/streaming-lake-analytics-nifi/)
+- [Cost of Ownership for Hadoop Implementation](https://www.slideshare.net/Hadoop_Summit/w-325230-cjha)
+- [Big Data sources and methods for social and economic analyses](https://www.sciencedirect.com/science/article/pii/S0040162517310946)
+- [10 Amazing Things To Do With a Hadoop-Based Data Lake](https://www.slideshare.net/Pivotal/10-thingsdatalake-pivotalstratanyfinal)
+- [Big Data with a Simplified Cost Effective Architecture](https://blogs.saphana.com/2015/02/02/big-data-simplified-cost-effective-architecture/)
+- [Building a Modern Data Architecture with Enterprise Hadoop](https://www.slideshare.net/sbaltagi/building-a-modern-data-architecture-with-enterprise-hadoop)
+
 
 ---------
 
