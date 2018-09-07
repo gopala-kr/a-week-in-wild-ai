@@ -366,7 +366,8 @@ Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.ga
 - [Reviews for Meter Data Management Products](https://www.gartner.com/reviews/market/meter-data-management-products)
 - [Reviews for Robotic Process Automation Software](https://www.gartner.com/reviews/market/robotic-process-automatio-software)
 - [Reviews for Warehouse Management Systems](https://www.gartner.com/reviews/market/warehouse-management-systems)
-
+- [Reviews for Industrial IoT Platforms](https://www.gartner.com/reviews/market/industrial-iot-platforms)
+- [Reviews for Mobile App Development Platforms](https://www.gartner.com/reviews/market/mobile-application-development-platforms)
 
 -----------
 ------------
