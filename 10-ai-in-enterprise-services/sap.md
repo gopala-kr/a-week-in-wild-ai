@@ -41,6 +41,11 @@
 ---------------
 ![72_sap_hana_smar_data_integration](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/72_sap_hana_smar_data_integration.PNG)
 ---------------
+---------
+
+![LenovoTCOproject](https://www.prowesscorp.com/wp-content/uploads/2017/10/LenovoTCOproject.png)
+
+------
 ![77_sap_leo](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/77_sap_leo.PNG)
 ---------------
 ![78_sap_leo_arch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/78_sap_leo_arch.PNG)
@@ -176,8 +181,7 @@
 ![6_sap_bigdata](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/6_sap_bigdata.PNG)
 ---------------
 ![7_sap_bigdata](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/7_sap_bigdata.PNG)
----------------
-![s4_hana](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/s4_hana.PNG)
+
 ---------------
 ------------
 
@@ -263,10 +267,4 @@ iot
 
 ----------
 
-![analytictechniques](https://practicalanalytics.files.wordpress.com/2011/12/analytictechniques.png)
 
----------
-
-![LenovoTCOproject](https://www.prowesscorp.com/wp-content/uploads/2017/10/LenovoTCOproject.png)
-
------
