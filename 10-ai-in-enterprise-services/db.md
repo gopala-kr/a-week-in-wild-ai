@@ -32,6 +32,9 @@ DB as a service
 
 ![daas_vendors.png?w=660](https://blog.jhnr.ch/images/daas_vendors.png?w=660)
 
+----------
+
+![most_popular_databases_2018](https://www.eversql.com/wp-content/uploads/2018/03/most_popular_databases_2018-768x656.png)
 
 --------
 
