@@ -194,18 +194,6 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 -------
 
-![streamific-the-ingestion-service-for-hadoop-big-data-at-uber-streamificsetup](https://anatomybody-charts.co/takken/2644828/streamific-the-ingestion-service-for-hadoop-big-data-at-uber-streamificsetup.jpg)
-
------------
-
-![tutorial-ingesting-data-and-configuring-a-domain](https://anatomybody-charts.co/takken/1495893/tutorial-ingesting-data-and-configuring-a-domain.jpg)
-
--------
-
-![the-mapr-difference-mapr-if-you-build-your-big-data-platform-on-top-of-hdfs-you-quickly-realize-that-you-need-distinct-systems-to-ingest-data-to-handle-transactional-workloads](https://anatomybody-charts.co/takken/2644832/the-mapr-difference-mapr-if-you-build-your-big-data-platform-on-top-of-hdfs-you-quickly-realize-that-you-need-distinct-systems-to-ingest-data-to-handle-transactional-workloads.png)
-
--------
-
 ![7028-selfservice1](https://community.hortonworks.com/storage/attachments/7028-selfservice1.png)
 
 --------
@@ -240,9 +228,6 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 ![data-lake-definition](https://www.dragon1.com/images/data-lake-definition.png)
 
----------
-
-![Building a Modern Data Architecture with Enterprise Hadoop](https://www.slideshare.net/sbaltagi/building-a-modern-data-architecture-with-enterprise-hadoop)
 
 --------
 
