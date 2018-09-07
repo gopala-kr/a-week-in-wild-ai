@@ -110,10 +110,6 @@
 
 ![Table-1-Comparison-of-teh-best-Big-Data-frameworks-2.jpg?ssl=1](https://i2.wp.com/opensourceforu.com/wp-content/uploads/2018/03/Table-1-Comparison-of-teh-best-Big-Data-frameworks-2.jpg?ssl=1)
 
----------
-
-![Hadoop-Vs-MapReduce](https://cdn.educba.com/academy/wp-content/uploads/2018/03/Hadoop-Vs-MapReduce.jpg)
-
 -------
 
 ![Hadoop-Vs-MapReduce....](https://cdn.educba.com/academy/wp-content/uploads/2018/03/Hadoop-Vs-MapReduce.....png)
@@ -246,7 +242,7 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 ---------
 
-- [Building a Modern Data Architecture with Enterprise Hadoop](https://www.slideshare.net/sbaltagi/building-a-modern-data-architecture-with-enterprise-hadoop)
+![Building a Modern Data Architecture with Enterprise Hadoop](https://www.slideshare.net/sbaltagi/building-a-modern-data-architecture-with-enterprise-hadoop)
 
 --------
 
