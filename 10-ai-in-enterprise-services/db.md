@@ -32,9 +32,6 @@ DB as a service
 
 ![daas_vendors.png?w=660](https://blog.jhnr.ch/images/daas_vendors.png?w=660)
 
-------
-
-![image3](https://docs.microsoft.com/en-us/dotnet/standard/modernize-with-azure-and-containers/media/image3-1.png)
 
 --------
 
@@ -42,3 +39,24 @@ DB as a service
 - [New databases that scales high](https://www.slideshare.net/welkaim/new-databases-that-scales-high)
 - [SQL Recap for Interviews](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b)
 - [Overview of Database-as-a-Service offerings available in Public Cloud](https://blog.jhnr.ch/2015/09/07/overview-of-database-as-a-service-offerings-available-in-public-cloud/)
+
+-------
+
+- [ranking_by_model](https://db-engines.com/en/ranking_categories)
+- [DB-Engines Ranking of Relational DBMS](https://db-engines.com/en/ranking/relational+dbms)
+- [DB-Engines Ranking of Key-value Stores](https://db-engines.com/en/ranking/key-value+store)
+- [DB-Engines Ranking of Graph DBMS](https://db-engines.com/en/ranking/graph+dbms)
+- [DB-Engines Ranking of Document Stores](https://db-engines.com/en/ranking/document+store)
+- [DB-Engines Ranking of Time Series DBMS](https://db-engines.com/en/ranking/time+series+dbms)
+- [DB-Engines Ranking of RDF Stores](https://db-engines.com/en/ranking/rdf+store)
+- [DB-Engines Ranking of Object Oriented DBMS](https://db-engines.com/en/ranking/object+oriented+dbms)
+- [DB-Engines Ranking of Search Engines](https://db-engines.com/en/ranking/search+engine)
+- [DB-Engines Ranking of Wide Column Stores](https://db-engines.com/en/ranking/wide+column+store)
+- [DB-Engines Ranking of Multivalue DBMS](https://db-engines.com/en/ranking/multivalue+dbms)
+- [DB-Engines Ranking of Native XML DBMS](https://db-engines.com/en/ranking/native+xml+dbms)
+- [DB-Engines Ranking of Content Stores](https://db-engines.com/en/ranking/content+store)
+- [DB-Engines Ranking of Event Stores](https://db-engines.com/en/ranking/event+store)
+- [DB-Engines Ranking of Navigational DBMS](https://db-engines.com/en/ranking/navigational+dbms)
+- [commercial vs Opensource](https://db-engines.com/en/ranking_osvsc)
+
+--------
