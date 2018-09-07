@@ -5,7 +5,9 @@
 - Data Generation
 - Data Sources
 - Data Collection
-- Data Streaming
+- Data Ingestion
+  - Batch
+  - Stream
 - Data Design patterns
 - Data architectures
   - Data pipelines
@@ -32,7 +34,8 @@
  - poductivity tools
  - policy regulation/law/compliance
  - RPA
-
+ 
+ 
 ---------------
 
 #### Marketing
@@ -109,11 +112,23 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 
 #### Custermer Service
 
+----------
 
+DS/ML/Analytics
 
+- KNIME, Alteryx, SAS, RapidMiner, H2O.ai
+- MathWorks, TIBCO Software (new)
+- IBM, Microsoft, Domino Data Lab, Dataiku, Databricks (new)
+- SAP, Angoss, Anaconda (new), Teradata
 
+Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.gartner.com/reviews/market/data-science-machine-learning-platforms)
 
+----------
 
+![gartner-mq-data-science-ml-platforms-2018-640](https://www.kdnuggets.com/images/gartner-mq-data-science-ml-platforms-2018-640.jpg)
+![gartner-2018-vs-2017-mq-data-science-ml-platforms-640](https://www.kdnuggets.com/images/gartner-2017-mq-data-science-platforms.png)
+![gartner-2016-mq-advanced-analytics-platforms](https://www.kdnuggets.com/images/gartner-2016-mq-advanced-analytics-platforms.jpg)
+![gartner-mq-advanced-analytics-platforms-2015](https://www.kdnuggets.com/images/gartner-mq-advanced-analytics-platforms-2015.jpg)
 
 ------------
 
@@ -321,6 +336,31 @@ DataStore</td>
 </tr>
 </tbody>
 </table>
+---
+
+#### Garnter Reviews-2018:
+
+- [Reviews for Advanced Analytics Service Providers for Marketing](https://www.gartner.com/reviews/market/advanced-analytics-service-providers-for-marketing)
+- [Reviews for Cloud Infrastructure as a Service, Worldwide](https://www.gartner.com/reviews/market/public-cloud-iaas)
+- [Reviews for Data and Analytics Service Providers, Worldwide](https://www.gartner.com/reviews/market/business-analytics-services-worldwide)
+- [Reviews for Data Science and Machine Learning Service Providers](https://www.gartner.com/reviews/market/data-science-and-machine-learning-service)
+- [Reviews for Data Virtualization](https://www.gartner.com/reviews/market/data-virtualization)
+- [Reviews for Data Management Solutions for Analytics](https://www.gartner.com/reviews/market/data-warehouse-solutions)
+- [Reviews for Data Masking Technologies](https://www.gartner.com/reviews/market/data-masking-technologies)
+- [Reviews for Data Preparation Tools](https://www.gartner.com/reviews/market/data-preparation-tools)
+- [Reviews for Data Quality Tools](https://www.gartner.com/reviews/market/data-quality-tools)
+- [Reviews for Database Platform as a Service](https://www.gartner.com/reviews/market/database-platform-as-a-service)
+- [Reviews for Hadoop Distributions](https://www.gartner.com/reviews/market/hadoop-distributions)
+- [Reviews for Hadoop Operations Providers](https://www.gartner.com/reviews/market/hadoop-operations-providers)
+- [Reviews for In-Memory Data Grids](https://www.gartner.com/reviews/market/in-memory-data-grids)
+- [Reviews for Machine Learning Infrastructure as a Service](https://www.gartner.com/reviews/market/ml-infrastructure-as-a-service)
+- [Reviews for Master Data Management CDS](https://www.gartner.com/reviews/market/mdm-customer-data-solutions)
+- [Reviews for Master Data Management PDS](https://www.gartner.com/reviews/market/mdm-product-data-solutions)
+- [Reviews for Master Data Management Solutions](https://www.gartner.com/reviews/market/master-data-management-solutions)
+- [Reviews for Meter Data Management Products](https://www.gartner.com/reviews/market/meter-data-management-products)
+- [Reviews for Robotic Process Automation Software](https://www.gartner.com/reviews/market/robotic-process-automatio-software)
+- [Reviews for Warehouse Management Systems](https://www.gartner.com/reviews/market/warehouse-management-systems)
+
 
 -----------
 ------------
