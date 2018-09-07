@@ -32,6 +32,9 @@ DB as a service
 
 ![daas_vendors.png?w=660](https://blog.jhnr.ch/images/daas_vendors.png?w=660)
 
+------
+
+![image3](https://docs.microsoft.com/en-us/dotnet/standard/modernize-with-azure-and-containers/media/image3-1.png)
 
 --------
 
