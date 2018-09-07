@@ -104,7 +104,11 @@
 ![de_3](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/de_3.PNG)
 
 -------
+![analytictechniques](https://practicalanalytics.files.wordpress.com/2011/12/analytictechniques.png)
 
+
+
+-----
 
 
 - [Big data architecture: Hadoop and Data Lake- 1](https://www.slideshare.net/welkaim/big-data-architecture-hadoop-and-data-lake-part-1)
