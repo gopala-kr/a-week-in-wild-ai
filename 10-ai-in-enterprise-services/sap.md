@@ -181,7 +181,13 @@
 ![6_sap_bigdata](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/6_sap_bigdata.PNG)
 ---------------
 ![7_sap_bigdata](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/7_sap_bigdata.PNG)
+-------
+![86_sap_pal](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/86_sap_pal.PNG)
 
+-----------
+![87_sap_ui5](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/87_sap_ui5.PNG)
+-----------
+![88_sap_ui5_features](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/sap/img/88_sap_ui5_features.PNG)
 ---------------
 ------------
 
