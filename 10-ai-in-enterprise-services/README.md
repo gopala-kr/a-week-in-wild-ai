@@ -124,16 +124,6 @@ Transitioning to HANA](https://www.g3g.com/hubfs/White_Papers/Projected_Cost_Ana
 
 ----------
 
-DS/ML/Analytics
-
-- KNIME, Alteryx, SAS, RapidMiner, H2O.ai
-- MathWorks, TIBCO Software (new)
-- IBM, Microsoft, Domino Data Lab, Dataiku, Databricks (new)
-- SAP, Angoss, Anaconda (new), Teradata
-
-Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.gartner.com/reviews/market/data-science-machine-learning-platforms)
-
-----------
 ------------
 
 #### Appendix:
@@ -342,6 +332,17 @@ DataStore</td>
 </table>
 
 -----
+
+Commercial DS/ML/Advanced Analytics platforms
+
+- KNIME, Alteryx, SAS, RapidMiner, H2O.ai
+- MathWorks, TIBCO Software (new)
+- IBM, Microsoft, Domino Data Lab, Dataiku, Databricks (new)
+- SAP, Angoss, Anaconda (new), Teradata
+
+Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.gartner.com/reviews/market/data-science-machine-learning-platforms)
+
+----------
 
 #### Garnter Reviews-2018:
 
