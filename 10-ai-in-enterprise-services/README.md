@@ -33,7 +33,7 @@
  - Sales
  - Custermer Service
  - enterprise hr and finance
- - enerprise security
+ - enterprise security
  - poductivity tools
  - policy regulation/law/compliance
  - RPA
@@ -74,6 +74,7 @@ SAP
 - [SAP HANA Platform](https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/Cloud-Computing/HANA/SAP%20HANA-cloud.pdf)
 - [SAP HANA datasheet](https://www.sap.com/india/documents/2016/04/ac1e84d4-697c-0010-82c7-eda71af511fa.html)
 - [SAP HANA Master Guide](https://help.sap.com/doc/e95f6750b0fd10148ea5c6be75016694/2.0.03/en-US/SAP_HANA_Master_Guide_en.pdf)
+- [SAP BW/4HANA](https://help.sap.com/doc/24b2b055b00143c5bb552edff7cc57c4/1.0.7/en-US/SAP_BW4HANA_en.pdf)
 - [SAP ML Guide](https://www.sap.com/dmc/exp/2018-04-machine-learning-5-lessons-from-fast-learners/en-us/index.html)
 - [SAP Data Services](https://help.sap.com/doc/796ee6f713b64ce8aaca5b8bd06f9d4a/4.2.10/en-US/ds_42_sizing_en.pdf)
 - [CIO.Guide_.How_.to_.Use_.Hadoop.with_.Your_.SAP_.Software.Landscape](https://hortonworks.com/wp-content/uploads/2013/09/CIO.Guide_.How_.to_.Use_.Hadoop.with_.Your_.SAP_.Software.Landscape.pdf)
@@ -104,6 +105,12 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 - [SAP HANA Spatial Reference](https://help.sap.com/doc/9db42d044f8e415180d4a4475873b50a/2.0.03/en-US/SAP_HANA_Spatial_Reference_en.pdf)
 - [SAP ML Tutorials](https://www.sap.com/india/developer/topics/machine-learning.tutorials.html#tutorials)
 - [SAP ML Resources](https://www.sap.com/india/developer/topics/machine-learning.resources.html#resources)
+- [How much does a SAP HANA appliance really cost?](https://blogs.sap.com/2014/03/12/how-much-does-a-sap-hana-appliance-really-cost/)
+- [Projected Cost Analysis
+Of SAP HANA
+Cost Savings Enabled By
+Transitioning to HANA](https://www.g3g.com/hubfs/White_Papers/Projected_Cost_Analysis_of_the_SAP_HANA_platform.pdf?t=1487864777000)
+
 
 -----------
 
@@ -127,12 +134,6 @@ DS/ML/Analytics
 Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.gartner.com/reviews/market/data-science-machine-learning-platforms)
 
 ----------
-
-![gartner-mq-data-science-ml-platforms-2018-640](https://www.kdnuggets.com/images/gartner-mq-data-science-ml-platforms-2018-640.jpg)
-![gartner-2018-vs-2017-mq-data-science-ml-platforms-640](https://www.kdnuggets.com/images/gartner-2017-mq-data-science-platforms.png)
-![gartner-2016-mq-advanced-analytics-platforms](https://www.kdnuggets.com/images/gartner-2016-mq-advanced-analytics-platforms.jpg)
-![gartner-mq-advanced-analytics-platforms-2015](https://www.kdnuggets.com/images/gartner-mq-advanced-analytics-platforms-2015.jpg)
-
 ------------
 
 #### Appendix:
@@ -339,7 +340,8 @@ DataStore</td>
 </tr>
 </tbody>
 </table>
----
+
+-----
 
 #### Garnter Reviews-2018:
 
