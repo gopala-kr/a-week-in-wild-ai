@@ -26,9 +26,16 @@ Souce: [a-brief-history-of-databases](https://peterjamesthomas.com/wp-content/up
 
 ![os_big_data_open_source_tools](http://usblogs.pwc.com/emerging-technology/wp-content/uploads/2016/09/mw-15-1351-database-evolution-dist.png)
 
+----------
+
+DB as a service
+
+![daas_vendors.png?w=660](https://blog.jhnr.ch/images/daas_vendors.png?w=660)
+
+
 --------
 
 - [Evolution of Database Systems](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/edbs.pdf)
 - [New databases that scales high](https://www.slideshare.net/welkaim/new-databases-that-scales-high)
 - [SQL Recap for Interviews](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b)
-
+- [Overview of Database-as-a-Service offerings available in Public Cloud](https://blog.jhnr.ch/2015/09/07/overview-of-database-as-a-service-offerings-available-in-public-cloud/)
