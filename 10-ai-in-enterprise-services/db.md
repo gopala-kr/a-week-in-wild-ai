@@ -42,6 +42,8 @@ DB as a service
 - [New databases that scales high](https://www.slideshare.net/welkaim/new-databases-that-scales-high)
 - [SQL Recap for Interviews](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b)
 - [Overview of Database-as-a-Service offerings available in Public Cloud](https://blog.jhnr.ch/2015/09/07/overview-of-database-as-a-service-offerings-available-in-public-cloud/)
+- [Stackoverflow: Developer Survey Results
+2018](https://insights.stackoverflow.com/survey/2018/)
 
 -------
 
