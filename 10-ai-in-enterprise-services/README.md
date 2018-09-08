@@ -8,9 +8,11 @@
 - Data Generation
 - Data Sources
 - Data Collection
-- Data Ingestion
+- Data Ingestion, Aquisition, Integration
   - Batch
   - Stream
+- Data Storage
+- Data Modeling
 - Data Design patterns
 - Data architectures
   - Data pipelines
@@ -38,7 +40,16 @@
  - policy regulation/law/compliance
  - RPA
  
- 
+
+-----------
+
+#### System Architectures
+
+
+- [Scalable Software and Big Data Architecture - Application Types, Requirements, and Components](https://www.innoarchitech.com/cloud-software-big-data-architecture-application-types-requirements-components/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+- [Scalable Software and Big Data Architecture - Software Architectural Patterns and Design Patterns](https://www.innoarchitech.com/scalable-cloud-software-big-data-architecture-architectural-design-patterns/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+- [Scalable Software and Big Data Architecture - Big Data and Analytics Architectural Patterns](https://www.innoarchitech.com/scalable-software-big-data-analytics-architecture-architectural-design-patterns/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+
 ---------------
 
 #### Marketing
