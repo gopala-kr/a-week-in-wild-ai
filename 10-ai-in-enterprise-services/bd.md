@@ -282,6 +282,30 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 ![470f387e-5aa4-4c0f-a40c-7cf35b87feda](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/470f387e-5aa4-4c0f-a40c-7cf35b87feda.png)
 
+------
+
+![Big-data-architectural-pattern-from-AWS](http://www.computepatterns.com/wp-content/uploads/2016/05/Big-data-architectural-pattern-from-AWS.png)
+
+--------
+
+![AWSvAzureBigDataServices](https://i1.wp.com/thomaslarock.com/wp-content/uploads/2018/03/AWSvAzureBigDataServices.jpg?ssl=1)
+
+------
+
+![data_lake_reference_architecture](http://www.47lining.com/wordpress/wp-content/uploads/2016/03/data_lake_reference_architecture.png)
+
+----------
+
+![Healthcare](https://2xbbhjxc6wk3v21p62t8n4d4-wpengine.netdna-ssl.com/wp-content/uploads/2014/02/Healthcare-Ref-Arch-2.png)
+
+------
+
+![data-ch](https://www.yash.com/wp-content/uploads/2017/09/data-ch.png)
+
+---------
+
+![ibm_bigdata](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/ibm_bigdata.JPG)
+
 -----
 --------
 
@@ -318,11 +342,20 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 - [10 Amazing Things To Do With a Hadoop-Based Data Lake](https://www.slideshare.net/Pivotal/10-thingsdatalake-pivotalstratanyfinal)
 - [Big Data with a Simplified Cost Effective Architecture](https://blogs.saphana.com/2015/02/02/big-data-simplified-cost-effective-architecture/)
 - [Building a Modern Data Architecture with Enterprise Hadoop](https://www.slideshare.net/sbaltagi/building-a-modern-data-architecture-with-enterprise-hadoop)
+- [A Survey on Big Data Market: Pricing, Trading and Protection](https://ieeexplore.ieee.org/document/8293785/)
+- [Microsoft: The emerging big data architectural pattern]()
+- [Scalable Software and Big Data Architecture - Application Types, Requirements, and Components](https://www.innoarchitech.com/cloud-software-big-data-architecture-application-types-requirements-components/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+- [Scalable Software and Big Data Architecture - Software Architectural Patterns and Design Patterns](https://www.innoarchitech.com/scalable-cloud-software-big-data-architecture-architectural-design-patterns/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+- [Scalable Software and Big Data Architecture - Big Data and Analytics Architectural Patterns](https://www.innoarchitech.com/scalable-software-big-data-analytics-architecture-architectural-design-patterns/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+- [AWS: ABD201-Big Data Architectural Patterns and Best Practices on AWS](https://www.slideshare.net/AmazonWebServices/abd201big-data-architectural-patterns-and-best-practices-on-aws)
+- [Enterprise Architecture
+Patterns For Big Data](https://www.bcs.org/upload/pdf/enterprise-architecture-patterns-201016.pdf)
+- [Bigger Data, Better Architectures](https://medium.com/digital-mckinsey/bigger-data-better-architectures-fde3456da813)
+- [Hortonworks: Design patterns for real time streaming data analytics](https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38774)
+- [Making Sense of Stream Processing](https://www.oreilly.com/data/free/files/stream-processing.pdf)
+- [Oracle: 4 Data Lake Solution Patterns for Big Data Use Cases](https://blogs.oracle.com/bigdata/data-lake-solution-patterns-use-cases)
+- [From Lambda to Kappa: A Guide on Real-time Big Data Architectures](https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/)
 
 
 ---------
-
-
-
-
 -----
