@@ -36,6 +36,10 @@ DB as a service
 
 ![most_popular_databases_2018](https://www.eversql.com/wp-content/uploads/2018/03/most_popular_databases_2018-768x656.png)
 
+-------
+
+![nosql-dec-tree](https://www.innoarchitech.com/assets/images/nosql-dec-tree.png)
+
 --------
 
 - [Evolution of Database Systems](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/edbs.pdf)
