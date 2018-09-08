@@ -1,13 +1,7 @@
 
----------
-![ssJhyebEYzZ5j4wdVQarJqw96YJImxhZVNTt9KZD4fBHWzVQtOfsgFR0vWpWv1sJbP0zwbks5WH15ST0zh](https://api.ning.com/files/UNdbGkqHoSo0f-ssJhyebEYzZ5j4wdVQarJqw96YJImxhZVNTt9KZD4fBHWzVQtOfsgFR0vWpWv1sJbP0zwbks5WH15ST0zh/Capture.PNG)
 
 --------
 ![datashaping](http://www.datashaping.com/x332.png)
-
----------------
-
-![analytics-skills-infographic-lg](https://cdn1.onlinebusiness.american.edu/content/ba83bdeb027146dd8efb4cc0cef1d798/analytics-skills-infographic-lg.jpg)
 
 -------
 
@@ -29,11 +23,6 @@
 
 ---------
 ![UBU3VxoYV9F8NwVl837c5RoyfbPC3AcO9Knpc2odAO2gWprD10i0kplwvMXq3x0ljvlZpV9fnk6CPCW](https://api.ning.com/files/PSLA8DhTAUduGCJt*UBU3VxoYV9F8NwVl837c5RoyfbPC3AcO9Knpc2odAO2gWprD10i0kplwvMXq3x0ljvlZpV9fnk6CPCW/topr021200.jpg?width=750)
-
-
-
----------
-![dataqualityinfographic](https://api.ning.com/files/QiexpI9hytorRVfSMo-JCtjcLNltx9w638v0HjHwdCMKw1QJqCJJk60zh6y76t4Ds6UFH7M2bb3dgx-FOfrpcVSPgGpgVyh*/dataqualityinfographic.png)
 
 ---------
 
