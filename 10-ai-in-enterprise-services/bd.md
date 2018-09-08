@@ -241,6 +241,39 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 ![1_data_ingestion](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/1_data_ingestion.PNG)
 
+-------
+
+![1awgzrfyfwi](http://keenblog.wpengine.com/wp-content/uploads/2018/07/777b2-1awgzrfyfwi-cypzxptxrkw.png)
+
+-------
+
+![1rrdjy7awjvg9tn9lyg4dhg](http://keenblog.wpengine.com/wp-content/uploads/2018/07/799f1-1rrdjy7awjvg9tn9lyg4dhg.png)
+![f3ymkra_ybppqq](http://keenblog.wpengine.com/wp-content/uploads/2018/07/5d84a-1aigwzex-f3ymkra_ybppqq.png)
+
+--------
+
+![1c7_mekct0qmqgyzgmkhjdw](http://keenblog.wpengine.com/wp-content/uploads/2018/07/6fd71-1c7_mekct0qmqgyzgmkhjdw.png)
+
+------
+
+![1viijasvlp7tuxa8my8punw](http://keenblog.wpengine.com/wp-content/uploads/2018/07/8fe38-1viijasvlp7tuxa8my8punw.png)
+
+----------
+
+![2ygr46q9omim4a4tba](http://keenblog.wpengine.com/wp-content/uploads/2018/07/0dc44-1ebv-2ygr46q9omim4a4tba.png)
+
+----------
+
+![170jbext4ccbnlyfj6ayyrw](http://keenblog.wpengine.com/wp-content/uploads/2018/07/76103-170jbext4ccbnlyfj6ayyrw.png)
+
+-------
+
+![1wtsodtrvyzuavtxwmhtkbg](http://keenblog.wpengine.com/wp-content/uploads/2018/07/fa604-1wtsodtrvyzuavtxwmhtkbg.png)
+![10ivpkrgoqt1fqcw6_rskwg](http://keenblog.wpengine.com/wp-content/uploads/2018/07/13783-10ivpkrgoqt1fqcw6_rskwg.png)
+![1lsoxqblh](http://keenblog.wpengine.com/wp-content/uploads/2018/07/f684d-1lsoxqblh-dievx0hlhrmhq.png)
+![1f4nk9wfz7t7vrhtckhvjmg](http://keenblog.wpengine.com/wp-content/uploads/2018/07/8f940-1f4nk9wfz7t7vrhtckhvjmg.png)
+![1dqdafswr358rkls](http://keenblog.wpengine.com/wp-content/uploads/2018/07/c0df0-1dqdafswr358rkls-by5ovq.png)
+
 -----
 --------
 
