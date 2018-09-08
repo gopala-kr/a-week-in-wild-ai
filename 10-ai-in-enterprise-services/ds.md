@@ -53,4 +53,8 @@ Source: [Common Probability Distributions: The Data Scientist’s Crib Sheet](ht
 
 ![datascientist-languages-01-003](https://www.betterbuys.com/wp-content/uploads/2016/05/datascientist-languages-01-003.png)
 
-----
+-------------
+
+![Marketers-Use-Data-Analytics-IG](https://taxandbusinessonline.villanova.edu/wp-content/themes/ckg-blank-child/img/resources/business/Marketers-Use-Data-Analytics-IG.png)
+
+-----------
