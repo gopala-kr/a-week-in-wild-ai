@@ -98,9 +98,19 @@ SAS System](https://web.archive.org/web/20131012065352/http://www.stat.berkeley.
 - [IBM Analytics products](https://www.ibm.com/analytics/products)
 - [Analytics Roadmap Index](https://bigblue.aha.io/published/3bcb05bd498d8253b81becf647a73350?page=1)
 - [Big Data Platforms, Tools, and Research at IBM](https://www.nist.gov/sites/default/files/documents/itl/ssd/is/NIST-BD-Platforms-01-Pednault-BigData-NIST.pdf)
+- [IBM Data Science Experience
+and Watson Data Platfor](http://www.efinancelab.de/fileadmin/documents/conferences/Fruehjahrstagung2018/Presentations/Schaeck_Data_Science_Experience.pdf)
 - [IBM Watson Overview](https://www.slideshare.net/psuedtechnet/ibm-watson-overview)
 - [IBM Watson services](https://dataplatform.cloud.ibm.com/docs/content/getting-started/welcome-main.html)
 - [What is Watson – An Overview](https://www.usenix.org/legacy/events/lisa11/tech/slides/perrone.pdf)
+- [Watson analytics](https://www.slideshare.net/sheetalsharma31/watson-analytics-44218472)
+- [IBM Watson Analytics](https://community.watsonanalytics.com/wp-content/uploads/2016/12/Watson_Analytics.pdf?cm_mc_uid=79276921207114937583777&cm_mc_sid_50200000=1496859213)
+- [IBM SPSS Statistics 22 Core System
+User's Guide](http://www.sussex.ac.uk/its/pdfs/SPSS_Core_System_User_Guide_22.pdf)
+- [R vs SAS vs SPSS- Comparison between Top 3 Data Analytics Tools](https://www.linkedin.com/pulse/r-vs-sas-spss-comparison-between-top-3-data-tools-santosh-bakliwal)
+- [IBM Data Science Experience - Mladen Jovanovski](https://www.slideshare.net/Insitute_of_Contemporary_Sciences/ibm-data-science-experience-mladen-jovanovski)
+- [IBM Data Science Experience
+Overview](https://www-01.ibm.com/events/wwe/grp/grp304.nsf/vLookupPDFs/Bernie%20Beekman%20Presentation/$file/Bernie%20Beekman%20Presentation.pdf)
 
 ---------------------------------------
 
