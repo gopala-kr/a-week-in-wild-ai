@@ -63,8 +63,33 @@
 
 #### SAS
 
-
-
+- [The Future of the SAS Platform](https://www.sas.com/content/dam/SAS/en_au/doc/User%20Groups/usergroup-quarter-4-2017-presentation-mike-frost.pdf)
+- [PORTFOLIO AND TECHNOLOGY DIRECTION](http://www.sas.com/partners/events/forum15/24Sept_presentation2_AWS_Guard_Portfolio_Highlights_AWS_RG.pdf)
+- [Data Management and Analytics update](https://www.sas.com/content/dam/SAS/en_au/doc/User%20Groups/sunz/Presentations/Wessel%20De%20Meyer%2C%20Data%20Management%20and%20Analytics%20SUNZ%202017.pdf)
+- [SAS Technical Papers](http://support.sas.com/resources/papers/index.html)
+- [SAS Trainings](http://support.sas.com/training/us/sp1.html)
+- [SAS® Academy for Data Science](https://www.sas.com/en_us/training/academy-data-science.html)
+- [SAS Takes Next Steps to Cloud Analytics](https://www.constellationr.com/blog-news/sas-takes-next-steps-cloud-analytics)
+- [SAS® Certification Prep Guide: Base Programming for SAS®9, Fourth Edition](https://www.sas.com/storefront/aux/en/certpgbp/71337_excerpt.pdf)
+- [SAS Certification Prep Guide Base Programming for SAS9 Second Edition](http://support.sas.com/publishing/pubcat/chaps/62439.pdf)
+- [The Little SAS Book: A Primer, Fifth Edition](https://www.sas.com/storefront/aux/en/splsb/65423_excerpt.pdf)
+- [Little.SAS_.Book_.A_Primer.Third_.Edition](https://www.dermepi.eu/wp-content/uploads/2017/04/Little.SAS_.Book_.A_Primer.Third_.Edition.pdf)
+- [Exercises and Projects for The Little SAS® Book, Fifth Edition](https://support.sas.com/content/dam/SAS/support/en/books/excercises-and-projects-for-the-little-sas-book/67330_excerpt.pdf)
+- [Python vs. R (vs. SAS) – which tool should I learn?](https://www.analyticsvidhya.com/blog/2017/09/sas-vs-vs-python-tool-learn/)
+- [24G SAS Opens the Way to the Latest
+High-Performance Applications](https://www.flashmemorysummit.com/English/Collaterals/Proceedings/2017/20170809_S204B_Panel.pdf)
+- [SAS ® Technology Roadmap ](https://www.thotwave.com/wp-content/uploads/2015/09/sas_user_roadmap_rev_15.pdf)
+- [SAS Inside Intelligence 2011 – Executive Viewpoioint](http://jtonedm.com/2011/03/07/sas-inside-intelligence-2011-executive-viewpoioint/)
+- [Data Analysis using the SAS Language](https://en.wikiversity.org/wiki/Data_Analysis_using_the_SAS_Language)
+- [Handbook of SAS® DATA Step Programming](https://books.google.co.in/books?id=kBL_aEB6RX0C&pg=PA149&redir_esc=y#v=onepage&q&f=false)
+- [An Introduction
+to the
+SAS System](https://web.archive.org/web/20131012065352/http://www.stat.berkeley.edu/classes/s100/sas.pdf)
+- [SAS corporate timeline](https://www.wral.com/business/story/9211429/)
+- [SAS is No. 1 in advanced and predictive analytics market share, says analyst report](https://www.sas.com/en_us/news/press-releases/2017/august/idc-advanced-and-predictive-analytics-market-share.html)
+- [IDC: Worldwide Big Data and Analytics Software Market Shares,
+2016: Public Cloud Drives Growth](https://www.sas.com/content/dam/SAS/en_us/doc/analystreport/idc-big-data-analytics-software-market-shares-108014.pdf)
+- [The Popularity of Data Science Software](http://r4stats.com/articles/popularity/)
 
 ----------------
 
