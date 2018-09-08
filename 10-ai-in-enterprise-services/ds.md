@@ -1,6 +1,18 @@
 
 
 --------
+
+![Data-Science-Periodic-Table](https://i2.wp.com/s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.png)
+
+------
+
+![distribution](http://blog.cloudera.com/wp-content/uploads/2015/12/distribution.png)
+
+
+Source: [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
+
+
+--------
 ![datashaping](http://www.datashaping.com/x332.png)
 
 -------
@@ -27,6 +39,18 @@
 
 ---------
 
+![20160324_springboard_vennDiagram](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)
 
+-------
 
+![727dcab957de412c83fcc37f382233ee_z8rmxy](http://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1523010085/main-qimg-727dcab957de412c83fcc37f382233ee_z8rmxy.png)
 
+--------
+
+![data-scientist-roles-01](https://www.betterbuys.com/wp-content/uploads/2016/05/data-scientist-roles-01.png)
+
+-------
+
+![datascientist-languages-01-003](https://www.betterbuys.com/wp-content/uploads/2016/05/datascientist-languages-01-003.png)
+
+----
