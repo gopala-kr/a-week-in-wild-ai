@@ -274,6 +274,14 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 ![1f4nk9wfz7t7vrhtckhvjmg](http://keenblog.wpengine.com/wp-content/uploads/2018/07/8f940-1f4nk9wfz7t7vrhtckhvjmg.png)
 ![1dqdafswr358rkls](http://keenblog.wpengine.com/wp-content/uploads/2018/07/c0df0-1dqdafswr358rkls-by5ovq.png)
 
+-------
+
+![The emerging big data architectural pattern](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4fd6d1cc-0834-4d6c-a7e9-7d8c22c1804a.png)
+
+------
+
+![470f387e-5aa4-4c0f-a40c-7cf35b87feda](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/470f387e-5aa4-4c0f-a40c-7cf35b87feda.png)
+
 -----
 --------
 
