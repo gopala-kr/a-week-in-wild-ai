@@ -96,6 +96,11 @@ SAS System](https://web.archive.org/web/20131012065352/http://www.stat.berkeley.
 #### IBM
 
 - [IBM Analytics products](https://www.ibm.com/analytics/products)
+- [Analytics Roadmap Index](https://bigblue.aha.io/published/3bcb05bd498d8253b81becf647a73350?page=1)
+- [Big Data Platforms, Tools, and Research at IBM](https://www.nist.gov/sites/default/files/documents/itl/ssd/is/NIST-BD-Platforms-01-Pednault-BigData-NIST.pdf)
+- [IBM Watson Overview](https://www.slideshare.net/psuedtechnet/ibm-watson-overview)
+- [IBM Watson services](https://dataplatform.cloud.ibm.com/docs/content/getting-started/welcome-main.html)
+- [What is Watson – An Overview](https://www.usenix.org/legacy/events/lisa11/tech/slides/perrone.pdf)
 
 ---------------------------------------
 
