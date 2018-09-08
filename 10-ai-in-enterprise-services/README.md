@@ -44,21 +44,6 @@
 
 
 
----------------
-
-#### Marketing
-
-
-
------
-
-#### Advertizing
-
-
-
-
-
-
 ----------------------------
 
 #### SAS
@@ -114,7 +99,7 @@ Overview](https://www-01.ibm.com/events/wwe/grp/grp304.nsf/vLookupPDFs/Bernie%20
 
 ---------------------------------------
 
-SAP 
+#### SAP 
 
 - [SAP HANA Platform](https://github.com/gopala-kr/code-rush-101/blob/master/something-learned/Cloud-Computing/HANA/SAP%20HANA-cloud.pdf)
 - [SAP HANA datasheet](https://www.sap.com/india/documents/2016/04/ac1e84d4-697c-0010-82c7-eda71af511fa.html)
@@ -163,12 +148,61 @@ Transitioning to HANA](https://www.g3g.com/hubfs/White_Papers/Projected_Cost_Ana
 
 - [Azure Architecture Center](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics)
 
+
+--------
+#### AWS
+
 ----------
 
-#### Custermer Service
+#### KNIME
+
+------------
+
+
+#### Alteryx
+
+------------
+
+#### RapidMiner
+
+-------
+
+#### H2O.ai
+
+------
+#### Domino Data Lab
+
+-------
+#### Dataiku
+
+-----------
+#### Databricks (new) 
+
+------
+#### Angoss
+
+-----
+#### Anaconda
+
+---------
+#### Teradata
+ 
+ 
+ 
+---------------
+### Technical Architecture
+
+    - Adverizing
+    - Marketing
+    - Sales
+    - Custermer Service
+    - enterprise hr and finance
+    - enterprise security
+    - poductivity tools
+    - policy regulation/law/compliance
+    - RPA
 
 ----------
-
 ------------
 
 #### Appendix:
