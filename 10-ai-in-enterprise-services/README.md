@@ -55,6 +55,8 @@ Patterns For Big Data](https://www.bcs.org/upload/pdf/enterprise-architecture-pa
 - [Bigger Data, Better Architectures](https://medium.com/digital-mckinsey/bigger-data-better-architectures-fde3456da813)
 - [Hortonworks: Design patterns for real time streaming data analytics](https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38774)
 - [Making Sense of Stream Processing](https://www.oreilly.com/data/free/files/stream-processing.pdf)
+- [Oracle: 4 Data Lake Solution Patterns for Big Data Use Cases](https://blogs.oracle.com/bigdata/data-lake-solution-patterns-use-cases)
+- [From Lambda to Kappa: A Guide on Real-time Big Data Architectures](https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/)
 
 
 ---------------
