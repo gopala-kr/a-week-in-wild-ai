@@ -306,6 +306,10 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 ![ibm_bigdata](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/ibm_bigdata.JPG)
 
+----------
+
+![dsx_db](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ibm/dsx_db.JPG)
+
 -----
 --------
 
