@@ -40,6 +40,10 @@ DB as a service
 
 ![nosql-dec-tree](https://www.innoarchitech.com/assets/images/nosql-dec-tree.png)
 
+-----------
+
+![dbaas](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/imgs/dbaas.JPG)
+
 --------
 
 - [Evolution of Database Systems](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/edbs.pdf)
@@ -48,6 +52,11 @@ DB as a service
 - [Overview of Database-as-a-Service offerings available in Public Cloud](https://blog.jhnr.ch/2015/09/07/overview-of-database-as-a-service-offerings-available-in-public-cloud/)
 - [Stackoverflow: Developer Survey Results
 2018](https://insights.stackoverflow.com/survey/2018/)
+- [5 Top Cloud Databases that Works Wonders!](https://hackernoon.com/5-top-cloud-databases-that-works-wonders-7e628810e3ac)
+- [Pros and Cons of Database as a Service (DBaaS)](https://www.objectrocket.com/blog/company/advantages-and-disadvantages-of-dbaas/)
+- [IBM: Database as a Service (DBaaS)](https://www.ibm.com/developerworks/community/blogs/8f058ee2-f3aa-4976-aeb8-4e6102dc86f8/entry/what-is-database-as-a-service-dbaas?lang=en)
+- [Best Database as a Service (DBaaS) Provider](https://www.g2crowd.com/categories/database-as-a-service-dbaas)
+- [The Best Database-as-a-Service Solutions of 2018](https://in.pcmag.com/software/124292/guide/the-best-database-as-a-service-solutions-of-2018)
 
 -------
 
