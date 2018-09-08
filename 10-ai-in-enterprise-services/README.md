@@ -43,12 +43,19 @@
 
 -----------
 
-#### System Architectures
+#### Bigdata Architectures
 
-
+- [Microsoft: The emerging big data architectural pattern]()
 - [Scalable Software and Big Data Architecture - Application Types, Requirements, and Components](https://www.innoarchitech.com/cloud-software-big-data-architecture-application-types-requirements-components/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
 - [Scalable Software and Big Data Architecture - Software Architectural Patterns and Design Patterns](https://www.innoarchitech.com/scalable-cloud-software-big-data-architecture-architectural-design-patterns/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
 - [Scalable Software and Big Data Architecture - Big Data and Analytics Architectural Patterns](https://www.innoarchitech.com/scalable-software-big-data-analytics-architecture-architectural-design-patterns/?utm_source=innoarchitech&utm_medium=post&utm_content=relatedlink&utm_campaign=blog)
+- [AWS: ABD201-Big Data Architectural Patterns and Best Practices on AWS](https://www.slideshare.net/AmazonWebServices/abd201big-data-architectural-patterns-and-best-practices-on-aws)
+- [Enterprise Architecture
+Patterns For Big Data](https://www.bcs.org/upload/pdf/enterprise-architecture-patterns-201016.pdf)
+- [Bigger Data, Better Architectures](https://medium.com/digital-mckinsey/bigger-data-better-architectures-fde3456da813)
+- [Hortonworks: Design patterns for real time streaming data analytics](https://conferences.oreilly.com/strata/big-data-conference-ca-2015/public/schedule/detail/38774)
+- [Making Sense of Stream Processing](https://www.oreilly.com/data/free/files/stream-processing.pdf)
+
 
 ---------------
 
