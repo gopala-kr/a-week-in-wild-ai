@@ -4,9 +4,6 @@
 ![datashaping](http://www.datashaping.com/x332.png)
 
 -------
-
-![content_infographic_fixed](http://community.datacamp.com.s3.amazonaws.com/community/production/ckeditor_assets/pictures/393/content_infographic_fixed.jpg)
-
 -------------
 
 ![prg](https://api.ning.com/files/iUa255heshidpDsSwfWRlUtCcHMETbzaB2Z-xm3yfFL22WrV5nEW3fGwgeIn63vwgfrnWnQrQmm3LqTEedLWjSQPcqjx8sts/prg.png)
