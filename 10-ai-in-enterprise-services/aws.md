@@ -47,42 +47,114 @@
 ![6f217521079ec3971a5c767c4498be2716b5a1f5](https://d1.awsstatic.com/partner-network/QuickStart/datasheets/informatica-edc-architecture-on-aws.6f217521079ec3971a5c767c4498be2716b5a1f5.png)
 ![2cad7851c76219f77f2234f501ad141c2dfe2ffe](https://d1.awsstatic.com/partner-network/QuickStart/datasheets/industrial-time-series-on-aws-architecture.2cad7851c76219f77f2234f501ad141c2dfe2ffe.png)
 --------
-![]()
+![1_mobile_backend](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/1_mobile_backend.JPG)
 
 --------
-![]()
+![2_s3Hosted](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/2_s3Hosted.JPG)
 
 --------
-![]()
+![3_microservice](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/3_microservice.JPG)
 
 --------
-![]()
+![4_serverless](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/4_serverless.JPG)
 
 --------
 --------
-![]()
+![5_lambda](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/5_lambda.JPG)
 
 --------
-![]()
+![6_serverless](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/6_serverless.JPG)
 
 --------
-![]()
+![7_streaming](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/7_streaming.JPG)
 
 --------
-![]()
+![8_sream_ingest](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/8_sream_ingest.JPG)
 
 --------
-![]()
+![9_realtime_analytics](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/9_realtime_analytics.JPG)
 
 --------
-![]()
+![10_aws](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/10_aws.JPG)
 
 --------
-![]()
+![11_aws_elasticity](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/11_aws_elasticity.JPG)
 
 --------
 
------
+--------
+![12_aws_security](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/12_aws_security.JPG)
+
+--------
+![14_timeseries](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/14_timeseries.JPG)
+
+--------
+![16_ecom_2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/15_e-com_1.JPG)
+
+--------
+![16_ecom_2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/16_ecom_2.JPG)
+
+--------
+--------
+![17_eocm_3](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/17_eocm_3.JPG)
+
+--------
+![18_ecom_fin](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/18_ecom_fin.JPG)
+
+--------
+![19_wb_log](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/19_wb_log.JPG)
+
+--------
+![20_game](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/20_game.JPG)
+
+--------
+![21_med_sharing](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/21_med_sharing.JPG)
+
+--------
+![22_file_sharing](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/22_file_sharing.JPG)
+
+--------
+![23_diasaster](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/23_diasaster.JPG)
+
+--------
+
+--------
+![24_adevertize](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/24_adevertize%20serving.JPG)
+
+--------
+![25_large_scale](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/25_large_scale.JPG)
+
+--------
+![27_batch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/27_batch.JPG)
+
+--------
+![26_fault_tolerant](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/26_fault_tolerant.JPG)
+
+--------
+![28_content_med](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/28_content_med.JPG)
+
+--------
+![29_web_app](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/29_web_app.JPG)
+
+--------
+--------
+![30_microservice](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/30_microservice.JPG)
+
+--------
+![31_api_gateway](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/31_api_gateway.JPG)
+
+--------
+--------
+![32_auditing](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/32_auditing.JPG)
+
+--------
+![34_security](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/34_security.JPG)
+
+--------
+--------
+![35_media_data](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/aws/35_media_data.JPG)
+
+-------------
 
 ![Architecture](https://github.com/aws-samples/lambda-refarch-image-moderation-chatbot/blob/master/images/Architecture.png)
 
