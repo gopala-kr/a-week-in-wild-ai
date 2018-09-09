@@ -317,6 +317,38 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 --------
 
 ![d_distributed-edge-analytics](https://guavus.com/wp-content/uploads/2017/09/d_distributed-edge-analytics@2x.png)
+----------
+
+![building-big-data-pipeline-on-robin-cloud-platform-blu-v4](https://robinsystems.com/wp-content/uploads/2017/12/building-big-data-pipeline-on-robin-cloud-platform-blu-v4.png)
+-----
+![lambda1](https://tsicilian.files.wordpress.com/2015/01/lambda1.png)
+-----
+![flafka](http://blog.cloudera.com/wp-content/uploads/2014/11/flafka-f11.png)
+-----
+![etl_streaming](https://www.confluent.io/wp-content/uploads/etl_streaming.png)
+-----
+![pearson](https://databricks.com/wp-content/uploads/2014/12/pearson-1.png)
+-----
+![fig1](https://res.infoq.com/articles/traffic-data-monitoring-iot-kafka-and-spark-streaming/en/resources/fig1-large.jpg)
+-----
+![Kafka_connect](https://www.confluent.io/wp-content/uploads/Kafka_connect-1024x436.jpg)
+-----
+![Screen](https://www.wondermentapps.com/wp-content/uploads/Screen-Shot-2016-11-08-at-5.30.14-PM.png)
+-----
+![TwitterPipelineDiagram](https://nycdatascience.com/blog/wp-content/uploads/2017/06/TwitterPipelineDiagram.png)
+-----
+-----
+![pipelines](https://www.memsql.com/images/product/pipelines/pipelines-architecture.png)
+-----
+![data](https://www.confluent.io/wp-content/uploads/data-flow-ugly-1-1024x570.png)
+-----
+-----
+![archi](http://people.ischool.berkeley.edu/~qianyu/my_ds_projects/img/archi.png)
+-----
+![Building](https://images.xenonstack.com/blog/Data-Ingestion-Using-Apache-Nifi-For-Building-Data-Lakes-Twitter-Data.jpg)
+-----
+-----
+![centric](https://confluentinc.files.wordpress.com/2015/02/stream-centric-architecture1.png)
 
 -----
 --------
@@ -368,6 +400,8 @@ Patterns For Big Data](https://www.bcs.org/upload/pdf/enterprise-architecture-pa
 - [Oracle: 4 Data Lake Solution Patterns for Big Data Use Cases](https://blogs.oracle.com/bigdata/data-lake-solution-patterns-use-cases)
 - [From Lambda to Kappa: A Guide on Real-time Big Data Architectures](https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/)
 - [The Evolution of Data Architecture](https://www.slideshare.net/WeiChiuChuang/the-evolution-of-data-architecture-80772627)
+- [Building Data Pipelines with Spark and StreamSets](https://www.slideshare.net/metadaddy/building-data-pipelines-with-spark-and-streamsets)
+- [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
 
 recent papers
 
