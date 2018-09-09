@@ -58,3 +58,9 @@ Source: [Common Probability Distributions: The Data Scientist’s Crib Sheet](ht
 ![Marketers-Use-Data-Analytics-IG](https://taxandbusinessonline.villanova.edu/wp-content/themes/ckg-blank-child/img/resources/business/Marketers-Use-Data-Analytics-IG.png)
 
 -----------
+
+- [Beautiful Data Science Presentations](https://towardsdatascience.com/beautiful-data-science-presentations-9e9d8fd91446)
+- [My recommendations – SlideShare Presentations on Data Science](https://www.slideshare.net/pormonde/data-scientists-are-all-lyers)
+
+
+---------
