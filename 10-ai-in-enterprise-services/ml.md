@@ -138,6 +138,27 @@
 -----------
 ![22_facebook_ml](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/22_facebook_ml.JPG)
 
+--------
+
+![kJTtf1i3W2VrWG782_gCFw](https://cdn-images-1.medium.com/max/880/1*kJTtf1i3W2VrWG782_gCFw.png)
+
+--------
+
+![vectors-architecture-backend-systems](https://spotifylabscom.files.wordpress.com/2016/08/vectors-architecture-backend-systems.png)
+
+-----
+
+![mendeley-suggest-architecture-1.jpg?w=900](https://buildingrecommenders.files.wordpress.com/2016/10/mendeley-suggest-architecture-1.jpg?w=900)
+
+-----
+
+![architectures](https://www.researchgate.net/profile/Sachchidanand_Singh3/publication/282447418/figure/fig2/AS:306991017807873@1450203770758/Reference-Architecture-for-Large-E-commerce-Enterprise-The-reference-architectures-for.png)
+
+------
+
+![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f466c7578436170616369746f7242696744617461506970656c696e654172636869746563747572654f766572766965772e706e67](https://camo.githubusercontent.com/bba1fb7e38abbfbc2a765009d85960b5efb27f51/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f466c7578436170616369746f7242696744617461506970656c696e654172636869746563747572654f766572766965772e706e67)
+
+
 -----------
 -----------
 - [Ask HN: What does your production machine learning pipeline look like?](https://news.ycombinator.com/item?id=13821217)
@@ -205,5 +226,8 @@ Production Machine Learning](https://static.googleusercontent.com/media/research
 - [Advanced Analytics Packages, Frameworks, and Platforms by Scenario or Task](https://www.innoarchitech.com/packages-frameworks-platforms-by-scenario-task-artificial-intelligence-ai-machine-learning-data-science/?utm_source=innoarchitech&utm_medium=post&utm_content=chapterlink&utm_campaign=blog)
 - [How to Deploy Deep Learning Models with AWS Lambda and Tensorflow](https://aws.amazon.com/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)
 - [Machine Learning Model Factory and Road To Production](https://community.hortonworks.com/articles/138518/machine-learning-model-factory-and-road-to-product.html)
+- [How Does Spotify Know You So Well?](https://medium.com/s/story/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+- [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html)
+- [Build a Recommendation Engine using Amazon Machine Learning in Real-time](https://www.slideshare.net/AmazonWebServices/build-a-recommendation-engine-using-amazon-machine-learning-in-realtime)
 
 ---------------
