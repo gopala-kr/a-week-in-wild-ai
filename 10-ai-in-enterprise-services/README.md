@@ -168,13 +168,44 @@ Analytics Solutions on AWS](https://d1.awsstatic.com/whitepapers/Analytics/ME%20
 Processing on AWS with Spark
 Streaming and Spark SQL](https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf)
 - [Data Warehousing on AWS](https://d1.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Data Lakes and Analytics on AWS](https://aws.amazon.com/big-data/datalakes-and-analytics/)
+- [Data Warehousing on AWS: featured-partners](https://aws.amazon.com/big-data/datalakes-and-analytics/featured-partners/)
+- [Building Data Lakes with AWS](https://www.slideshare.net/AmazonWebServices/building-data-lakes-with-aws)
+- [BDA305 Building Data Lakes and Analytics on AWS](https://www.slideshare.net/AmazonWebServices/bda305-building-data-lakes-and-analytics-on-aws)
+- [Deploying a Data Lake on AWS - AWS Online Tech Talks March 2017](https://www.slideshare.net/AmazonWebServices/deploying-a-data-lake-on-aws)
+- [Architecting a Data Lake on AWS](https://www.slideshare.net/AmazonWebServices/building-a-data-lake-on-aws-68203080)
+- [Building Big Data Storage
+Solutions (Data Lakes)
+for Maximum Flexibility
+AWS Whitepaper](https://docs.aws.amazon.com/aws-technical-content/latest/building-data-lakes/building-data-lakes-on-aws.pdf)
+- [EBOOK:
+Building a
+Data Lake
+on AWS](https://s3.amazonaws.com/big-data-ipc/AWS_Data-Lake_eBook.pdf)
+- [Data Lake Foundation on the
+AWS Cloud
+with AWS Services](https://s3.amazonaws.com/quickstart-reference/datalake/47lining/latest/doc/data-lake-foundation-on-the-aws-cloud-with-aws-services.pdf)
+- [ANALYTICS ON AWS](https://pages.awscloud.com/rs/112-TZM-766/images/Analytics_LondonTDPS_Armstrong.pdf)
+- [AWS IoT Analytics
+AWS IoT Analytics User Guide](https://docs.aws.amazon.com/iotanalytics/latest/userguide/analytics-ug.pdf)
+- [Machine Data Analytics
+for AWS Services]()
+- [Large Scale Data Analytics on AWS](http://aws-de-media.s3.amazonaws.com/images/ISC%20Clould%20%26%20Big%20Data/AWS_ISC_Large_Scale_Data_Analytics_with_AWS.pdf)
+- [Implementing a Cloud Analytics
+Solution on Amazon Web Services
+with Amazon Redshift and
+Informatica Cloud
+](https://kb.informatica.com/proddocs/Product%20Documentation/5/CloudAnalytics_ReferenceArchitecture.pdf)
+- [Big Data and Analytics on AWS](https://www.slideshare.net/AmazonWebServices/big-data-and-analytics-on-aws)
+- [An Overview of Machine Learning on AWS](https://www.slideshare.net/AmazonWebServices/an-overview-of-machine-learning-on-aws)
+- [Artificial Intelligence & Machine Learning on AWS](https://www.slideshare.net/AmazonWebServices/artificial-intelligence-machine-learning-on-aws)
+- [Amazon Machine Learning
+Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinelearning-dg.pdf)
+- [Machine Learning on AWS](https://aws.amazon.com/machine-learning/?nc2=h_l3_ai)
+- [CMP314_Bringing Deep Learning to the Cloud with Amazon EC2](https://www.slideshare.net/AmazonWebServices/cmp314bringing-deep-learning-to-the-cloud-with-amazon-ec2)
+- [Deep Learning on AWS with TensorFlow - AWS Online Tech Talks](https://www.slideshare.net/AmazonWebServices/deep-learning-on-aws-with-tensorflow-aws-online-tech-talks)
+- [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/page/3/)
+
 
 ----------
 
