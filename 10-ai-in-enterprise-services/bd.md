@@ -310,6 +310,14 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 
 ![dsx_db](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ibm/dsx_db.JPG)
 
+------
+
+![d_architecture](https://guavus.com/wp-content/uploads/2017/10/d_architecture@2x.png)
+
+--------
+
+![d_distributed-edge-analytics](https://guavus.com/wp-content/uploads/2017/09/d_distributed-edge-analytics@2x.png)
+
 -----
 --------
 
