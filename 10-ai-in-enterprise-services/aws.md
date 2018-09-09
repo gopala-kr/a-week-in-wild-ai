@@ -156,7 +156,104 @@
 
 ![photo-processing-backend-diagram](https://raw.githubusercontent.com/aws-samples/lambda-refarch-imagerecognition/master/images/photo-processing-backend-diagram.png)
 
+-----------
+
+![ddl_2](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/03/31/ddl_2.gif)
+
 ---------
+![refarch](http://brightwolf.com/wp-content/uploads/2017/09/refarch.png)
+
+---------
+![MLprocess](https://www.bulletproof.net.au/wp-content/uploads/MLprocess.png)
+
+---------
+![CelebritySleuthArchitecture](https://i0.wp.com/srini.karlekar.com/wp-content/uploads/2017/05/CelebritySleuthArchitecture.png)
+
+---------
+![learning](https://image.slidesharecdn.com/ara-iro-5-fri-1130-abd403-53c97ca7-ac45-479d-9f66-bea98665aa5e-874344314-171207232437/95/best-practices-for-distributed-machine-learning-and-predictive-analytics-using-amazon-emr-and-opensource-tools-abd403-reinvent-2017-33-638.jpg?cb=1512689086)
+
+---------
+![635af5c1fe34ada1a65fcf317ce996f42b90773d](https://d1.awsstatic.com/architecture-diagrams/customers/hg-data-logo.635af5c1fe34ada1a65fcf317ce996f42b90773d.png)
+
+---------
+![how-to-build-a-complete-iot-solution-with-aws-an-use-case-approach-1](https://www.bootcamplab.com/wp-content/uploads/2017/03/how-to-build-a-complete-iot-solution-with-aws-an-use-case-approach-1.png)
+
+---------
+![AWS-Lex-and-Polly2-Page-1](http://d11xp74i1x0r3b.cloudfront.net/2017/03/AWS-Lex-and-Polly2-Page-1.jpg)
+
+---------
+![envservices](http://blog.contino.io/hs-fs/hubfs/envservices.png?t=1491301443950&width=690&height=353&name=envservices.png)
+
+---------
+![devsisters-architecture](https://microsoftapac.github.io/images/2017-08-01-devsisters/devsisters-architecture.png)
+
+---------
+![amazon_bigdata](https://i1.wp.com/www.jenunderwood.com/wp-content/uploads/2016/11/amazon_bigdata.gif)
+
+---------
+![DataService_LambdaArchitecture](https://techblog.glomex.com/images/DataService_LambdaArchitecture.jpg)
+
+---------
+
+![fraud-detection-with-amazon-machine-learning-on-aws-69-638.jpg?](https://image.slidesharecdn.com/fraud-detection-with-amazon-ma-1d935fb6-5786-4b5c-acf8-7a8da6f489e4-1147579238-170922143306/95/fraud-detection-with-amazon-machine-learning-on-aws-69-638.jpg?cb=1507147938)
+
+---------
+![gallery](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/569/264/datas/gallery.jpg)
+
+---------
+![aws-components-800x354](https://www.zaloni.com/wp-content/uploads/2018/01/aws-components-800x354.png)
+
+---------
+![Gunosy1](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2018/01/03/Gunosy1.png)
+
+---------
+![SolutionArchitecture](https://media.amazonwebservices.com/blog/2017/ElasticSearch-01-SolutionArchitecture.png)
+
+---------
+![aws-big-data-solution-days-66-638](https://image.slidesharecdn.com/fulldeck-bigdata-160919182612/95/aws-big-data-solution-days-66-638.jpg?cb\u003d1474654252)
+
+---------
+![a2qVGVil7BugXB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaPL1zqkpLLZ-x9N1BxHq0Y-a2qVGVil7BugXB-b9UUkALNUNK)
+
+---------
+![big-data-solution-overview](https://image.slidesharecdn.com/01-aws-bigdata-day-welcome-a-eb010eed-9782-4745-bed7-d336c065fa81-1119673483-171107071455/95/welcome-aws-big-data-solution-overview-28-638.jpg?cb=1510038900)
+
+---------
+![aws-reinvent-2016-securing-enterprise-big-data-workloads](https://image.slidesharecdn.com/montdtue1230sec308-161220163017/95/aws-reinvent-2016-securing-enterprise-big-data-workloads-on-aws-sec308-6-638.jpg?cb=1482251487)
+
+---------
+![rampreferencearchitecture](https://www.inawisdom.com/wp-content/uploads/2018/04/rampreferencearchitecture-1024x382.png)
+
+---------
+![1491301443950](http://blog.contino.io/hs-fs/hubfs/envservices.png?t=1491301443950&width=690&height=353&name=envservices.png)
+
+---------
+
+![Abay3](https://blog.sungardas.com/CTOLabs/wp-content/uploads/2017/08/Abay3-600x338.png)
+
+--------
+![Clickstream1_o2](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2017/02/02/Clickstream1_o2-1024x393.gif)
+
+--------
+![outcomes](https://image.slidesharecdn.com/moderndataarchitecturesforbusinessoutcomes-170301092716/95/modern-data-architectures-for-business-outcomes-67-638.jpg?cb=1488550731)
+
+--------
+![accenture](https://cdn3.techworld.com/cmsdata/blogentries/3608526/accenture.png)
+
+--------
+![redshift](https://image.slidesharecdn.com/bigdataonaws-redshiftemriotrobbythomas-160111205502/95/aws-apac-webinar-week-big-data-on-aws-redshift-emr-iot-44-638.jpg?cb=1452545769)
+
+--------
+![01-aws-bigdata-day-welcome-a-eb010eed-9782-4745-bed7-d336c065fa81-1119673483-](https://image.slidesharecdn.com/01-aws-bigdata-day-welcome-a-eb010eed-9782-4745-bed7-d336c065fa81-1119673483-171107071455/95/welcome-aws-big-data-solution-overview-44-638.jpg?cb=1510038900)
+
+--------
+![ces_demo2_1](https://media.amazonwebservices.com/blog/2018/ces_demo2_1.png)
+
+--------
+![SimilarWeb1](https://d2908q01vomqb2.cloudfront.net/b6692ea5df920cad691c20319a6fffd7a4a766b8/2018/08/27/SimilarWeb1.png)
+
+--------
+
 
 - [Overview of Amazon Web Services - AWS Whitepaper](https://docs.aws.amazon.com/aws-technical-content/latest/aws-overview/aws-overview.pdf?icmpid=link_from_whitepapers_page)
 - [AWS Well-Architected Framework](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
@@ -219,6 +316,6 @@ Computing on AWS](https://d1.awsstatic.com/whitepapers/Intro_to_HPC_on_AWS.pdf)
 the AWS Cloud](https://d1.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf)
 - [Building a Real-Time Bidding
 Platform on AWS](https://d1.awsstatic.com/whitepapers/Building_a_Real_Time_Bidding_Platform_on_AWS_v1_Final.pdf)
-
+- [Building and Running a Recommendation Engine at Any Scale](https://aws.amazon.com/blogs/big-data/building-and-running-a-recommendation-engine-at-any-scale/)
 
 ---------------
