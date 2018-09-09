@@ -1,5 +1,5 @@
 
-
+-----------
 
 ![futureevents_giorgialupi_large.jpg](https://i2.wp.com/www.brainpickings.org/wp-content/uploads/2012/11/futureevents_giorgialupi_large.jpg?ssl=1)
 
@@ -18,7 +18,7 @@
 
 ----------------
 
--[The Architecture of
+- [The Architecture of
 a Data Visualization
 Multilayered Storytelling through “Info-spatial” Compositions](https://medium.com/accurat-studio/the-architecture-of-a-data-visualization-470b807799b4)
 
