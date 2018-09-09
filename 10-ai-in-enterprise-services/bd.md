@@ -361,5 +361,35 @@ Patterns For Big Data](https://www.bcs.org/upload/pdf/enterprise-architecture-pa
 - [From Lambda to Kappa: A Guide on Real-time Big Data Architectures](https://www.talend.com/blog/2017/08/28/lambda-kappa-real-time-big-data-architectures/)
 
 
+recent papers
+
+
+- [The Anatomy of Big Data Computing](https://arxiv.org/ftp/arxiv/papers/1509/1509.01331.pdf)
+- [Big Data Visualization Tools ?](https://arxiv.org/pdf/1801.08336.pdf)
+- [Data learning from big data](https://arxiv.org/pdf/1806.03971.pdf)
+- [Strategies for Big Data Analytics through
+Lambda Architectures in Volatile
+Environments
+](https://arxiv.org/pdf/1708.04796.pdf)
+- [Big Data and Reliability Applications: The Complexity
+Dimension](https://arxiv.org/pdf/1803.06206.pdf)
+- [REPRESENTING BIG DATA AS NETWORKS:
+NEW METHODS AND INSIGHTS](https://arxiv.org/pdf/1712.09648.pdf)
+- [An Hierarchical Approach to Big Data](https://arxiv.org/pdf/1611.01312.pdf)
+- [Dealing with Big Data](https://arxiv.org/ftp/arxiv/papers/1605/1605.06354.pdf)
+- [AlertMix: A Big Data platform for multisource
+streaming data](https://arxiv.org/ftp/arxiv/papers/1806/1806.10037.pdf)
+- [Scaling-Up Reasoning and Advanced Analytics on
+BigData
+](https://arxiv.org/pdf/1807.02957.pdf)
+- [Digital Archives as Big Data](https://arxiv.org/pdf/1802.09219.pdf)
+- [ndustrial Big Data Analytics: Challenges,
+Methodologies, and Applications](https://arxiv.org/ftp/arxiv/papers/1807/1807.01016.pdf)
+- [Evolvable Systems for Big Data Management in
+Business ](https://arxiv.org/ftp/arxiv/papers/1803/1803.07434.pdf)
+- [Big Data Analytics and Its Applications
+](https://arxiv.org/ftp/arxiv/papers/1710/1710.04135.pdf)
+
+
 ---------
 -----
