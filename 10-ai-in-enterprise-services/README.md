@@ -152,6 +152,30 @@ Transitioning to HANA](https://www.g3g.com/hubfs/White_Papers/Projected_Cost_Ana
 --------
 #### AWS
 
+- [Data Lake Foundation on AWS](https://aws.amazon.com/quickstart/architecture/data-lake-foundation-with-aws-services/)
+- [Qubole on Data Lake Foundation](https://aws.amazon.com/quickstart/architecture/qubole-on-data-lake-foundation/)
+- [Hybrid Data Lake on AWS](https://aws.amazon.com/quickstart/architecture/hybrid-data-lake-with-wandisco-fusion/)
+- [Data Lake with Talend Big Data Platform](https://aws.amazon.com/quickstart/architecture/data-lake-with-talend-big-data-platform/)
+- [Informatica Data Lake Management on AWS](https://aws.amazon.com/quickstart/architecture/informatica-data-lake-management/)
+- [Best Practices for Deploying
+Alteryx Server on AWS](https://d1.awsstatic.com/whitepapers/best-practices-for-deploying-alteryx-server-on-aws.pdf)
+- [Streaming Data Solutions on
+AWS with Amazon Kinesis](https://d1.awsstatic.com/whitepapers/whitepaper-streaming-data-solutions-on-aws-with-amazon-kinesis.pdf)
+- [Building Media & Entertainment Predictive
+Analytics Solutions on AWS](https://d1.awsstatic.com/whitepapers/Analytics/ME%20Advanced%20Analytics%20on%20AWS.pdf)
+- [Big Data Analytics Options on AWS](https://d1.awsstatic.com/whitepapers/Big_Data_Analytics_Options_on_AWS.pdf)
+- [Lambda Architecture for Batch and RealTime
+Processing on AWS with Spark
+Streaming and Spark SQL](https://d1.awsstatic.com/whitepapers/lambda-architecure-on-for-batch-aws.pdf)
+- [Data Warehousing on AWS](https://d1.awsstatic.com/whitepapers/enterprise-data-warehousing-on-aws.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ----------
 
 #### KNIME
