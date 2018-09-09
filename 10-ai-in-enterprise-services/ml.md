@@ -53,13 +53,96 @@
 
 -----------
 
-![]()
+![ml_arch-1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/ml_arch-1.JPG)
 
 -----------
 
 
+![architecture](https://cloud.google.com/solutions/images/serverless-architecture.svg)
 
+-----------
+![awslambda-tensorflow-1-2](https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2017/12/29/awslambda-tensorflow-1-2.gif)
+
+-----------
+![39583-machine-learning-model-factory-road-to-production](https://community.hortonworks.com/storage/attachments/39583-machine-learning-model-factory-road-to-production.png)
+
+-----------
+![01_ml_workflow](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/01_ml_workflow.JPG)
+
+-----------
+![02_ml_api](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/02_ml_api.JPG)
+
+-----------
+![02_pro_ml_system](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/02_pro_ml_system.JPG)
+
+-----------
+![03_ml_deploy](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/03_ml_deploy.JPG)
+
+-----------
+-----------
+![04_ml_train](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/04_ml_train.JPG)
+
+-----------
+![05_ml_pred](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/05_ml_pred.JPG)
+
+-----------
+![06_ex1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/06_ex1.JPG)
+
+-----------
+![07_ml_ex2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/07_ml_ex2.JPG)
+
+-----------
+-----------
+![08_ml_batch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/08_ml_batch.JPG)
+
+-----------
+![10_ml_train_batch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/10_ml_train_batch.JPG)
+
+-----------
+![11_ml_pred](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/11_ml_pred.JPG)
+
+-----------
+![12_ml_serv_batch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/12_ml_serv_batch.JPG)
+
+-----------
+-----------
+![13_ml_batch_arch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/13_ml_batch_arch.JPG)
+
+-----------
+![15_ml_stream](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/15_ml_stream.JPG)
+
+-----------
+![15_ml_stream_ex](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/15_ml_stream_ex.JPG)
+
+-----------
+![16_ml_batch_mobile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/16_ml_batch_mobile.JPG)
+
+-----------
+
+-----------
+![17_ml_ex_mobile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/17_ml_ex_mobile.JPG)
+
+-----------
+![18_ml_vers](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/18_ml_vers.JPG)
+
+-----------
+-----------
+![19_ml_arch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/19_ml_arch.JPG)
+
+-----------
+![20_ml_ex](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/20_ml_ex.JPG)
+
+-----------
+![21_ml_prod](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/21_ml_prod.JPG)
+
+-----------
+![22_facebook_ml](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/ml/22_facebook_ml.JPG)
+
+-----------
+-----------
 - [Ask HN: What does your production machine learning pipeline look like?](https://news.ycombinator.com/item?id=13821217)
+- [Applied Machine Learning at Facebook:
+A Datacenter Infrastructure Perspective](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
 - [Preparing and Architecting for Machine
 Learning
 ](https://www.gartner.com/binaries/content/assets/events/keywords/catalyst/catus8/preparing_and_architecting_for_machine_learning.pdf)
@@ -106,5 +189,21 @@ A Hierarchical Software Framework for Machine Learning on Heterogeneous Systems]
 - [Lessons Learned from Deploying Deep Learning at Scale](https://blog.algorithmia.com/deploying-deep-learning-cloud-services/)
 - [A Guide to Scaling Machine Learning Models in Production](https://hackernoon.com/a-guide-to-scaling-machine-learning-models-in-production-aa8831163846)
 - [Deploying AI to production: 12 tips from the trenches](https://sc5.io/posts/deploying-ai-to-production/#gref)
+- [Tutorial to deploy Machine Learning models in Production as APIs (using Flask)](https://www.analyticsvidhya.com/blog/2017/09/machine-learning-models-as-apis-using-flask/)
+- [Building ML models is hard. Deploying them in real business environments is harder.](http://ocadotechnology.com/blog/building-ml-models-is-hard-deploying-them-in-real-business-environments-is-harder/)
+- [Deploy Your Predictive Model To Production](https://machinelearningmastery.com/deploy-machine-learning-model-to-production/)
+- [Train, Predict, Serve: How to go into
+production your Machine Learning model](https://cdn.oreillystatic.com/en/assets/1/event/266/Train%2C%20predict%2C%20and%20serve_%20How%20to%20put%20your%20machine%20learning%20model%20into%20production%20%20Presentation.pdf)
+- [Machine Learning Workflows](https://skymind.ai/wiki/machine-learning-workflow)
+- [Setting up a Machine Learning Framework for Production](http://code.hootsuite.com/setting-up-a-machine-learning-framework-for-production/)
+- [Data Management Challenges in
+Production Machine Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46178.pdf)
+- [Machine Learning Project Structure: Stages, Roles, and Tools](https://www.altexsoft.com/blog/datascience/machine-learning-project-structure-stages-roles-and-tools/)
+- [MLeap: Productionize Data Science Workflows Using Spark](https://www.slideshare.net/JenAman/mleap-productionize-data-science-workflows-using-spark)
+- [Machine learning model to production](https://www.slideshare.net/GeorgHeiler/machine-learning-model-to-production)
+- [Production vs Development Artificial Intelligence and Machine Learning](https://www.innoarchitech.com/development-vs-or-production-batch-offline-online-automated-artificial-intelligence-ai-machine-learning/?utm_source=innoarchitech&utm_medium=post&utm_content=chapterlink&utm_campaign=blog)
+- [Advanced Analytics Packages, Frameworks, and Platforms by Scenario or Task](https://www.innoarchitech.com/packages-frameworks-platforms-by-scenario-task-artificial-intelligence-ai-machine-learning-data-science/?utm_source=innoarchitech&utm_medium=post&utm_content=chapterlink&utm_campaign=blog)
+- [How to Deploy Deep Learning Models with AWS Lambda and Tensorflow](https://aws.amazon.com/blogs/machine-learning/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)
+- [Machine Learning Model Factory and Road To Production](https://community.hortonworks.com/articles/138518/machine-learning-model-factory-and-road-to-product.html)
 
 ---------------
