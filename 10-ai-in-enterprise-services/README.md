@@ -231,6 +231,33 @@ Oracle Cloud](http://www.oracle.com/technetwork/architect/archday-rws-2013-krish
 
 #### KNIME
 
+- [Big Data with KNIME is as easy as 1, 2, 3, ...4!](https://www.slideshare.net/KNIMESlides/big-data-with-knime-is-as-easy-as-1-2-3-4)
+- [Data and Machine Architecture for the
+Data Science Lab](https://files.knime.com/sites/default/files/knime_data_science_lab_architecture.pdf)
+- [KNIME opens the Doors to Big Data
+A Practical example of Integrating any
+Big Data Platform into KNIME](https://files.knime.com/sites/default/files/inline-images/big_data_in_knime_1.pdf)
+- [Big Data, Smart Energy, and
+Predictive Analytics
+Time Series Prediction of Smart Energy Data ](https://files.knime.com/sites/default/files/inline-images/knime_bigdata_energy_timeseries_whitepaper.pdf)
+- [Seven Techniques for Dimensionality
+Reduction
+](https://files.knime.com/sites/default/files/inline-images/knime_seventechniquesdatadimreduction.pdf)
+- [white-papers](https://www.knime.com/white-papers)
+- [Leveraging SAS with KNIME ](https://files.knime.com/sites/default/files/inline-images/knime_and_sas.pdf)
+- [10 years of KNIME, 10 years of innovation](https://www.knime.com/knime-open-source-story)
+- [KNIME Analytics Platform
+Course for Beginners](https://files.knime.com/sites/default/files/KNIME%20Analytics%20Platform%20Course%20for%20Beginners.pdf)
+- [Advanced Users Course
+for KNIME Analytics Platform](https://files.knime.com/sites/default/files/Advanced%20Users%20for%20KNIME%20Analytics%20Platform.pdf)
+- [KNIME Big Data Training
+](https://files.knime.com/sites/default/files/inline-images/KNIME_BigDataTraining_CC.pdf)
+- [Text Mining Course
+for KNIME Analytics Platform](https://files.knime.com/sites/default/files/Text%20Mining%20Course%20for%20KNIME%20Analytics%20Platform.pdf)
+- [Knime workbench](https://www.knime.com/workbench)
+- [KNIME solutions](https://www.knime.com/solutions)
+- [KNIME on Amazon Web Services](https://www.knime.com/knime-software/knime-aws)
+
 ------------
 
 
