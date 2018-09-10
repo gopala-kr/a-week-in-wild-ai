@@ -146,6 +146,7 @@ Transitioning to HANA](https://www.g3g.com/hubfs/White_Papers/Projected_Cost_Ana
 
 #### Azure
 
+- [Azure services](https://azure.microsoft.com/en-in/Azure services/)
 - [Azure Architecture Center](https://github.com/bensadeghi/Awesome-Azure-Advanced-Analytics)
 
 
@@ -277,7 +278,7 @@ Oracle Cloud](http://www.oracle.com/technetwork/architect/archday-rws-2013-krish
 ---------------
 ### Technical Architecture
 
-    - Adverizing
+    - Advertizing
     - Marketing
     - Sales
     - Custermer Service
