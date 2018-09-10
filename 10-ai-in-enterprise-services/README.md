@@ -286,6 +286,22 @@ PRACTICE](https://pages.alteryx.com/rs/716-WAC-917/images/alteryxDataSciencewhit
 
 #### RapidMiner
 
+- [RapidMiner Studio
+Lightning Fast Data Science](https://rapidminer.com/wp-content/uploads/2016/09/RapidMiner_Studio_Datasheet_with_FeatureList.pdf)
+- [RapidMiner Server](https://rapidminer.com/wp-content/uploads/2017/08/Server-8-2.pdf)
+- [RapidMiner Radoop
+Code-free data science for
+Hadoop & Spark](https://rapidminer.com/wp-content/uploads/2017/08/RapidMiner_Datasheet_Radoop-8-2.pdf)
+- [Case Studies](https://rapidminer.com/resource/case-studies/)
+- [Whitepapers, EBooks & Analyst Reports](https://rapidminer.com/resource/reports-tools/)
+- [An Introduction to
+Advanced
+Analytics ](https://rapidminer.com/resource/introduction-advanced-analytics/)
+- [Data Mining for the MassesDr. Matthew North
+](https://rapidminer.com/resource/data-mining-masses/)
+- [How to Correctly Validate Machine Learning Models](https://rapidminer.com/resource/correct-model-validation/)
+- [marketplace](https://marketplace.rapidminer.com/UpdateServer/faces/index.xhtml)
+
 -------
 
 #### H2O.ai
