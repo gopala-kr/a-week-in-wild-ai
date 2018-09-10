@@ -59,8 +59,7 @@ Source: [Common Probability Distributions: The Data Scientist’s Crib Sheet](ht
 
 -----------
 
-![technology](
-![technology](https://www.dataiku.com/dss/technology/technology.svg))
+![technology](https://www.dataiku.com/dss/technology/technology.svg)
 
 -----------
 
