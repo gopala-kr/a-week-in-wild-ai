@@ -331,23 +331,46 @@ Data Science at Scale](https://www.dominodatalab.com/wp-content/uploads/domino-m
 #### Dataiku
 
 
-- []()
+- [Collaborative Data Science Development
+Platform to Turn Raw Data Into Predictions.
+Quickly.](https://cdn2.hubspot.net/hubfs/2123903/PDF/Flyer/Dataiku_DataSheet.pdf)
+- [Dataiku DSS](https://doc.dataiku.com/dss/latest/)
+- [White Papers](https://www.dataiku.com/resources/whitepapers/)
+- [Use Cases](https://www.dataiku.com/solutions/#use-cases)
+
 
 -----------
 
 #### Databricks
 
+- [whitepapers](https://databricks.com/resources/type/whitepapers)
+- [Resources](https://databricks.com/resources/type/whitepapers)
+- [Example Notebooks](https://databricks.com/resources/type/example-notebooks)
+- [Getting Started with Apache Spark™ on Databricks](https://databricks.com/product/getting-started-guide)
+
 ------
 #### Angoss
 
+- [Whitepaper](http://www.angoss.com/resources/white-papers/)
+
 -----
 #### Anaconda
+
+- [Whitepapers](https://www.anaconda.com/whitepapers/)
+- [Productionizing and Deploying
+Secure and Scalable Data
+Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-anaconda-deployment-whitepaper.pdf?aliId=87781909)
+- [Open Data Science on Hadoop in the Enterprise](https://www.slideshare.net/continuumio/open-data-science-on-hadoop-in-the-enterprise)
+- [Keynote: The Anaconda Roadmap | AnacondaCON 2017](https://www.slideshare.net/continuumio/keynote-the-anaconda-roadmap-anacondacon-2017)
+- [Why Open Data Science Matters | Gartner BI & Analytics Summit '16](https://www.slideshare.net/continuumio/why-open-data-science-matters-gartner-bi-analytics-summit-16)
+- [Anaconda Data Science Blog](https://www.anaconda.com/blog/developer-blog/)
 
 ---------
 
 #### Teradata
  
- 
+ - [Teradata Analytics Platform](http://assets.teradata.com/resourceCenter/downloads/Datasheets/EB9959_TeradataAnalyticsPlatform.pdf)
+ - [Resources](https://in.teradata.com/Resources)
  
 ---------------
 ### Technical Architecture
