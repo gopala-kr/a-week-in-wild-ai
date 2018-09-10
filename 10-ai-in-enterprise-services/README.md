@@ -207,6 +207,36 @@ Developer Guide](https://docs.aws.amazon.com/machine-learning/latest/dg/machinel
 - [AWS Machine Learning Blog](https://aws.amazon.com/blogs/machine-learning/page/3/)
 
 
+
+---------
+#### Oracle
+
+- [Big Data Products](https://www.oracle.com/in/big-data/products.html)
+- [Big Data: From Hype to Insight - Part 1 Landscape and Architecture](https://blogs.oracle.com/financialservices/big-data:-from-hype-to-insight-part-1-landscape-and-architecture)
+- [Oracle: Big Data for the Enterprise](http://www.oracle.com/technetwork/database/bigdata-appliance/overview/wp-bigdatawithoracle-1453236.pdf)
+- [Big Data Landscape](http://www.ijsrp.org/research-paper-0613/ijsrp-p18143.pdf)
+- [Highlights of Big Data Platform Landscape by 2017]()
+- [Autonomous Data Science](https://cloud.oracle.com/en_US/ai-platform/features)
+- [Oracle Cloud Blueprint and
+Roadmap Service](http://www.oracle.com/us/products/consulting/resource-library/consulting-cloud-blueprint-roadmap-1855036.pdf)
+- [Digital Assistan](https://cloud.oracle.com/en_US/digital-assistant/features)
+- [Data Visualization](https://cloud.oracle.com/en_US/data-visualization/features)
+- [Oracle Cloud Infrastructure Technical Resources](https://cloud.oracle.com/en_US/iaas/technical-resources)
+- [Best Practices from Oracle
+Cloud Delivered On-Premises
+with Oracle Enterprise
+Manager](http://www.oracle.com/technetwork/oem/cloud-mgmt/con8018-onpremcloudwithem12c-2340674.pdf)
+- [Cloud 101 - Webinar](http://meec-edu.org/files/2016/11/Webinar-PRJ-Consulting-Cloud-101-11_2_2016.pdf)
+- [Oracle Cloud Computing Strategy ](https://geospatialworldforum.org/2012/gwf_PDF/Han%20Wammes.pdf)
+- [Oracle Cloud](https://www.slideshare.net/MarketingArrowECS_CZ/oracle-cloud-61358224)
+- [Oracle Cloud Reference Architecture](https://www.slideshare.net/OTNArchbeat/oracle-cloud-reference-architecture)
+- [Oracle Service Cloud and Oracle Platform as a Service: Best Practices in a Hybrid Environment](https://www.slideshare.net/capgemini/oracle-service-cloud-and-oracle-platform-as-a-service-best-practices-in-a-hybrid-environment)
+- [Oracle Reference Architecture and
+Oracle Cloud](http://www.oracle.com/technetwork/architect/archday-rws-2013-krishnaswamy-1966514.pdf)
+- [Enterprise IT and Cloud Computing](http://www.oracle.com/technetwork/oem/s316932-ent-it-cloud-computing-181656.pdf)
+- [Oracle API Platform Cloud Service Best Practices & Lessons Learnt](https://www.slideshare.net/luisw19/oracle-api-platform-cloud-service-best-practices-lessons-learnt)
+
+
 ----------
 
 #### KNIME
