@@ -263,6 +263,25 @@ for KNIME Analytics Platform](https://files.knime.com/sites/default/files/Text%2
 
 #### Alteryx
 
+- [Alteryx Technical Overview Alteryx Technical Overview ](http://downloads.alteryx.com/Documentation/Alteryx%20Technical%20Overview.pdf)
+- [Delivering Analytics that Scale](https://www.victa.nl/alteryx/wp-content/uploads/Delivering_Analytics_that_Scale.pdf)
+- [Making Predictive Analytics
+More Practical With Alteryx](http://pages.alteryx.com/rs/alteryx/images/whitepaper-alteryx-predictive-analytics-practical.pdf)
+- [Best Practices for Deploying
+Alteryx Server on AWS](https://pages.alteryx.com/rs/716-WAC-917/images/Best_Practices_for_Deploying_Alteryx_Server_on_AWS.pdf)
+- [6 Steps to Faster
+Data Blending for Tableau](https://pages.alteryx.com/rs/716-WAC-917/images/Tableau_Insights_Cookbook_r801_18April.pdf)
+- [The Definitive Guide
+to Preparing Your
+Data for Tableau](https://pages.alteryx.com/rs/716-WAC-917/images/Alteryx_GuidetoPreparingData_r501.pdf)
+- [D ATA
+S C I E N C E I N
+PRACTICE](https://pages.alteryx.com/rs/716-WAC-917/images/alteryxDataSciencewhitepaper.v5.pdf)
+- [alteryx-platform](https://www.alteryx.com/sites/default/files/2018-07/alteryx-platform-ds-20182-v7.pdf)
+- [Supported Data Sources](https://help.alteryx.com/current/DataSources/SupportedDataSources.htm)
+- [Tool Categories](https://help.alteryx.com/current/Getting_Started/ToolCategories.htm)
+- [use-cases](https://community.alteryx.com/t5/Alteryx-Use-Cases/tkb-p/use-cases)
+
 ------------
 
 #### RapidMiner
