@@ -306,6 +306,10 @@ Analytics ](https://rapidminer.com/resource/introduction-advanced-analytics/)
 
 #### H2O.ai
 
+- [resources](https://www.h2o.ai/resources/)
+- [Use Cases
+Using AI to Solve Today's Challenges](https://www.h2o.ai/solutions/usecases/)
+
 ------
 #### Domino Data Lab
 
