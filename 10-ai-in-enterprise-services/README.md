@@ -5,18 +5,7 @@
 
 > #### Contents
 
-- Data Generation
-- Data Sources
-- Data Collection
-- Data Ingestion, Aquisition, Integration
-  - Batch
-  - Stream
-- Data Storage
-- Data Modeling
-- Data Design patterns
-- Data architectures
-  - Data pipelines
-  - Databases
+
 - System architectures
   - Hardware Options
     - Switching
@@ -30,7 +19,7 @@
     - GCP
     - Azure
     - private clouds
- - Adverizing
+ - Advertizing
  - Marketing
  - Sales
  - Custermer Service
