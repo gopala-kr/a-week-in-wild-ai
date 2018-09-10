@@ -315,7 +315,6 @@ Using AI to Solve Today's Challenges](https://www.h2o.ai/solutions/usecases/)
 #### Domino Data Lab
 
 - [Moody’s Analytics Accelerates Modeling with Domino Data Lab & AWS Technology](https://www.slideshare.net/AmazonWebServices/moodys-analytics-accelerates-modeling-with-domino-data-lab-aws-technology)
-- [What's in your workflow? Bringing data science workflows to business analysis at Capital One](What's in your workflow? Bringing data science workflows to business analysis at Capital One)
 - [dominodatalab slideshare](https://www.slideshare.net/dominodatalab)
 - [Introducing Model
 Management](https://www.dominodatalab.com/wp-content/uploads/model-management-whitepaper.pdf)
