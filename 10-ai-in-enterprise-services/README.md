@@ -314,11 +314,28 @@ Using AI to Solve Today's Challenges](https://www.h2o.ai/solutions/usecases/)
 ------
 #### Domino Data Lab
 
+- [Moody’s Analytics Accelerates Modeling with Domino Data Lab & AWS Technology](https://www.slideshare.net/AmazonWebServices/moodys-analytics-accelerates-modeling-with-domino-data-lab-aws-technology)
+- [What's in your workflow? Bringing data science workflows to business analysis at Capital One](What's in your workflow? Bringing data science workflows to business analysis at Capital One)
+- [dominodatalab slideshare](https://www.slideshare.net/dominodatalab)
+- [Introducing Model
+Management](https://www.dominodatalab.com/wp-content/uploads/model-management-whitepaper.pdf)
+- [Attention, CIOs:
+Do You Know Where
+Your Data Scientists Are?](https://www.dominodatalab.com/wp-content/uploads/do-you-know-where-your-data-scientists-are.pdf?mkt_tok=eyJpIjoiTkdJMFlUZGhOekU0TlRNeSIsInQiOiJ4RFVsSjEyYW9CSTZEVGM4QlFUeVNtMzNlMnIxeVVacnA1anVINUNyMHdIMEF0YXdQUWRcL2owUmZPOWJ3bW5LTCt2amhnZitCN2FRdWhCeGNiMStmdk9pdllWVXpaQ0FTZEIyU1lOK0JBMkdEOHZFV3h2cDRZY0hBbXNNbUQ4ZHcifQ%3D%3D)
+- [Become A Full Stack Data Science Company](https://blog.dominodatalab.com/become-full-stack-data-science-company/)
+- [The Practical Guide to Managing
+Data Science at Scale](https://www.dominodatalab.com/wp-content/uploads/domino-managing-ds.pdf?mkt_tok=eyJpIjoiT1RGbE5EUmxaVFk1WldabCIsInQiOiJvemhBXC9YRENpYkhuK3d2K09mVDhRVE1NN2Q2NkFxWElWWnNuYzQrakl6RzRtSjR1c1wvSW9YaFJyTlRmMmNNSTIyNE9WNzBoejFiVGxHXC9iQ1NuWTdvUUtwWUhDUmoxM2k1dFpJQWcxdksxb2l0WmUrUG93MkZKSnByVWJ5TlhYbyJ9)
+
+
 -------
 #### Dataiku
 
+
+- []()
+
 -----------
-#### Databricks (new) 
+
+#### Databricks
 
 ------
 #### Angoss
@@ -327,6 +344,7 @@ Using AI to Solve Today's Challenges](https://www.h2o.ai/solutions/usecases/)
 #### Anaconda
 
 ---------
+
 #### Teradata
  
  
@@ -589,6 +607,7 @@ Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.ga
 - [Reviews for Warehouse Management Systems](https://www.gartner.com/reviews/market/warehouse-management-systems)
 - [Reviews for Industrial IoT Platforms](https://www.gartner.com/reviews/market/industrial-iot-platforms)
 - [Reviews for Mobile App Development Platforms](https://www.gartner.com/reviews/market/mobile-application-development-platforms)
+
 
 -----------
 ------------
