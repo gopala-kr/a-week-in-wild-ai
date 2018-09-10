@@ -59,6 +59,11 @@ Source: [Common Probability Distributions: The Data Scientist’s Crib Sheet](ht
 
 -----------
 
+![technology](
+![technology](https://www.dataiku.com/dss/technology/technology.svg))
+
+-----------
+
 - [Beautiful Data Science Presentations](https://towardsdatascience.com/beautiful-data-science-presentations-9e9d8fd91446)
 - [My recommendations – SlideShare Presentations on Data Science](https://www.slideshare.net/pormonde/data-scientists-are-all-lyers)
 
