@@ -84,7 +84,7 @@
 ----------
 ![architecture-computer-vision](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/ai/media/architecture-computer-vision.png)
 
-----------
+
 ----------
 ![4fd6d1cc-0834-4d6c-a7e9-7d8c22c1804a](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/4fd6d1cc-0834-4d6c-a7e9-7d8c22c1804a.png)
 
@@ -92,22 +92,19 @@
 ![470f387e-5aa4-4c0f-a40c-7cf35b87feda](https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/470f387e-5aa4-4c0f-a40c-7cf35b87feda.png)
 
 ----------
-----------
 ![01_image](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/01_image.PNG)
 
 ----------
 ![02_nlp](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/02_nlp.PNG)
 
-----------
 
-----------
 ----------
 ![03_retail](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/03_retail.PNG)
 
 ----------
 ![04_int_app](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/04_int_app.PNG)
 
-----------
+
 ----------
 ![05_retail](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/05_retail.PNG)
 
@@ -115,14 +112,12 @@
 ![06_mobile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/06_mobile.PNG)
 
 ----------
-----------
-----------
 ![08_finance](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/08_finance.PNG)
 
 ----------
 ![07_marketing](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/07_marketing.PNG)
 
-----------
+
 ----------
 ![09_demand](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/09_demand.PNG)
 
@@ -130,14 +125,12 @@
 ![10_demand_forecast](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/10_demand_forecast.PNG)
 
 ----------
-----------
-----------
 ![11_personal_offer](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/11_personal_offer.PNG)
 
 ----------
 ![12_energy](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/12_energy.PNG)
 
-----------
+
 ----------
 ![13_price](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/13_price.PNG)
 
@@ -145,14 +138,12 @@
 ![13_telemetry](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/13_telemetry.PNG)
 
 ----------
-----------
-----------
 ![14_anomoly](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/14_anomoly.PNG)
 
 ----------
 ![16_campaign](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/16_campaign.PNG)
 
-----------
+
 ----------
 ![17_loan](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/17_loan.PNG)
 
@@ -165,7 +156,7 @@
 ----------
 ![1_health](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/1_health.PNG)
 
-----------
+
 ----------
 ![20_churn](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/20_churn.PNG)
 
@@ -179,3 +170,4 @@
 ![23_oil](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/23_oil.PNG)
 
 ----------
+------------
