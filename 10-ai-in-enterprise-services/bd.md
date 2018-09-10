@@ -350,6 +350,14 @@ Source: [Pinterest](Scalable and reliable data ingestion at Pinterest)
 -----
 ![centric](https://confluentinc.files.wordpress.com/2015/02/stream-centric-architecture1.png)
 
+--------
+
+![Mobile-Gaming-Events-Data-Pipeline](https://i0.wp.com/databricks.com/wp-content/uploads/2018/06/Mobile-Gaming-Events-Data-Pipeline.png?ssl=1)
+
+---------
+
+![Anaconda-Distribution-Diagram](https://www.anaconda.com/wp-content/uploads/2017/08/Anaconda-Distribution-Diagram.png)
+
 -----
 --------
 
