@@ -1,5 +1,21 @@
 
+-----------------
 
+![31_azure_cloud](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/31_azure_cloud.PNG)
+------
+![32_apps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/32_apps.PNG)
+------
+![33_scale](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/33_scale.PNG)
+------
+![34_d_p](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/34_d_p.PNG)
+------
+![35_sql](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/35_sql.PNG)
+------
+![36_shaepoint](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/36_shaepoint.PNG)
+------
+![37_access](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/37_access.PNG)
+------
+![3_mobility](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/3_mobility.PNG)
 ![basic-web-app](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/images/basic-web-app.png)
 
 ------
@@ -170,23 +186,6 @@
 ![23_oil](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/23_oil.PNG)
 
 ----------
-------------
-
-![31_azure_cloud](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/31_azure_cloud.PNG)
-------
-![32_apps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/32_apps.PNG)
-------
-![33_scale](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/33_scale.PNG)
-------
-![34_d_p](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/34_d_p.PNG)
-------
-![35_sql](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/35_sql.PNG)
-------
-![36_shaepoint](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/36_shaepoint.PNG)
-------
-![37_access](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/37_access.PNG)
-------
-![3_mobility](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/3_mobility.PNG)
 ------
 ![20chatbot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/azure/38_inf%20chatbot.PNG)
 ------
