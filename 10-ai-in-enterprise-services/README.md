@@ -1,38 +1,6 @@
 
 ### A complete survey: ai in enterprise services
 
-----------
-
-> #### Contents
-
-
-- System architectures
-  - Hardware Options
-    - Switching
-  - On-premise
-  - Cloud
-    - SAS
-    - SAP
-    - IBM
-    - Oracle
-    - AWS
-    - GCP
-    - Azure
-    - private clouds
- - Advertizing
- - Marketing
- - Sales
- - Custermer Service
- - enterprise hr and finance
- - enterprise security
- - poductivity tools
- - policy regulation/law/compliance
- - RPA
- 
-
-
-
-
 ----------------------------
 
 #### SAS
@@ -371,19 +339,6 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
  - [Teradata Analytics Platform](http://assets.teradata.com/resourceCenter/downloads/Datasheets/EB9959_TeradataAnalyticsPlatform.pdf)
  - [Resources](https://in.teradata.com/Resources)
  
----------------
-### Technical Architecture
-
-    - Advertizing
-    - Marketing
-    - Sales
-    - Custermer Service
-    - enterprise hr and finance
-    - enterprise security
-    - poductivity tools
-    - policy regulation/law/compliance
-    - RPA
-
 ----------
 ------------
 
