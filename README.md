@@ -17,6 +17,14 @@
 
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 
+-----------
+
+![machine intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--gxPnyf4H--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,fl_keep_iptc.progressive.apng/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
+
+-----------
+
+![AI 100 2018](https://v.fastcdn.co/t/11443291/ae1c86ce/1514999158-25843266-884x646x884x647x0x1-121917-AI-100-Market.png)
+
 -------------
 
 **Maintainer**
