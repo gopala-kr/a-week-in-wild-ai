@@ -1,3 +1,6 @@
+------
+
+![jenkins-cd-container-engine](https://cloud.google.com/solutions/images/jenkins-cd-container-engine.svg)
 
 ---------
 
@@ -68,6 +71,7 @@
 
 --------
 ![08_serverless](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/10-ai-in-enterprise-services/gcp/08_serverless.JPG)
+
 
 --------
 --------------
