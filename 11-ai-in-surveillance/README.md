@@ -35,6 +35,11 @@ for Smart Cameras](https://www.intelli-vision.com/wp-content/uploads/2018/04/Int
 - ['Surveillance society': has technology at the US-Mexico border gone too far?](https://www.theguardian.com/technology/2018/jun/13/mexico-us-border-wall-surveillance-artificial-intelligence-technology)
 - [Video Analysis to Detect Suspicious Activity Based on Deep Learning](https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based)
 - [Deep Speech and Vision - Xavier Giro-i-Nieto - UPC Barcelona 2018](https://www.slideshare.net/xavigiro/deep-speech-and-vision-xavier-giroinieto-upc-barcelona-2018)
+- [INTELLIGENT VIDEO SURVEILLANCE SYSTEM
+ARCHITECTURE FOR ABNORMAL ACTIVITY DETECTION ](https://pdfs.semanticscholar.org/132d/e62629836c2ee88552db207429a815b4dc20.pdf)
+- [Deep Surveillance](https://towardsdatascience.com/deep-surveillance-6b389abeaf95)
+- [Bookmark and Share
+Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
 
 ----------
 
