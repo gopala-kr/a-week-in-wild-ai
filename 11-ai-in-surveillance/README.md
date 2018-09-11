@@ -33,7 +33,8 @@ for Smart Cameras](https://www.intelli-vision.com/wp-content/uploads/2018/04/Int
 - [AI & Cloud Services Making Video Surveillance Increasingly Smart & Affordable](https://www.memoori.com/ai-cloud-services-making-intelligent-video-surveillance-increasingly-smart-affordable/)
 - [The New Eyes of Surveillance: Artificial Intelligence and Humanizing Technology](https://www.wired.com/insights/2014/08/the-new-eyes-of-surveillance-artificial-intelligence-and-humanizing-technology/)
 - ['Surveillance society': has technology at the US-Mexico border gone too far?](https://www.theguardian.com/technology/2018/jun/13/mexico-us-border-wall-surveillance-artificial-intelligence-technology)
-
+- [Video Analysis to Detect Suspicious Activity Based on Deep Learning](https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based)
+- [Deep Speech and Vision - Xavier Giro-i-Nieto - UPC Barcelona 2018](https://www.slideshare.net/xavigiro/deep-speech-and-vision-xavier-giroinieto-upc-barcelona-2018)
 
 ----------
 
