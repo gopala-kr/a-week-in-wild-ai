@@ -42,16 +42,39 @@ ARCHITECTURE FOR ABNORMAL ACTIVITY DETECTION ](https://pdfs.semanticscholar.org/
 Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
 
 ----------
+#### surveillance Architectures and components
+
+---------
+
+#### AI Use Cases in surveillance
+
+-----------
 
 
 #### Video Analytics
+
 
 ----------
 
 #### Audio Analytics
 
+
+-------
+
+#### IoT Analytics
+
+----------
+
+#### Literature Reviews
+
+
 -----------
 
 #### Ethical issues of surveillance
 
+---------
+
+#### Startups
+
 -----------
+----------------
