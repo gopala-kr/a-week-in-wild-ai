@@ -46,6 +46,10 @@ DB as a service
 
 --------
 
+![data-lifecycle-3](https://cloud.google.com/solutions/images/data-lifecycle-3.svg)
+
+--------
+
 - [Evolution of Database Systems](http://www.cs.put.poznan.pl/kdembczynski/lectures/pmds/lectures/edbs.pdf)
 - [New databases that scales high](https://www.slideshare.net/welkaim/new-databases-that-scales-high)
 - [SQL Recap for Interviews](https://towardsdatascience.com/sql-cheat-sheet-for-interviews-6e5981fa797b)
