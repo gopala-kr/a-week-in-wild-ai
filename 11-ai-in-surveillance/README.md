@@ -44,7 +44,8 @@ Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP
 - [IoT Investment Funding](https://www.postscapes.com/internet-of-things-investment/)
 - [IoT-Platforms-Vendor-Comparison-June-2018-SAMPLE](https://iot-analytics.com/wp/wp-content/uploads/2018/06/IoT-Platforms-Vendor-Comparison-June-2018-SAMPLE-vf.pdf)
 - [Growing Pains: The 2018 Internet of Things Landscape](http://mattturck.com/iot2018/)
-- []()
+- [Interoperability & Security in the IoT
+Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/information-security-awareness/its_7am_do_you_know_whats_on_your_network_forescout.pdf)
 - []()
 - []()
 - []()
@@ -100,7 +101,7 @@ Appendix:
 ---------
 
 
-![2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+![2018_Matt_Turck_IoT_Landscape_Final](https://iot-analytics.com/wp/wp-content/uploads/2018/06/press_release_iot_platforms_report-min.png)
 
 
 
