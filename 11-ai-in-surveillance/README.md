@@ -43,7 +43,7 @@ Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP
 - [IoT Cloud Platform Landscape](https://www.postscapes.com/internet-of-things-platforms/)
 - [IoT Investment Funding](https://www.postscapes.com/internet-of-things-investment/)
 - [IoT-Platforms-Vendor-Comparison-June-2018-SAMPLE](https://iot-analytics.com/wp/wp-content/uploads/2018/06/IoT-Platforms-Vendor-Comparison-June-2018-SAMPLE-vf.pdf)
-- []()
+- [Growing Pains: The 2018 Internet of Things Landscape](http://mattturck.com/iot2018/)
 - []()
 - []()
 - []()
@@ -97,7 +97,9 @@ Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://w
 
 Appendix:
 
+---------
 
+![2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
 
 
 
