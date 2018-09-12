@@ -96,7 +96,7 @@
 ![ForresterHeatmap](https://blogs-images.forbes.com/louiscolumbus/files/2017/12/ForresterHeatmap.jpg)
 
 --------------
-![]()
+![icebx_howitworks](https://paolopatierno.files.wordpress.com/2015/10/icebx_howitworks.png)
 
 --------------
 ![]()
@@ -147,8 +147,8 @@ in Production](http://www3.weforum.org/docs/WEF_Technology_and_Innovation_The_Ne
 - [THE INTERNET OF THINGS
 CONNECTING THE DOTS](https://ww2.frost.com/files/7314/8233/2176/IoTBrochure_UK.pdf)
 - [Zinnov Zones for IoT Services 2017](https://www.slideshare.net/zinnov/zinnov-zones-for-iot-services)
-- []()
-- []()
+- [AN IOT PLATFORMS MATCH : MICROSOFT AZURE IOT VS AMAZON AWS IOT](https://paolopatierno.wordpress.com/2015/10/13/an-iot-platforms-match-microsoft-azure-iot-vs-amazon-aws-iot/)
+- [10 BEST IOT PLATFORMS IN 2018. IOT TECHNOLOGY FORECAST](https://da-14.com/blog/10-best-iot-platforms-iot-technology-forecast)
 - []()
 - []()
 - []()
