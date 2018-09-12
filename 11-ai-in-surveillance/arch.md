@@ -78,7 +78,7 @@ X7b6gJCWoxHOlApPaI82Rw](https://cdn-images-1.medium.com/max/1200/1*X7b6gJCWoxHOl
 ---------
 ![25288](https://3.bp.blogspot.com/-_eD-YjwPRNU/Wyvr278WZ1I/AAAAAAAAFhg/c9cHpws01nggBl_PTgakQ8mkvVNHULR_QCLcBGAs/s1600/unnamed%2B%25288%2529image1.png)
 ---------
-![]()
+![Arxys-infographic](https://i2.wp.com/www.arxys.com/wp-content/uploads/Arxys-infographic.png?w=500&ssl=1)
 ---------
 ![]()
 ---------
