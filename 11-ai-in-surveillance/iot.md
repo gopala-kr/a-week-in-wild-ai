@@ -105,10 +105,10 @@
 ![icebx_howitworks](https://paolopatierno.files.wordpress.com/2015/10/icebx_howitworks.png)
 
 --------------
-![]()
+![6PvdxfHhQcMMFnE1nFnCSg](https://cdn-images-1.medium.com/max/800/1*6PvdxfHhQcMMFnE1nFnCSg.png)
 
 --------------
-![]()
+![YP8212Q3t3ZwYOnhd9Ao_g](https://cdn-images-1.medium.com/max/800/1*YP8212Q3t3ZwYOnhd9Ao_g.png)
 
 --------------
 ![]()
