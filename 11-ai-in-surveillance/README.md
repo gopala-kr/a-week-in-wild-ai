@@ -16,12 +16,13 @@
 
 #### Video Analytics
 
+- [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
 
 ----------
 
 #### Audio Analytics
 
-- [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
+
 
 
 -------
@@ -38,6 +39,10 @@
 
 #### Ethical issues of surveillance
 
+
+- [Data gathering, surveillance and human rights: recasting the debate](https://www.tandfonline.com/doi/full/10.1080/23738871.2016.1228990?src=recsys)
+- [The effectiveness of surveillance technology: What intelligence officials are saying](https://www.tandfonline.com/doi/full/10.1080/01972243.2017.1414721)
+
 ---------
 
 #### Startups
@@ -52,7 +57,7 @@ Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP
 - [Interoperability & Security in the IoT
 Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/information-security-awareness/its_7am_do_you_know_whats_on_your_network_forescout.pdf)
 - [The surveillance landscape in Europe](https://www.fp7-risksur.eu/sites/default/files/documents/PDF_various/RISKSUR_Deliverable%207.3.1_ANNEX%208a.pdf)
-- []()
+
 - []()
 - []()
 - []()
@@ -61,6 +66,7 @@ Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/
 
 
 #### Misc
+
 
 - [Artificial intelligence for video surveillance](https://en.wikipedia.org/wiki/Artificial_intelligence_for_video_surveillance)
 - [ARTIFICIAL INTELLIGENCE IS GOING TO SUPERCHARGE SURVEILLANCE](https://www.theverge.com/2018/1/23/16907238/artificial-intelligence-surveillance-cameras-security)
