@@ -21,6 +21,8 @@
 
 #### Audio Analytics
 
+- [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
+
 
 -------
 
@@ -49,7 +51,7 @@ Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP
 - [Growing Pains: The 2018 Internet of Things Landscape](http://mattturck.com/iot2018/)
 - [Interoperability & Security in the IoT
 Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/information-security-awareness/its_7am_do_you_know_whats_on_your_network_forescout.pdf)
-- []()
+- [The surveillance landscape in Europe](https://www.fp7-risksur.eu/sites/default/files/documents/PDF_various/RISKSUR_Deliverable%207.3.1_ANNEX%208a.pdf)
 - []()
 - []()
 - []()
@@ -96,6 +98,12 @@ ARCHITECTURE FOR ABNORMAL ACTIVITY DETECTION ](https://pdfs.semanticscholar.org/
 - [Deep Surveillance](https://towardsdatascience.com/deep-surveillance-6b389abeaf95)
 - [Bookmark and Share
 Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
+- [ROLE OF SURVEILLANCE
+IN SECURING CITIES](http://asappinfoglobal.com/images/SSCI.pdf)
+- [Surveillance of Chronic Diseases:
+Challenges and Strategies for India](http://icrier.org/pdf/Working_Paper_322.pdf)
+- [Trends and IoT in Video Surveillance](https://www.slideshare.net/Ivideon/trends-and-iot-in-video-surveillance?next_slideshow=1)
+
 
 -------------
 
