@@ -23,6 +23,7 @@
 
 #### IoT Analytics
 
+
 ----------
 
 #### Literature Reviews
@@ -35,6 +36,21 @@
 ---------
 
 #### Startups
+
+- [IoT and Payments: Current Market
+Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP-Final-Nov-2017.pdf)
+- [CBinsihts: The Industrial Internet of Things](https://www.cbinsights.com/research-iiot-trends)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 ---------
 
 
@@ -76,6 +92,39 @@ ARCHITECTURE FOR ABNORMAL ACTIVITY DETECTION ](https://pdfs.semanticscholar.org/
 - [Deep Surveillance](https://towardsdatascience.com/deep-surveillance-6b389abeaf95)
 - [Bookmark and Share
 Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
+
+-------------
+
+Appendix:
+
+
+![1507310158-3786822-956x630-IIoT2](https://v.fastcdn.co/t/11443291/184ae0c0/1507310158-3786822-956x630-IIoT2.PNG)
+--------
+
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FSpending-on-IoT-by-vertical.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FIoT-Segments-and-Global-Share-of-IoT-Projects.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FMcKinsey-IoT-Market-Size.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FIIot-market-size.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FGE-Digital-Tranformation.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FIoT-Patent-Map.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FAzure-IoT-Platform-1.jpg)
+
+-----------
+![2Flouiscolumbus](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Flouiscolumbus%2Ffiles%2F2018%2F06%2FOvum-IoT-Goals-By-Country.jpg)
+
+-----------
 
 
 -----------
