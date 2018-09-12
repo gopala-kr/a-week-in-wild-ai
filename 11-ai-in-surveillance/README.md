@@ -40,9 +40,9 @@
 - [IoT and Payments: Current Market
 Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP-Final-Nov-2017.pdf)
 - [CBinsihts: The Industrial Internet of Things](https://www.cbinsights.com/research-iiot-trends)
-- []()
-- []()
-- []()
+- [IoT Cloud Platform Landscape](https://www.postscapes.com/internet-of-things-platforms/)
+- [IoT Investment Funding](https://www.postscapes.com/internet-of-things-investment/)
+- [IoT-Platforms-Vendor-Comparison-June-2018-SAMPLE](https://iot-analytics.com/wp/wp-content/uploads/2018/06/IoT-Platforms-Vendor-Comparison-June-2018-SAMPLE-vf.pdf)
 - []()
 - []()
 - []()
