@@ -111,12 +111,15 @@
 ![YP8212Q3t3ZwYOnhd9Ao_g](https://cdn-images-1.medium.com/max/800/1*YP8212Q3t3ZwYOnhd9Ao_g.png)
 
 --------------
-![]()
+![ot-reference-architecture](https://docs.microsoft.com/en-us/azure/iot-fundamentals/media/iot-introduction/iot-reference-architecture.png)
 
---------------
-![]()
+----------
 
---------------
+![paas-saas-technologies-solutions](https://docs.microsoft.com/en-us/azure/iot-fundamentals/media/iot-comparison/paas-saas-technologies-solutions.png)
+
+
+Reference: [Microsoft Azure IoT Reference Architecture](http://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf)
+
 
 
 -----------
@@ -155,11 +158,5 @@ CONNECTING THE DOTS](https://ww2.frost.com/files/7314/8233/2176/IoTBrochure_UK.p
 - [Zinnov Zones for IoT Services 2017](https://www.slideshare.net/zinnov/zinnov-zones-for-iot-services)
 - [AN IOT PLATFORMS MATCH : MICROSOFT AZURE IOT VS AMAZON AWS IOT](https://paolopatierno.wordpress.com/2015/10/13/an-iot-platforms-match-microsoft-azure-iot-vs-amazon-aws-iot/)
 - [10 BEST IOT PLATFORMS IN 2018. IOT TECHNOLOGY FORECAST](https://da-14.com/blog/10-best-iot-platforms-iot-technology-forecast)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 ---------------
