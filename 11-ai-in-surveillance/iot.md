@@ -45,7 +45,28 @@
 ![Surveillance](https://www.embedded-vision.com/sites/default/files/technical-articles/Surveillance/Figure3.jpg)
 
 --------------
-![]()
+![How-Telcos-can-win-the-IoT-infographic-FINAL](http://www2.bain.com/infographics/Telcos-IoT/How-Telcos-can-win-the-IoT-infographic-FINAL.png)
+
+--------------
+![Distribution-of-IoT-Use-Cases](https://blogs-images.forbes.com/louiscolumbus/files/2018/03/Distribution-of-IoT-Use-Cases.jpg)
+
+--------------
+![Average-implementation-percentage-of-high-potential-use-cases-by-industries](https://blogs-images.forbes.com/louiscolumbus/files/2018/03/Average-implementation-percentage-of-high-potential-use-cases-by-industries.jpg)
+
+--------------
+![Overview-IoT-Enterprise-Projects-List-2018-Edit](https://iot-analytics.com/wp/wp-content/uploads/2018/01/Overview-IoT-Enterprise-Projects-List-2018-Edit.png)
+
+--------------
+![IoT-Projects-By-Segment-Smart-City-Image](https://iot-analytics.com/wp/wp-content/uploads/2018/02/IoT-Projects-By-Segment-Smart-City-Image.png)
+
+--------------
+![List-of-640-IoT-projects-min](https://iot-analytics.com/wp/wp-content/uploads/2016/08/List-of-640-IoT-projects-min.png)
+
+--------------
+![The-Internet-of-Things-from-connecting-devices](https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/The-Internet-of-Things-from-connecting-devices-to-creating-value-large.jpg)
+
+--------------
+![ForresterHeatmap](https://blogs-images.forbes.com/louiscolumbus/files/2017/12/ForresterHeatmap.jpg)
 
 --------------
 ![]()
@@ -63,24 +84,49 @@
 ![]()
 
 --------------
-![]()
 
---------------
-![]()
 
---------------
-![]()
+-----------
 
---------------
-![]()
-
---------------
-![]()
-
---------------
-![]()
-
---------------
-![]()
-
---------------
+- [10 Charts That Will Challenge Your Perspective Of IoT's Growth](https://www.forbes.com/sites/louiscolumbus/2018/06/06/10-charts-that-will-challenge-your-perspective-of-iots-growth/#5e1eb63f3ecc)
+- [Human-machine
+interactions that
+unlock possibilities](https://www.ey.com/Publication/vwLUAssets/ey-m-e-internet-of-things/%24FILE/ey-m-e-internet-of-things.pdf)
+- [Where IoT Can Deliver The Most Value In 2018](https://www.forbes.com/sites/louiscolumbus/2018/03/18/where-iot-can-deliver-the-most-value-in-2018/#760aee7d42fa)
+- [Internet of Things (IoT) 2018 –
+Market Statistics, Use Cases and Trends](http://asiandatascience.com/wp-content/uploads/2017/12/eBook-Internet-of-Things-IoT-2018-Market-Statistics-Use-Cases-and-Trends.pdf)
+- [Leverage Cloud-Native
+IoT Software Platform
+To Accelerate Digital
+Transformation](https://www.huawei.com/minisite/iot/img/hw_iot_tlp_whte_paper_en.pdf)
+- [Gartner Insights on How to Lead
+in a Connected World](https://www.gartner.com/imagesrv/books/iot/iotEbook_digital.pdf)
+- [GE Digital
+Industrial Evolution Index
+](https://www.ge.com/digital/sites/default/files/GE-Digital-Industrial-Evolution-Index-Executive-Summary.pdf)
+- [IDC MarketScape: Worldwide IoT Platforms (Software Vendors)
+2017 Vendor Assessment](https://www.ge.com/de/sites/www.ge.com.de/files/IDC%20MarketScape_Worldwide%20IoT%20Platforms_Software%20Vendors_US42033517%5B1%5D.pdf)
+- [Transforming Manufacturing w ith the
+Internet of Things](https://www.cognizant.com/InsightsWhitepapers/transforming-manufacturing-with-the-Internet-of-Things.pdf)
+- [The Top 10 IoT Segments in 2018 – based on 1,600 real IoT projects](https://iot-analytics.com/top-10-iot-segments-2018-real-iot-projects/)
+- [Intel & Cisco Relationship](https://www.cisco.com/c/dam/assets/global/GR/connect2014/pdfs/Intel_Nikos_Botinis.pdf)
+- [State of the Market:
+Internet of Things 2017](https://www.verizon.com/about/sites/default/files/Verizon-2017-State-of-the-Market-IoT-Report.pdf)
+- [The Next Economic
+Growth Engine
+Scaling Fourth Industrial
+Revolution Technologies
+in Production](http://www3.weforum.org/docs/WEF_Technology_and_Innovation_The_Next_Economic_Growth_Engine.pdf)
+- [THE INTERNET OF THINGS
+CONNECTING THE DOTS](https://ww2.frost.com/files/7314/8233/2176/IoTBrochure_UK.pdf)
+- [Zinnov Zones for IoT Services 2017](https://www.slideshare.net/zinnov/zinnov-zones-for-iot-services)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+---------------
