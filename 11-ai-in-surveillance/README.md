@@ -58,10 +58,6 @@ Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP
 Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/information-security-awareness/its_7am_do_you_know_whats_on_your_network_forescout.pdf)
 - [The surveillance landscape in Europe](https://www.fp7-risksur.eu/sites/default/files/documents/PDF_various/RISKSUR_Deliverable%207.3.1_ANNEX%208a.pdf)
 
-- []()
-- []()
-- []()
-
 ---------
 
 
@@ -115,29 +111,7 @@ Challenges and Strategies for India](http://icrier.org/pdf/Working_Paper_322.pdf
 
 Appendix:
 
----------
 
-
-![2018_Matt_Turck_IoT_Landscape_Final](https://iot-analytics.com/wp/wp-content/uploads/2018/06/press_release_iot_platforms_report-min.png)
-
----------
-
-![68747470733a2f2f7468756d626f722e666f726265732e636f6d2f7468756d626f722f39363078302f6874747073253341253246253246626c6f67732d696d616765732e666f726265732e636f6d2532466c6f756973636f6c756d62757325324666696c6573253246323031382532463036253246417a7572652d496f542d506c6174666f726d2d312e6a7067](https://camo.githubusercontent.com/d60d519a211a09a275913472c6a2aacc98af5e00/68747470733a2f2f7468756d626f722e666f726265732e636f6d2f7468756d626f722f39363078302f6874747073253341253246253246626c6f67732d696d616765732e666f726265732e636f6d2532466c6f756973636f6c756d62757325324666696c6573253246323031382532463036253246417a7572652d496f542d506c6174666f726d2d312e6a7067)
-
-----------
-
-![ot-reference-architecture](https://docs.microsoft.com/en-us/azure/iot-fundamentals/media/iot-introduction/iot-reference-architecture.png)
-
-----------
-
-![paas-saas-technologies-solutions](https://docs.microsoft.com/en-us/azure/iot-fundamentals/media/iot-comparison/paas-saas-technologies-solutions.png)
-
-
-Reference: [Microsoft Azure IoT Reference Architecture](http://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf)
-
----------
-
-![4u9A3dCbi9G_bWDvqKAftA](https://cdn-images-1.medium.com/max/800/1*4u9A3dCbi9G_bWDvqKAftA.gif)
 
 -----------
 ----------------
