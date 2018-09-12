@@ -27,7 +27,7 @@
 
 ----------
 
-![2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+[2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
 
 -------------
 
