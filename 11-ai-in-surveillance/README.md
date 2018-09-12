@@ -8,6 +8,9 @@
 
 #### AI Use Cases in surveillance
 
+- [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
+
+
 -----------
 
 
@@ -117,6 +120,10 @@ Appendix:
 
 
 Reference: [Microsoft Azure IoT Reference Architecture](http://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf)
+
+---------
+
+![4u9A3dCbi9G_bWDvqKAftA](https://cdn-images-1.medium.com/max/800/1*4u9A3dCbi9G_bWDvqKAftA.gif)
 
 -----------
 ----------------
