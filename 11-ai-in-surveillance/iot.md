@@ -1,6 +1,12 @@
 
 ---------------
 
+![2018_Matt_Turck_IoT_Landscape_Final](https://iot-analytics.com/wp/wp-content/uploads/2018/06/press_release_iot_platforms_report-min.png)
+
+--------------
+
+![Screenshot-from-2018-04-18-13-48-42](https://admin.insights.ubuntu.com/wp-content/uploads/3479/Screenshot-from-2018-04-18-13-48-42.png)
+--------
 ![1507310158-3786822-956x630-IIoT2](https://v.fastcdn.co/t/11443291/184ae0c0/1507310158-3786822-956x630-IIoT2.PNG)
 --------
 
