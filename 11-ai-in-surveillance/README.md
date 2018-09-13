@@ -17,11 +17,20 @@
 #### Video Analytics
 
 - [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
+- [NVIDIA INTELLIGENT VIDEO ANALYTICS (IVA)](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/)
+- [Intelligent Video Analytics](https://www.intelli-vision.com/wp-content/uploads/2017/12/IntelliVision_IntelligentVideoAnalytics_datasheet1117.pdf)
+- [IBM Intelligent Video Analytics
+with Power AI Vision](https://public.dhe.ibm.com/common/ssi/ecm/10/en/10018810usen/ibm-intelligent-video-analytics-and-power-ai_10018810USEN.pdf?aliId=15463486)
+- [VIDEO ANALYTICS
+PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analytics-Scalability-White-Paper.pdf)
 
 ----------
 
 #### Audio Analytics
 
+- [The Forrester New Wave™: AI-Fueled Speech Analytics Solutions, Q2 2018](https://reprints.forrester.com/#/assets/2/162/RES142606/reports)
+- [Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
+- [CALLMINER WHITEPAPERS](https://learn.callminer.com/whitepapers)
 
 
 
@@ -44,7 +53,7 @@
 - [VIAME](https://github.com/Kitware/VIAME)
 - [azure-serverless-video-analytics](https://github.com/yokawasa/azure-serverless-video-analytics)
 - [video-analytics-with-AWS](https://github.com/arjun9916/video-analytics-with-AWS)
-- []()
+
 
 ----------
 
