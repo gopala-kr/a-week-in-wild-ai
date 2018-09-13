@@ -92,12 +92,12 @@ X7b6gJCWoxHOlApPaI82Rw](https://cdn-images-1.medium.com/max/1200/1*X7b6gJCWoxHOl
 ![Intelligent](https://www.mindtree.com/sites/default/files/styles/extra_large_600x600_/public/Intelligent%20Video%20Surveillance_0.png?itok=VMfpNDVd)
 
 ---------
-![]()
+![01_v_types](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/surveil/01_v_types.PNG)
 ---------
-![]()
+![02_end_users](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/surveil/02_end_users.PNG)
 ---------
 
-![]()
+![03_product](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/surveil/03_product.PNG)
 ---------
 ![]()
 ---------
