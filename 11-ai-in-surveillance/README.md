@@ -1,8 +1,28 @@
 #### A brief survey: ai in surveillance
 
+
+--------
+> ##### Contents
+
+- Surveillance Architectures and components
+- AI Use Cases in surveillance
+  - Face recognition
+- Video Analytics
+- Audio Analytics
+- IoT platforms and Analytics
+- Libraries
+- Literature Reviews
+  - Surveillance
+  - IOT
+- Ethical issues of surveillance
+- Startups
+- Misc
+- Appendix
+
 -----------
 
 #### surveillance Architectures and components
+
 
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 
