@@ -92,9 +92,9 @@ X7b6gJCWoxHOlApPaI82Rw](https://cdn-images-1.medium.com/max/1200/1*X7b6gJCWoxHOl
 ![Intelligent](https://www.mindtree.com/sites/default/files/styles/extra_large_600x600_/public/Intelligent%20Video%20Surveillance_0.png?itok=VMfpNDVd)
 ---------
 
-![]()
+![diagram](https://www.lorextechnology.com/images/articles/support/diagram.gif)
 ---------
-![]()
+![chart](http://dlink.co.in/images-category-products/products/end-to-end-surveillance/chart.gif)
 ---------
 ![]()
 ---------
