@@ -36,7 +36,7 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 
 -------
 
-#### IoT Analytics
+#### IoT platforms and Analytics
 
 - [iotschool.microsoft](https://iotschool.microsoft.com/learning-paths)
 - [Google's Infrastructure and Specific IoT Services](https://www.slideshare.net/IntelSoftware/googles-infrastructure-and-specific-iot-services)
@@ -79,6 +79,34 @@ Internet of Things](http://wwwen.zte.com.cn/endata/magazine/ztecommunications/20
 - [ARTIFICIAL INTELLIGENCE: A REAL BOON FOR IOT SECURITY](https://blog.econocom.com/en/blog/artificial-intelligence-a-real-boon-for-iot-security/)
 - [The Convergence
 of 5G, AI and IoT](https://t3chfest.uc3m.es/2018/static/resources/events_slides/2018-03-01_T3chfest_-_The_Convergence_of_5G_AI_and_IoT_v4.pdf?q=1519913894)
+- [CISCO: Internet of Things](https://pdfs.semanticscholar.org/presentation/3059/1c06af2c37cc952b6e6233036079c5c99b1a.pdf)
+- [Cisco Smart+Connected Lighting](https://iotevent.eu/wp-content/uploads/2016/09/Cisco-Smart-Connected-Lighting-IoT-AI-Workshop-LpS-2016.pdf)
+- [Smart Applications in Contemporary Cities
+for the Benefit of Citizens and Businesses](http://cyprusconferences.org/5thsmc/gr/presentations/5thSMC_May17_0910_Nikos_Lambrogeorgos-Smart_City.pdf)
+- [Cisco SP IoT Architecture](https://www.cisco.com/c/dam/m/fr_fr/events/2015/cisco_day/pdf/7-ciscoday-10june2016-sp-iot.pdf)
+- [The Internet of Things
+Vertical Solutions ](https://www.cisco.com/web/offer/emear/38586/images/Presentations/P11.pdf)
+- [Enabling the Internet of Everything: Cisco’s IoT Architecture](https://www.slideshare.net/Cisco/enabling-the-internet-of-everything-ciscos-iot-architecture)
+- [What is Salesforce and what do we do?](https://www2.deloitte.com/content/dam/Deloitte/is/Documents/technology/04%20Salesforce%20Clouds%20_%20Dreamforce.pdf)
+- [Salesforce Intro to the Internet of Things](https://www.slideshare.net/davescruggs/salesforce-intro-to-the-internet-of-things)
+- [IoT Cloud: How TeMeDa & Hexagon Metrology Unlock the Power of Connected](https://www.slideshare.net/Dreamforce/iot-cloud-how-temeda-hexagon-metrology-unlock-the-power-of-connected)
+- [SAP Cloud Platform Internet of Things](https://assets.dm.ux.sap.com/de-leonardolive/pdfs/50988_sap_br5_3.pdf)
+- [Sap Leonardo IoT Overview](https://www.slideshare.net/PierreErasmus/sap-leonardo-iot-overview)
+- [SAP and The Internet of Things](https://www.slideshare.net/jpenninkhof/sap-and-the-internet-of-things)
+- [SAP Cloud Platform](https://www.sapstore.com/medias/SAP-cloud-platform.pdf?context=bWFzdGVyfHBkZnN8MTQ1MTkzMDF8YXBwbGljYXRpb24vcGRmfHBkZnMvaGU0L2g3Ny84ODg2NjQ2MTQ1MDU0LnBkZnwwZWExNjI5NTc4Y2Q0N2VhNzg0ZGY2OWM5MmQ3ZDQzMWNjMWQ1MmYxMjYyYjE3YTE5ODlmZWU5NjM5MzJhMzE4)
+- [SAP HANA Cloud Platform for the Internet of Things](http://ec.europa.eu/information_society/newsroom/image/document/2015-44/16_kubach_11953.pdf)
+- [SAP Cloud Strategy and Leonardo:
+Enabling innovation and extension of the digital core](https://static1.squarespace.com/static/5777f3c78419c2849232f1b4/t/5980b69c725e25d62c22391d/1501607585045/SAP_Cloud+Strategy+and+Leonardo+-+Enabling+innovation+and+extension+of+the+digital+core_7.27.17.pdf)
+- [Urgency of Doing –
+Staying connected with IoT](http://www.sapsa.se/wp-content/uploads/2017/11/Tanja_Rueckert_SUGEN_Urgency-of-Doing-Staying-Connected-with-IoT.pdf)
+- [SAP Cloud Platform IoT Services 4.0 ](https://www.inwerken.de/wp-content/uploads/2017/02/SAP-Cloud-Platform-IoT-Services-4.0-beta_public.pdf)
+- [DEV102 – SAP HANA Cloud Platform:
+A Guided T](http://www.sapevents.edgesuite.net/TechEd/TechEd_Vegas2015/pdfs/DEV102.pdf)
+- [Samsung_ARTIK_Overview](https://static.artik.io/files/Samsung_ARTIK_Overview.pdf)
+- [ARTIKTM
+The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/files/event/a1_tdc15_artik_-_the_ultimate_platform_solution_for_iot.pdf)
+- [IoT and the Role of Platforms](https://www.slideshare.net/TieChapterBangalore/iot-and-the-role-of-platforms)
+- [ARTIK_530_PB_1](https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/ARTIK_530_PB_1-10-17.pdf)
 
 --------
 
