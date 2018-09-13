@@ -89,7 +89,7 @@ X7b6gJCWoxHOlApPaI82Rw](https://cdn-images-1.medium.com/max/1200/1*X7b6gJCWoxHOl
 ---------
 ![Arxys-infographic](https://i2.wp.com/www.arxys.com/wp-content/uploads/Arxys-infographic.png?w=500&ssl=1)
 ---------
-![]()
+![Intelligent](https://www.mindtree.com/sites/default/files/styles/extra_large_600x600_/public/Intelligent%20Video%20Surveillance_0.png?itok=VMfpNDVd)
 ---------
 
 ![]()
