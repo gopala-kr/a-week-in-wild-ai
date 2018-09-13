@@ -1,6 +1,10 @@
 
 ---------------
 
+
+![iot_advances](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/iot_advances.PNG)
+-----------
+
 ![2018_Matt_Turck_IoT_Landscape_Final](https://iot-analytics.com/wp/wp-content/uploads/2018/06/press_release_iot_platforms_report-min.png)
 
 --------------
@@ -128,7 +132,35 @@ Reference: [Microsoft Azure IoT Reference Architecture](http://download.microsof
 ![google_iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/google_iot.PNG)
 
 -----------
-![]()
+![01_iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/01_iot.PNG)
+
+-----------
+![02_iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/02_iot.PNG)
+
+![03_defence](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/03_defence.PNG)
+
+-----------
+![04_iot_advances](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/04_iot_advances.PNG)
+
+-----------
+![05_new_age](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/05_new_age.PNG)
+
+-----------
+![06_iot_market](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/06_iot_market.PNG)
+
+-----------
+![10_iot_vendors](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/10_iot_vendors.PNG)
+
+-----------
+![11_usecases](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/11_usecases.PNG)
+
+-----------
+![12_usecases](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/12_usecases.PNG)
+
+-----------
+![13_usecases](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/13_usecases.PNG)
+
+
 
 -----------
 ![]()
