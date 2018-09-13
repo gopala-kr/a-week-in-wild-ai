@@ -29,6 +29,22 @@
 
 #### IoT Analytics
 
+--------
+
+#### Libraries
+
+- [DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
+- [VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
+- [TensorFace](https://github.com/AKSHAYUBHAT/TensorFace)
+- [YUView](https://github.com/IENT/YUView)
+- [videojs-ga](https://github.com/mickey/videojs-ga)
+- [video-stream-analytics](https://github.com/baghelamit/video-stream-analytics)
+- [ozonebase](https://github.com/ozonesecurity/ozonebase)
+- [Video-Analytics-OpenCV](https://github.com/intel-iot-devkit/Video-Analytics-OpenCV)
+- [VIAME](https://github.com/Kitware/VIAME)
+- [azure-serverless-video-analytics](https://github.com/yokawasa/azure-serverless-video-analytics)
+- [video-analytics-with-AWS](https://github.com/arjun9916/video-analytics-with-AWS)
+- []()
 
 ----------
 
