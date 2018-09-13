@@ -120,8 +120,20 @@
 
 Reference: [Microsoft Azure IoT Reference Architecture](http://download.microsoft.com/download/A/4/D/A4DAD253-BC21-41D3-B9D9-87D2AE6F0719/Microsoft_Azure_IoT_Reference_Architecture.pdf)
 
+---------
 
+![google_edge_iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/google_edge_iot.PNG)
 
+-----------
+![google_iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/google_iot.PNG)
+
+-----------
+![]()
+
+-----------
+![]()
+
+-----------
 -----------
 
 - [10 Charts That Will Challenge Your Perspective Of IoT's Growth](https://www.forbes.com/sites/louiscolumbus/2018/06/06/10-charts-that-will-challenge-your-perspective-of-iots-growth/#5e1eb63f3ecc)
