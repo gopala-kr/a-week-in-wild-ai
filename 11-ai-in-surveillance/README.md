@@ -4,6 +4,8 @@
 
 #### surveillance Architectures and components
 
+- [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
+
 ---------
 
 #### AI Use Cases in surveillance
@@ -129,6 +131,47 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 
 #### Literature Reviews
 
+
+Surveillance
+
+- [A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications](https://arxiv.org/pdf/1809.03336v1.pdf)
+- [Sparse Camera Network for Visual Surveillance -- A Comprehensive Survey](https://arxiv.org/pdf/1302.0446v1.pdf)
+- [Human Action Recognition and Prediction: A Survey](https://arxiv.org/pdf/1806.11230v2.pdf)
+- [Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey](https://arxiv.org/pdf/1801.00553v3.pdf)
+- [A Survey on Resilient Machine Learning](https://arxiv.org/ftp/arxiv/papers/1707/1707.03184.pdf)
+- [A Survey of Recent Advances in CNN-based Single Image Crowd Counting and Density Estimation](https://arxiv.org/pdf/1707.01202v1.pdf)
+- [Going Deeper into Action Recognition: A Survey](https://arxiv.org/pdf/1605.04988v2.pdf)
+- [Advances in Human Action Recognition: A Survey](https://arxiv.org/pdf/1501.05964v1.pdf)
+- [Audio Surveillance: a Systematic Review](https://arxiv.org/pdf/1409.7787v1.pdf)
+- [A Survey of Appearance Models in Visual Object Tracking](https://arxiv.org/pdf/1303.4803v1.pdf)
+- [A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications](https://arxiv.org/pdf/1809.03336v1.pdf)
+- [CNNs for Surveillance Footage Scene Classification](https://arxiv.org/pdf/1809.02766v1.pdf)
+- [Surveillance Face Recognition Challenge](https://arxiv.org/pdf/1804.09691v6.pdf)
+- [Probabilistic Semantic Retrieval for Surveillance Videos with Activity Graphs](https://arxiv.org/pdf/1712.06204v2.pdf)
+- [Vehicle Traffic Driven Camera Placement for Better Metropolis Security Surveillance](https://arxiv.org/pdf/1705.08508v4.pdf)
+- [Face Recognition in Low Quality Images: A Survey](https://arxiv.org/abs/1805.11519v2)
+- [Survey on Deep Learning Techniques for Person Re-Identification Tas](https://arxiv.org/pdf/1807.05284v3.pdf)
+- [Robustness Analysis of Pedestrian Detectors for Surveillance](https://arxiv.org/pdf/1807.04562v2.pdf)
+- [A nonconvex approach to low-rank and sparse matrix decomposition with application to video surveillance](https://arxiv.org/pdf/1807.01276v1.pdf)
+- [Deployment of Customized Deep Learning based Video Analytics On Surveillance Cameras](https://arxiv.org/pdf/1805.10604v2.pdf)
+- [A Comparison of Machine Learning Algorithms for the Surveillance of Autism Spectrum Disorder](https://arxiv.org/ftp/arxiv/papers/1804/1804.06223.pdf)
+- [Eye in the Sky: Real-time Drone Surveillance System (DSS) for Violent Individuals Identification using ScatterNet Hybrid Deep Learning Network](https://arxiv.org/pdf/1806.00746v1.pdf)
+- [Intelligent Surveillance as an Edge Network Service: from Harr-Cascade, SVM to a Lightweight CNN](https://arxiv.org/pdf/1805.00331v1.pdf)
+- [Survey of Face Detection on Low-quality Images](https://arxiv.org/pdf/1804.07362v1.pdf)
+- [Evaluation of Object Trackers in Distorted Surveillance Videos](https://arxiv.org/pdf/1804.01624v1.pdf)
+- [Real-world Anomaly Detection in Surveillance Videos](https://arxiv.org/pdf/1801.04264v2.pdf)
+- [Image Set Classification for Low Resolution Surveillance](https://arxiv.org/pdf/1803.09470v1.pdf)
+- [Moving Vehicle Detection Using AdaBoost and Haar-Like Feature in Surveillance Videos](https://arxiv.org/ftp/arxiv/papers/1801/1801.01698.pdf)
+- [ReMotENet: Efficient Relevant Motion Event Detection for Large-scale Home Surveillance Videos](https://arxiv.org/pdf/1801.02031v1.pdf)
+- [Lost in Time: Temporal Analytics for Long-Term Video Surveillance](https://arxiv.org/pdf/1712.07322v1.pdf)
+- [Human Detection and Tracking for Video Surveillance A Cognitive Science Approach](https://arxiv.org/ftp/arxiv/papers/1709/1709.00726.pdf)
+- [Generative Adversarial Models for People Attribute Recognition in Surveillance](https://arxiv.org/pdf/1707.02240v1.pdf)
+- [Long-Term Identity-Aware Multi-Person Tracking for Surveillance Video Summarization](https://arxiv.org/pdf/1604.07468v2.pdf)
+- [Surveillance Video Parsing with Single Frame Supervision](https://arxiv.org/pdf/1611.09587v1.pdf)
+- [Ear Recognition: More Than a Survey](https://arxiv.org/pdf/1611.06203v1.pdf)
+- [A Scalable and Robust Framework for Intelligent Real-time Video Surveillance](https://arxiv.org/pdf/1610.09590v1.pdf)
+- [Automatic detection of moving objects in video surveillance](https://arxiv.org/ftp/arxiv/papers/1608/1608.03617.pdf)
+- [A Survey of the Trends in Facial and Expression Recognition Databases and Methods](https://arxiv.org/ftp/arxiv/papers/1511/1511.02407.pdf)
 
 
 
