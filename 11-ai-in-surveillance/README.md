@@ -38,6 +38,48 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 
 #### IoT Analytics
 
+- [iotschool.microsoft](https://iotschool.microsoft.com/learning-paths)
+- [Google's Infrastructure and Specific IoT Services](https://www.slideshare.net/IntelSoftware/googles-infrastructure-and-specific-iot-services)
+- [AWS IoT](http://www.semiconwest.org/sites/semiconwest.org/files/data15/docs/1_TomJones_Amazon_presentation.pdf)
+- [AWS IoT](https://docs.aws.amazon.com/iot/latest/developerguide/iot-dg.pdf)
+- [AWS internet_of_things](http://www.pragtech.co.in/whitepaper/internet_of_things.pdf)
+- [Microsoft & IoT](https://www.microsoft.com/en-in/internet-of-things/products)
+- [Internet of things (IoT) with Azure](https://www.slideshare.net/VinothRajagopalan/io-t-with-azure)
+- [Introduction to Azure IoT](http://events17.linuxfoundation.org/sites/events/files/slides/OpenIoT%20Summit%20-%20Introduction%20to%20Azure%20IoT.pdf)
+- [IBM Internet of Things](http://users.jyu.fi/~olkhriye/IBM/IBM_IoT.pdf)
+- [IBM Internet of Things Offerings](https://www.slideshare.net/IBMIoT/ibm-internet-of-things-offerings)
+- [Watson
+IoT](https://www.ibm.com/internet-of-things/common/pdf/watson-iot-point-of-view.pdf)
+- [Watson	IoT](https://www.ibm.com/internet-of-things/nl-nl/watson-comes-to-you-2017/pdf/IoT_for_Manufacturing.pdf)
+- [IBM Internet of Things Point
+of View and Strategy. ](http://toronto.ieee.ca/files/2016/02/TOR-IEEE-IBM-IoT-Jan-28-2016-Final.pdf)
+- [https://www.aiia.com.au/documents/event-presentations/2014/Davyd_Norris-IBM_Watson.pdf](http://toronto.ieee.ca/files/2016/02/TOR-IEEE-IBM-IoT-Jan-28-2016-Final.pdf)
+- [IBM Watson IoT Platform
+Analytics & IoT Real-Time Insights
+(RTI)](http://www.fmmug.com/sites/default/files/Kim%20Woodbury%20-%20Watson%20IoT%20Analytics%20&%20RTI.pdf)
+- [The Internet of Things](https://www.iotone.com/files/pdf/vendor/IBM_Internet_of_things_2013.pdf)
+- [Die IBM Watson IoT Plattform](https://www.salzburgresearch.at/wp-content/uploads/2016/05/IoT-Talks-2-Watson-IoT-Plattform-IBM.pdf)
+- [TEXAS INSTRUMENTS: The Evolution of the
+Internet of Things](http://www.ti.com/lit/ml/swrb028/swrb028.pdf)
+- [scalable-secure-iot-strategy](https://www.intel.com/content/dam/www/public/us/en/documents/white-papers/scalable-secure-iot-strategy-white-paper.pdf)
+- [INTERNET	OF	THINGS:	
+TRENDS,	DIRECTIONS,	OPPORTUNITIES,	CHALLENGES](https://bwn.ece.gatech.edu/presentations/IoT%20Trends%202017-04.pdf)
+- [Cognitive Internet of Things](http://web.stanford.edu/class/archive/ee/ee392b/ee392b.1166/lecture/apr26/IBM.pdf)
+- [Artificial intelligence and IoT](https://www.slideshare.net/VeselinPizurica/aiiot-presentation)
+- [When IoT Meets Artificial Intelligence](https://www.slideshare.net/VeselinPizurica/when-iot-meets-artificial-intelligence)
+- [AI in IoT: Use Cases and Challenges](https://www.slideshare.net/code_zombie/ai-in-iot-use-cases-and-challenges)
+- [Artificial Intelligence Plus the Internet of Things (IoT) – 3 Examples Worth Learning From](https://www.techemergence.com/artificial-intelligence-plus-the-internet-of-things-iot-3-examples-worth-learning-from/)
+- [Combined Artificial Intelligence and
+IoT for Smart Sustainable Cities](https://www.itu.int/en/ITU-T/Workshops-and-Seminars/gsw/201804/Documents/Manasseh_Presentations.pdf)
+- [Intelligent IoT](https://www2.deloitte.com/insights/us/en/focus/signals-for-strategists/intelligent-iot-internet-of-things-artificial-intelligence.html)
+- [Artificial Intelligence (AI) Delivering
+Breakthroughs in Industrial IoT](http://www.hitachinext.com/en-us/pdf/artificial-intelligence-delivering-breakthroughs-in-industrial-iot.pdf)
+- [Using Artificial Intelligence in the
+Internet of Things](http://wwwen.zte.com.cn/endata/magazine/ztecommunications/2015/2/201507/P020150724567382942663.pdf)
+- [ARTIFICIAL INTELLIGENCE: A REAL BOON FOR IOT SECURITY](https://blog.econocom.com/en/blog/artificial-intelligence-a-real-boon-for-iot-security/)
+- [The Convergence
+of 5G, AI and IoT](https://t3chfest.uc3m.es/2018/static/resources/events_slides/2018-03-01_T3chfest_-_The_Convergence_of_5G_AI_and_IoT_v4.pdf?q=1519913894)
+
 --------
 
 #### Libraries
@@ -137,7 +179,7 @@ Challenges and Strategies for India](http://icrier.org/pdf/Working_Paper_322.pdf
 Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfowatch_us_0512.pdf)
 - [An End-to-End Solution Provider for Your Security Needs](http://www.dlink.co.in/products/end-to-end-surveillance/)
 - [In video surveillance, India is not too far from Chinese comrades, says Seagate](https://tech.economictimes.indiatimes.com/news/technology/in-video-surveillance-india-is-not-too-far-from-chinese-comrades-says-seagate/52318365)
-
+- [How to stand out as an IoT Platform Vendor](https://iot-analytics.com/how-to-stand-out-as-an-iot-platform-vendor/)
 
 -------------
 
