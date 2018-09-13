@@ -135,6 +135,9 @@ Challenges and Strategies for India](http://icrier.org/pdf/Working_Paper_322.pdf
 - [IP Surveillance 101](https://www.youtube.com/watch?v=NRS0Rsd6zxw)
 - [Dispelling the Top 10
 Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfowatch_us_0512.pdf)
+- [An End-to-End Solution Provider for Your Security Needs](http://www.dlink.co.in/products/end-to-end-surveillance/)
+- [In video surveillance, India is not too far from Chinese comrades, says Seagate](https://tech.economictimes.indiatimes.com/news/technology/in-video-surveillance-india-is-not-too-far-from-chinese-comrades-says-seagate/52318365)
+
 
 -------------
 
