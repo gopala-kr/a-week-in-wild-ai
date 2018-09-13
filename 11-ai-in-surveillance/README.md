@@ -130,7 +130,7 @@ IN SECURING CITIES](http://asappinfoglobal.com/images/SSCI.pdf)
 - [Surveillance of Chronic Diseases:
 Challenges and Strategies for India](http://icrier.org/pdf/Working_Paper_322.pdf)
 - [Trends and IoT in Video Surveillance](https://www.slideshare.net/Ivideon/trends-and-iot-in-video-surveillance?next_slideshow=1)
-
+- [IP Surveillance 101](https://www.youtube.com/watch?v=NRS0Rsd6zxw)
 
 -------------
 
