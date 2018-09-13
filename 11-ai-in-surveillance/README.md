@@ -130,6 +130,50 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 #### Literature Reviews
 
 
+
+
+IOT
+
+- [Machine learning for Internet of Things data analysis: A survey](https://arxiv.org/pdf/1802.06305v1.pdf)
+- [Deep Learning for IoT Big Data and Streaming Analytics: A Survey](https://arxiv.org/pdf/1712.04301v2.pdf)
+- [A Survey of Machine and Deep Learning
+Methods for Internet of Things (IoT) Security](https://arxiv.org/ftp/arxiv/papers/1807/1807.11023.pdf)
+- [Detection of Unauthorized IoT Devices Using Machine Learning Techniques](https://arxiv.org/pdf/1709.04647v1.pdf)
+- [Big IoT and social networking data for smart cities: Algorithmic improvements on Big Data Analysis in the context of RADICAL city applications](https://arxiv.org/ftp/arxiv/papers/1607/1607.00509.pdf)
+- [Automation of Feature Engineering for IoT Analytics](https://arxiv.org/pdf/1707.04067v1.pdf)
+- [Towards an Intelligent Edge: Wireless Communication Meets Machine Learning](https://arxiv.org/ftp/arxiv/papers/1809/1809.00343.pdf)
+- [Deploying Deep Neural Networks in the Embedded Space](https://arxiv.org/pdf/1806.08616v1.pdf)
+- [Ultra Low Power Deep-Learning-powered Autonomous Nano Drones](https://arxiv.org/pdf/1805.01831v1.pdf)
+- [Machine Learning DDoS Detection for Consumer Internet of Things Devices](https://arxiv.org/pdf/1804.04159v1.pdf)
+- [Deep Learning for Signal Authentication and Security in Massive Internet of Things Systems](https://arxiv.org/pdf/1803.00916v1.pdf)
+- [Secure Mobile Crowdsensing with Deep Learning](https://arxiv.org/pdf/1801.07379v1.pdf)
+- [Automated flow for compressing convolution neural networks for efficient edge-computation with FPGA](https://arxiv.org/pdf/1712.06272v1.pdf)
+- [Applying Chatbots to the Internet of Things: Opportunities and Architectural Elements](https://arxiv.org/ftp/arxiv/papers/1611/1611.03799.pdf)
+- [Internet of Things Applications: Animal Monitoring with Unmanned Aerial Vehicle](https://arxiv.org/pdf/1610.05287v2.pdf)
+- [Towards an Intelligent Edge:
+Wireless Communication Meets Machine Learning ](https://arxiv.org/ftp/arxiv/papers/1809/1809.00343.pdf)
+- [Threat analysis of IoT networks Using Artificial
+Neural Network Intrusion Detection System](https://arxiv.org/ftp/arxiv/papers/1704/1704.02286.pdf)
+- [An IoT Endpoint System-on-Chip for Secure
+and Energy-Efficient Near-Sensor Analytics](https://arxiv.org/pdf/1612.05974v3.pdf)
+- [An IoT Real-Time Biometric Authentication
+System Based on ECG Fiducial Extracted
+Features Using Discrete Cosine Transform ](https://arxiv.org/ftp/arxiv/papers/1708/1708.08189.pdf)
+- [Efficient Licence Plate Detection By Unique Edge
+Detection Algorithm and Smarter Interpretation
+Through IoT.](https://arxiv.org/ftp/arxiv/papers/1710/1710.10418.pdf)
+- [CIoTA: Collaborative IoT Anomaly
+Detection via Blockchain](https://arxiv.org/pdf/1803.03807v2.pdf)
+- [IoT2Vec: Identification of Similar IoT Devices via
+Activity Footprints](https://arxiv.org/ftp/arxiv/papers/1805/1805.07907.pdf)
+- [Deploy Large-Scale Deep Neural Networks in
+Resource Constrained IoT Devices with Local
+Quantization Region](https://arxiv.org/ftp/arxiv/papers/1805/1805.09473.pdf)
+- [AI-based Two-Stage Intrusion Detection for
+Software Defined IoT Networks](https://arxiv.org/pdf/1806.02566v1.pdf)
+- [A Machine Learning Driven IoT Solution
+for Noise Classification in Smart Cities](https://arxiv.org/pdf/1809.00238v1.pdf)
+
 -----------
 
 #### Ethical issues of surveillance
