@@ -82,6 +82,8 @@ Landscape](https://www.securetechalliance.org/wp-content/uploads/IoT-Payments-WP
 - [Interoperability & Security in the IoT
 Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/information-security-awareness/its_7am_do_you_know_whats_on_your_network_forescout.pdf)
 - [The surveillance landscape in Europe](https://www.fp7-risksur.eu/sites/default/files/documents/PDF_various/RISKSUR_Deliverable%207.3.1_ANNEX%208a.pdf)
+- [Global Intelligent Video Analytics Market 2018-2023: Evaluating the Demand & Supply Side Challenges](https://www.prnewswire.com/fi/lehdistotiedotteet/global-intelligent-video-analytics-market-2018-2023-evaluating-the-demand--supply-side-challenges-300710474.html)
+
 
 ---------
 
@@ -131,6 +133,8 @@ IN SECURING CITIES](http://asappinfoglobal.com/images/SSCI.pdf)
 Challenges and Strategies for India](http://icrier.org/pdf/Working_Paper_322.pdf)
 - [Trends and IoT in Video Surveillance](https://www.slideshare.net/Ivideon/trends-and-iot-in-video-surveillance?next_slideshow=1)
 - [IP Surveillance 101](https://www.youtube.com/watch?v=NRS0Rsd6zxw)
+- [Dispelling the Top 10
+Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfowatch_us_0512.pdf)
 
 -------------
 
