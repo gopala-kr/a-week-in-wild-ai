@@ -99,5 +99,5 @@ X7b6gJCWoxHOlApPaI82Rw](https://cdn-images-1.medium.com/max/1200/1*X7b6gJCWoxHOl
 
 ![03_product](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/iot/surveil/03_product.PNG)
 ---------
-![]()
+![cef72c640df9012f6da3c268b83b0bdd](https://asset.jmir.pub/assets/cef72c640df9012f6da3c268b83b0bdd.jpg)
 ---------
