@@ -95,6 +95,7 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 
 [Back to top](#contents)
 
+
 - [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
 - [NVIDIA INTELLIGENT VIDEO ANALYTICS (IVA)](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/)
 - [Intelligent Video Analytics](https://www.intelli-vision.com/wp-content/uploads/2017/12/IntelliVision_IntelligentVideoAnalytics_datasheet1117.pdf)
@@ -102,6 +103,63 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 with Power AI Vision](https://public.dhe.ibm.com/common/ssi/ecm/10/en/10018810usen/ibm-intelligent-video-analytics-and-power-ai_10018810USEN.pdf?aliId=15463486)
 - [VIDEO ANALYTICS
 PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analytics-Scalability-White-Paper.pdf)
+- [Video content analysis](https://en.wikipedia.org/wiki/Video_content_analysis)
+
+
+<table class="wikitable">
+
+<tbody><tr>
+<th>Function</th>
+<th>Description
+</th></tr>
+<tr>
+<td>Dynamic masking</td>
+<td>Blocking a part of the video signal based on the signal itself, for example because of privacy concerns.
+</td></tr>
+<tr>
+<td>Flame and smoke detection</td>
+<td>IP cameras with intelligent video surveillance technology can be used to detect flame and smoke in 15–20 seconds or even less because of the built-in DSP chip. The chip processes algorithms that analyzes the videos captured for flame and smoke characteristics such as color chrominance, flickering ratio, shape, pattern and moving direction.
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Egomotion" class="mw-redirect" title="Egomotion"> Egomotion estimation</a></td>
+<td>Egomotion estimation is used to determine the location of a camera by analyzing its output signal.
+</td></tr>
+<tr>
+<td>Motion detection</td>
+<td>Motion detection is used to determine the presence of relevant motion in the observed scene.
+</td></tr>
+<tr>
+<td>Shape recognition</td>
+<td>Shape recognition is used to recognize shapes in the input video, for example circles or squares. This functionality is typically used in more advanced functionalities such as object detection.
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Object_detection" title="Object detection">Object detection</a></td>
+<td>Object detection is used to determine the presence of a type of object or entity, for example a person or car. Other examples include fire and smoke detection.
+</td></tr>
+<tr>
+<td>Recognition</td>
+<td><a href="https://en.wikipedia.org/wiki/Facial_recognition_system" title="Facial recognition system">Face recognition</a> and <a href="https://en.wikipedia.org/wiki/Automatic_Number_Plate_Recognition" class="mw-redirect" title="Automatic Number Plate Recognition">Automatic Number Plate Recognition</a> are used to recognize, and therefore possibly identify, persons or cars.
+</td></tr>
+<tr>
+<td>Style detection</td>
+<td>Style detection is used in settings where the video signal has been <a href="https://en.wikipedia.org/wiki/Filmmaking#Production" title="Filmmaking">produced</a>, for example for television broadcast. Style detection detects the style of the production process.
+</td></tr>
+<tr>
+<td>Tamper detection</td>
+<td>Tamper detection is used to determine whether the camera or output signal is tampered with.
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Video_tracking" title="Video tracking">Video tracking</a></td>
+<td>Video tracking is used to determine the location of persons or objects in the video signal, possibly with regard to an external reference grid.
+</td></tr>
+<tr>
+<td>Video Error Level Analysis</td>
+<td>Video scene content tamper analysis using free software. Video <a href="https://en.wikipedia.org/wiki/Error_level_analysis" title="Error level analysis">Error level analysis</a> (VELA)
+</td></tr>
+<tr>
+<td><a href="https://en.wikipedia.org/wiki/Object_Co-segmentation" title="Object Co-segmentation">Object Co-segmentation</a></td>
+<td>Joint object discovery, classification and segmentation of targets in one or multiple related video sequences
+</td></tr></tbody></table>
 
 ----------
 
@@ -384,7 +442,7 @@ Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/
 - [The surveillance landscape in Europe](https://www.fp7-risksur.eu/sites/default/files/documents/PDF_various/RISKSUR_Deliverable%207.3.1_ANNEX%208a.pdf)
 - [Global Intelligent Video Analytics Market 2018-2023: Evaluating the Demand & Supply Side Challenges](https://www.prnewswire.com/fi/lehdistotiedotteet/global-intelligent-video-analytics-market-2018-2023-evaluating-the-demand--supply-side-challenges-300710474.html)
 
-
+- [Video surveillance companies](https://en.wikipedia.org/wiki/Category:Video_surveillance_companies)
 
 ---------
 
