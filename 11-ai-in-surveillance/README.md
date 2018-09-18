@@ -429,6 +429,14 @@ for Noise Classification in Smart Cities](https://arxiv.org/pdf/1809.00238v1.pdf
 
 - [Data gathering, surveillance and human rights: recasting the debate](https://www.tandfonline.com/doi/full/10.1080/23738871.2016.1228990?src=recsys)
 - [The effectiveness of surveillance technology: What intelligence officials are saying](https://www.tandfonline.com/doi/full/10.1080/01972243.2017.1414721)
+- [NSA leaks: how to make surveillance both ethical and effective](https://www.theguardian.com/commentisfree/2013/jun/11/make-surveillance-ethical-and-effective)
+- [Surveillance Ethics](https://www.iep.utm.edu/surv-eth/)
+- [Ethical and Moral Issues in Surveillance Technology](https://www.ukessays.com/essays/security/ethical-moral-issues-surveillance-7571.php)
+- [The Ethics of Surveillance](https://cs.stanford.edu/people/eroberts/cs181/projects/ethics-of-surveillance/ethics.html)
+- [The	Ethics	of	Surveillance	](https://www.ies.be/files/ADVISE-Aosta_04_GUELKE_HADJIMATHEOU_ethics_of_surveillance.pdf)
+- [Ethical Considerations in the Conduct
+of Electronic Surveillance Research](https://pdfs.semanticscholar.org/8b47/467fdabee187cec6150b9b7e631c66642d75.pdf)
+- [Ethics and morality of Video Surveillance](https://felenasoft.com/xeoma/en/articles/video-surveillance-ethics/)
 
 ---------
 
@@ -558,5 +566,5 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 ![architecture](https://github.com/sararob/video-intelligence-demo/blob/master/architecture.png)
 
------------
+
 ----------------
