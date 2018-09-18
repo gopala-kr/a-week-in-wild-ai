@@ -6,7 +6,7 @@
 
 - [Surveillance Architectures](#surveillance-architectures)
 - [AI Use Cases in surveillance](#ai-use-cases-in-surveillance)
-  - [Face recognition](#face-recognition)
+  - [Face surveillance](#face-surveillance)
   - [Video Analytics](#video-analytics)
   - [Audio Analytics](#audio-analytics)
 - [Internet of Things](#internet-of-things)
@@ -14,6 +14,7 @@
 - [Libraries](#libraries)
 - [Literature Reviews](#literature-reviews)
   - [Surveillance](#surveillance)
+  - [Face recognition](#face-recognition)
   - [IoT](#iot)
 - [Ethical issues of surveillance](#ethical-issues-of-surveillance)
 - [Startups](#startups)
@@ -89,14 +90,16 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 - [AI for Physical Security – 4 Current Applications](https://www.techemergence.com/ai-for-physical-security/)
 
 -----------
-#### Face Recognition
+##### Face surveillance
+
+[Back to top](#contents)
 
 - [Facial Recognition Applications – Security, Retail, and Beyond](https://www.techemergence.com/facial-recognition-applications/)
 - [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
 - [The Face Detection Algorithm Set to Revolutionize Image Search](https://www.technologyreview.com/s/535201/the-face-detection-algorithm-set-to-revolutionize-image-search/)
 
 
-#### Video Analytics
+##### Video Analytics
 
 [Back to top](#contents)
 
@@ -182,7 +185,7 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 
 ----------
 
-#### Audio Analytics
+##### Audio Analytics
 
 [Back to top](#contents)
 
@@ -209,7 +212,7 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 - [Rethinking the Internet of Things: A Scalable Approach to Connecting Everything](https://books.google.co.in/books?id=mPgFAwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwjJnqav-sPdAhULfn0KHTTEBbs4ChDoAQg6MAQ#v=onepage&q=internet%20of%20things&f=false)
 
 
-#### IoT platforms and Analytics
+##### IoT platforms and Analytics
 
 [Back to top](#contents)
 
@@ -351,7 +354,9 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 - [Automatic detection of moving objects in video surveillance](https://arxiv.org/ftp/arxiv/papers/1608/1608.03617.pdf)
 - [A Survey of the Trends in Facial and Expression Recognition Databases and Methods](https://arxiv.org/ftp/arxiv/papers/1511/1511.02407.pdf)
 
-#### Face Recognition
+##### Face Recognition
+
+[Back to top](#contents)
 
 - [Surveillance Face Recognition Challenge](https://arxiv.org/pdf/1804.09691v6.pdf)
 - [Domain Adaptation with Soft-margin multiple feature-kernel learning beats
@@ -420,6 +425,7 @@ for Noise Classification in Smart Cities](https://arxiv.org/pdf/1809.00238v1.pdf
 
 #### Ethical issues of surveillance
 
+[Back to top](#contents)
 
 - [Data gathering, surveillance and human rights: recasting the debate](https://www.tandfonline.com/doi/full/10.1080/23738871.2016.1228990?src=recsys)
 - [The effectiveness of surveillance technology: What intelligence officials are saying](https://www.tandfonline.com/doi/full/10.1080/01972243.2017.1414721)
@@ -430,7 +436,7 @@ for Noise Classification in Smart Cities](https://arxiv.org/pdf/1809.00238v1.pdf
 
 [Back to top](#contents)
 
-IOT
+IoT
 
 [Back to top](#contents)
 
