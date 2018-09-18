@@ -104,6 +104,19 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 
 -------
 
+#### Internet of Things
+
+- [Designing the Internet of Things](https://books.google.co.in/books?id=iYkKAgAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIMjAC#v=onepage&q=internet%20of%20things&f=false)
+- [Internet of Things: Evolutions and Innovations](https://books.google.co.in/books?id=MXs6DwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIQTAF#v=onepage&q=internet%20of%20things&f=false)
+- [Building the Internet of Things: Implement New Business Models, Disrupt ...](https://books.google.co.in/books?id=HfB4DQAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIRzAG#v=onepage&q=internet%20of%20things&f=false)
+- [The Internet of Things and Business](https://books.google.co.in/books?id=LCglDwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEITTAH#v=onepage&q=internet%20of%20things&f=false)
+- [The Internet of Things: Breakthroughs in Research and Practice ...](https://books.google.co.in/books?id=7RshDgAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIUzAI#v=onepage&q=internet%20of%20things&f=false)
+- [Internet of Things: Converging Technologies for Smart Environments and ...](https://books.google.co.in/books?id=rHYGZ0wxLP0C&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIWDAJ#v=onepage&q=internet%20of%20things&f=false)
+- [Cognitive Hyperconnected Digital Transformation: Internet of Things ](https://books.google.co.in/books?id=nPIxDwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIPTAE#v=onepage&q=internet%20of%20things&f=false)
+- [Internet of Things: Principles and Paradigms](https://books.google.co.in/books?id=_k11CwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIOTAD#v=onepage&q=internet%20of%20things&f=false)
+- [Rethinking the Internet of Things: A Scalable Approach to Connecting Everything](https://books.google.co.in/books?id=mPgFAwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwjJnqav-sPdAhULfn0KHTTEBbs4ChDoAQg6MAQ#v=onepage&q=internet%20of%20things&f=false)
+
+
 #### IoT platforms and Analytics
 
 - [iotschool.microsoft](https://iotschool.microsoft.com/learning-paths)
