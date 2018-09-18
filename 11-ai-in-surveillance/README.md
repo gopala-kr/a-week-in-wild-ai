@@ -21,10 +21,56 @@
 
 -----------
 
-#### surveillance Architectures and components
+#### Surveillance Architectures and components
 
 
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
+- [IBM: Components of the monitoring architecture](https://www.ibm.com/support/knowledgecenter/en/SSTFXA_6.3.0.2/com.ibm.itm.doc_6.3fp2/install/overview_components.htm)
+- [Architecture of video surveillance systems based on IP networks](https://www.dipolnet.com/architecture_of_video_surveillance_systems_based_on_ip_networks_bib701.htm)
+- [IP Video Surveillance 1.0 Solution Overview](https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Video/ipvideosurvover.pdf)
+- [A flexible and scalable component-based system architecture for video surveillance as a service, running on infrastructure as a service](https://www.researchgate.net/publication/224674311_Scalable_Surveillance_Software_Architecture)
+- [Mobile Video Surveillance Systems:
+an Architectural Overview](http://imagelab.ing.unimore.it/imagelab/pubblicazioni/soas2010_Gualdi.pdf)
+- [Google: Peer to peer surveillance architecture](https://patents.google.com/patent/US9661276)
+- [A CLOUD-BASED ARCHITECTURE FOR SMART VIDEO SURVEILLANCE](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W3/99/2017/isprs-archives-XLII-4-W3-99-2017.pdf)
+- [Surveillance
+Dell EMC Surveillance Networking](https://www.emc.com/collateral/technical-documentation/h16965-dellemc-storage-ra-network.pdf)
+- [Video Sensor Architecture for Surveillance Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3304125/)
+- [Architectural Improvements for Mobile
+Ubiquitous Surveillance Systems](https://www.vtt.fi/inf/pdf/publications/2008/P691.pdf)
+- [Networked IP Video Surveillance Architecture: Distributed or Centralized?](https://www.mistralsolutions.com/articles/networked-ip-video-surveillance-architecture-distributed-centralized/)
+- [An Architecture for Video Surveillance Service Based on P2P and Cloud Computing](https://ieeexplore.ieee.org/document/6332063/)
+- [Safe cities architecture
+for India
+](https://www.pwc.in/assets/pdfs/publications/2015/safe-cities-architecture-in-india.pdf)
+- [Dell Technologies IoT Solution |
+Surveillance
+](https://www.delltechnologies.com/content/dam/delltechnologies/assets/solutions/resources/h17382-iot-surveillance-ra.pdf)
+- [Intelligent IP video
+management platform](https://www.downloads.siemens.com/download-center/Download.aspx?pos=download&fct=getasset&id1=A6V10705643)
+- [Video Surveillance Solutions with NetApp
+E-Series Storage](https://www.netapp.com/us/media/tr-4196.pdf)
+- [Implementation and Evaluation of Large-Scale Video Surveillance System Based on P2P Architecture and Cloud Computing](http://journals.sagepub.com/doi/full/10.1155/2014/375871)
+- [Software Architecture and Design for
+Airport Scene Surveillance Radar Data Processing System ](http://dbmanagement.info/Books/MIX/3557a382_Software_Architecture_and_Design_for_Airport_Scene_Surveillance_Radar_Data_Processing_System.pdf)
+- [Fully Distributed Secure Video Surveillance Via
+Portable Device with User Awareness
+](https://hal.inria.fr/hal-01506692/document)
+- [Report on Video Surveillance
+Hardware Platforms](https://crises-deim.urv.cat/vipp/VIPP_D01.pdf)
+- [Secure System Architecture for Wide Area Surveillance Using Security, Trust and Privacy (STP) Framework](https://www.sciencedirect.com/science/article/pii/S187770581202601X)
+- [A Smart Camera Mote Architecture for Distributed
+Intelligent Surveillance 
+](https://pdfs.semanticscholar.org/62d1/a707ef36e34b03ee5925d96b48936ddd16b9.pdf)
+- [The SfinX Video Surveillance System](https://users.cs.fiu.edu/~raju/WWW/publications/icme2004/paper.pdf)
+- [A Microservice-enabled Architecture for Smart
+Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
+- [https://pervasive.aau.at/BR/dsc06/CR/dsc06_p10_cr.pdf](https://pervasive.aau.at/BR/dsc06/CR/dsc06_p10_cr.pdf)
+- [Video Surveillance for Sensor Platforms: Algorithms and Architectures](https://books.google.co.in/books?id=KKu8BAAAQBAJ&printsec=frontcover&dq=Surveillance+Architectures+and+components&hl=en&sa=X&ved=0ahUKEwjctu_I98PdAhUV148KHZBnDgkQ6AEIJjAA#v=onepage&q=Surveillance%20Architectures%20and%20components&f=false)
+- [Digital Video Surveillance and Security](https://books.google.co.in/books?id=rAnUAgAAQBAJ&printsec=frontcover&dq=Surveillance+Architectures+and+components&hl=en&sa=X&ved=0ahUKEwjctu_I98PdAhUV148KHZBnDgkQ6AEIPTAE#v=onepage&q=Surveillance%20Architectures%20and%20components&f=false)
+- [Event-Driven Surveillance: Possibilities and Challenges](https://books.google.co.in/books?id=BAIs9C8PyiYC&pg=PA26&dq=Surveillance+Architectures+and+components&hl=en&sa=X&ved=0ahUKEwjctu_I98PdAhUV148KHZBnDgkQ6AEIQzAF#v=onepage&q=Surveillance%20Architectures%20and%20components&f=false)
+- [Advanced Video-Based Surveillance Systems](https://books.google.co.in/books?id=S1_VBwAAQBAJ&printsec=frontcover&dq=Surveillance+Architectures+and+components&hl=en&sa=X&ved=0ahUKEwjak4fb98PdAhVBv48KHX3zB5g4ChDoAQglMAA#v=onepage&q=Surveillance%20Architectures%20and%20components&f=false)
+- [Intelligent Network Video: Understanding Modern Video Surveillance Systems ...](https://books.google.co.in/books?id=y6WiDQAAQBAJ&printsec=frontcover&dq=Surveillance+Architectures+and+components&hl=en&sa=X&ved=0ahUKEwjak4fb98PdAhVBv48KHX3zB5g4ChDoAQhLMAg#v=onepage&q=Surveillance%20Architectures%20and%20components&f=false)
 
 ---------
 
