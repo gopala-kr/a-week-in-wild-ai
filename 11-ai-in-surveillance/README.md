@@ -22,7 +22,7 @@
 
 -----------
 
-#### Surveillance Architectures and components
+#### Surveillance Architectures
 
 
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
@@ -214,7 +214,7 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 #### Literature Reviews
 
 
-Surveillance
+##### Surveillance
 
 - [A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications](https://arxiv.org/pdf/1809.03336v1.pdf)
 - [Sparse Camera Network for Visual Surveillance -- A Comprehensive Survey](https://arxiv.org/pdf/1302.0446v1.pdf)
@@ -257,7 +257,7 @@ Surveillance
 
 
 
-IoT
+##### IoT
 
 - [Machine learning for Internet of Things data analysis: A survey](https://arxiv.org/pdf/1802.06305v1.pdf)
 - [Deep Learning for IoT Big Data and Streaming Analytics: A Survey](https://arxiv.org/pdf/1712.04301v2.pdf)
