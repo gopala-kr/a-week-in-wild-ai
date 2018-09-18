@@ -4,20 +4,21 @@
 --------
 > ##### Contents
 
-- Surveillance Architectures and components
-- AI Use Cases in surveillance
-  - Face recognition
-- Video Analytics
-- Audio Analytics
-- IoT platforms and Analytics
-- Libraries
-- Literature Reviews
-  - Surveillance
-  - IOT
-- Ethical issues of surveillance
-- Startups
-- Misc
-- Appendix
+- [Surveillance Architectures](#surveillance-architectures)
+- [AI Use Cases in surveillance](#ai-use-cases-in-surveillance)
+  - [Face recognition](#face-recognition)
+  - [Video Analytics](#video-analytics)
+  - [Audio Analytics](#audio-analytics)
+- [Internet of Things](#internet-of-things)
+  - [IoT platforms and Analytics](#iot-platforms-and-analytics)
+- [Libraries](#libraries)
+- [Literature Reviews](#literature-reviews)
+  - [Surveillance](#surveillance)
+  - [IoT](#iot)
+- [Ethical issues of surveillance](#ethical-issues-of-surveillance)
+- [Startups](#startups)
+- [Misc](#misc)
+- [Appendix](#appendix)
 
 -----------
 
@@ -256,7 +257,7 @@ Surveillance
 
 
 
-IOT
+IoT
 
 - [Machine learning for Internet of Things data analysis: A survey](https://arxiv.org/pdf/1802.06305v1.pdf)
 - [Deep Learning for IoT Big Data and Streaming Analytics: A Survey](https://arxiv.org/pdf/1712.04301v2.pdf)
@@ -416,7 +417,7 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 -------------
 
-Appendix:
+### Appendix:
 
 
 
