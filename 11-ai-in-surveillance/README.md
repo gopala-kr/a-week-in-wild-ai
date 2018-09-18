@@ -20,10 +20,14 @@
 - [Misc](#misc)
 - [Appendix](#appendix)
 
+
+[Back to top](#contents)
+
 -----------
 
 #### Surveillance Architectures
 
+[Back to top](#contents)
 
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 - [IBM: Components of the monitoring architecture](https://www.ibm.com/support/knowledgecenter/en/SSTFXA_6.3.0.2/com.ibm.itm.doc_6.3fp2/install/overview_components.htm)
@@ -77,6 +81,8 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 
 #### AI Use Cases in surveillance
 
+[Back to top](#contents)
+
 - [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
 - [AI for Crime Prevention and Detection – Current Applications](https://www.techemergence.com/ai-crime-prevention-5-current-applications/)
 - [Artificial Intelligence and Security: Current Applications and Tomorrow’s Potentials](https://www.techemergence.com/artificial-intelligence-and-security-applications/)
@@ -86,6 +92,8 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 
 
 #### Video Analytics
+
+[Back to top](#contents)
 
 - [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
 - [NVIDIA INTELLIGENT VIDEO ANALYTICS (IVA)](https://www.nvidia.com/en-us/autonomous-machines/intelligent-video-analytics-platform/)
@@ -99,6 +107,8 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 
 #### Audio Analytics
 
+[Back to top](#contents)
+
 - [The Forrester New Wave™: AI-Fueled Speech Analytics Solutions, Q2 2018](https://reprints.forrester.com/#/assets/2/162/RES142606/reports)
 - [Getting Started with Audio Data Analysis using Deep Learning (with case study)](https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/)
 - [CALLMINER WHITEPAPERS](https://learn.callminer.com/whitepapers)
@@ -108,6 +118,8 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 -------
 
 #### Internet of Things
+
+[Back to top](#contents)
 
 - [Designing the Internet of Things](https://books.google.co.in/books?id=iYkKAgAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIMjAC#v=onepage&q=internet%20of%20things&f=false)
 - [Internet of Things: Evolutions and Innovations](https://books.google.co.in/books?id=MXs6DwAAQBAJ&printsec=frontcover&dq=internet+of+things&hl=en&sa=X&ved=0ahUKEwi7kemW-sPdAhVEfCsKHfIED74Q6AEIQTAF#v=onepage&q=internet%20of%20things&f=false)
@@ -121,6 +133,8 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 
 
 #### IoT platforms and Analytics
+
+[Back to top](#contents)
 
 - [iotschool.microsoft](https://iotschool.microsoft.com/learning-paths)
 - [Google's Infrastructure and Specific IoT Services](https://www.slideshare.net/IntelSoftware/googles-infrastructure-and-specific-iot-services)
@@ -196,6 +210,8 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 
 #### Libraries
 
+[Back to top](#contents)
+
 - [DeepVideoAnalytics](https://github.com/AKSHAYUBHAT/DeepVideoAnalytics)
 - [VisualSearchServer](https://github.com/AKSHAYUBHAT/VisualSearchServer)
 - [TensorFace](https://github.com/AKSHAYUBHAT/TensorFace)
@@ -213,8 +229,11 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 
 #### Literature Reviews
 
+[Back to top](#contents)
 
 ##### Surveillance
+
+[Back to top](#contents)
 
 - [A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications](https://arxiv.org/pdf/1809.03336v1.pdf)
 - [Sparse Camera Network for Visual Surveillance -- A Comprehensive Survey](https://arxiv.org/pdf/1302.0446v1.pdf)
@@ -258,6 +277,8 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 
 
 ##### IoT
+
+[Back to top](#contents)
 
 - [Machine learning for Internet of Things data analysis: A survey](https://arxiv.org/pdf/1802.06305v1.pdf)
 - [Deep Learning for IoT Big Data and Streaming Analytics: A Survey](https://arxiv.org/pdf/1712.04301v2.pdf)
@@ -311,7 +332,11 @@ for Noise Classification in Smart Cities](https://arxiv.org/pdf/1809.00238v1.pdf
 
 #### Startups
 
+[Back to top](#contents)
+
 IOT
+
+[Back to top](#contents)
 
 - [10 Charts That Will Challenge Your Perspective Of IoT's Growth](https://www.forbes.com/sites/louiscolumbus/2018/06/06/10-charts-that-will-challenge-your-perspective-of-iots-growth/#5e1eb63f3ecc)
 - [Human-machine
@@ -366,6 +391,8 @@ Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/
 
 #### Misc
 
+[Back to top](#contents)
+
 
 - [Artificial intelligence for video surveillance](https://en.wikipedia.org/wiki/Artificial_intelligence_for_video_surveillance)
 - [ARTIFICIAL INTELLIGENCE IS GOING TO SUPERCHARGE SURVEILLANCE](https://www.theverge.com/2018/1/23/16907238/artificial-intelligence-surveillance-cameras-security)
@@ -419,7 +446,7 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 ### Appendix:
 
-
+[Back to top](#contents)
 
 -----------
 ----------------
