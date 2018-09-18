@@ -77,7 +77,9 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 #### AI Use Cases in surveillance
 
 - [How to Automate Surveillance Easily with Deep Learning](https://medium.com/nanonets/how-to-automate-surveillance-easily-with-deep-learning-4eb4fa0cd68d)
-
+- [AI for Crime Prevention and Detection – Current Applications](https://www.techemergence.com/ai-crime-prevention-5-current-applications/)
+- [Artificial Intelligence and Security: Current Applications and Tomorrow’s Potentials](https://www.techemergence.com/artificial-intelligence-and-security-applications/)
+- [ai-cameras-use](https://futurism.com/ai-cameras-use/)
 
 -----------
 
