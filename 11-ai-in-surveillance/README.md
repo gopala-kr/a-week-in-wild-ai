@@ -29,7 +29,6 @@
 
 [Back to top](#contents)
 
-- [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 - [IBM: Components of the monitoring architecture](https://www.ibm.com/support/knowledgecenter/en/SSTFXA_6.3.0.2/com.ibm.itm.doc_6.3fp2/install/overview_components.htm)
 - [Architecture of video surveillance systems based on IP networks](https://www.dipolnet.com/architecture_of_video_surveillance_systems_based_on_ip_networks_bib701.htm)
 - [IP Video Surveillance 1.0 Solution Overview](https://www.cisco.com/c/en/us/td/docs/solutions/Enterprise/Video/ipvideosurvover.pdf)
@@ -87,13 +86,30 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 - [AI for Crime Prevention and Detection – Current Applications](https://www.techemergence.com/ai-crime-prevention-5-current-applications/)
 - [Artificial Intelligence and Security: Current Applications and Tomorrow’s Potentials](https://www.techemergence.com/artificial-intelligence-and-security-applications/)
 - [ai-cameras-use](https://futurism.com/ai-cameras-use/)
+- [AI for Physical Security – 4 Current Applications](https://www.techemergence.com/ai-for-physical-security/)
 
 -----------
+#### Face Recognition
+
+- [Facial Recognition Applications – Security, Retail, and Beyond](https://www.techemergence.com/facial-recognition-applications/)
+- [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
+- [The Face Detection Algorithm Set to Revolutionize Image Search](https://www.technologyreview.com/s/535201/the-face-detection-algorithm-set-to-revolutionize-image-search/)
 
 
 #### Video Analytics
 
 [Back to top](#contents)
+
+
+     Few AI use cases:
+     
+    - Facial surveillance
+    - Licenceplate recognition
+    - Object tracking
+    - Demographics
+    - Queue management analysis
+    - People Counting
+    - Beharioural analysis
 
 
 - [Video Surveillance](http://www.bostonanalytics.com/images/Introduction_Video%20Surveillance%20Whitepaper_2014.pdf)
@@ -104,7 +120,10 @@ with Power AI Vision](https://public.dhe.ibm.com/common/ssi/ecm/10/en/10018810us
 - [VIDEO ANALYTICS
 PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analytics-Scalability-White-Paper.pdf)
 - [Video content analysis](https://en.wikipedia.org/wiki/Video_content_analysis)
-
+- [Introduction to Google Cloud Machine Learning APIs](https://www.slideshare.net/iromin/introduction-to-google-cloud-machine-learning-apis)
+- [Analyze your videos in a few lines of code](https://hackernoon.com/get-the-code-for-the-video-intelligence-api-demo-794e7675effe)
+- [VIDEO VISION](https://marketingsciences.nl/wp-content/uploads/2017/12/Mediabrands-Video-Vision-Preliminary-Report-2017.pdf)
+- [Video Surveillance White Papers](https://www.videosurveillance.com/whitepaper/)
 
 <table class="wikitable">
 
@@ -281,7 +300,7 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 - [VIAME](https://github.com/Kitware/VIAME)
 - [azure-serverless-video-analytics](https://github.com/yokawasa/azure-serverless-video-analytics)
 - [video-analytics-with-AWS](https://github.com/arjun9916/video-analytics-with-AWS)
-
+- [video-intelligence-demo](https://github.com/sararob/video-intelligence-demo)
 
 ----------
 
@@ -332,7 +351,26 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 - [Automatic detection of moving objects in video surveillance](https://arxiv.org/ftp/arxiv/papers/1608/1608.03617.pdf)
 - [A Survey of the Trends in Facial and Expression Recognition Databases and Methods](https://arxiv.org/ftp/arxiv/papers/1511/1511.02407.pdf)
 
+#### Face Recognition
 
+- [Surveillance Face Recognition Challenge](https://arxiv.org/pdf/1804.09691v6.pdf)
+- [Domain Adaptation with Soft-margin multiple feature-kernel learning beats
+Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.01374v2.pdf)
+- [Kernel Selection using Multiple Kernel Learning and Domain Adaptation in Reproducing Kernel Hilbert Space, for Face Recognition under Surveillance Scenario](https://arxiv.org/pdf/1610.00660v1.pdf)
+- [Face Recognition in Low Quality Images: A Survey](https://arxiv.org/abs/1805.11519v2)
+- [Low Resolution Face Recognition in the Wild](https://arxiv.org/pdf/1805.11529v1.pdf)
+- [Trunk-Branch Ensemble Convolutional Neural Networks for Video-based Face Recognition](https://arxiv.org/pdf/1607.05427v2.pdf)
+- [Detection, Segmentation and Recognition of Face and its Features Using Neural Network](https://arxiv.org/ftp/arxiv/papers/1701/1701.08259.pdf)
+- [Image-based Face Detection and Recognition: "State of the Art"](https://arxiv.org/ftp/arxiv/papers/1302/1302.6379.pdf)
+- [A Comparison of CNN-based Face and Head Detectors for Real-Time Video Surveillance Applications](https://arxiv.org/pdf/1809.03336v1.pdf)
+- [Organizing Multimedia Data in Video Surveillance Systems Based on Face Verification with Convolutional Neural Networks](https://arxiv.org/pdf/1709.05675v1.pdf)
+- [A Supervised Learning Methodology for Real-Time Disguised Face Recognition in the Wild](https://arxiv.org/pdf/1809.02875v1.pdf)
+- [Deep Face Recognition: A Survey](https://arxiv.org/pdf/1804.06655v5.pdf)
+- [L1-(2D)2PCANet: A Deep Learning Network for Face Recognition](https://arxiv.org/ftp/arxiv/papers/1805/1805.10476.pdf)
+- [Face Recognition: Primates in the Wild](https://arxiv.org/pdf/1804.08790v1.pdf)
+- [A Good Practice Towards Top Performance of Face Recognition: Transferred Deep Feature Fusion](https://arxiv.org/pdf/1704.00438v2.pdf)
+- [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
+- [Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766.pdf)
 
 ##### IoT
 
@@ -442,6 +480,10 @@ Landscape](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/
 - [The surveillance landscape in Europe](https://www.fp7-risksur.eu/sites/default/files/documents/PDF_various/RISKSUR_Deliverable%207.3.1_ANNEX%208a.pdf)
 - [Global Intelligent Video Analytics Market 2018-2023: Evaluating the Demand & Supply Side Challenges](https://www.prnewswire.com/fi/lehdistotiedotteet/global-intelligent-video-analytics-market-2018-2023-evaluating-the-demand--supply-side-challenges-300710474.html)
 
+
+Surveillance:
+
+- [Tracxn - Security & Surveillance Technology Startup Landscape](https://www.slideshare.net/Tracxn/tracxn-security-surveillance-technology-startup-landscape)
 - [Video surveillance companies](https://en.wikipedia.org/wiki/Category:Video_surveillance_companies)
 
 ---------
@@ -499,12 +541,16 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 - [An End-to-End Solution Provider for Your Security Needs](http://www.dlink.co.in/products/end-to-end-surveillance/)
 - [In video surveillance, India is not too far from Chinese comrades, says Seagate](https://tech.economictimes.indiatimes.com/news/technology/in-video-surveillance-india-is-not-too-far-from-chinese-comrades-says-seagate/52318365)
 - [How to stand out as an IoT Platform Vendor](https://iot-analytics.com/how-to-stand-out-as-an-iot-platform-vendor/)
+- [Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
 
 -------------
 
 ### Appendix:
 
 [Back to top](#contents)
+
+
+![architecture](https://github.com/sararob/video-intelligence-demo/blob/master/architecture.png)
 
 -----------
 ----------------
