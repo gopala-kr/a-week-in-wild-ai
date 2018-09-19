@@ -1,4 +1,4 @@
-#### A brief survey: ai in surveillance and iot
+#### A brief survey: AI in Surveillance + IoT + Agriculture
 
 
 --------
@@ -20,6 +20,7 @@
 - [Ethical issues of surveillance](#ethical-issues-of-surveillance)
 - [Startups](#startups)
 - [Misc](#misc)
+- [AI+IoT in Agriculture](#ai+iot-in-agriculture)
 - [Appendix](#appendix)
 
 
@@ -649,6 +650,11 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 - [How to stand out as an IoT Platform Vendor](https://iot-analytics.com/how-to-stand-out-as-an-iot-platform-vendor/)
 - [Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
 -------------
+
+#### AI+IoT in Agriculture
+
+
+-------------------
 
 ### Appendix:
 
