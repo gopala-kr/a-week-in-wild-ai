@@ -653,6 +653,10 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 ![architecture](https://github.com/sararob/video-intelligence-demo/blob/master/architecture.png)
 
+----------
+
+![b6afea6cb5c7](https://ipvm-uploads.s3.amazonaws.com/uploads/embedded_image/22b2ad1974d592beda5b11a7e5ca9548977a93a0f75ee4c2905c97161e8dbdf3/f904ef5b-7a23-47e8-bc86-b6afea6cb5c7.png)
+
 ------
 
 
