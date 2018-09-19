@@ -97,7 +97,7 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 - [Facial Recognition Applications – Security, Retail, and Beyond](https://www.techemergence.com/facial-recognition-applications/)
 - [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
 - [The Face Detection Algorithm Set to Revolutionize Image Search](https://www.technologyreview.com/s/535201/the-face-detection-algorithm-set-to-revolutionize-image-search/)
-
+- []()
 
 ##### Video Analytics
 
