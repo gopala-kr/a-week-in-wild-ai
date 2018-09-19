@@ -94,6 +94,8 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 
 [Back to top](#contents)
 
+- [A BRIEF HISTORY OF FACE RECOGNITION](https://www.facefirst.com/blog/brief-history-of-face-recognition-software/)
+- [face-recognition-glossary](https://www.facefirst.com/face-recognition-glossary/)
 - [Facial Recognition Applications – Security, Retail, and Beyond](https://www.techemergence.com/facial-recognition-applications/)
 - [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
 - [The Face Detection Algorithm Set to Revolutionize Image Search](https://www.technologyreview.com/s/535201/the-face-detection-algorithm-set-to-revolutionize-image-search/)
@@ -117,7 +119,20 @@ State-of-the-Art Face Recognition](https://www.cs.cmu.edu/~sbhagava/papers/face-
 - [Review: Face Detection and Recognition
 Techniques ](http://ijcsit.com/docs/Volume%205/vol5issue03/ijcsit20140503319.pdf)
 - [Face Recognition: A Survey](http://www.jestr.org/downloads/Volume10Issue2/fulltext201022017.pdf)
-
+- [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
+- [Node.js + face-recognition.js : Simple and Robust Face Recognition using Deep Learning](https://medium.com/@muehler.v/node-js-face-recognition-js-simple-and-robust-face-recognition-using-deep-learning-ea5ba8e852)
+- [Cutting-Edge Face Recognition is Complicated. These Spreadsheets Make it Easier.](https://towardsdatascience.com/cutting-edge-face-recognition-is-complicated-these-spreadsheets-make-it-easier-e7864dbf0e1a)
+- [Making your own Face Recognition System
+](https://medium.freecodecamp.org/making-your-own-face-recognition-system-29a8e728107c)
+- [Node.js + OpenCV for Face Recognition](https://medium.com/@muehler.v/node-js-opencv-for-face-recognition-37fa7cb860e8)
+- [One-Shot Learning: Face Recognition using Siamese Neural Network](https://towardsdatascience.com/one-shot-learning-face-recognition-using-siamese-neural-network-a13dcf739e)
+- [Face Recognition for Beginners](https://towardsdatascience.com/face-recognition-for-beginners-a7a9bd5eb5c2)
+- [Realtime JavaScript Face Tracking and Face Recognition using face-api.js’ MTCNN Face Detector](https://itnext.io/realtime-javascript-face-tracking-and-face-recognition-using-face-api-js-mtcnn-face-detector-d924dd8b5740)
+- [Сomputer vision surveillance
+technology powered by fog
+network of miners](https://tokensale.faceter.io/Faceter_Whitepaper_en.pdf)
+- [Why startups from Eastern Europe are so strong in face recognition and augmented reality](http://www.ewdn.com/2017/11/09/why-startups-from-eastern-europe-are-so-strong-in-face-recognition-and-augmented-reality/)
+- [facial recognition](https://techcrunch.com/tag/facial-recognition/)
 
 ##### Video Analytics
 
@@ -147,6 +162,10 @@ PLATFORM FOR BIG DATA](http://avidbeam.com/wp-content/uploads/2018/01/Vide-Analy
 - [Analyze your videos in a few lines of code](https://hackernoon.com/get-the-code-for-the-video-intelligence-api-demo-794e7675effe)
 - [VIDEO VISION](https://marketingsciences.nl/wp-content/uploads/2017/12/Mediabrands-Video-Vision-Preliminary-Report-2017.pdf)
 - [Video Surveillance White Papers](https://www.videosurveillance.com/whitepaper/)
+- [Accenture-Video-Analytics-Operational-Marketing-and-Security-Insights-from-CCTV](https://www.accenture.com/t20150523T055755__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Technology_2/Accenture-Video-Analytics-Operational-Marketing-and-Security-Insights-from-CCTV.pdf)
+- [PWC: Data Driven Cities](https://www.slideshare.net/FilippPaster/pwc-data-driven-cities-2016)
+- [The effect of CCTV on public safety: Research roundup](https://journalistsresource.org/studies/government/criminal-justice/surveillance-cameras-and-crime)
+
 
 <table class="wikitable">
 
@@ -354,14 +373,7 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 - [MobileFace](https://github.com/becauseofAI/MobileFace)
 - [Emotion-Detection-in-Videos](https://github.com/dhvanikotak/Emotion-Detection-in-Videos)
 - [openface](https://github.com/cmusatyalab/openface)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 
 ----------
@@ -568,6 +580,12 @@ Surveillance:
 
 - [Tracxn - Security & Surveillance Technology Startup Landscape](https://www.slideshare.net/Tracxn/tracxn-security-surveillance-technology-startup-landscape)
 - [Video surveillance companies](https://en.wikipedia.org/wiki/Category:Video_surveillance_companies)
+- [10 Face Recognition Acquisitions](https://medium.com/lovekairos/10-face-recognition-acquisitions-528823105cfe)
+- [face-recognition-startup-list](https://angel.co/face-recognition-startup-list)
+- [Facial Recognition Market Overview:](https://www.alliedmarketresearch.com/facial-recognition-market?facial-recogni-tion-market)
+- [Meet five Chinese start-ups pushing facial recognition technology into the mainstream](https://www.scmp.com/tech/start-ups/article/2133234/meet-five-chinese-start-ups-pushing-facial-recognition-technology)
+- [Meet the Company That’s Using Face Recognition to Reshape China’s Tech Scene](https://www.technologyreview.com/s/608598/when-a-face-is-worth-a-billion-dollars/)
+- [8 Top-funded Facial Recognition Startups](https://www.nanalyze.com/2018/09/top-funded-facial-recognition-startups/)
 
 ---------
 
@@ -625,7 +643,6 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 - [In video surveillance, India is not too far from Chinese comrades, says Seagate](https://tech.economictimes.indiatimes.com/news/technology/in-video-surveillance-india-is-not-too-far-from-chinese-comrades-says-seagate/52318365)
 - [How to stand out as an IoT Platform Vendor](https://iot-analytics.com/how-to-stand-out-as-an-iot-platform-vendor/)
 - [Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
-
 -------------
 
 ### Appendix:
@@ -635,5 +652,8 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 ![architecture](https://github.com/sararob/video-intelligence-demo/blob/master/architecture.png)
 
+------
+
+![top-10-AI-India](https://cdn.nanalyze.com/uploads/2018/07/top-10-AI-India.jpg)
 
 ----------------
