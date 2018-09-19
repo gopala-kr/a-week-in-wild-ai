@@ -97,7 +97,27 @@ Surveillance using Blockchain Technology](https://arxiv.org/pdf/1807.07487.pdf)
 - [Facial Recognition Applications – Security, Retail, and Beyond](https://www.techemergence.com/facial-recognition-applications/)
 - [Facial recognition system](https://en.wikipedia.org/wiki/Facial_recognition_system)
 - [The Face Detection Algorithm Set to Revolutionize Image Search](https://www.technologyreview.com/s/535201/the-face-detection-algorithm-set-to-revolutionize-image-search/)
-- []()
+- [Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+- [Face Recognition
+A tutorial](https://www.iti.gr/iti/files/document/seminars/FR2.pdf)
+- [NYU: Facial Recognition Technology
+A Survey of Policy and Implementation Issues](https://www.nyu.edu/projects/nissenbaum/papers/facial_recognition_report.pdf)
+- [Face Recognition-survey](http://disp.ee.ntu.edu.tw/~pujols/Face%20Recognition-survey.pdf)
+- [Image Analysis for Face Recognition](http://face-rec.org/interesting-papers/General/ImAna4FacRcg_lu.pdf)
+- [Face Recognition Methods & Applications ](https://arxiv.org/ftp/arxiv/papers/1403/1403.0485.pdf)
+- [Face Recognition: Challenges, Achievements, and Future Directions](https://www.researchgate.net/publication/271584966_Face_Recognition_Challenges_Achievements_and_Future_Directions)
+- [Face Recognition Security System](https://www.researchgate.net/publication/259027363_Face_Recognition_Security_System)
+- [FACE RECOGNITION AND ITS APPLICATIONS](http://andrewsenior.com/papers/SeniorB02FaceChap.pdf)
+- [Face Recognition Algorithms](http://www.ehu.eus/ccwintco/uploads/e/eb/PFC-IonMarques.pdf)
+- [Face detection ](https://web.stanford.edu/class/ee368/Project_03/Project/reports/ee368group02.pdf)
+- [Face Recognition: A Survey](http://airccse.org/journal/ieij/papers/1113ieij05.pdf)
+- [Accessorize to a Crime: Real and Stealthy Attacks on
+State-of-the-Art Face Recognition](https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf)
+- [DeepFace: Closing the Gap to Human-Level Performance in Face Verification](https://www.cs.toronto.edu/~ranzato/publications/taigman_cvpr14.pdf)
+- [Review: Face Detection and Recognition
+Techniques ](http://ijcsit.com/docs/Volume%205/vol5issue03/ijcsit20140503319.pdf)
+- [Face Recognition: A Survey](http://www.jestr.org/downloads/Volume10Issue2/fulltext201022017.pdf)
+
 
 ##### Video Analytics
 
@@ -304,6 +324,45 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 - [azure-serverless-video-analytics](https://github.com/yokawasa/azure-serverless-video-analytics)
 - [video-analytics-with-AWS](https://github.com/arjun9916/video-analytics-with-AWS)
 - [video-intelligence-demo](https://github.com/sararob/video-intelligence-demo)
+- [face_recognition](https://github.com/ageitgey/face_recognition)
+- [facenet](https://github.com/davidsandberg/facenet)
+- [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace)
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+- [openbr](https://github.com/biometrics/openbr)
+- [opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs)
+- [insightface](https://github.com/deepinsight/insightface)
+- [DeepFace](https://github.com/RiweiChen/DeepFace)
+- [face-recognition.js](https://github.com/justadudewhohacks/face-recognition.js)
+- [sphereface](https://github.com/wy1iu/sphereface)
+- [facerec](https://github.com/bytefish/facerec)
+- [real_time_face_recognition](https://github.com/shanren7/real_time_face_recognition)
+- [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit)
+- [opencv](https://github.com/bytefish/opencv)
+- [OpenFaceIOS](https://github.com/FaceAR/OpenFaceIOS)
+- [libfacerec](https://github.com/bytefish/libfacerec)
+- [node-facenet](https://github.com/zixia/node-facenet)
+- [Android-Face-Recognition-with-Deep-Learning-Library](https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Library)
+- [facematch](https://github.com/louisondumont/facematch)
+- [Face-It](https://github.com/shiffman/Face-It)
+- [Android-Face-Recognition-with-Deep-Learning-Test-Framework](https://github.com/Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework)
+- [face-everthing](https://github.com/tpys/face-everthing)
+- [face-recognition-server](https://github.com/ragulin/face-recognition-server)
+- [FaceRecognitionApp](https://github.com/Lauszus/FaceRecognitionApp)
+- [Face-recognition](https://github.com/008karan/Face-recognition)
+- [facenet-face-recognition](https://github.com/Skuldur/facenet-face-recognition)
+- [Facial-Expression-Recognition](https://github.com/xionghc/Facial-Expression-Recognition)
+- [MobileFace](https://github.com/becauseofAI/MobileFace)
+- [Emotion-Detection-in-Videos](https://github.com/dhvanikotak/Emotion-Detection-in-Videos)
+- [openface](https://github.com/cmusatyalab/openface)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ----------
 
@@ -358,6 +417,7 @@ The Ultimate Platform Solution for IoT](https://www.tizen.org/sites/default/file
 
 [Back to top](#contents)
 
+- [DNN-Face-Recognition-Papers](https://github.com/L706077/DNN-Face-Recognition-Papers)
 - [Surveillance Face Recognition Challenge](https://arxiv.org/pdf/1804.09691v6.pdf)
 - [Domain Adaptation with Soft-margin multiple feature-kernel learning beats
 Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.01374v2.pdf)
