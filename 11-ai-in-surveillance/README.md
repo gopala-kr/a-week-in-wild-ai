@@ -377,6 +377,15 @@ Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.0137
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 - [Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766.pdf)
 
+##### Video Analytics
+
+- [Scaling Video Analytics Systems to Large Camera Deployments](https://arxiv.org/pdf/1809.02318v1.pdf)
+- [Deployment of Customized Deep Learning based Video Analytics On Surveillance Cameras](https://arxiv.org/pdf/1805.10604v2.pdf)
+- [Lost in Time: Temporal Analytics for Long-Term Video Surveillance](https://arxiv.org/pdf/1712.07322v1.pdf)
+- [Deep Learning Algorithms with Applications to Video Analytics for A Smart City: A Survey](https://arxiv.org/pdf/1512.03131v1.pdf)
+
+
+
 ##### IoT
 
 [Back to top](#contents)
