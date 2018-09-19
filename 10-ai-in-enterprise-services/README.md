@@ -340,6 +340,18 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
  - [Resources](https://in.teradata.com/Resources)
  
 ----------
+
+
+- [Deep learning in business analytics and operations research: Models, applications and managerial implications](https://arxiv.org/pdf/1806.10897v1.pdf)
+- [Data-driven Analytics for Business Architectures: Proposed Use of Graph Theory](https://arxiv.org/pdf/1806.03168v1.pdf)
+- [Visual Analytics in Deep Learning: An Interrogative Survey for the Next Frontiers](https://arxiv.org/pdf/1801.06889v3.pdf)
+- [Visual Analytics for Explainable Deep Learning](https://arxiv.org/ftp/arxiv/papers/1804/1804.02527.pdf)
+- [The State of the Art in Integrating Machine Learning into Visual Analytics](https://arxiv.org/pdf/1802.07954v1.pdf)
+- [Marketing Analytics: Methods, Practice, Implementation, and Links to Other Fields](https://arxiv.org/pdf/1801.09185v1.pdf)
+- [Next Generation Business Intelligence and Analytics: A Survey](https://arxiv.org/pdf/1704.03402v1.pdf)
+- [Towards Better Analysis of Machine Learning Models: A Visual Analytics Perspective](https://arxiv.org/pdf/1702.01226v1.pdf)
+- [A Web-based Interactive Visual Graph Analytics Platform](https://arxiv.org/pdf/1502.00354v1.pdf)
+
 ------------
 
 #### Appendix:
