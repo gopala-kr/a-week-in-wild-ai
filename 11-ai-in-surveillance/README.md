@@ -654,6 +654,4 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 ------
 
-![top-10-AI-India](https://cdn.nanalyze.com/uploads/2018/07/top-10-AI-India.jpg)
 
-----------------
