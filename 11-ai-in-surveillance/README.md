@@ -15,7 +15,7 @@
 - [Literature Reviews](#literature-reviews)
   - [Surveillance](#surveillance)
   - [Face recognition](#face-recognition)
-  - [Video Analytics](#video-analytics)
+  - [Video Analytics-1](#video-analytics-1)
   - [IoT](#iot)
 - [Ethical issues of surveillance](#ethical-issues-of-surveillance)
 - [Startups](#startups)
@@ -450,7 +450,7 @@ Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.0137
 - [Deep Learning Architectures for Face Recognition in Video Surveillance](https://arxiv.org/pdf/1802.09990v2.pdf)
 - [Multi-view Face Detection Using Deep Convolutional Neural Networks](https://arxiv.org/pdf/1502.02766.pdf)
 
-##### Video Analytics
+##### Video Analytics-1
 
 - [Scaling Video Analytics Systems to Large Camera Deployments](https://arxiv.org/pdf/1809.02318v1.pdf)
 - [Deployment of Customized Deep Learning based Video Analytics On Surveillance Cameras](https://arxiv.org/pdf/1805.10604v2.pdf)
