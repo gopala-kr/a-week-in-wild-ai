@@ -15,6 +15,7 @@
 - [Literature Reviews](#literature-reviews)
   - [Surveillance](#surveillance)
   - [Face recognition](#face-recognition)
+  - [Video Analytics](#video-analytics)
   - [IoT](#iot)
 - [Ethical issues of surveillance](#ethical-issues-of-surveillance)
 - [Startups](#startups)
