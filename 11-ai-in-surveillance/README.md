@@ -587,6 +587,10 @@ Surveillance:
 - [Meet five Chinese start-ups pushing facial recognition technology into the mainstream](https://www.scmp.com/tech/start-ups/article/2133234/meet-five-chinese-start-ups-pushing-facial-recognition-technology)
 - [Meet the Company That’s Using Face Recognition to Reshape China’s Tech Scene](https://www.technologyreview.com/s/608598/when-a-face-is-worth-a-billion-dollars/)
 - [8 Top-funded Facial Recognition Startups](https://www.nanalyze.com/2018/09/top-funded-facial-recognition-startups/)
+- [deepsentinel](https://www.deepsentinel.com/blogs/learning-center)
+- [deepscience](http://deepscience.ai/features.html)
+- [The world’s most valuable AI startup is a Chinese company specializing in real-time surveillance](https://www.theverge.com/2018/4/11/17223504/ai-startup-sensetime-china-most-valuable-facial-recognition-surveillance)
+
 
 ---------
 
