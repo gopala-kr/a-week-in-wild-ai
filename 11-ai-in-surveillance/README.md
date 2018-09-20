@@ -453,6 +453,9 @@ Deep Learning for surveillance face recognition](https://arxiv.org/pdf/1610.0137
 
 ##### Video Analytics-1
 
+
+[Back to top](#contents)
+
 - [Scaling Video Analytics Systems to Large Camera Deployments](https://arxiv.org/pdf/1809.02318v1.pdf)
 - [Deployment of Customized Deep Learning based Video Analytics On Surveillance Cameras](https://arxiv.org/pdf/1805.10604v2.pdf)
 - [Lost in Time: Temporal Analytics for Long-Term Video Surveillance](https://arxiv.org/pdf/1712.07322v1.pdf)
