@@ -699,7 +699,7 @@ IoT aspects](https://ec.europa.eu/growth/tools-databases/dem/monitor/sites/defau
 
 Agritech
 
-- [he Ag Tech Market Map: 100+ Startups Powering The Future Of Farming And Agribusiness](https://www.cbinsights.com/research/agriculture-tech-market-map-company-list/)
+- [The Ag Tech Market Map: 100+ Startups Powering The Future Of Farming And Agribusiness](https://www.cbinsights.com/research/agriculture-tech-market-map-company-list/)
 - [Tracxn - AgriTech Startup Landscape](https://www.slideshare.net/Tracxn/tracxn-agritech-startup-landscape)
 - [10 Best Agritech Startups - 2018](https://startup.siliconindiamagazine.com/ranking/10-best-agritech-startups-2018-rid-372.html)
 - [AgriTech In India: How Startups Are Changing The Face Of Indian Agriculture [Report]](https://inc42.com/buzz/agriculture-agritech-india-startups/?utm_source=top-menu&utm_medium=website&utm_campaign=menu)
@@ -713,7 +713,7 @@ Agritech
 - [AI, Robotics, And The Future Of Precision Agriculture](https://www.cbinsights.com/research/ai-robotics-agriculture-tech-startups-future/)
 - [The Most Active Investors In Ag Tech](https://www.cbinsights.com/research/agriculture-tech-top-investors/)
 - [Cultivating Ag Tech: 5 Trends Shaping The Future of Agriculture](https://www.cbinsights.com/research/agtech-startup-investor-funding-trends/)
-- [ig Chemical And Agribusiness Corporates: Where They’re Investing In Biotech, Ag Tech, And Food](https://www.cbinsights.com/research/chemical-agribusiness-corporates-investing-startups/)
+- [Chemical And Agribusiness Corporates: Where They’re Investing In Biotech, Ag Tech, And Food](https://www.cbinsights.com/research/chemical-agribusiness-corporates-investing-startups/)
 - [Betting The Farm: Agtech Is Small, But Funding Is Rising Fast](https://www.cbinsights.com/research/agtech-startup-funding/)
 - [Synthetic Biology Game Changers: Startups Redesigning Biological Products](https://www.cbinsights.com/research/game-changers-synthetic-biology/)
 - [10 Companies That Are Helping Predict, Track, And Analyze The Weather](https://www.cbinsights.com/research/weather-data-companies/)
