@@ -686,6 +686,16 @@ Using Deep Long Short Term Memory Models](https://export.arxiv.org/ftp/arxiv/pap
 - [Fully Convolutional Networks with Sequential Information for Robust Crop and Weed Detection in Precision Farming](https://arxiv.org/pdf/1806.03412v1.pdf)
 
 
+IoT
+
+- [IoT in Agriculture: Five Technology Uses for Smart Farming and Challenges to Consider](https://dzone.com/articles/iot-in-agriculture-five-technology-uses-for-smart)
+- [What are the best applications of the IoT in agriculture?](https://www.quora.com/What-are-the-best-applications-of-the-IoT-in-agriculture)
+- [The Connected Farm](https://www.huawei.com/-/media/CORPORATE/Images/PDF/v2-smart-agriculture-0517.pdf?la=en)
+- [Industry 4.0 in
+agriculture: Focus on
+IoT aspects](https://ec.europa.eu/growth/tools-databases/dem/monitor/sites/default/files/DTM_Agriculture%204.0%20IoT%20v1.pdf)
+
+
 
 Agritech
 
