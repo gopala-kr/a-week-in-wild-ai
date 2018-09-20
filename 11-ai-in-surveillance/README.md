@@ -653,6 +653,22 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 #### AI+IoT in Agriculture
 
+
+- [Deep Learning in Agriculture: A Survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
+- [Agricultural Robotics:
+The Future of Robotic Agriculture ](https://arxiv.org/ftp/arxiv/papers/1806/1806.06762.pdf)
+- [A Scalable Machine Learning System for Pre-Season Agriculture Yield Forecast](https://arxiv.org/pdf/1806.09244.pdf)
+- [Predicting County Level Corn Yields
+Using Deep Long Short Term Memory Models](https://export.arxiv.org/ftp/arxiv/papers/1805/1805.12044.pdf)
+- [Using Deep Learning for Image-Based Plant Disease Detection](https://www.frontiersin.org/articles/10.3389/fpls.2016.01419/full)
+- [Exclusive: Alphabet X is exploring new ways to use AI in food production](https://www.technologyreview.com/s/610549/exclusive-alphabet-x-is-exploring-new-ways-to-use-ai-in-food-production/)
+- [4D Crop Monitoring: Spatio-Temporal Reconstruction for Agriculture](https://arxiv.org/pdf/1610.02482v1.pdf)
+- [Real-time Semantic Segmentation of Crop and Weed for Precision Agriculture Robots Leveraging Background Knowledge in CNNs](https://arxiv.org/pdf/1709.06764v2.pdf)
+- [Icon Based Information Retrieval and Disease Identification in Agriculture](https://arxiv.org/ftp/arxiv/papers/1404/1404.1664.pdf)
+- [Fully Convolutional Networks with Sequential Information for Robust Crop and Weed Detection in Precision Farming](https://arxiv.org/pdf/1806.03412v1.pdf)
+
+
+
 Agritech
 
 - [he Ag Tech Market Map: 100+ Startups Powering The Future Of Farming And Agribusiness](https://www.cbinsights.com/research/agriculture-tech-market-map-company-list/)
