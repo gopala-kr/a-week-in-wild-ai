@@ -1,4 +1,5 @@
-
+![ag_iot](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/11-ai-in-surveillance/agri/ag_iot.PNG)
+-------
 ![AI_robotics_Agriculture1](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/07/AI_robotics_Agriculture1.png)
 ----------
 ![Agtech-Market-Map-V32](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2017/01/Agtech-Market-Map-V32.png)
