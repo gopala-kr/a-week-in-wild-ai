@@ -654,6 +654,24 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 #### AI+IoT in Agriculture
 
 
+
+- [Scope of Artificial Intelligence & Machine Learning in Indian Agriculture](https://aphrdi.ap.gov.in/documents/Trainings@APHRDI/ASOs/IV%20WEEK/Scope%20%20of%20Artificial%20Intelligence%20Machine%20Learning%20in%20Indian%20Agriculture.pdf)
+- [20 uses cases - Artificial Intelligence and Machine Learning in agriculture by ai.business](https://www.slideshare.net/VictorJohnTan/20-uses-cases-artificial-intelligence-and-machine-learning-in-agriculture-by-aibusiness)
+- [AI in Agriculture – Present Applications and Impact](https://www.techemergence.com/ai-agriculture-present-applications-impact/)
+- [Microsoft- Digital Agriculture: Farmers in India are using AI to increase crop yields](https://news.microsoft.com/en-in/features/ai-agriculture-icrisat-upl-india/)
+- [The 6 Most Amazing AI Advances in Agriculture](https://www.techopedia.com/the-6-most-amazing-ai-advances-in-agriculture/2/33177)
+- [A Real-World Example Of The Power Of AI In Agriculture](http://www.digitalistmag.com/improving-lives/2018/03/06/real-world-example-of-power-of-ai-in-agriculture-05948643)
+- [What are some applications of AI in the field of agriculture? - Quora](https://www.quora.com/What-are-some-applications-of-AI-in-the-field-of-agriculture)
+- [Artificial intelligence holds the promise of driving an agricultural revolution at a time when the world must produce more food using fewer resources.](https://www.intel.com/content/www/us/en/big-data/article/agriculture-harvests-big-data.html)
+- [Can Artificial Intelligence help improve agricultural productivity?](http://www.fao.org/e-agriculture/news/can-artificial-intelligence-help-improve-agricultural-productivity)
+- [Exclusive: Alphabet X is exploring new ways to use AI in food production](https://www.technologyreview.com/s/610549/exclusive-alphabet-x-is-exploring-new-ways-to-use-ai-in-food-production/)
+- [IBM - Five ways agriculture could benefit from artificial intelligence](https://www.ibm.com/blogs/watson/2016/12/five-ways-agriculture-benefit-artificial-intelligence/)
+- [The Challenges for Artificial Intelligence in Agriculture](https://agfundernews.com/the-challenges-for-artificial-intelligence-in-agriculture.html)
+- [The Incredible Ways John Deere Is Using Artificial Intelligence To Transform Farming](https://www.forbes.com/sites/bernardmarr/2018/03/09/the-incredible-ways-john-deere-is-using-artificial-intelligence-to-transform-farming/#4910dce3330d)
+
+
+------------
+
 - [Deep Learning in Agriculture: A Survey](https://arxiv.org/ftp/arxiv/papers/1807/1807.11809.pdf)
 - [Agricultural Robotics:
 The Future of Robotic Agriculture ](https://arxiv.org/ftp/arxiv/papers/1806/1806.06762.pdf)
@@ -689,8 +707,6 @@ Agritech
 - [Betting The Farm: Agtech Is Small, But Funding Is Rising Fast](https://www.cbinsights.com/research/agtech-startup-funding/)
 - [Synthetic Biology Game Changers: Startups Redesigning Biological Products](https://www.cbinsights.com/research/game-changers-synthetic-biology/)
 - [10 Companies That Are Helping Predict, Track, And Analyze The Weather](https://www.cbinsights.com/research/weather-data-companies/)
-
-
 
 
 -------------------
