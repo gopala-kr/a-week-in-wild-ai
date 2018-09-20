@@ -653,6 +653,15 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 
 #### AI+IoT in Agriculture
 
+Agritech
+
+- [Tracxn - AgriTech Startup Landscape](https://www.slideshare.net/Tracxn/tracxn-agritech-startup-landscape)
+- [10 Best Agritech Startups - 2018](https://startup.siliconindiamagazine.com/ranking/10-best-agritech-startups-2018-rid-372.html)
+- [AgriTech In India: How Startups Are Changing The Face Of Indian Agriculture [Report]](https://inc42.com/buzz/agriculture-agritech-india-startups/?utm_source=top-menu&utm_medium=website&utm_campaign=menu)
+- [The 25 Most Innovative Ag-Tech Startups](https://www.forbes.com/sites/maggiemcgrath/2017/06/28/the-25-most-innovative-ag-tech-startups/#6f667b5f4883)
+- [The 25 Most Innovative AgTech Startups In 2018](https://www.forbes.com/sites/maggiemcgrath/2018/06/27/the-25-most-innovative-agtech-startups-in-2018/#11669a482302)
+- [Startup Watchlist: 12 Indian Agritech Startups To Watch Out For In 2018](https://inc42.com/features/watchlist-agritech-startups-2018/)
+
 
 -------------------
 
