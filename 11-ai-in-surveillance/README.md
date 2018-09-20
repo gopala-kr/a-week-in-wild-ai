@@ -20,7 +20,7 @@
 - [Ethical issues of surveillance](#ethical-issues-of-surveillance)
 - [Startups](#startups)
 - [Misc](#misc)
-- [AI+IoT in Agriculture](#ai+iot-in-agriculture)
+- [AI and IoT in Agriculture](#ai-and-iot-in-agriculture)
 - [Appendix](#appendix)
 
 
@@ -651,9 +651,10 @@ Myths of IP Surveillance](https://www.axis.com/files/articles/ar_10myths_secinfo
 - [Vision-Based Artificial Intelligence Brings Awareness to Surveillance](https://www.embedded-vision.com/platinum-members/embedded-vision-alliance/embedded-vision-training/documents/pages/security)
 -------------
 
-#### AI+IoT in Agriculture
+#### AI and IoT in Agriculture
 
 
+[Back to top](#contents)
 
 - [Scope of Artificial Intelligence & Machine Learning in Indian Agriculture](https://aphrdi.ap.gov.in/documents/Trainings@APHRDI/ASOs/IV%20WEEK/Scope%20%20of%20Artificial%20Intelligence%20Machine%20Learning%20in%20Indian%20Agriculture.pdf)
 - [20 uses cases - Artificial Intelligence and Machine Learning in agriculture by ai.business](https://www.slideshare.net/VictorJohnTan/20-uses-cases-artificial-intelligence-and-machine-learning-in-agriculture-by-aibusiness)
