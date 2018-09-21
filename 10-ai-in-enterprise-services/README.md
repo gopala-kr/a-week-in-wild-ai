@@ -370,25 +370,6 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
 
 ----------
 
-#### Analytics as a Service
-
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-----------
-
 #### Machine Learning as a Service
 
 - [Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
@@ -396,37 +377,17 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
 - [What Is Machine Learning As A Service (MLaaS)?](https://www.analyticsindiamag.com/what-is-machine-learning-as-a-service-mlaas/)
 - [Top 5 Machine Learning-as-a-Service providers](https://jaxenter.com/top-5-machine-learning-service-providers-141275.html)
 - [MLaaS: Machine Learning as a Service](https://www.eng.uwo.ca/electrical/faculty/grolinger_k/docs/mlaas.pdf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Try out Machine Learning services on SAP Cloud Platform](https://blogs.sap.com/2018/07/01/try-out-machine-learning-services-on-sap-cloud-platform/)
+- [5 Best Machine Learning APIs for Data Science](https://www.kdnuggets.com/2015/11/machine-learning-apis-data-science.html/2)
+- [A List Of 5 Best Machine Learning APIs for Data Science](https://www.techleer.com/articles/436-a-list-of-5-best-machine-learning-apis-for-data-science/)
+- [Machine Learning APIs Are Disrupting Business](https://nordicapis.com/machine-learning-apis-are-disrupting-business/)
+- [20 APIs that prove what ML and prediction is capable of](https://towardsdatascience.com/20-apis-that-prove-what-ml-and-prediction-is-capable-of-257bb7d71ed2)
+- [IBM Deep Learning Service](https://www.researchgate.net/publication/319609852_IBM_Deep_Learning_Service)
+- [Deep Learning as a Service, IBM makes advanced AI more accessible for users everywhere](https://www.ibm.com/blogs/watson/2018/03/deep-learning-service-ibm-makes-advanced-ai-accessible-users-everywhere/)
 
 
 <p class="qtext_para">AmazonML: <span class="qlink_container"><a href="http://cloudacademy.com/blog/aws-machine-learning/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="cloudacademy.com">Amazon Machine Learning: use cases and a real example</a></span></p><p class="qtext_para">AzureML: <span class="qlink_container"><a href="http://cloudacademy.com/blog/azure-machine-learning/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="cloudacademy.com">Azure Machine Learning: simplified predictive analytics</a></span></p><p class="qtext_para">BigML: <span class="qlink_container"><a href="http://cloudacademy.com/blog/bigml-machine-learning/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="cloudacademy.com">BigML: Machine Learning made easy</a></span></p><p class="qtext_para">Chattermill:<b> </b><span class="qlink_container"><a href="https://chattermill.io/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="chattermill.io">Machine Learning for customer experience</a></span></p><p class="qtext_para">Datoin: <span class="qlink_container"><a href="http://datoin.com/home/buildIntelligent?utm_campaign=aw-q3&amp;utm_medium=om&amp;utm_source=q" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="datoin.com">Build Intelligent Apps.</a></span></p><p class="qtext_para">ParallelDots: <span class="qlink_container"><a href="https://www.paralleldots.com/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="paralleldots.com">ParallelDots</a></span></p><p class="qtext_para">DeepAI: <span class="qlink_container"><a href="https://deepai.org/enterprise-machine-learning" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="deepai.org">Enterprise machine learning as a service</a></span></p><p class="qtext_para">Deep Cognition: <span class="qlink_container"><a href="http://deepcognition.ai/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="deepcognition.ai">Deep Learning Studio simplifies AI development and deployment</a></span></p><p class="qtext_para">Ersatz: <span class="qlink_container"><a href="http://www.ersatzlabs.com/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="ersatzlabs.com">Hosted deep learning with GPUs</a></span></p><p class="qtext_para">ForecastThis: <span class="qlink_container"><a href="http://forecastthis.com/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="forecastthis.com">automated predictive modeling solutions</a></span></p><p class="qtext_para">Google Prediction API: <span class="qlink_container"><a href="http://cloudacademy.com/blog/google-prediction-api/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="cloudacademy.com">Google Prediction API: a Machine Learning black box for devs</a></span></p><p class="qtext_para">MLJAR: <span class="qlink_container"><a href="http://mljar.com/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="mljar.com">Platform for building Machine Learning models</a></span></p><p class="qtext_para">Natero: <span class="qlink_container"><a href="https://www.natero.com" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="natero.com">Customer Success platform that predicts churn and up-sell opportunities</a></span></p><p class="qtext_para">DataRobot: <span class="qlink_container"><a href="https://www.datarobot.com/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="datarobot.com">Machine Learning Software - DataRobot</a></span></p><p class="qtext_para">Valohai: <span class="qlink_container"><a href="https://valohai.com/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="valohai.com">Scalable Machine Learning Platform as a Service</a></span></p><p class="qtext_para">Vize AI: <span class="qlink_container"><a href="http://vize.it/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="vize.it">Custom image recognition API</a></span></p><p class="qtext_para">Watson Analytics: <span class="qlink_container"><a href="http://www.ibm.com/analytics/watson-analytics/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="ibm.com">Guided and automated analytics from the cloud.</a></span></p><p class="qtext_para">Wise: <span class="qlink_container"><a href="http://wise.io/" rel="noopener nofollow" target="_blank" onclick="return Q.openUrl(this);" class="external_link" data-qt-tooltip="wise.io">Machine Learning for Customer Success</a></span>:</p>
 
-----------
-
-#### Deep Learning as a Service
-
-- []()
-- [Deep Learning as a Service, IBM makes advanced AI more accessible for users everywhere](https://www.ibm.com/blogs/watson/2018/03/deep-learning-service-ibm-makes-advanced-ai-accessible-users-everywhere/)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 ------------
 
