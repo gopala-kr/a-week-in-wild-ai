@@ -634,23 +634,6 @@ Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.ga
 - [Reviews for Industrial IoT Platforms](https://www.gartner.com/reviews/market/industrial-iot-platforms)
 - [Reviews for Mobile App Development Platforms](https://www.gartner.com/reviews/market/mobile-application-development-platforms)
 
--------
-
-![CLOUD-MACHINE-LEARNING-SERVICES-COMPARISON-1](https://www.altexsoft.com/media/2017/03/CLOUD-MACHINE-LEARNING-SERVICES-COMPARISON-1.png)
---------
-![Image_analysis_API](https://www.altexsoft.com/media/2017/03/Image_analysis_API.png)
-
------------
-
-![Video_APIs](https://www.altexsoft.com/media/2017/03/Video_APIs-1.png)
-
-----
-
-![speech_APIs](https://www.altexsoft.com/media/2017/03/speech_APIs.png)
-
--------
-
-![Slide1](https://www.ibm.com/blogs/watson/wp-content/uploads/2018/03/Slide1.jpg)
 
 -----------
 ------------
