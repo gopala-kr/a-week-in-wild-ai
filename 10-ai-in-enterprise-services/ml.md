@@ -158,6 +158,23 @@
 
 ![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f466c7578436170616369746f7242696744617461506970656c696e654172636869746563747572654f766572766965772e706e67](https://camo.githubusercontent.com/bba1fb7e38abbfbc2a765009d85960b5efb27f51/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f666c7578636170616369746f722e636f6d2f696d672f466c7578436170616369746f7242696744617461506970656c696e654172636869746563747572654f766572766965772e706e67)
 
+-------
+
+![CLOUD-MACHINE-LEARNING-SERVICES-COMPARISON-1](https://www.altexsoft.com/media/2017/03/CLOUD-MACHINE-LEARNING-SERVICES-COMPARISON-1.png)
+--------
+![Image_analysis_API](https://www.altexsoft.com/media/2017/03/Image_analysis_API.png)
+
+-----------
+
+![Video_APIs](https://www.altexsoft.com/media/2017/03/Video_APIs-1.png)
+
+----
+
+![speech_APIs](https://www.altexsoft.com/media/2017/03/speech_APIs.png)
+
+-------
+
+![Slide1](https://www.ibm.com/blogs/watson/wp-content/uploads/2018/03/Slide1.jpg)
 
 -----------
 -----------
