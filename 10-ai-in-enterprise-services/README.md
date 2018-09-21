@@ -391,11 +391,11 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
 
 #### Machine Learning as a Service
 
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Comparing Machine Learning as a Service: Amazon, Microsoft Azure, Google Cloud AI, IBM Watson](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
+- [Machine Learning as a Service (MLaaS)](https://blog.g2crowd.com/blog/trends/artificial-intelligence/2018-ai/machine-learning-service-mlaas/)
+- [What Is Machine Learning As A Service (MLaaS)?](https://www.analyticsindiamag.com/what-is-machine-learning-as-a-service-mlaas/)
+- [Top 5 Machine Learning-as-a-Service providers](https://jaxenter.com/top-5-machine-learning-service-providers-141275.html)
+- [MLaaS: Machine Learning as a Service](https://www.eng.uwo.ca/electrical/faculty/grolinger_k/docs/mlaas.pdf)
 - []()
 - []()
 - []()
@@ -414,7 +414,7 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
 #### Deep Learning as a Service
 
 - []()
-- []()
+- [Deep Learning as a Service, IBM makes advanced AI more accessible for users everywhere](https://www.ibm.com/blogs/watson/2018/03/deep-learning-service-ibm-makes-advanced-ai-accessible-users-everywhere/)
 - []()
 - []()
 - []()
@@ -673,6 +673,23 @@ Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.ga
 - [Reviews for Industrial IoT Platforms](https://www.gartner.com/reviews/market/industrial-iot-platforms)
 - [Reviews for Mobile App Development Platforms](https://www.gartner.com/reviews/market/mobile-application-development-platforms)
 
+-------
+
+![CLOUD-MACHINE-LEARNING-SERVICES-COMPARISON-1](https://www.altexsoft.com/media/2017/03/CLOUD-MACHINE-LEARNING-SERVICES-COMPARISON-1.png)
+--------
+![Image_analysis_API](https://www.altexsoft.com/media/2017/03/Image_analysis_API.png)
+
+-----------
+
+![Video_APIs](https://www.altexsoft.com/media/2017/03/Video_APIs-1.png)
+
+----
+
+![speech_APIs](https://www.altexsoft.com/media/2017/03/speech_APIs.png)
+
+-------
+
+![Slide1](https://www.ibm.com/blogs/watson/wp-content/uploads/2018/03/Slide1.jpg)
 
 -----------
 ------------
