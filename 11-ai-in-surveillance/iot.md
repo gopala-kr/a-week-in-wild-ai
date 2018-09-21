@@ -163,7 +163,7 @@ Reference: [Microsoft Azure IoT Reference Architecture](http://download.microsof
 
 
 -----------
-![]()
+![z5p7ghzA_IHfLibC](https://cdn-images-1.medium.com/max/800/0*z5p7ghzA_IHfLibC.png)
 
 -----------
 -----------
