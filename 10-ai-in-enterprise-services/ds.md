@@ -1,6 +1,8 @@
 
 -------
 ![687474703a2f2f6e6972766163616e612e636f6d2f74686f75676874732f77702d636f6e74656e742f75706c6f6164732f323031332f30372f526f6164546f44617461536369656e74697374312e706e67](https://camo.githubusercontent.com/8239665558c289f00506df466df25f10b910e7ba/687474703a2f2f6e6972766163616e612e636f6d2f74686f75676874732f77702d636f6e74656e742f75706c6f6164732f323031332f30372f526f6164546f44617461536369656e74697374312e706e67)
+
+[Source](https://github.com/MrMimic/data-scientist-roadmap)
 --------
 
 ![Data-Science-Periodic-Table](https://i2.wp.com/s3.amazonaws.com/assets.datacamp.com/blog_assets/Data-Science-Periodic-Table.png)
@@ -177,6 +179,14 @@ High-Level Machine Learning Frameworks
 - [Boost your data science skills. Learn linear algebra.](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
 - [Another Machine Learning Walk-Through and a Challenge](https://towardsdatascience.com/another-machine-learning-walk-through-and-a-challenge-8fae1e187a64)
 - [The Sexiest Job of the 21st Century Dissected — Why You Need a Data Scientist on Your Team](https://towardsdatascience.com/the-sexiest-job-of-the-21st-century-dissected-why-you-need-a-data-scientist-on-your-team-10fa812e440e)
-
+- [The most comprehensive Data Science learning plan for 2017](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
+- [Hacks for becoming a Top Data Scientist in 6 Months- PART 1: Road map](https://medium.com/@manjabogicevic/how-to-become-a-top-data-scientist-in-6-months-part-1-road-map-c6e506699405)
+- [What are the Skills Needed to Become a Data Scientist in 2018?](https://towardsdatascience.com/what-are-the-skills-needed-to-become-a-data-scientist-in-2018-d037012f1db2)
+- [Building An
+Analytical
+Roadmap : A Real
+Life Example](https://www.sas.com/content/dam/SAS/en_my/doc/other2/building-analytical-roadmap.pdf)
+- [The Open-Source Data Science Masters](http://datasciencemasters.org/)
+- [An Introduction to Data Science](https://www.saedsayad.com/data_mining_map.htm)
 
 ---------
