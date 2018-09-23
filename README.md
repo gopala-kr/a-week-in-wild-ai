@@ -9,7 +9,7 @@
 - [[Week-9](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/09-ai-in-finance)] 02/09/2018 : AI in Finance
 - [[Week-10](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/10-ai-in-enterprise-services)] 09/09/2018 : AI in enterprise services
 - [[Week-11-12](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/11-ai-in-surveillance)] 23/09/2018 : AI in Surveillance + IoT + Agriculture
-- [[Week-13]()]
+- [Week-13]
 - [Week-14]
 
 
