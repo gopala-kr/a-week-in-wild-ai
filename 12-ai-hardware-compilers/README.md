@@ -51,7 +51,9 @@ Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746v3.pdf)
 - [VTA: An Open Hardware-Software Stack for Deep Learning](https://arxiv.org/pdf/1807.04188v1.pdf)
 - [Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions](https://arxiv.org/pdf/1802.04730v3.pdf)
 - [Automatic Optimization of Hardware Accelerators for Image Processing](https://arxiv.org/ftp/arxiv/papers/1502/1502.07448.pdf)
-
+- [MIT CSAIL: Halide: A Language and Compiler for Optimizing Parallelism,
+Locality, and Recomputation in Image Processing Pipelines
+](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
 
 ONNX:
 
