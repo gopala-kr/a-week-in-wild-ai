@@ -16,6 +16,16 @@ TensorFlow to Routing High-Level Synthesis](http://www.ece.ubc.ca/~ameer/publica
 for Training TensorFlow Multi-Layer Perceptrons](https://researcher.watson.ibm.com/researcher/files/us-ealtman/FASTPATH_2018_paper_2.pdf)
 - [Amazon: Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks](https://aws.amazon.com/blogs/machine-learning/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/)
 - [NNVM Compiler: Open Compiler for AI Frameworks](https://tvm.ai/2017/10/06/nnvm-compiler-announcement.html)
+- [Automatic Code Generation
+ TVM Stack](http://dlsys.cs.washington.edu/pdf/lecture7.pdf)
+ - [End to End Optimization Stack
+for Deep Learning](http://learningsys.org/nips17/assets/slides/TVM-MLSys-NIPS17.pdf)
+- [TENSORRT
+](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Release-Notes.pdf)
+- [TENSORRT
+DU-08602-001_v5.0 RC | September 2018
+Developer Guide](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Developer-Guide.pdf)
+- [TensorRT 3: Faster TensorFlow Inference and Volta Support](https://devblogs.nvidia.com/tensorrt-3-faster-tensorflow-inference/)
 
 -----------
 
