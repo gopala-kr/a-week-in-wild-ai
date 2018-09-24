@@ -42,9 +42,13 @@
 ----------
 ![compiler](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/compiler.PNG)
 ----------
-![]()
+![onnx](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/onnx.PNG)
 ----------
-![]()
+![onnx2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/onnx2.PNG)
 ----------
-![]()
+![onnx3](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/onnx3.PNG)
+----------
+![onnx4](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/onnx4.PNG)
+----------
+![onnx5](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/onnx5.PNG)
 ----------
