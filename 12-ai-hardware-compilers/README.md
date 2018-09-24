@@ -31,6 +31,11 @@ Learning Models](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-73.
 - [On Optimizing Operator Fusion Plans
 for Large-Scale Machine Learning in SystemML](https://arxiv.org/pdf/1801.00829.pdf)
 - [ Domain Specific Language and IR](https://pdfs.semanticscholar.org/presentation/f04a/0635498b2269b730619aacccb9257941c584.pdf)
+- [HKG18-417
+OpenCL Support by NNVM & TVM](http://connect.linaro.org.s3.amazonaws.com/hkg18/presentations/hkg18-417.pdf)
+- [Facebook : Glow: Graph Lowering Compiler Techniques for
+Neural Networks
+](https://arxiv.org/pdf/1805.00907.pdf)
 
 -----------
 
