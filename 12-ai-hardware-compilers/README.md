@@ -1,4 +1,4 @@
-#### A brief survey : deep learning hardware compilers
+#### A brief survey : deep learning hardware compiler Optimization
 
 -------------
 
