@@ -36,6 +36,27 @@ OpenCL Support by NNVM & TVM](http://connect.linaro.org.s3.amazonaws.com/hkg18/p
 - [Facebook : Glow: Graph Lowering Compiler Techniques for
 Neural Networks
 ](https://arxiv.org/pdf/1805.00907.pdf)
+- [Applied Machine Learning at Facebook:
+A Datacenter Infrastructure Perspective
+](https://research.fb.com/wp-content/uploads/2017/12/hpca-2018-facebook.pdf)
+- [Intel Nervana Graph: A universal deep learning compiler](https://conferences.oreilly.com/artificial-intelligence/ai-ca-2017/public/schedule/detail/63428)
+- [A Survey on Compiler Autotuning using Machine Learning](https://arxiv.org/pdf/1801.04405v5.pdf)
+- [Tiramisu: A Code Optimization Framework for High
+Performance Systems](https://arxiv.org/pdf/1804.10694v2.pdf)
+- [Bridging the Gap Between Neural Networks and Neuromorphic
+Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746v3.pdf)
+- [Intel nGraph: An Intermediate Representation, Compiler, and Executor for Deep Learning](https://arxiv.org/pdf/1801.08058v2.pdf)
+- [Machine Learning in Compiler Optimisation](https://arxiv.org/pdf/1805.03441v1.pdf)
+- [Compiling Deep Learning Models for Custom Hardware Accelerators](https://arxiv.org/pdf/1708.00117v2.pdf)
+- [VTA: An Open Hardware-Software Stack for Deep Learning](https://arxiv.org/pdf/1807.04188v1.pdf)
+- [Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions](https://arxiv.org/pdf/1802.04730v3.pdf)
+- [Automatic Optimization of Hardware Accelerators for Image Processing](https://arxiv.org/ftp/arxiv/papers/1502/1502.07448.pdf)
+
+
+ONNX:
+
+- [ONNX-workshop](http://learningsys.org/nips17/assets/slides/ONNX-workshop.pdf)
+- [Open Neural Network Exchange format](http://on-demand.gputechconf.com/gtc/2018/presentation/s8818-onnx-interoperable-deep-learning-presented-by-facebook.pdf)
 
 -----------
 
