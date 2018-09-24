@@ -80,6 +80,9 @@ ONNX:
 -------
 
 ![103_FI](https://simplecore.intel.com/ai/wp-content/uploads/sites/69/103_FI.png)
+---------
+
+![compile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/compile-diff.PNG)
 
 ---------
 ---------------
