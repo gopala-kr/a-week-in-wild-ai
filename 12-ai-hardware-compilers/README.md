@@ -34,6 +34,13 @@ for Large-Scale Machine Learning in SystemML](https://arxiv.org/pdf/1801.00829.p
 
 -----------
 
+![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
+
+---------
+![dlvm_compile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm_compile.PNG)
+
+-----------
+
 ![nnvm_compiler_stack](https://tvm.ai/images/nnvm/nnvm_compiler_stack.png)
 
 ---------
