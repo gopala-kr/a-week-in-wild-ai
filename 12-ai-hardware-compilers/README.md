@@ -26,7 +26,7 @@ for Deep Learning](http://learningsys.org/nips17/assets/slides/TVM-MLSys-NIPS17.
 DU-08602-001_v5.0 RC | September 2018
 Developer Guide](https://docs.nvidia.com/deeplearning/sdk/pdf/TensorRT-Developer-Guide.pdf)
 - [TensorRT 3: Faster TensorFlow Inference and Volta Support](https://devblogs.nvidia.com/tensorrt-3-faster-tensorflow-inference/)
-- [Bekeley EECS: Exploring Novel Architectures For Serving Machine
+- [Berkeley EECS: Exploring Novel Architectures For Serving Machine
 Learning Models](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-73.pdf)
 - [On Optimizing Operator Fusion Plans
 for Large-Scale Machine Learning in SystemML](https://arxiv.org/pdf/1801.00829.pdf)
