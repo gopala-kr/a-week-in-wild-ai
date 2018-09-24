@@ -14,6 +14,7 @@ TENSORFLOW + GPUS](http://on-demand.gputechconf.com/gtc-eu/2017/presentation/233
 TensorFlow to Routing High-Level Synthesis](http://www.ece.ubc.ca/~ameer/publications/Abdelhadi-Poster-2018July-COHESA_AGM18-DeepLearningBenchmarksFPGAs.pdf)
 - [Performance Analysis of Just-in-Time Compilation
 for Training TensorFlow Multi-Layer Perceptrons](https://researcher.watson.ibm.com/researcher/files/us-ealtman/FASTPATH_2018_paper_2.pdf)
+- [Amazon: Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks](https://aws.amazon.com/blogs/machine-learning/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/)
 
 -----------
 
