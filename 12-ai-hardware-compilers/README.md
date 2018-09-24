@@ -15,8 +15,13 @@ TensorFlow to Routing High-Level Synthesis](http://www.ece.ubc.ca/~ameer/publica
 - [Performance Analysis of Just-in-Time Compilation
 for Training TensorFlow Multi-Layer Perceptrons](https://researcher.watson.ibm.com/researcher/files/us-ealtman/FASTPATH_2018_paper_2.pdf)
 - [Amazon: Introducing NNVM Compiler: A New Open End-to-End Compiler for AI Frameworks](https://aws.amazon.com/blogs/machine-learning/introducing-nnvm-compiler-a-new-open-end-to-end-compiler-for-ai-frameworks/)
+- [NNVM Compiler: Open Compiler for AI Frameworks](https://tvm.ai/2017/10/06/nnvm-compiler-announcement.html)
 
 -----------
+
+![nnvm_compiler_stack](https://tvm.ai/images/nnvm/nnvm_compiler_stack.png)
+
+-------
 
 ![103_FI](https://simplecore.intel.com/ai/wp-content/uploads/sites/69/103_FI.png)
 
