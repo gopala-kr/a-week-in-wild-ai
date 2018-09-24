@@ -21,6 +21,10 @@ for Training TensorFlow Multi-Layer Perceptrons](https://researcher.watson.ibm.c
 
 ![nnvm_compiler_stack](https://tvm.ai/images/nnvm/nnvm_compiler_stack.png)
 
+---------
+
+![nnvm_deploy](https://tvm.ai/images/nnvm/nnvm_deploy.png)
+
 -------
 
 ![103_FI](https://simplecore.intel.com/ai/wp-content/uploads/sites/69/103_FI.png)
