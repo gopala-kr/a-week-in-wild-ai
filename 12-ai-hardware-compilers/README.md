@@ -1,4 +1,4 @@
-#### A brief survey : deep learning hardware compiler Optimization
+#### A brief survey : deep learning compiler Optimization for different hardwares
 
 -------------
 
@@ -51,6 +51,10 @@ Neural Networks
 ---------
 
 ![nnvm_deploy](https://tvm.ai/images/nnvm/nnvm_deploy.png)
+
+-------
+
+![nnvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/nnvm-tvm.PNG)
 
 -------
 
