@@ -59,3 +59,7 @@
 --------
 ![Description](https://www.researchgate.net/profile/Munesh_Chauhan/publication/301346139/figure/fig2/AS:351878752817153@1460905840497/LLVM-Compiler-Description-for-CUDA.png)
 ------
+
+![swift](https://shinesg.files.wordpress.com/2016/01/swift-2.png)
+
+----
