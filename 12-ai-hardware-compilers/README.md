@@ -97,6 +97,7 @@ Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-
 Compiler Driver
 NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
 - [HSA](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
+- [Usable assembly language for GPUs](https://cryptojedi.org/papers/gpuasm-20120313.pdf)
 
 -----------
 
