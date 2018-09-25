@@ -109,11 +109,14 @@ Systems for Machine Learning
 Jeff Dean
 Google Brain team](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 - [TPU](https://homes.cs.washington.edu/~cdel/presentations/TPUPaperISCA2017.pdf)
-- [Introduc)on	to	Tensor	Processing	Unit](https://csap.snu.ac.kr/sites/default/files/su17/Lec5-tpu.pdf)
+- [ASIC DESIGN](https://www.tce.edu/sites/default/files/PDF/14EC770-ASIC-DESIGN-K.Kalyani.pdf)
+- [Modern ASIC design](https://www.utdallas.edu/~zhoud/EE6306/lecture%20slides/ASIC%202011%20Chapter%206%20%20Physical%20Design.pdf)
+- [Introducion	to	Tensor	Processing	Unit](https://csap.snu.ac.kr/sites/default/files/su17/Lec5-tpu.pdf)
 - [ASIC Computer-Aided Design Flow](https://pdfs.semanticscholar.org/presentation/7c0e/910a2c2ddd54b561cb4160397e9bbe144d87.pdf)
 - [ASIC Design Flow](https://www.csee.umbc.edu/~tinoosh/cmpe641/slides/lect01_flow.pdf)
 - [Digital System on Chip (SoC)
 Computer-Aided Design Flow](http://www.eng.auburn.edu/~nelson/courses/elec4200/Slides/ELEC4200_SoC_Design.pdf)
+- [ASICs](http://www.ni2designs.com/downloads/docs/Intro_to_ASICs.pdf)
 
 -----------
 
