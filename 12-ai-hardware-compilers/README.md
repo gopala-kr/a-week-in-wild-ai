@@ -64,6 +64,8 @@ ONNX:
 
 - [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
 - [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
+- [A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)
+
 
 ---------
 
