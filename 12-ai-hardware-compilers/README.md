@@ -97,5 +97,13 @@ Hardware (via Bluespec)](https://pdfs.semanticscholar.org/presentation/5cfc/76c6
 - [Review of LLVM Compiler Architecture Enhancements for CUDA](https://www.researchgate.net/publication/301346139_Review_of_LLVM_Compiler_Architecture_Enhancements_for_CUDA)
 - [LLVM: A Compilation Framework for
 Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
+- [LLVM](https://en.wikipedia.org/wiki/LLVM)
+- [The CUDA
+Compiler Driver
+NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
+- [HETEROGENEOUS SYSTEM ARCHITECTURE (HSA)
+AND THE
+SOFTWARE ECOSYSTEM](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
+
 
 ---------
