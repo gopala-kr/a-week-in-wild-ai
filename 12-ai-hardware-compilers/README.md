@@ -55,6 +55,7 @@ Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746v3.pdf)
 Locality, and Recomputation in Image Processing Pipelines
 ](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
 
+
 ONNX:
 
 - [ONNX-workshop](http://learningsys.org/nips17/assets/slides/ONNX-workshop.pdf)
@@ -91,7 +92,8 @@ the Cpu0 Architecture](http://jonathan2251.github.io/lbd/TutorialLLVMBackendCpu0
 - [Introduction to LLVM](http://www.cs.toronto.edu/~pekhimenko/courses/cscd70-w18/docs/Tutorial%201%20-%20Intro%20to%20LLVM.pdf)
 - [Compiling with Continuations and LLVM](https://arxiv.org/pdf/1805.08842.pdf)
 - [An LLVM Instrumentation Plug-in for Score-P](https://arxiv.org/pdf/1712.01718.pdf)
-
+- [Compiling LLVM to Custom
+Hardware (via Bluespec)](https://pdfs.semanticscholar.org/presentation/5cfc/76c639f9905e561cc1db00e546c7acac0bac.pdf)
 ---------
 
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
