@@ -87,4 +87,8 @@ ONNX:
 ![compile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/compile-diff.PNG)
 
 ---------
+
+![FlqGmNYpgAmW3ZHylqH03A](https://cdn-images-1.medium.com/max/1600/1*FlqGmNYpgAmW3ZHylqH03A.png)
+
+---------
 ---------------
