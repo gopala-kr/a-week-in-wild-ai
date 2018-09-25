@@ -94,6 +94,10 @@ the Cpu0 Architecture](http://jonathan2251.github.io/lbd/TutorialLLVMBackendCpu0
 - [An LLVM Instrumentation Plug-in for Score-P](https://arxiv.org/pdf/1712.01718.pdf)
 - [Compiling LLVM to Custom
 Hardware (via Bluespec)](https://pdfs.semanticscholar.org/presentation/5cfc/76c639f9905e561cc1db00e546c7acac0bac.pdf)
+- [Review of LLVM Compiler Architecture Enhancements for CUDA](https://www.researchgate.net/publication/301346139_Review_of_LLVM_Compiler_Architecture_Enhancements_for_CUDA)
+- [LLVM: A Compilation Framework for
+Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-LLVM.pdf)
+
 ---------
 
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
