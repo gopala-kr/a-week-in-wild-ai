@@ -124,6 +124,10 @@ Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-
 
 ![compile](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/compile-diff.PNG)
 
+--------
+
+![LLVM_Compiler_structure](https://developer.nvidia.com/sites/default/files/akamai/cuda/images/LLVM_Compiler_structure.jpg)
+
 ---------
 
 ![FlqGmNYpgAmW3ZHylqH03A](https://cdn-images-1.medium.com/max/1600/1*FlqGmNYpgAmW3ZHylqH03A.png)
