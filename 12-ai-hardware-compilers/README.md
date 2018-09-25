@@ -62,6 +62,10 @@ ONNX:
 
 -----------
 
+- [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
+
+---------
+
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
 
 ---------
