@@ -52,3 +52,10 @@
 ----------
 ![onnx5](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/onnx5.PNG)
 ----------
+
+![architecture](http://manuels.github.io/orr2013-presentation/img/llvm-architecture.svg)
+----------
+![where](https://image.slidesharecdn.com/fosdem2016llvm-160216162511/95/where-is-llvm-being-used-today-10-638.jpg?cb=1455640086)
+--------
+![Description](https://www.researchgate.net/profile/Munesh_Chauhan/publication/301346139/figure/fig2/AS:351878752817153@1460905840497/LLVM-Compiler-Description-for-CUDA.png)
+------
