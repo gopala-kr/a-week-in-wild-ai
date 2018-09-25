@@ -99,12 +99,33 @@ NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
 - [HSA](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
 - [Usable assembly language for GPUs](https://cryptojedi.org/papers/gpuasm-20120313.pdf)
 
+-------
+
+ASIC:
+
+- [Machine Learning for Systems
+and
+Systems for Machine Learning
+Jeff Dean
+Google Brain team](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
+- [TPU](https://homes.cs.washington.edu/~cdel/presentations/TPUPaperISCA2017.pdf)
+- [Introduc)on	to	Tensor	Processing	Unit](https://csap.snu.ac.kr/sites/default/files/su17/Lec5-tpu.pdf)
+- [ASIC Computer-Aided Design Flow](https://pdfs.semanticscholar.org/presentation/7c0e/910a2c2ddd54b561cb4160397e9bbe144d87.pdf)
+- [ASIC Design Flow](https://www.csee.umbc.edu/~tinoosh/cmpe641/slides/lect01_flow.pdf)
+- [Digital System on Chip (SoC)
+Computer-Aided Design Flow](http://www.eng.auburn.edu/~nelson/courses/elec4200/Slides/ELEC4200_SoC_Design.pdf)
+
 -----------
 
 Ref: 
+
+- [Stanford: Efficient Methods and Hardware for
+Deep Learning ](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf)
 - [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
 - [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
 - [A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)
 - [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/ftp/arxiv/papers/1704/1704.04760.pdf)
+
+
 
 ---------
