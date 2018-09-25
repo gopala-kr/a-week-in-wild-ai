@@ -101,9 +101,7 @@ Lifelong Program Analysis & Transformation](http://llvm.org/pubs/2004-01-30-CGO-
 - [The CUDA
 Compiler Driver
 NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
-- [HETEROGENEOUS SYSTEM ARCHITECTURE (HSA)
-AND THE
-SOFTWARE ECOSYSTEM](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
+- [HSA](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
 
 
 ---------
