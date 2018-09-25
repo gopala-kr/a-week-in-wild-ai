@@ -117,6 +117,7 @@ Google Brain team](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 - [Digital System on Chip (SoC)
 Computer-Aided Design Flow](http://www.eng.auburn.edu/~nelson/courses/elec4200/Slides/ELEC4200_SoC_Design.pdf)
 - [ASICs](http://www.ni2designs.com/downloads/docs/Intro_to_ASICs.pdf)
+- [Brainwave Compiler](https://www.slideshare.net/albertspijkers/brain-wave-hotchips2017)
 
 -----------
 
