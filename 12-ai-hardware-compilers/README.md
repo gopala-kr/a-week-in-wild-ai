@@ -61,11 +61,6 @@ ONNX:
 - [ONNX-workshop](http://learningsys.org/nips17/assets/slides/ONNX-workshop.pdf)
 - [Open Neural Network Exchange format](http://on-demand.gputechconf.com/gtc/2018/presentation/s8818-onnx-interoperable-deep-learning-presented-by-facebook.pdf)
 
------------
-
-- [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
-- [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
-- [A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)
 
 
 
@@ -103,5 +98,12 @@ Compiler Driver
 NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
 - [HSA](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
 
+-----------
+
+Ref: 
+- [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
+- [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
+- [A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)
+- [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/ftp/arxiv/papers/1704/1704.04760.pdf)
 
 ---------
