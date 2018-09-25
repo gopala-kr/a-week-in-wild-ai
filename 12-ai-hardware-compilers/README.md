@@ -67,6 +67,31 @@ ONNX:
 - [A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)
 
 
+
+LLVM:
+
+- [Introduction to the LLVM Compiler System](https://www.slideshare.net/zionsaint/introduction-to-the-llvm-compiler-system)
+- [Clang & LLVM:
+How they can improve your life as a
+developer](http://events17.linuxfoundation.org/sites/events/files/slides/linuxcon-europe-2014-llvm.pdf)
+- [LLVM: Intermediate Representation &
+Optimization](http://hpac.rwth-aachen.de/teaching/sem-accg-16/slides/02.Emrich-LLVM_IR.pdf)
+- [LLVM, Clang and Embedded
+Linux Systems](https://elinux.org/images/d/d2/Elc2011_lopes.pdf)
+- [Using LLVM For Program
+Transformation](http://www.cs.umd.edu/~awruef/LLVM_Tutorial.pdf)
+- [LLVM and Clang
+Advancing Compilers and Tools](http://nondot.org/sabre/2013-10-23-SECR-LLVM.pdf)
+- [The LLVM Compiler Framework
+and Infrastructure](https://www.cs.cmu.edu/afs/cs/academic/class/15745-s12/public/lectures/L3-LLVM-Part1.pdf)
+- [The LLVM Compiler
+Framework and Infrastructure](https://llvm.org/pubs/2004-09-22-LCPCLLVMTutorial.pdf)
+- [Tutorial: Creating an LLVM Backend for
+the Cpu0 Architecture](http://jonathan2251.github.io/lbd/TutorialLLVMBackendCpu0.pdf)
+- [Introduction to LLVM](http://www.cs.toronto.edu/~pekhimenko/courses/cscd70-w18/docs/Tutorial%201%20-%20Intro%20to%20LLVM.pdf)
+- [Compiling with Continuations and LLVM](https://arxiv.org/pdf/1805.08842.pdf)
+- [An LLVM Instrumentation Plug-in for Score-P](https://arxiv.org/pdf/1712.01718.pdf)
+
 ---------
 
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
