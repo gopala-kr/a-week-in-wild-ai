@@ -135,6 +135,12 @@ Systems for Intelligence
 ](http://hipineb.i3a.info/hipineb2018/wp-content/uploads/sites/8/2018/02/Ola-HiPINEB-2018-24Feb2018-OT.pdf)
 - [Graphcore Technical Roles](https://www.graphcore.ai/careers)
 
+Mythic
+
+- [Mythic @ Hot Chips 2018](https://medium.com/mythic-ai/mythic-hot-chips-2018-637dfb9e38b7)
+- [MYTHIC MULTIPLIES IN A FLASH](https://www.mythic-ai.com/wp-content/uploads/2018/08/Mythic-Multiplies-In-A-Flash.pdf)
+- [careers](https://www.mythic-ai.com/careers/)
+
 -----------
 
 Ref: 
