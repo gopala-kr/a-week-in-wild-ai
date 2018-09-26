@@ -40,5 +40,10 @@ the Local Public Health System ](https://www.naccho.org/uploads/downloadable-res
 - [Dialing privacy and utility: a proposed data-sharing
 framework to advance Internet research](https://www.caida.org/publications/papers/2010/dialing_privacy_utility/dialing_privacy_utility.pdf)
 
+--------
+
+- [Differentially Private
+Machine Learning
+Theory, Algorithms, and Applications](http://www.ece.rutgers.edu/~asarwate/nips2017/NIPS17_DPML_Tutorial.pdf)
 
 ------------
