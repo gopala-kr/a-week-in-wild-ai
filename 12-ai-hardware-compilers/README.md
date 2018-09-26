@@ -140,6 +140,21 @@ Mythic
 - [Mythic @ Hot Chips 2018](https://medium.com/mythic-ai/mythic-hot-chips-2018-637dfb9e38b7)
 - [MYTHIC MULTIPLIES IN A FLASH](https://www.mythic-ai.com/wp-content/uploads/2018/08/Mythic-Multiplies-In-A-Flash.pdf)
 - [Technical Roles](https://www.mythic-ai.com/careers/)
+- [Mythic nets $40M to create a new breed of efficient AI-focused hardware](https://techcrunch.com/2018/03/20/mythic-nets-40m-to-create-a-new-line-of-ai-focused-hardware/)
+
+
+SambNova Systems:
+
+- [articles](https://www.sambanovasystems.com/news/)
+- [The red-hot AI hardware space gets even hotter with $56M for a startup called SambaNova Systems](https://techcrunch.com/2018/03/15/the-red-hot-ai-chip-space-gets-even-hotter-with-56m-for-a-startup-called-sambanova/)
+- [Systems Architecture Pioneer and Co-Founder of Sambanova Systems to Speak at the AI Hardware Summit](https://www.businesswire.com/news/home/20180911005158/en/Systems-Architecture-Pioneer-Co-Founder-Sambanova-Systems-Speak)
+
+
+Cambricon
+
+- [Cambricon Unveils its First AI Chip for Cloud Computing](https://medium.com/syncedreview/cambricon-unveils-its-first-ai-chip-for-cloud-computing-d3f7acdb4076)
+
+
 
 -----------
 
