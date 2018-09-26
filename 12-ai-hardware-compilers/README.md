@@ -117,7 +117,22 @@ Google Brain team](http://learningsys.org/nips17/assets/slides/dean-nips17.pdf)
 - [Digital System on Chip (SoC)
 Computer-Aided Design Flow](http://www.eng.auburn.edu/~nelson/courses/elec4200/Slides/ELEC4200_SoC_Design.pdf)
 - [ASICs](http://www.ni2designs.com/downloads/docs/Intro_to_ASICs.pdf)
-- [Brainwave Compiler](https://www.slideshare.net/albertspijkers/brain-wave-hotchips2017)
+- [Brainwave Compiler](http://learningsys.org/nips17/assets/slides/brainwave-nips17.pdf)
+- [A HPX backend for TensorFlow](http://stellar.cct.lsu.edu/pubs/lukas_troska_hpx_tensorflow_04.05.17.pdf)
+
+
+Graphcore
+(IPU - 16nm)
+
+- [Graphcore deck for BCG](http://www.bristol.bcs.org.uk/2017/graphcore.pdf)
+- [Scalable Silicon Compute](https://supercomputersfordl2017.github.io/Presentations/SimonKnowlesGraphCore.pdf)
+- [Graphcore Readies Launch of 16nm Colossus-IPU Chip](https://www.hpcwire.com/2017/07/20/graphcore-readies-launch-16nm-colossus-ipu-chip/)
+- [Intelligence Processors](https://www.cambridgewireless.co.uk/media/uploads/files/CWTEC03.10.17-Graphcore-Simon_Knowles.pdf)
+- [POPLAR OVERVIEW](https://www.graphcore.ai/hubfs/assets/Poplar%C2%81%20technical%20overview%20NEW%20BRAND.pdf)
+- [graphcore Documentation](https://media.readthedocs.org/pdf/graphcore/latest/graphcore.pdf)
+- [Designing Processors and
+Systems for Intelligence
+](http://hipineb.i3a.info/hipineb2018/wp-content/uploads/sites/8/2018/02/Ola-HiPINEB-2018-24Feb2018-OT.pdf)
 
 -----------
 
@@ -128,8 +143,13 @@ Deep Learning ](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf
 - [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
 - [A List of Chip/IP for Deep Learning](https://medium.com/@shan.tang.g/a-list-of-chip-ip-for-deep-learning-48d05f1759ae)
 - [A Brief Guide of xPU for AI Accelerators](https://www.sigarch.org/a-brief-guide-of-xpu-for-ai-accelerators/)
-- [In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/ftp/arxiv/papers/1704/1704.04760.pdf)
-
-
+- [Google Brain: In-Datacenter Performance Analysis of a Tensor Processing Unit](https://arxiv.org/ftp/arxiv/papers/1704/1704.04760.pdf)
+- [MIT: COMPUTATIONAL POWER AND THE SOCIAL
+IMPACT OF ARTIFICIAL INTELLIGENCE](https://arxiv.org/ftp/arxiv/papers/1803/1803.08971.pdf)
+- [DLFrameworks](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf)
+- [Torch7
+Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
+- [Francois Chollet: Keras](https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf)
+- [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf)
 
 ---------
