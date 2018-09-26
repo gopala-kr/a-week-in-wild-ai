@@ -133,6 +133,7 @@ Graphcore
 - [Designing Processors and
 Systems for Intelligence
 ](http://hipineb.i3a.info/hipineb2018/wp-content/uploads/sites/8/2018/02/Ola-HiPINEB-2018-24Feb2018-OT.pdf)
+- [Graphcore Technical Roles](https://www.graphcore.ai/careers)
 
 -----------
 
@@ -151,5 +152,6 @@ IMPACT OF ARTIFICIAL INTELLIGENCE](https://arxiv.org/ftp/arxiv/papers/1803/1803.
 Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 - [Francois Chollet: Keras](https://web.stanford.edu/class/cs20si/lectures/march9guestlecture.pdf)
 - [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf)
+- [Artificial intelligence is awakening the chip industry’s animal spirits](https://www.economist.com/business/2018/06/07/artificial-intelligence-is-awakening-the-chip-industrys-animal-spirits)
 
 ---------
