@@ -367,7 +367,9 @@ Science Projects](https://know.anaconda.com/rs/387-XNW-688/images/2017-06v07-ana
 - [Google Analytics Training and Tutorials](https://www.lynda.com/Google-Analytics-training-tutorials/411-0.html)
 - [Analytics Training and Tutorials](https://www.lynda.com/Analytics-training-tutorials/2378-0.html)
 
-
+----
+- [ An Investors' Guide to Artificial
+Intelligence](https://flamingo.ai/wp-content/uploads/2017/11/JPMorganAnInvestorsGuideToArtificialIntelligencev2.pdf)
 ----------
 
 #### Machine Learning as a Service
@@ -610,6 +612,7 @@ Source: [Reviews for Data Science and Machine-Learning Platforms](https://www.ga
 ----------
 
 #### Garnter Reviews-2018:
+
 
 - [Reviews for Advanced Analytics Service Providers for Marketing](https://www.gartner.com/reviews/market/advanced-analytics-service-providers-for-marketing)
 - [Reviews for Cloud Infrastructure as a Service, Worldwide](https://www.gartner.com/reviews/market/public-cloud-iaas)
