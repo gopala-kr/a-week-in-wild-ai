@@ -139,7 +139,7 @@ Mythic
 
 - [Mythic @ Hot Chips 2018](https://medium.com/mythic-ai/mythic-hot-chips-2018-637dfb9e38b7)
 - [MYTHIC MULTIPLIES IN A FLASH](https://www.mythic-ai.com/wp-content/uploads/2018/08/Mythic-Multiplies-In-A-Flash.pdf)
-- [careers](https://www.mythic-ai.com/careers/)
+- [Technical Roles](https://www.mythic-ai.com/careers/)
 
 -----------
 
