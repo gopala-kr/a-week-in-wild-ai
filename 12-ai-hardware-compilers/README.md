@@ -201,8 +201,7 @@ January 2018](https://www.khronos.org/assets/uploads/developers/library/2018-khr
 Computer	Graphics	](https://web.eecs.umich.edu/~sugih/courses/eecs487/lectures/21-LowLevelAPIs.pdf)
 - [NVIDIA® CUDA™
 Architecture](http://developer.download.nvidia.com/compute/cuda/docs/CUDA_Architecture_Overview.pdf)
-- [GPGPU Programming
-- CUDA Arc hitec ture ](http://www.diva-portal.org/smash/get/diva2:447977/FULLTEXT01.pdf)
+- [GPGPU Programming CUDA Arc hitec ture ](http://www.diva-portal.org/smash/get/diva2:447977/FULLTEXT01.pdf)
 - [Standard Introduction to CUDA C Programming: CUDA C/C++ BASICS](https://www.olcf.ornl.gov/wp-content/uploads/2013/02/Intro_to_CUDA_C-TS.pdf)
 - [GPGPU PROCESSING IN CUDA ARCHITECTURE](https://arxiv.org/ftp/arxiv/papers/1202/1202.4347.pdf)
 - [CUDA Memory Architecture](https://www.cvg.ethz.ch/teaching/2011spring/gpgpu/cuda_memory.pdf)
@@ -218,9 +217,7 @@ Architecture](https://memics.cz/2010/pres/palava/Saturday/pospichal.pdf)
 - [NV IDIA 's Compute Unified Device A rchitecture
  ( CUDA )](http://www.netlib.org/utk/people/JackDongarra/WEB-PAGES/SPRING-2012/Discussion_CUDA.pdf)
  - [A “Hands-on” Introduction to
-OpenMP
-*
-](https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf)
+OpenMP](https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf)
 - [PGI Accelerator](https://www.pgroup.com/lit/brochures/openacc_sc13.pdf)
 - [OpenACC Programming](https://www.openacc.org/sites/default/files/inline-files/OpenACC_Programming_Guide_0.pdf)
 - [Introduction to OpenACC
