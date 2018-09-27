@@ -239,6 +239,9 @@ with CUDA and OpenACC ](https://www.asc.edu/sites/default/files/org_sections/HPC
 - [Advanced CUDA and OpenACC](http://www.training.prace-ri.eu/uploads/tx_pracetmo/AdvCudaOpenACCLectures.pdf)
 - [Advanced OpenACC](https://www.psc.edu/images/xsedetraining/BootCamp_June2017/OpenACC_Advanced_OpenACC.PDF)
 - [Evaluating Performance Portability of OpenACC](https://ft.ornl.gov/sites/default/files/LCPC14_perfport.pdf)
+- [OpenCL for FPGAs: Prototyping a Compiler](http://ersaconf.org/ersa12/papers/Brown-opencl-for-fpgas.pdf)
+- [DLA: Compiler and FPGA Overlay for Neural
+Network Inference Acceleration](https://arxiv.org/pdf/1807.06434.pdf)
 
 -----------
 
