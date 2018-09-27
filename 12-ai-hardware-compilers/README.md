@@ -217,6 +217,28 @@ Architecture](https://memics.cz/2010/pres/palava/Saturday/pospichal.pdf)
 - [CUDA Basics](https://cs.nyu.edu/manycores/cuda_many_cores.pdf)
 - [NV IDIA 's Compute Unified Device A rchitecture
  ( CUDA )](http://www.netlib.org/utk/people/JackDongarra/WEB-PAGES/SPRING-2012/Discussion_CUDA.pdf)
+ - [A “Hands-on” Introduction to
+OpenMP
+*
+](https://www.openmp.org/wp-content/uploads/omp-hands-on-SC08.pdf)
+- [PGI Accelerator](https://www.pgroup.com/lit/brochures/openacc_sc13.pdf)
+- [OpenACC Programming](https://www.openacc.org/sites/default/files/inline-files/OpenACC_Programming_Guide_0.pdf)
+- [Introduction to OpenACC
+2018 HPC Workshop: Parallel Programming](https://www.lehigh.edu/~alp514/hpc2017/openacc.pdf)
+- [Advanced OpenACC](https://ics.psu.edu/wp-content/uploads/2016/02/OpenACC.pdf)
+- [Programming Heterogeneous
+Parallel Architectures
+Directive Programming
+with OpenACC](https://pdfs.semanticscholar.org/presentation/6143/df0c853de04a5b97934d11f281fdbbdedc6d.pdf)
+- [Profiling and Tuning
+OpenACC Code](http://developer.download.nvidia.com/GTC/PDF/GTC2012/PresentationPDF/S0517B-Monday-Programming-GPUs-OpenACC.pdf)
+- [INTRODUCTION TO COMPILER
+DIRECTIVES WITH OPENACC](http://on-demand.gputechconf.com/gtc/2015/presentation/S5192-Jeff-Larkin.pdf)
+- [GPU Programming
+with CUDA and OpenACC ](https://www.asc.edu/sites/default/files/org_sections/HPC/documents/gpu_cuda_acc_10_small.pdf)
+- [Advanced CUDA and OpenACC](http://www.training.prace-ri.eu/uploads/tx_pracetmo/AdvCudaOpenACCLectures.pdf)
+- [Advanced OpenACC](https://www.psc.edu/images/xsedetraining/BootCamp_June2017/OpenACC_Advanced_OpenACC.PDF)
+- [Evaluating Performance Portability of OpenACC](https://ft.ornl.gov/sites/default/files/LCPC14_perfport.pdf)
 
 -----------
 
