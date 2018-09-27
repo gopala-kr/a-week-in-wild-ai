@@ -98,6 +98,8 @@ Compiler Driver
 NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
 - [HSA](http://www.mpsoc-forum.org/previous/2013/slides/8-Hegde.pdf)
 - [Usable assembly language for GPUs](https://cryptojedi.org/papers/gpuasm-20120313.pdf)
+- [LLVM Compile Time. Challenges. Improvements. Outlook.](http://llvm.org/devmtg/2017-10/slides/Zolotukhin-LLVM%20Compile%20Time.pdf)
+- [Writing an LLVM Backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
 
 -------
 
@@ -165,10 +167,15 @@ Inference Hardwares
 
 ------------
 
-Parallel Computing with LLVM
+Parallel Computing with GPUs/FPGA's(compilers architecture)
 
+- [Intel® HLS Compiler: Fast Design,
+Coding, and Hardware](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/wp/wp-01274-intel-hls-compiler-fast-design-coding-and-hardware.pdf)
+- [Intel® HLS Compiler](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/products/hls/hls-production-brief.pdf)
 - [Enabling Parallel Computing in
 Chapel with Clang and LLVM ](http://llvm.org/devmtg/2017-10/slides/Ferguson-Enabling%20Parallel%20Computing%20in%20Chapel.pdf)
+- [OpenCL Compiler Tools for FPGAs](https://www.iwocl.org/wp-content/uploads/iwocl-2016-opencl-compiler-tools-for-fpgas.pdf)
+
 
 -----------
 
