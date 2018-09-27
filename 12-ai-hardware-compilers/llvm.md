@@ -18,3 +18,7 @@
 ![hls-flow](https://www.legupcomputing.com/docs/legup-5.1-docs/_images/hls-flow.png)
 
 --------
+
+![apple_llvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/apple_llvm.PNG)
+
+---------
