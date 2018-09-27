@@ -175,6 +175,17 @@ Coding, and Hardware](https://www.intel.com/content/dam/www/programmable/us/en/p
 - [Enabling Parallel Computing in
 Chapel with Clang and LLVM ](http://llvm.org/devmtg/2017-10/slides/Ferguson-Enabling%20Parallel%20Computing%20in%20Chapel.pdf)
 - [OpenCL Compiler Tools for FPGAs](https://www.iwocl.org/wp-content/uploads/iwocl-2016-opencl-compiler-tools-for-fpgas.pdf)
+- [Compilation of OpenCL Programs for Stream
+Processing Architectures](https://fenix.tecnico.ulisboa.pt/downloadFile/844820067124649/Compilation%20of%20OpenCL%20Programs%20for%20Stream%20Processing%20Architectures%20-%20Summary.pdf)
+- [Resource-Aware Just-in-Time OpenCL Compiler for Coarse-Grained FPGA Overlays](https://arxiv.org/pdf/1705.02730.pdf)
+- [CUDA and OpenCL API 
+comparison](https://wiki.aalto.fi/download/attachments/40025977/Cuda+and+OpenCL+API+comparison_presented.pdf)
+- [OpenCL](http://web.cs.ucdavis.edu/~rubio/289c/presentations/bayraktar2.pdf)
+- [NVIDIA®
+ OpenCL™
+JumpStart Guide ](http://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/cuda-doc/OpenCL_Jumpstart_Guide.pdf)
+- [opencl-optimizations-make-case-for-fpgas-in-hpc](https://www.nextplatform.com/2018/08/21/opencl-optimizations-make-case-for-fpgas-in-hpc/)
+- [Mac computers that use OpenCL and OpenGL graphics](https://support.apple.com/en-us/HT202823)
 
 
 -----------
