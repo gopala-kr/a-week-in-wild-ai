@@ -208,6 +208,15 @@ Architecture](http://developer.download.nvidia.com/compute/cuda/docs/CUDA_Archit
 - [CUDA Memory Architecture](https://www.cvg.ethz.ch/teaching/2011spring/gpgpu/cuda_memory.pdf)
 - [NVIDIA CUDA Software and GPU
 Parallel Computing Architecture](https://pdfs.semanticscholar.org/8534/2c0881d7ace904aa1fd01f7a456f41cd329f.pdf)
+- [Java on CUDA architecture](https://otik.uk.zcu.cz/bitstream/11025/10631/1/Strnad.pdf)
+- [GPU Architecture and cuda](http://haifux.org/lectures/267/Introduction-to-GPUs.pdf)
+- [Parallel Genetic Algorithm on the CUDA
+Architecture](https://memics.cz/2010/pres/palava/Saturday/pospichal.pdf)
+- [CUDA_Tutorial](http://users.cis.fiu.edu/~tcickovs/CUDA_Tutorial.pdf)
+- [GPU Architecture and CUDA Programming](https://www.cs.cmu.edu/afs/cs/academic/class/15418-s12/www/lectures/06_gpuprog.pdf)
+- [CUDA Basics](https://cs.nyu.edu/manycores/cuda_many_cores.pdf)
+- [NV IDIA 's Compute Unified Device A rchitecture
+ ( CUDA )](http://www.netlib.org/utk/people/JackDongarra/WEB-PAGES/SPRING-2012/Discussion_CUDA.pdf)
 
 -----------
 
