@@ -98,3 +98,8 @@
 ![swift](https://shinesg.files.wordpress.com/2016/01/swift-2.png)
 
 ----
+![opencl-api-image1](https://www.khronos.org/assets/uploads/apis/2017-opencl-api-image1.jpg)
+
+-----
+![2017-opencl-api-image3](https://www.khronos.org/assets/uploads/apis/2017-opencl-api-image3.jpg)
+------------
