@@ -100,6 +100,8 @@ NVCC ](http://moss.csc.ncsu.edu/~mueller/cluster/nvidia/2.0/nvcc_2.0.pdf)
 - [Usable assembly language for GPUs](https://cryptojedi.org/papers/gpuasm-20120313.pdf)
 - [LLVM Compile Time. Challenges. Improvements. Outlook.](http://llvm.org/devmtg/2017-10/slides/Zolotukhin-LLVM%20Compile%20Time.pdf)
 - [Writing an LLVM Backend](https://llvm.org/docs/WritingAnLLVMBackend.html)
+- [Apple LLVM GPU Compiler:
+Embedded Dragons](http://llvm.org/devmtg/2017-10/slides/Chandrasekaran-Maggioni-Apple%20LLVM%20GPU%20Compiler.pdf)
 
 -------
 
