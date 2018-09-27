@@ -195,6 +195,19 @@ Belong Together ](https://www.khronos.org/assets/uploads/developers/library/over
 Focusing OpenCL for the
 Embedded Industry
 January 2018](https://www.khronos.org/assets/uploads/developers/library/2018-khronos-group-opencl-embedded-outreach/Taipei-Focusing-OpenCL-Roadmap_Jan18.pdf)
+- [DirectX™ 12 Case Studies](https://developer.download.nvidia.com/assets/gameworks/downloads/regular/GDC17/DX12CaseStudies_GDC2017_FINAL.pdf?KVMrYcVY2reqDR7A_7iEz-V2KuHRM4chpw8-Bj738msNISk7gufslJ6xPFUbGvn0Ra0s8enAHtIr6-Fo67bNKfRq0w4NZIoNc6iYbhuakdCtDJ98akiNbBma1kmUSsUukSS7UlJTkbEfUpo6xhvf8qCz7rn3y4h1zNlMMKbqFr9sRa_c2eHJ1u8)
+- [Practical DirectX 12](https://developer.nvidia.com/sites/default/files/akamai/gameworks/blog/GDC16/GDC16_gthomas_adunn_Practical_DX12.pdf)
+- [Interactive	
+Computer	Graphics	](https://web.eecs.umich.edu/~sugih/courses/eecs487/lectures/21-LowLevelAPIs.pdf)
+- [NVIDIA® CUDA™
+Architecture](http://developer.download.nvidia.com/compute/cuda/docs/CUDA_Architecture_Overview.pdf)
+- [GPGPU Programming
+- CUDA Arc hitec ture ](http://www.diva-portal.org/smash/get/diva2:447977/FULLTEXT01.pdf)
+- [Standard Introduction to CUDA C Programming: CUDA C/C++ BASICS](https://www.olcf.ornl.gov/wp-content/uploads/2013/02/Intro_to_CUDA_C-TS.pdf)
+- [GPGPU PROCESSING IN CUDA ARCHITECTURE](https://arxiv.org/ftp/arxiv/papers/1202/1202.4347.pdf)
+- [CUDA Memory Architecture](https://www.cvg.ethz.ch/teaching/2011spring/gpgpu/cuda_memory.pdf)
+- [NVIDIA CUDA Software and GPU
+Parallel Computing Architecture](https://pdfs.semanticscholar.org/8534/2c0881d7ace904aa1fd01f7a456f41cd329f.pdf)
 
 -----------
 
