@@ -186,7 +186,15 @@ comparison](https://wiki.aalto.fi/download/attachments/40025977/Cuda+and+OpenCL+
 JumpStart Guide ](http://www.cs.cmu.edu/afs/cs/academic/class/15668-s11/www/cuda-doc/OpenCL_Jumpstart_Guide.pdf)
 - [opencl-optimizations-make-case-for-fpgas-in-hpc](https://www.nextplatform.com/2018/08/21/opencl-optimizations-make-case-for-fpgas-in-hpc/)
 - [Mac computers that use OpenCL and OpenGL graphics](https://support.apple.com/en-us/HT202823)
-
+- [OpenGL Spec 4.4 Core](https://www.slideshare.net/Khronos_Group/opengl-spec-44-core)
+- [VULKAN OVERVIEW](https://developer.nvidia.com/sites/default/files/akamai/gameworks/VulkanDevDaypdaniel.pdf)
+- [Vulkan on NVIDIA GPUs](http://on-demand.gputechconf.com/siggraph/2015/presentation/SIG1501-Piers-Daniell.pdf)
+- [Graphics and Compute
+Belong Together ](https://www.khronos.org/assets/uploads/developers/library/overview/2015_vulkan_v1_Overview.pdf)
+- [Embedded Outreach
+Focusing OpenCL for the
+Embedded Industry
+January 2018](https://www.khronos.org/assets/uploads/developers/library/2018-khronos-group-opencl-embedded-outreach/Taipei-Focusing-OpenCL-Roadmap_Jan18.pdf)
 
 -----------
 
