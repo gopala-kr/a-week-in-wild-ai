@@ -154,7 +154,21 @@ Cambricon
 
 - [Cambricon Unveils its First AI Chip for Cloud Computing](https://medium.com/syncedreview/cambricon-unveils-its-first-ai-chip-for-cloud-computing-d3f7acdb4076)
 
+-----------
 
+Training Hardwares
+
+
+-----------
+
+Inference Hardwares
+
+------------
+
+Parallel Computing with LLVM
+
+- [Enabling Parallel Computing in
+Chapel with Clang and LLVM ](http://llvm.org/devmtg/2017-10/slides/Ferguson-Enabling%20Parallel%20Computing%20in%20Chapel.pdf)
 
 -----------
 
