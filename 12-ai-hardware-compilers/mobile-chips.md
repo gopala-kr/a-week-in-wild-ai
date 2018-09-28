@@ -31,5 +31,8 @@ Technology and Traction](https://www.qualcomm.com/media/documents/files/snapdrag
 - [List of Samsung Exynos SoCs](https://en.wikipedia.org/wiki/Exynos)
 - [Tegra Whitepapers](https://www.nvidia.in/object/tegra-whitepapers-in.html)
 - [HiSilicon Kirin chipsets](https://en.wikipedia.org/wiki/HiSilicon)
-
+- [ALWAYS-ON VISION PROCESSING UNIT
+FOR MOBILE APPLICATIONS](https://pdfs.semanticscholar.org/32d5/405ac92a13d7f38e2313574dfd6238125a94.pdf)
+- [The Evolution of EyeQ](https://www.mobileye.com/our-technology/evolution-eyeq-chip/)
+- [Samsung Optimizes Premium Exynos 9 Series 9810 for AI Applications and Richer Multimedia Content](https://news.samsung.com/global/samsung-optimizes-premium-exynos-9-series-9810-for-ai-applications-and-richer-multimedia-content)
 -----------------
