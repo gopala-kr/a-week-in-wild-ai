@@ -78,26 +78,11 @@ processes
 - [History of the transistor](https://en.wikipedia.org/wiki/History_of_the_transistor)
 - [XILINX: 7 Series Product Tables and Product Selection Guide](https://www.xilinx.com/support/documentation/selection-guides/7-series-product-selection-guide.pdf)
 - [List of Samsung System on Chips](https://en.wikipedia.org/wiki/List_of_Samsung_System_on_Chips)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants)
+- [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+- [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
+- [List of Intel chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets)
+- [List of Semiconductor Companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
 
 -------
-
-
 ---------
