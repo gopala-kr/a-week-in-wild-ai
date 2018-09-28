@@ -197,6 +197,11 @@ Nervana Systems
 - [Nervana and the Future of Computing](https://www.slideshare.net/nervanasys/nervana-and-the-future-of-computing)
 
 
+Grog: (Founded by Goole TPU Team)
+
+- [Groq This: New AI Chips to Give GPUs a Run for Deep Learning Money](https://www.hpcwire.com/2017/04/24/new-ai-chips-give-gpus-run-deep-learning-money/)
+- [The AI chip startup explosion is already here](https://techcrunch.com/2017/12/24/the-ai-chip-startup-explosion-is-already-here/)
+
 -----------
 
 Training Hardwares
@@ -365,5 +370,6 @@ Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/
 the next generation of
 machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
+- [Chip Feed](https://en.wikichip.org/wiki/WikiChip:chip_feed)
 
 ---------
