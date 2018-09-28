@@ -371,5 +371,6 @@ the next generation of
 machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
 - [Chip Feed](https://en.wikichip.org/wiki/WikiChip:chip_feed)
+- [List of compilers](https://en.wikipedia.org/wiki/List_of_compilers)
 
 ---------
