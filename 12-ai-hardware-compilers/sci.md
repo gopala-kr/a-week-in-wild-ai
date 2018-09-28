@@ -1,5 +1,6 @@
 ----
-
+![gate](http://www.techplayon.com/wp-content/uploads/2017/07/gate-2.png)
+--------
 <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size: 110%"></td></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
   
   Semiconductor
@@ -36,7 +37,25 @@ processes
 ![chips_companies_history](https://fortunedotcom.files.wordpress.com/2017/12/chips_companies_history.png)
 --------
 
-![]()
+
+![Brief+History+of+CMOS+Noyce+produces+first+fully+integrated+circuit](https://slideplayer.com/slide/12407771/74/images/18/Brief+History+of+CMOS+Noyce+produces+first+fully+integrated+circuit.jpg)
+--------
+![27s_Law_Transistor_Count_1971](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Moore%27s_Law_Transistor_Count_1971-2016.png/1280px-Moore%27s_Law_Transistor_Count_1971-2016.png)
+--------
+![CMOS](https://slideplayer.com/slide/5068043/16/images/8/Micro+transductors+%E2%80%9808%2C+CMOS+Basics.jpg)
+--------
+![moores-law-transistor-counts](https://cdn4.explainthatstuff.com/moores-law-transistor-counts.png)
+--------
+![Comparison_semiconductor_process_nodes](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Comparison_semiconductor_process_nodes.svg/990px-Comparison_semiconductor_process_nodes.svg.png)
+--------
+![60_Anniv_IC_timeline](https://blog.lamresearch.com/wp-content/uploads/2018/09/60_Anniv_IC_timeline.jpg)
+--------
+
+![Clock_CPU_Scaling](https://upload.wikimedia.org/wikipedia/en/c/ce/Clock_CPU_Scaling.jpg)
+--------
+![Scaling](https://www.extremetech.com/wp-content/uploads/2012/02/CPU-Scaling.jpg)
+--------
+![siliconengine](http://www.computerhistory.org/siliconengine/_media/img/siliconengine-welcome-main.jpg)
 --------
 ![]()
 --------
@@ -48,34 +67,17 @@ processes
 --------
 ![]()
 --------
-![]()
---------
-![]()
---------
-![]()
---------
-![]()
---------
-![]()
---------
-![]()
---------
-![]()
---------
-![]()
---------
-![]()
---------
-![semiconductors_ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Mobility%20trends%20Whats%20ahead%20for%20automotive%20semiconductors/SVGZ_Mobility_trends_automotive-semiconductors_ex5.ashx)
+![Intel-Roadmap-1-Large](https://www.extremetech.com/wp-content/uploads/2018/07/Intel-Roadmap-1-Large.jpg)
+
 --------
 --------
 
 - [Intel Chips timeline](https://www.intel.com/content/dam/www/public/us/en/documents/corporate-information/history-intel-chips-timeline-poster.pdf)
 - [Moor's Law Timeline](http://download.intel.com/pressroom/kits/events/moores_law_40th/MLTimeline.pdf)
-- []()
-- []()
-- []()
-- []()
+- [Altera’s 30 billion transistor FPGA ](http://www.gazettabyte.com/home/2015/6/28/alteras-30-billion-transistor-fpga.html)
+- [History of the transistor](https://en.wikipedia.org/wiki/History_of_the_transistor)
+- [XILINX: 7 Series Product Tables and Product Selection Guide](https://www.xilinx.com/support/documentation/selection-guides/7-series-product-selection-guide.pdf)
+- [List of Samsung System on Chips](https://en.wikipedia.org/wiki/List_of_Samsung_System_on_Chips)
 - []()
 - []()
 - []()
