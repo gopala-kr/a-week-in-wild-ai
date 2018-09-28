@@ -197,7 +197,7 @@ Nervana Systems
 - [Nervana and the Future of Computing](https://www.slideshare.net/nervanasys/nervana-and-the-future-of-computing)
 
 
-Grog: (Founded by Goole TPU Team)
+Grog: (Founded by Google TPU Team)
 
 - [Several Google engineers have left one of its most secretive AI projects to form a stealth start-up](https://www.cnbc.com/2017/04/20/ex-googlers-left-secretive-ai-unit-to-form-groq-with-palihapitiya.html)
 - [Groq This: New AI Chips to Give GPUs a Run for Deep Learning Money](https://www.hpcwire.com/2017/04/24/new-ai-chips-give-gpus-run-deep-learning-money/)
@@ -218,7 +218,7 @@ Parallel Computing with GPUs/FPGA's(compilers architecture)
 
 
     - GPU : AMD and NVIDIA
-    - FPGA : Xilinx and	Altera(part of intel)
+    - FPGA : Xilinx and Altera(part of intel)
 
 
 - [Intel® HLS Compiler: Fast Design,
