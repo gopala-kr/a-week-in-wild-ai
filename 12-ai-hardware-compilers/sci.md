@@ -66,7 +66,7 @@ processes
 --------
 ![]()
 --------
-![]()
+![semiconductors_ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Semiconductors/Our%20Insights/Mobility%20trends%20Whats%20ahead%20for%20automotive%20semiconductors/SVGZ_Mobility_trends_automotive-semiconductors_ex5.ashx)
 --------
 --------
 
