@@ -23,7 +23,7 @@
 ![lanscape_brainchip](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/lanscape_brainchip.PNG)
 
 -----------
-![]()
+![neuromorphic_chips](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/neuromorphic_chips.PNG)
 
 -----------
 ![]()
