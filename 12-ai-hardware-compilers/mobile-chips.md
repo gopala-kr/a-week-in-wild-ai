@@ -1,5 +1,6 @@
 
 
+- [Survey on Mobile Processors](https://www.slideshare.net/ashutosh219/survey-on-mobile-processors?next_slideshow=1)
 - [Processor Progression In Mobile Phones](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-5-ISSUE-5-1674-1679.pdf)
 - [How Qualcomm Snapdragon
 processors are enhancing
@@ -13,3 +14,8 @@ Technology and Traction](https://www.qualcomm.com/media/documents/files/snapdrag
 - [Snapdragon Platform Comparison](https://www.qualcomm.com/snapdragon/processors/comparison)
 - [List of Qualcomm Snapdragon systems-on-chip](https://en.wikipedia.org/wiki/List_of_Qualcomm_Snapdragon_systems-on-chip)
 - [Mobile Machine Learning Hardware at ARM: A Systems-on-Chip (SoC) Perspective](https://arxiv.org/pdf/1801.06274.pdf)
+- [How Apple Built a Chip Powerhouse to Threaten Qualcomm and Intel](https://www.bloomberg.com/graphics/2018-apple-custom-chips/)
+- [Apple-designed Mobile processors](https://en.wikipedia.org/wiki/Apple-designed_processors)
+- [List of Samsung Exynos SoCs](https://en.wikipedia.org/wiki/Exynos)
+- [Tegra Whitepapers](https://www.nvidia.in/object/tegra-whitepapers-in.html)
+- [HiSilicon Kirin chipsets](https://en.wikipedia.org/wiki/HiSilicon)
