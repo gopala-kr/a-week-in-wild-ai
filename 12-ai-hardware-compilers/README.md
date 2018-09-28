@@ -284,7 +284,17 @@ Routing of Brain-like Architectures ](http://www.ispd.cc/slides/2013/6_srinivasa
 - [Bridging the Gap Between Neural Networks and Neuromorphic
 Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746.pdf)
 - [Nengo: The Neuromorphic Compiler and the Rise of Neuromorphic Computing Chips](https://www.linkedin.com/pulse/nengo-neuromorphic-compiler-rise-computing-chips-peter-suma)
+- [TrueNorth Ecosystem for
+Brain-Inspired Computing:
+Scalable Systems, Software, and Applications](https://e-reports-ext.llnl.gov/pdf/814769.pdf)
+- [Conversion of Artificial Recurrent Neural Networks to Spiking Neural Networks for
+Low-power Neuromorphic Hardware](https://arxiv.org/pdf/1601.04187.pdf)
+- [Intel Loihi: A Neuromorphic Manycore Processor with On-Chip Learning](https://www.researchgate.net/publication/322548911_Loihi_A_Neuromorphic_Manycore_Processor_with_On-Chip_Learning)
 
+Brainchip
+
+- [presentations](https://www.brainchipinc.com/news-media/presentations)
+- [roles](https://www.brainchipinc.com/about/careers)
 -----------
 
 Ref: 
