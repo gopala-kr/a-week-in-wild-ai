@@ -172,6 +172,15 @@ Movidious:
 “Eye of the Computational Vision Storm”](https://www.hotchips.org/wp-content/uploads/hc_archives/hc26/HC26-12-day2-epub/HC26.12-6-HP-ASICs-epub/HC26.12.620-Myriad2-Eye-Moloney-Movidius-provided.pdf)
 
 
+ThinCI 
+
+- [Technical Roles](https://thinci.com/jobs.html)
+- [Graph Streaming Processor](https://www.hotchips.org/wp-content/uploads/hc_archives/hc29/HC29.21-Monday-Pub/HC29.21.40-Processors-Pub/HC29.21.440-Graph-Streaming-Cook-ThinCl-v1.1.pdf)
+- [DENSO Lead Investor in THINCI Inc., a
+Deep Learning and Vision Processing
+Startup, to Help Accelerate Next
+Generation Automotive](http://www.densomedia-na.com/wp-content/uploads/DENSO-Lead-Investor-in-THINCI-Inc.pdf)
+- [The	Vision	AI	Start-ups	That	Ma4er	Most		](http://www.cogniteventures.com/wp-content/uploads/2016/09/EVMM-February-22-2017-Final.pdf)
 -----------
 
 Training Hardwares
@@ -186,8 +195,8 @@ Inference Hardwares
 Parallel Computing with GPUs/FPGA's(compilers architecture)
 
 
-    - GPU - AMD and NVIDIA
-    - FPGA - 	Xilinx and 	Altera(part of intel)
+    - GPU : AMD and NVIDIA
+    - FPGA : Xilinx and	Altera(part of intel)
 
 
 - [Intel® HLS Compiler: Fast Design,
@@ -286,6 +295,13 @@ Modern FPGAs](http://www.mpsoc-forum.org/previous/2006/slides/bolsens.pdf)
 - [ FIELD PROGRAMMABLE
 GATE ARRAYS](http://www.cs.tut.fi/kurssit/TLT-9707/presentations/DCS_DCE_lect_1.pdf)
 - [FPGAs For Dummies®, 2nd Intel® Special Edition](https://www.amiq.com/consulting/misc/free_pdf_books/fpgas_for_dummies_ebook.pdf)
+- [Review of Register-transfer Level
+Design Flow
+and a
+Look at Industrial Practice](https://people.eecs.berkeley.edu/~keutzer/classes/244fa2005/lectures/11-1-rtl-review-and-problems.pdf)
+- [RTL design in python:
+porting the mMIPS](http://www.es.ele.tue.nl/~jhuisken/mmips/mMips_in_Myhdl.pdf)
+
 ------------
 
 Neuromorphic
