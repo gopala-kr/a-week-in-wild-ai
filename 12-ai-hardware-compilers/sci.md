@@ -83,6 +83,12 @@ processes
 - [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
 - [List of Intel chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets)
 - [List of Semiconductor Companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
-
+- [VLSI](https://www.slideshare.net/illpa/introduction-to-vlsi)
+- [VLSI Design](https://pdfs.semanticscholar.org/presentation/aa90/60734d7ef351a73eee8808b5ed239602c7f1.pdf)
+- [HISTORIC SEMICONDUCTORS
+RESEARCH](http://semiconductormuseum.com/MuseumStore/TransistorMuseum_Brief_History_of_Early_Semiconductors.pdf)
+- [Design and Implementation of VLSI Systems](http://scale.engin.brown.edu/classes/EN1600S08/)
+- [Design of VLSI Systems](https://web.archive.org/web/20031223071416/http://lsiwww.epfl.ch/LSI2001/teaching/webcourse/toc.html)
+- [Transistor count](https://en.wikipedia.org/wiki/Transistor_count)
 -------
 ---------
