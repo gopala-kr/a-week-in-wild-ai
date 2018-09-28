@@ -84,7 +84,6 @@ processes
 - [architectures](https://www.csie.nuk.edu.tw/~kcf/course/ComputerArchitecture/ComputerArchitecture_Chapter1_introduction_color.pdf)
 - [List of Intel chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets)
 - [List of Semiconductor Companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
-- [VLSI](https://www.slideshare.net/illpa/introduction-to-vlsi)
 - [VLSI Design](https://pdfs.semanticscholar.org/presentation/aa90/60734d7ef351a73eee8808b5ed239602c7f1.pdf)
 - [HISTORIC SEMICONDUCTORS
 RESEARCH](http://semiconductormuseum.com/MuseumStore/TransistorMuseum_Brief_History_of_Early_Semiconductors.pdf)
