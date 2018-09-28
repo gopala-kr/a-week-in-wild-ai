@@ -22,3 +22,11 @@
 ![apple_llvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/apple_llvm.PNG)
 
 ---------
+
+![chimps](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/llvm-chimps.PNG)
+
+-----------
+
+![llvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/llvm-vhdl.PNG)
+
+---------
