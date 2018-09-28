@@ -148,7 +148,8 @@ Mythic
 - [Mythic nets $40M to create a new breed of efficient AI-focused hardware](https://techcrunch.com/2018/03/20/mythic-nets-40m-to-create-a-new-line-of-ai-focused-hardware/)
 
 
-SambNova Systems:
+SambaNova Systems:
+(Stanford professors)
 
 - [articles](https://www.sambanovasystems.com/news/)
 - [The red-hot AI hardware space gets even hotter with $56M for a startup called SambaNova Systems](https://techcrunch.com/2018/03/15/the-red-hot-ai-chip-space-gets-even-hotter-with-56m-for-a-startup-called-sambanova/)
@@ -158,6 +159,18 @@ SambNova Systems:
 Cambricon
 
 - [Cambricon Unveils its First AI Chip for Cloud Computing](https://medium.com/syncedreview/cambricon-unveils-its-first-ai-chip-for-cloud-computing-d3f7acdb4076)
+
+
+Movidious:
+
+- [VPU PRODUCT BRIEF](https://uploads.movidius.com/1463156689-2016-04-29_VPU_ProductBrief.pdf)
+- [Intel Movidius Neural Compute Stick presentation @QConf San Francisco](https://www.slideshare.net/DarrenCrews/intel-movidius-neural-compute-stick-presentation-qconf-san-francisco)
+- [Deep learning @ Edge using Intel's Neural Compute Stick](https://www.slideshare.net/geetachauhan/deep-learning-edge-using-intels-neural-compute-stick)
+- [Intel Movidius Myriad 2 Vision Processing Unit (VPU)](https://newsroom.intel.com/wp-content/uploads/sites/11/2017/06/Myriad-2-VPU-Fact-Sheet.pdf)
+- [Intel End-to-End Vision Solutions](https://www.intel.com/content/dam/www/public/us/en/documents/product-briefs/vision-products-open-vino-product-brief.pdf)
+- [Myriad 2:
+“Eye of the Computational Vision Storm”](https://www.hotchips.org/wp-content/uploads/hc_archives/hc26/HC26-12-day2-epub/HC26.12-6-HP-ASICs-epub/HC26.12.620-Myriad2-Eye-Moloney-Movidius-provided.pdf)
+
 
 -----------
 
