@@ -172,8 +172,8 @@ Inference Hardwares
 Parallel Computing with GPUs/FPGA's(compilers architecture)
 
 
-GPU - AMD and NVIDIA
-FPGA - 	Xilinx and 	Altera
+    - GPU - AMD and NVIDIA
+    - FPGA - 	Xilinx and 	Altera(part of intel)
 
 
 - [Intel® HLS Compiler: Fast Design,
