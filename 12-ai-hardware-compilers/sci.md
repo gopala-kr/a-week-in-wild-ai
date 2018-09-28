@@ -1,6 +1,10 @@
 ----
 
 <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size: 110%"></td></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
+  
+  Semiconductor
+manufacturing
+processes
 <ul><li><a href="https://en.wikipedia.org/wiki/10_%C2%B5m_process" title="10 µm process">10&#160;µm</a>&#160;– 1971</li>
 <li><a href="https://en.wikipedia.org/wiki/6_%C2%B5m_process" title="6 µm process">6&#160;µm</a>&#160;– 1974</li>
 <li><a href="https://en.wikipedia.org/wiki/3_%C2%B5m_process" title="3 µm process">3&#160;µm</a>&#160;– 1977</li>
