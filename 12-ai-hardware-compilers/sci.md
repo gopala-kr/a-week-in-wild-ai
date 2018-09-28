@@ -81,6 +81,7 @@ processes
 - [List of semiconductor fabrication plants](https://en.wikipedia.org/wiki/List_of_semiconductor_fabrication_plants)
 - [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
 - [List of Intel CPU microarchitectures](https://en.wikipedia.org/wiki/List_of_Intel_CPU_microarchitectures)
+- [architectures](https://www.csie.nuk.edu.tw/~kcf/course/ComputerArchitecture/ComputerArchitecture_Chapter1_introduction_color.pdf)
 - [List of Intel chipsets](https://en.wikipedia.org/wiki/List_of_Intel_chipsets)
 - [List of Semiconductor Companies](https://en.wikichip.org/wiki/list_of_semiconductor_companies)
 - [VLSI](https://www.slideshare.net/illpa/introduction-to-vlsi)
