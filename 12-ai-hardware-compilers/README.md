@@ -199,6 +199,7 @@ Nervana Systems
 
 Grog: (Founded by Goole TPU Team)
 
+- [Several Google engineers have left one of its most secretive AI projects to form a stealth start-up](https://www.cnbc.com/2017/04/20/ex-googlers-left-secretive-ai-unit-to-form-groq-with-palihapitiya.html)
 - [Groq This: New AI Chips to Give GPUs a Run for Deep Learning Money](https://www.hpcwire.com/2017/04/24/new-ai-chips-give-gpus-run-deep-learning-money/)
 - [The AI chip startup explosion is already here](https://techcrunch.com/2017/12/24/the-ai-chip-startup-explosion-is-already-here/)
 
@@ -345,6 +346,17 @@ Brainchip
 
 - [presentations](https://www.brainchipinc.com/news-media/presentations)
 - [roles](https://www.brainchipinc.com/about/careers)
+
+-----------
+
+- [Xilinx: Deep Learning
+with INT8 Optimization
+on Xilinx Devices](https://www.xilinx.com/support/documentation/white_papers/wp486-deep-learning-int8.pdf)
+- [Rockchip Released Its First AI Processor RK3399Pro -- NPU Performance up to 2.4TOPs](https://www.prnewswire.com/news-releases/rockchip-released-its-first-ai-processor-rk3399pro----npu-performance-up-to-24tops-300578633.html)
+- [https://www.nextplatform.com/](https://www.nextplatform.com/)
+- [The Cognitive Computing Startup List, revised and expanded on September 9, 2018:](http://www.cogniteventures.com/the-cognitive-computing-startup-list/)
+- [DeepScale raises $3 million for perception AI to make self-driving cars safe](https://techcrunch.com/2017/03/21/deepscale-raises-3-million-for-perception-ai-to-make-self-driving-cars-safe/)
+
 -----------
 
 Ref: 
@@ -366,11 +378,10 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 - [NIPS 2017 Workshop: Deep Learning At Supercomputer Scale](https://supercomputersfordl2017.github.io/)
 - [Machine	Learning	on	
 Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/ZIB-DeepLearningDay.20170227.public.pdf)
+- [Chip Feed](https://en.wikichip.org/wiki/WikiChip:chip_feed)
+- [List of compilers](https://en.wikipedia.org/wiki/List_of_compilers)
 - [Hitting the accelerator:
 the next generation of
 machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
-- [Chip Feed](https://en.wikichip.org/wiki/WikiChip:chip_feed)
-- [List of compilers](https://en.wikipedia.org/wiki/List_of_compilers)
-
 ---------
