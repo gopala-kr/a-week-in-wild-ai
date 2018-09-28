@@ -265,5 +265,6 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 - [VLSI Design](https://pdfs.semanticscholar.org/presentation/aa90/60734d7ef351a73eee8808b5ed239602c7f1.pdf)
 - [HISTORIC SEMICONDUCTORS
 RESEARCH](http://semiconductormuseum.com/MuseumStore/TransistorMuseum_Brief_History_of_Early_Semiconductors.pdf)
-
+- [Design and Implementation of VLSI Systems](http://scale.engin.brown.edu/classes/EN1600S08/)
+- [Design of VLSI Systems](https://web.archive.org/web/20031223071416/http://lsiwww.epfl.ch/LSI2001/teaching/webcourse/toc.html)
 ---------
