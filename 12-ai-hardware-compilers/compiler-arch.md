@@ -134,6 +134,6 @@
 -------
 ![opencl_11](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/opencl_11.PNG)
 -------
-![]()
+![Codeplay](https://www.codeplay.com/public/uploaded/public/Codeplay-EN-p3.jpg)
 -------
 
