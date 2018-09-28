@@ -181,6 +181,22 @@ Deep Learning and Vision Processing
 Startup, to Help Accelerate Next
 Generation Automotive](http://www.densomedia-na.com/wp-content/uploads/DENSO-Lead-Investor-in-THINCI-Inc.pdf)
 - [The	Vision	AI	Start-ups	That	Ma4er	Most		](http://www.cogniteventures.com/wp-content/uploads/2016/09/EVMM-February-22-2017-Final.pdf)
+
+Wave computing
+
+- [WaveComputing_Deskside](https://static1.squarespace.com/static/56dd1fca555986f25c75343c/t/5b7476914ae2372e1eebf15b/1534359187570/WaveComputing_Deskside_8.15.18.pdf)
+- [Engineering & Technology Roles](http://jobs.jobvite.com/wavecomp-ai)
+
+Nervana Systems
+
+- [Deep Learning on the INTEL® nervana™ platform](https://indico.cern.ch/event/567550/contributions/2656681/attachments/1510739/2357055/20170922_ACAT2017_Intel_Nervana_Solution_Stack.pdf)
+- [CCC-Nervana](https://cra.org/ccc/wp-content/uploads/sites/2/2016/08/CCC-Nervana-Amir.pdf)
+- [ai-academy](https://software.intel.com/en-us/ai-academy/tools)
+- [publications](https://ai.intel.com/publications/)
+- [Rethinking computation: A processor architecture for machine intelligence](https://www.slideshare.net/nervanasys/rethinking-computation-a-processor-architecture-for-machine-intelligence?next_slideshow=1)
+- [Nervana and the Future of Computing](https://www.slideshare.net/nervanasys/nervana-and-the-future-of-computing)
+
+
 -----------
 
 Training Hardwares
@@ -343,6 +359,11 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 - [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf)
 - [Artificial intelligence is awakening the chip industry’s animal spirits](https://www.economist.com/business/2018/06/07/artificial-intelligence-is-awakening-the-chip-industrys-animal-spirits)
 - [NIPS 2017 Workshop: Deep Learning At Supercomputer Scale](https://supercomputersfordl2017.github.io/)
-
+- [Machine	Learning	on	
+Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/ZIB-DeepLearningDay.20170227.public.pdf)
+- [Hitting the accelerator:
+the next generation of
+machine-learning chips
+](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
 
 ---------
