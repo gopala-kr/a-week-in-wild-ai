@@ -1,5 +1,17 @@
 
+----------
 
+![apple_chips](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/apple_chips.PNG)
+
+-------
+
+![snapdragon](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/snapdragon.PNG)
+
+-------
+
+![sd_1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/sd_1.PNG)
+
+-------------
 - [Survey on Mobile Processors](https://www.slideshare.net/ashutosh219/survey-on-mobile-processors?next_slideshow=1)
 - [Processor Progression In Mobile Phones](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-5-ISSUE-5-1674-1679.pdf)
 - [How Qualcomm Snapdragon
@@ -19,3 +31,5 @@ Technology and Traction](https://www.qualcomm.com/media/documents/files/snapdrag
 - [List of Samsung Exynos SoCs](https://en.wikipedia.org/wiki/Exynos)
 - [Tegra Whitepapers](https://www.nvidia.in/object/tegra-whitepapers-in.html)
 - [HiSilicon Kirin chipsets](https://en.wikipedia.org/wiki/HiSilicon)
+
+-----------------
