@@ -171,6 +171,11 @@ Inference Hardwares
 
 Parallel Computing with GPUs/FPGA's(compilers architecture)
 
+
+GPU - AMD and NVIDIA
+FPGA - 	Xilinx and 	Altera
+
+
 - [Intel® HLS Compiler: Fast Design,
 Coding, and Hardware](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/wp/wp-01274-intel-hls-compiler-fast-design-coding-and-hardware.pdf)
 - [Intel® HLS Compiler](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/products/hls/hls-production-brief.pdf)
@@ -241,6 +246,33 @@ with CUDA and OpenACC ](https://www.asc.edu/sites/default/files/org_sections/HPC
 - [OpenCL for FPGAs: Prototyping a Compiler](http://ersaconf.org/ersa12/papers/Brown-opencl-for-fpgas.pdf)
 - [DLA: Compiler and FPGA Overlay for Neural
 Network Inference Acceleration](https://arxiv.org/pdf/1807.06434.pdf)
+- [Inside the Microsoft FPGA-based configurable cloud](https://channel9.msdn.com/Events/Build/2017/B8063)
+- [Array Allocation in Non-Cached Memory
+Systems](https://www.cct.lsu.edu/~estrabd/LACSI2006/workshops/workshop5/tripp.pdf)
+- [Xilinx FPGA Architecture](https://www.seas.upenn.edu/~ese170/handouts/FPGA.pdf)
+- [LLVM-CHiMPS
+Compilation Environment for FPGAs
+Using LLVM Compiler Infrastructure and
+CHiMPS Computational Model](https://pdfs.semanticscholar.org/4666/eef3e3da4481254d1ba9b140622ad1836a9e.pdf)
+- [CHiMPS: A C-level compilation flow for hybrid CPU-FPGA architectures](https://ieeexplore.ieee.org/document/4629927)
+- [LLVM-CHiMPS: Compilation Environment for FPGAs Using LLVM
+Compiler Infrastructure and CHiMPS Computational Model](http://www.ncsa.illinois.edu/People/kindr/papers/rssi08_paper1.pdf)
+- [A Survey and Evaluation of FPGA
+High-Level Synthesis Tools](https://ce-publications.et.tudelft.nl/publications/1524_a_survey_and_evaluation_of_fpga_highlevel_synthesis_tools.pdf)
+- [High-level synthesis for FPGAs](http://www.maisondelasimulation.fr/Phocea/file.php?file=Seminaires/110/High-level_synthesis_for_FPGAs.pdf)
+- [Best-Effort FPGA Programming:
+A Few Steps Can Go a Long Way](https://arxiv.org/pdf/1807.01340.pdf)
+- [LegUp: An Open Source High-Level Synthesis Tool for FPGA-Based
+Processor/Accelerator Systems](http://legup.eecg.utoronto.ca/ACM_TECS_journal.pdf)
+- [Overview of a Compiler for Synthesizing
+MATLAB Programs onto FPGAs ](http://users.eecs.northwestern.edu/~dcz338/publications/TLVLSI-accelchip.pdf)
+- [An overview of FPGAs and FPGA programming; initial experiences at Daresbury](https://www.researchgate.net/publication/30409873_An_overview_of_FPGAs_and_FPGA_programming_initial_experiences_at_Daresbury)
+- [Programming
+Modern FPGAs](http://www.mpsoc-forum.org/previous/2006/slides/bolsens.pdf)
+- [ FIELD PROGRAMMABLE
+GATE ARRAYS](http://www.cs.tut.fi/kurssit/TLT-9707/presentations/DCS_DCE_lect_1.pdf)
+- [FPGAs For Dummies®, 2nd Intel® Special Edition](https://www.amiq.com/consulting/misc/free_pdf_books/fpgas_for_dummies_ebook.pdf)
+
 
 -----------
 
@@ -267,4 +299,6 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 RESEARCH](http://semiconductormuseum.com/MuseumStore/TransistorMuseum_Brief_History_of_Early_Semiconductors.pdf)
 - [Design and Implementation of VLSI Systems](http://scale.engin.brown.edu/classes/EN1600S08/)
 - [Design of VLSI Systems](https://web.archive.org/web/20031223071416/http://lsiwww.epfl.ch/LSI2001/teaching/webcourse/toc.html)
+- [Transistor count](https://en.wikipedia.org/wiki/Transistor_count)
+
 ---------
