@@ -54,6 +54,7 @@ Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746v3.pdf)
 - [MIT CSAIL: Halide: A Language and Compiler for Optimizing Parallelism,
 Locality, and Recomputation in Image Processing Pipelines
 ](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
+- [MIT + Stanford: Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines](https://cs.stanford.edu/~zdevito/a144-hegarty.pdf)
 
 
 ONNX:
@@ -123,7 +124,7 @@ Computer-Aided Design Flow](http://www.eng.auburn.edu/~nelson/courses/elec4200/S
 - [ASICs](http://www.ni2designs.com/downloads/docs/Intro_to_ASICs.pdf)
 - [Brainwave Compiler](http://learningsys.org/nips17/assets/slides/brainwave-nips17.pdf)
 - [A HPX backend for TensorFlow](http://stellar.cct.lsu.edu/pubs/lukas_troska_hpx_tensorflow_04.05.17.pdf)
-
+- [ASIC Clouds: Specializing the Datacenter](https://cseweb.ucsd.edu/~mbtaylor/papers/ASIC_Cloud_ISCA_2016_Proceedings.pdf)
 
 Graphcore
 (IPU - 16nm)
@@ -272,7 +273,17 @@ Modern FPGAs](http://www.mpsoc-forum.org/previous/2006/slides/bolsens.pdf)
 - [ FIELD PROGRAMMABLE
 GATE ARRAYS](http://www.cs.tut.fi/kurssit/TLT-9707/presentations/DCS_DCE_lect_1.pdf)
 - [FPGAs For Dummies®, 2nd Intel® Special Edition](https://www.amiq.com/consulting/misc/free_pdf_books/fpgas_for_dummies_ebook.pdf)
+------------
 
+Neuromorphic
+
+- [Neuromorphic chips
+for the Artificial Brain](http://raphe.kaist.ac.kr/lecture/2016springbce500/(BrainCogn%20Eng%20I%2005)%20Neuromorphic%20chips.pdf)
+- [A Compiler for Scalable Placement and
+Routing of Brain-like Architectures ](http://www.ispd.cc/slides/2013/6_srinivasa.pdf)
+- [Bridging the Gap Between Neural Networks and Neuromorphic
+Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746.pdf)
+- [Nengo: The Neuromorphic Compiler and the Rise of Neuromorphic Computing Chips](https://www.linkedin.com/pulse/nengo-neuromorphic-compiler-rise-computing-chips-peter-suma)
 
 -----------
 
