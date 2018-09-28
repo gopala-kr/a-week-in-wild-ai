@@ -261,5 +261,9 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 - [A Tour of TensorFlow](https://arxiv.org/pdf/1610.01178.pdf)
 - [Artificial intelligence is awakening the chip industry’s animal spirits](https://www.economist.com/business/2018/06/07/artificial-intelligence-is-awakening-the-chip-industrys-animal-spirits)
 - [NIPS 2017 Workshop: Deep Learning At Supercomputer Scale](https://supercomputersfordl2017.github.io/)
+- [VLSI](https://www.slideshare.net/illpa/introduction-to-vlsi)
+- [VLSI Design](https://pdfs.semanticscholar.org/presentation/aa90/60734d7ef351a73eee8808b5ed239602c7f1.pdf)
+- [HISTORIC SEMICONDUCTORS
+RESEARCH](http://semiconductormuseum.com/MuseumStore/TransistorMuseum_Brief_History_of_Early_Semiconductors.pdf)
 
 ---------
