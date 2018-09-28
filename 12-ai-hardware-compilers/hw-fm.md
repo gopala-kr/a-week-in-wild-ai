@@ -26,10 +26,10 @@
 ![neuromorphic_chips](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/neuromorphic_chips.PNG)
 
 -----------
-![]()
+![openvino](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/openvino.PNG)
 
 -----------
-![]()
+![intel_ai_compute](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/intel_ai_compute.PNG)
 
 -----------
 ![]()
