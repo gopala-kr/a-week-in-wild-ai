@@ -361,6 +361,7 @@ on Xilinx Devices](https://www.xilinx.com/support/documentation/white_papers/wp4
 
 Ref: 
 
+- [HennessyPattersonTuringLectureISCA4June2018](http://iscaconf.org/isca2018/docs/HennessyPattersonTuringLectureISCA4June2018.pdf)
 - [Stanford: Efficient Methods and Hardware for
 Deep Learning ](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture15.pdf)
 - [Benchmarking Hardware for CNN Inference in 2018](https://towardsdatascience.com/benchmarking-hardware-for-cnn-inference-in-2018-1d58268de12a)
