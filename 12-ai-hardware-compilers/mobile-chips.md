@@ -11,6 +11,18 @@
 
 ![sd_1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/sd_1.PNG)
 
+---------
+
+![A11_APL1W72_TMHS09_bionic_800px](https://www.sigarch.org/wp-content/uploads/2018/08/A11_APL1W72_TMHS09_bionic_800px-798x1024.jpg)
+
+-------
+
+![Imagination](https://www.imgtec.com/wp-content/uploads/2014/06/Mobile-computing-Imagination-IP_processors_for_smartphones-and-tablets.png)
+
+-------
+
+![computing](https://www.imgtec.com/wp-content/uploads/2014/06/Mobile-computing-Imagination-IP-licensing-business-model.png)
+
 -------------
 - [Survey on Mobile Processors](https://www.slideshare.net/ashutosh219/survey-on-mobile-processors?next_slideshow=1)
 - [Processor Progression In Mobile Phones](http://ijarcet.org/wp-content/uploads/IJARCET-VOL-5-ISSUE-5-1674-1679.pdf)
@@ -35,4 +47,25 @@ Technology and Traction](https://www.qualcomm.com/media/documents/files/snapdrag
 FOR MOBILE APPLICATIONS](https://pdfs.semanticscholar.org/32d5/405ac92a13d7f38e2313574dfd6238125a94.pdf)
 - [The Evolution of EyeQ](https://www.mobileye.com/our-technology/evolution-eyeq-chip/)
 - [Samsung Optimizes Premium Exynos 9 Series 9810 for AI Applications and Richer Multimedia Content](https://news.samsung.com/global/samsung-optimizes-premium-exynos-9-series-9810-for-ai-applications-and-richer-multimedia-content)
+- [Evolution of Processor Architecture in Mobile Phones](https://pdfs.semanticscholar.org/7174/57549f70742352e1116851b39391aa43b0f7.pdf)
+- [System-on-Chip Architecture for
+Mobile Applications](https://www.siliconindia.com/events/siliconindia_events/Global_Embedded_conf/SiliconIndia_SOC.pdf)
+- [Smartphone Architecture](http://meseec.ce.rit.edu/551-projects/fall2015/3-2.pdf)
+- [System on Chip (SoC) for mobile phones](https://www.slideshare.net/Funk98/system-on-chip-soc-for-mobile-phones)
+- [ARM_Qualcomm_White_paper_Final](https://www.arm.com/files/pdf/ARM_Qualcomm_White_paper_Final.pdf)
+- [Computing on Low Power
+SoC Architecture](https://indico.cern.ch/event/319744/contributions/1698147/attachments/616065/847693/gdb_110215_cesini.pdf)
+- [building-next-generation-apps-processors-for-mobile-computing](https://www.imgtec.com/blog/building-next-generation-apps-processors-for-mobile-computing/)
+- [Mobile SoCs: The Wild West of Domain Specific Architectures](https://www.sigarch.org/mobile-socs/)
+- [Google: Pixel Visual Core: image processing and machine learning on Pixel 2](https://www.blog.google/products/pixel/pixel-visual-core-image-processing-and-machine-learning-pixel-2/)
+- [Two Billion Devices and
+Counting ](http://3nity.io/~vj/downloads/publications/vj-18-ieeemicro.pdf#page=3)
+- [Android: 
+Supported hardware](https://developer.android.com/things/hardware/)
+- []()
+- []()
+- []()
+
+
+
 -----------------
