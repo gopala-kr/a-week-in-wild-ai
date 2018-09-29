@@ -351,6 +351,28 @@ MPI
 - [Getting started with MPI](https://www.mpibpc.mpg.de/280019/kutzner06talk-MPI.pdf)
 - [Open MPI: A High-Performance, Heterogeneous MPI](http://open-mpi.europnews.de/papers/heteropar-2006/heteropar-2006-paper.pdf)
 - [Open MPI](https://www.mir.wustl.edu/Portals/0/Documents/Uploads/CHPC/WashU_6_intelmpi.pdf)
+- [Running MPI applications on Linux over
+Infiniband cluster with Intel MPI
+](https://www.mir.wustl.edu/Portals/0/Documents/Uploads/CHPC/WashU_6_intelmpi.pdf)
+- [MPI: A Message-Passing Interface Standard](https://www.mpi-forum.org/docs/mpi-3.1/mpi31-report.pdf)
+- [Tutorial on MPI: The
+Message-Passing Interface](https://www.idi.ntnu.no/~elster/tdt4200-f09/gropp-mpi-tutorial.pdf)
+- [Introduction to the Message Passing Interface (MPI)](http://www.math-cs.gordon.edu/courses/cps343/presentations/Intro_to_MPI.pdf)
+- [Introduction to Parallel
+Programming and MPI
+](https://software.rc.fas.harvard.edu/training/Intro_to_MPI.pdf)
+- [MPI Programming Model MPI Programming Model](https://www.nersc.gov/assets/NUG-Meetings/MPINERSC-Cray.pdf)
+- [MPI-based Approaches for Java](https://www.open-mpi.org/papers/mpi-java-presentation/mpi-java1995.pdf)
+- [INTRODUCTION TO PARALLEL PROGRAMMING
+WITH MPI AND OPENMP](https://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/slides/mpi/mpi-openmp-handouts.pdf?__blob=publicationFile)
+- [Distributed Memory
+Programming with MPI](https://www.moreno.marzolla.name/teaching/high-performance-computing/2017-2018/L06-MPI.pdf)
+- [Distributed TensorFlow with MPI](https://arxiv.org/pdf/1603.02339.pdf)
+- [Distributed TensorFlow vs MPI TensorFlow](https://groups.google.com/a/tensorflow.org/forum/#!topic/discuss/YAtcAb9X5ms)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
