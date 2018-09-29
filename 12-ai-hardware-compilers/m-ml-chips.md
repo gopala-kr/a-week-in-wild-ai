@@ -62,9 +62,24 @@ SoC Architecture](https://indico.cern.ch/event/319744/contributions/1698147/atta
 Counting ](http://3nity.io/~vj/downloads/publications/vj-18-ieeemicro.pdf#page=3)
 - [Android: 
 Supported hardware](https://developer.android.com/things/hardware/)
-- []()
-- []()
-- []()
+- [Euphrates: Algorithm-SoC Co-Design for Low-Power Mobile Continuous Vision](http://yuhaozhu.com/pubs/isca18.pdf)
+- [Software Architecture Exploration for High-Performance
+Security Processing on a Multiprocessor Mobile SoC](https://www.cs.york.ac.uk/rts/docs/DAC-1964-2006/PAPERS/2006/DAC06/PDFFILES/P0496.PDF)
+- [qualcomm-announces-snapdragon-845-soc](https://www.anandtech.com/show/12114/qualcomm-announces-snapdragon-845-soc)
+- [A brief guide to mobile AI chips](https://www.theverge.com/2017/10/19/16502538/mobile-ai-chips-apple-google-huawei-qualcomm)
+- [Variable SMP – A Multi-Core
+CPU Architecture for Low
+Power and High Performance](https://www.nvidia.com/content/PDF/tegra_white_papers/Variable-SMP-A-Multi-Core-CPU-Architecture-for-Low-Power-and-High-Performance-v1.1.pdf)
+- [Huawei Kirin 980 chip: Architecture, speed and everything else you need to know](https://indianexpress.com/article/technology/mobile-tabs/huawei-kirin-980-chip-architecture-speed-performance-compatible-devices-more-5336139/)
+- [5G Architecture, Mobile
+Edge Computing and IoT](https://www.cs.helsinki.fi/u/starkoma/5G-China-st-final.pdf)
+- [Energy-Efficient Execution of Data-Parallel
+Applications on Heterogeneous Mobile Platforms](https://www.comp.nus.edu.sg/~tulika/ICCD15.pdf)
+- [5G-Nework-Architecture-Whitepaper](https://www.huawei.com/minisite/hwmbbf16/insights/5G-Nework-Architecture-Whitepaper-en.pdf)
+- [4G Mobile Smartphone 4G Mobile Smartphone
+architecture targeted for
+China and US markets](http://www.comsocscv.org/docs/Talk_040908_4GMobileArch.pdf)
+- [List of iOS devices](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 
 
