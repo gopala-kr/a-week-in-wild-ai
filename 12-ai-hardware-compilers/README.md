@@ -354,6 +354,7 @@ MPI
 - [Running MPI applications on Linux over
 Infiniband cluster with Intel MPI
 ](https://www.mir.wustl.edu/Portals/0/Documents/Uploads/CHPC/WashU_6_intelmpi.pdf)
+- [CISCO: What is [Open] MPI?](https://www.slideshare.net/jsquyres/test-presentation-883454)
 - [MPI: A Message-Passing Interface Standard](https://www.mpi-forum.org/docs/mpi-3.1/mpi31-report.pdf)
 - [Tutorial on MPI: The
 Message-Passing Interface](https://www.idi.ntnu.no/~elster/tdt4200-f09/gropp-mpi-tutorial.pdf)
@@ -374,18 +375,16 @@ Programming with MPI](https://www.moreno.marzolla.name/teaching/high-performance
 - [https://github.com/facebookincubator/gloo](https://github.com/facebookincubator/gloo)
 - [https://github.com/baidu-research/tensorflow-allreduce](https://github.com/baidu-research/tensorflow-allreduce)
 - [https://github.com/baidu-research/baidu-allreduce](https://github.com/baidu-research/baidu-allreduce)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [User-transparent Distributed TensorFlow](https://arxiv.org/pdf/1704.04560.pdf)
+- [https://github.com/matex-org/matex](https://github.com/matex-org/matex)
+- [Optimized Broadcast for Deep Learning Workloads
+on Dense-GPU InfiniBand Clusters: MPI or NCCL?](https://arxiv.org/pdf/1707.09414.pdf)
+- [Co-designing MPI Runtimes and Deep Learning Frameworks for Scalable Distributed Training on GPU Clusters](http://hibd.cse.ohio-state.edu/static/media/talks/slide/awan-sc17-poster.pdf)
+- [	Distributed	Deep	Learning	for	
+Dummies](http://www.hoti.org/tutorials/HOTI25_Tutorial_1b.pdf)
+- [Efficient	Large	Message	Broadcast	using	NCCL	
+and	CUDA-Aware	MPI	for	Deep	Learning](http://www.eurompi2016.ed.ac.uk/sites/default/files/attachments/Awan-Efficient-Large-Message-Broadcast.pdf)
+
 
 
 -----------
