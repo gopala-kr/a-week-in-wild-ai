@@ -219,6 +219,11 @@ Analysis](https://www.itu.dk/~wasowski/teach/dsp-compiler-07/episode-2/episode02
 - [ORC2DSP: Compiler Infrastructure Supports for VLIW
 DSP Processors
 ](http://pllab.cs.nthu.edu.tw/~cwchen/pub/vlsitsa05.pdf)
+
+Knupath
+
+- [Former NASA Exec Brings Stealth Machine Learning Chip to Light](https://www.nextplatform.com/2016/06/06/former-nasa-exec-brings-stealth-machine-learning-chip-light/)
+
 -----------
 
 Training Hardwares
