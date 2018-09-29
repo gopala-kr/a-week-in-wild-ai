@@ -345,6 +345,27 @@ Look at Industrial Practice](https://people.eecs.berkeley.edu/~keutzer/classes/2
 - [RTL design in python:
 porting the mMIPS](http://www.es.ele.tue.nl/~jhuisken/mmips/mMips_in_Myhdl.pdf)
 
+
+MPI
+
+- [Getting started with MPI](https://www.mpibpc.mpg.de/280019/kutzner06talk-MPI.pdf)
+- [Open MPI: A High-Performance, Heterogeneous MPI](http://open-mpi.europnews.de/papers/heteropar-2006/heteropar-2006-paper.pdf)
+- [Open MPI](https://www.mir.wustl.edu/Portals/0/Documents/Uploads/CHPC/WashU_6_intelmpi.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+-----------
 ------------
 
 Neuromorphic
@@ -378,10 +399,9 @@ on Xilinx Devices](https://www.xilinx.com/support/documentation/white_papers/wp4
 - [The Cognitive Computing Startup List, revised and expanded on September 9, 2018:](http://www.cogniteventures.com/the-cognitive-computing-startup-list/)
 - [DeepScale raises $3 million for perception AI to make self-driving cars safe](https://techcrunch.com/2017/03/21/deepscale-raises-3-million-for-perception-ai-to-make-self-driving-cars-safe/)
 
+-------------
 
 
-
------------
 
 Ref: 
 
