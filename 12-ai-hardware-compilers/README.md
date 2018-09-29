@@ -369,6 +369,11 @@ WITH MPI AND OPENMP](https://www.fz-juelich.de/SharedDocs/Downloads/IAS/JSC/EN/s
 Programming with MPI](https://www.moreno.marzolla.name/teaching/high-performance-computing/2017-2018/L06-MPI.pdf)
 - [Distributed TensorFlow with MPI](https://arxiv.org/pdf/1603.02339.pdf)
 - [Distributed TensorFlow vs MPI TensorFlow](https://groups.google.com/a/tensorflow.org/forum/#!topic/discuss/YAtcAb9X5ms)
+- [https://github.com/NVIDIA/nccl](https://github.com/NVIDIA/nccl)
+- [https://github.com/intel/MLSL](https://github.com/intel/MLSL)
+- [https://github.com/facebookincubator/gloo](https://github.com/facebookincubator/gloo)
+- [https://github.com/baidu-research/tensorflow-allreduce](https://github.com/baidu-research/tensorflow-allreduce)
+- [https://github.com/baidu-research/baidu-allreduce](https://github.com/baidu-research/baidu-allreduce)
 - []()
 - []()
 - []()
@@ -381,11 +386,7 @@ Programming with MPI](https://www.moreno.marzolla.name/teaching/high-performance
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
 
 -----------
 ------------
