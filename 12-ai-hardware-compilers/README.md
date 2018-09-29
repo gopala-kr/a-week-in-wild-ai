@@ -203,6 +203,22 @@ Grog: (Founded by Google TPU Team)
 - [Groq This: New AI Chips to Give GPUs a Run for Deep Learning Money](https://www.hpcwire.com/2017/04/24/new-ai-chips-give-gpus-run-deep-learning-money/)
 - [The AI chip startup explosion is already here](https://techcrunch.com/2017/12/24/the-ai-chip-startup-explosion-is-already-here/)
 
+----
+-------------
+
+DSP
+
+- [Digital Signal Processor evolution over the last 30 years](https://www.slideshare.net/fcharlot/digital-signal-processor-evolution-over-the-last-30-years)
+- [DSP Compilers: A Buyer's Guide](https://www.eetimes.com/document.asp?doc_id=1277335)
+- [SPL
+A Language and Compiler for DSP Algorithms](https://pdfs.semanticscholar.org/640b/bae6c4d28f7a40fc844e4c4bf0049f79a74b.pdf)
+- [Software Programmable
+Signal Processing Platform
+Analysis](https://www.itu.dk/~wasowski/teach/dsp-compiler-07/episode-2/episode02-handout.pdf)
+- [An Advanced Compiler Designed for a VLIW DSP for Sensors-Based Systems](https://www.mdpi.com/1424-8220/12/4/4466)
+- [ORC2DSP: Compiler Infrastructure Supports for VLIW
+DSP Processors
+](http://pllab.cs.nthu.edu.tw/~cwchen/pub/vlsitsa05.pdf)
 -----------
 
 Training Hardwares
@@ -356,6 +372,9 @@ on Xilinx Devices](https://www.xilinx.com/support/documentation/white_papers/wp4
 - [https://www.nextplatform.com/](https://www.nextplatform.com/)
 - [The Cognitive Computing Startup List, revised and expanded on September 9, 2018:](http://www.cogniteventures.com/the-cognitive-computing-startup-list/)
 - [DeepScale raises $3 million for perception AI to make self-driving cars safe](https://techcrunch.com/2017/03/21/deepscale-raises-3-million-for-perception-ai-to-make-self-driving-cars-safe/)
+
+
+
 
 -----------
 
