@@ -32,7 +32,7 @@
 ![intel_ai_compute](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/intel_ai_compute.PNG)
 
 -----------
-![]()
+![i_ONhnADE594etNA](https://cdn-images-1.medium.com/max/800/0*i_ONhnADE594etNA.)
 
 -----------
 ![]()
