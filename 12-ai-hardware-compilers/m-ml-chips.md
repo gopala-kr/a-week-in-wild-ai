@@ -1,8 +1,14 @@
 
 ----------
+![s_3](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/s_3.PNG)
 
+---------
+![snapdragon_1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/snapdragon_1.PNG)
+
+------
 ![apple_chips](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/apple_chips.PNG)
-
+--------
+![iphone](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/iphone.PNG)
 -------
 
 ![snapdragon](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/snapdragon.PNG)
