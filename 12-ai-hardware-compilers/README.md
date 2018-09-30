@@ -228,14 +228,18 @@ Knupath
 
 Training Hardwares
 
+    - GPU[1] -> FPGA[2] -> ASIC[3]
+    
 
 -----------
 
 Inference Hardwares
 
+    - ASIC[1] -> FPGA[2] -> GPU[3]
+    
 ------------
 
-Parallel Computing with GPUs/FPGA's(compilers architecture)
+Parallel Computing with GPUs/FPGA's(compiler optimization)
 
 
     - GPU : AMD and NVIDIA
@@ -425,7 +429,7 @@ Computing ](http://people.cs.uchicago.edu/~ftchong/Chong-QC-SFU-2015.pdf)
 Programming](http://cs.ioc.ee/~tarmo/pls06/altenkirch-slides.pdf)
 - [Qubit allocation
 for quantum circuit compilers ](http://www.irisa.fr/alf/downloads/collange/talks/collange_qubitalloc_jiq17.pdf)
-- [oward a Software Architecture for Quantum
+- [Towards a Software Architecture for Quantum
 Computing Design Tools](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/10Svore-Cross-Aho-Chuang-Markov.pdf)
 
 
@@ -450,7 +454,7 @@ Low-power Neuromorphic Hardware](https://arxiv.org/pdf/1601.04187.pdf)
 Brainchip
 
 - [presentations](https://www.brainchipinc.com/news-media/presentations)
-- [roles](https://www.brainchipinc.com/about/careers)
+- [Technical roles](https://www.brainchipinc.com/about/careers)
 
 -----------
 
