@@ -1,4 +1,6 @@
 
+![timeline](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/timeline.PNG)
+--------------
 ![FPGATens1](http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/FPGATens1.png)
 
 ------------
