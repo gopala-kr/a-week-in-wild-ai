@@ -491,6 +491,7 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 - [Machine	Learning	on	
 Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/ZIB-DeepLearningDay.20170227.public.pdf)
 - [Chip Feed](https://en.wikichip.org/wiki/WikiChip:chip_feed)
+- [primo.ai](http://primo.ai/index.php?title=Main_Page)
 - [List of compilers](https://en.wikipedia.org/wiki/List_of_compilers)
 - [Hitting the accelerator:
 the next generation of
