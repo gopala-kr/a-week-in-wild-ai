@@ -18,6 +18,10 @@
 
 ---------
 ![W4MUFcWTCU83dbtgSWQu6g](https://cdn-images-1.medium.com/max/1600/1*W4MUFcWTCU83dbtgSWQu6g.png)
+
+-----------
+![4UaX8AvUQCg](https://cdn-images-1.medium.com/max/1200/1*aal_1sevnb-4UaX8AvUQCg.png)
+
 ------------
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
 
