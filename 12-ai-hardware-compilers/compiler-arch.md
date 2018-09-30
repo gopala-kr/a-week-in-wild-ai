@@ -137,3 +137,12 @@
 ![Codeplay](https://www.codeplay.com/public/uploaded/public/Codeplay-EN-p3.jpg)
 -------
 
+- [A Brief History of Just-In-Time](https://www.cs.tufts.edu/comp/150IPL/papers/aycock03jit.pdf)
+- [A crash course in just-in-time (JIT) compilers](https://hacks.mozilla.org/2017/02/a-crash-course-in-just-in-time-jit-compilers/)
+- [Just in Time Compilation](http://www.cs.columbia.edu/~aho/cs6998/Lectures/14-09-22_Croce_JIT.pdf)
+- [Understanding JIT compiler (just-in-time compiler)](https://aboullaite.me/understanding-jit-compiler-just-in-time-compiler/)
+- [Just in Time Compilation](https://www.youtube.com/watch?v=yQ27DjKnxwo)
+- [What are Interpreters, Compilers & JIT compilers? | Ep18](https://www.youtube.com/watch?v=svJerixawV0)
+
+
+------------
