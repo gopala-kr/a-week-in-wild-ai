@@ -60,5 +60,4 @@
 -------------
 ![deeplens](https://www.makeartwithpython.com/blog/assets/images/deep-lens/deeplens.png)
 -------------
-
 -------------
