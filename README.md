@@ -10,7 +10,7 @@
 - [[Week-10](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/10-ai-in-enterprise-services)] 09/09/2018 : AI in enterprise services
 - [[Week-11-12](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/11-ai-in-surveillance)]  23/09/2018 : AI in Surveillance + IoT + Agriculture
 - [[Week-13](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/12-ai-hardware-compilers)] 30/09/2018: DL Compiler Optimization for Different Hardwares
-- [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/14-demystifying-dl-frameworks-and-libraries)] 07/102018 : Demystifying Deep Learning Frameworks and Libraries(low+high level)
+- [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/14-demystifying-dl-frameworks-and-libraries)] 07/10/2018 : Demystifying Deep Learning Frameworks and Libraries(low+high level)
 
 
 -----------
