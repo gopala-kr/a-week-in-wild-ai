@@ -498,3 +498,5 @@ machine-learning chips
 ---------
 ![UX925_201709_P_20170901165145](https://asset.barrons.com/public/resources/images/BN-UX925_201709_P_20170901165145.png)
 ---------
+![1030x315](https://ark-invest.com/wp-content/uploads/2017/09/GPU-vs-TPU-Graph-4-1030x315.png)
+------------
