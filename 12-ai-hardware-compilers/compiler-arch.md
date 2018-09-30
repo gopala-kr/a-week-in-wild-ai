@@ -1,6 +1,23 @@
 -------
 ![KVKVPU8XD2sNxbi2u0Awwg](https://cdn-images-1.medium.com/max/1600/1*KVKVPU8XD2sNxbi2u0Awwg.png)
 
+---------
+![RILS4frRfsqfyuvPINojOw](https://cdn-images-1.medium.com/max/1600/1*RILS4frRfsqfyuvPINojOw.png)
+
+-------------
+![YZTMtnZGU9CQptGKEFQtFw](https://cdn-images-1.medium.com/max/1600/1*YZTMtnZGU9CQptGKEFQtFw.png)
+
+---------
+![AO9suiP2QNTzAgw](https://cdn-images-1.medium.com/max/1600/1*55yoB_-AO9suiP2QNTzAgw.png)
+
+---------
+![Qr3EIx5DpFqfQ](https://cdn-images-1.medium.com/max/1600/1*DH1GvuL7-Qr3EIx5DpFqfQ.png)
+
+--------
+![G3knNvYZWHvZnDsY](https://cdn-images-1.medium.com/max/1600/1*G3knNvYZWHvZnDsY-S9jtQ.png)
+
+---------
+![W4MUFcWTCU83dbtgSWQu6g](https://cdn-images-1.medium.com/max/1600/1*W4MUFcWTCU83dbtgSWQu6g.png)
 ------------
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
 
