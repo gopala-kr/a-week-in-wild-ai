@@ -496,3 +496,5 @@ machine-learning chips
 ---------------
 ![d6118462b94f89da](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/cycle.PNG)
 ---------
+![UX925_201709_P_20170901165145](https://asset.barrons.com/public/resources/images/BN-UX925_201709_P_20170901165145.png)
+---------
