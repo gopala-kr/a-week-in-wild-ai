@@ -388,6 +388,23 @@ and	CUDA-Aware	MPI	for	Deep	Learning](http://www.eurompi2016.ed.ac.uk/sites/defa
 
 
 -----------
+Quantum Compilation
+
+- [Qcompiler: quantum compilation with CSD method](https://arxiv.org/pdf/1208.0194.pdf)
+- [A Software Methodology for Compiling Quantum Programs](https://arxiv.org/pdf/1604.01401.pdf)
+- [2nd International Workshop on 
+Quantum Compilation](https://msoeken.github.io/iwqc18.html)
+- [Process Algebras for Quantum Compilation](https://www.youtube.com/watch?v=O8oEOllRsU0)
+- [LIQUi: Simulation and Compilation of Quantum Algorithms - Dave Wecker](https://www.youtube.com/watch?v=Q6M0ueXLTak)
+- [Building Better Quantum Algorithms with Physics](https://www.youtube.com/watch?v=IsUa1L4XR6k)
+- [Understanding the Complexity of Quantum Circuit Compilation](https://www.ibm.com/blogs/research/2018/08/understanding-complexity-quantum-circuit-compilation/)
+- [A software methodology for compiling quantum programs](http://iopscience.iop.org/article/10.1088/2058-9565/aaa5cc)
+- []()
+- []()
+- []()
+- []()
+
+
 ------------
 
 Neuromorphic
