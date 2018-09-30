@@ -500,3 +500,7 @@ machine-learning chips
 ---------
 ![1030x315](https://ark-invest.com/wp-content/uploads/2017/09/GPU-vs-TPU-Graph-4-1030x315.png)
 ------------
+![Graph](https://ark-invest.com/wp-content/uploads/2017/09/GPU-vs-TPU-Graph-1.png)
+----------
+![Graph](https://ark-invest.com/wp-content/uploads/2017/09/GPU-vs-TPU-Graph-5-1-1500x572.png)
+----------
