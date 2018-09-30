@@ -494,5 +494,5 @@ machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
 
 ---------------
-![d6118462b94f89da](http://ctuning.org/_resources/d6118462b94f89da-cropped.png)
+![d6118462b94f89da](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/cycle.PNG)
 ---------
