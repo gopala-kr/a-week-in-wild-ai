@@ -399,11 +399,21 @@ Quantum Compilation](https://msoeken.github.io/iwqc18.html)
 - [Building Better Quantum Algorithms with Physics](https://www.youtube.com/watch?v=IsUa1L4XR6k)
 - [Understanding the Complexity of Quantum Circuit Compilation](https://www.ibm.com/blogs/research/2018/08/understanding-complexity-quantum-circuit-compilation/)
 - [A software methodology for compiling quantum programs](http://iopscience.iop.org/article/10.1088/2058-9565/aaa5cc)
+- [ScaffCC: Scalable compilation and analysis of quantum programs](https://www.sciencedirect.com/science/article/pii/S0167819114001422)
+- [Qcompiler: Quantum compilation with the CSD method](https://www.researchgate.net/publication/230609804_Qcompiler_Quantum_compilation_with_the_CSD_method)
+- [Quantum Compiling](http://www.cba.mit.edu/docs/theses/01.05.aram.pdf)
+- [Google: We don't have a quantum computer yet, but we have a compiler](https://www.theregister.co.uk/2017/10/24/google_we_dont_have_a_quantum_computer_yet_but_we_have_a_compiler/)
+- [ProjectQ: an open source software framework for quantum computing](https://quantum-journal.org/papers/q-2018-01-31-49/)
+- [llvm-dev] ScaffCC (A Framework for Compilation and Analysis of Quantum Computing Programs) migrated to LLVM 6.0](http://lists.llvm.org/pipermail/llvm-dev/2017-November/118764.html)
+- [Language, Compiler,
+and Optimization Issues
+in Quantum Computing]()
 - []()
 - []()
 - []()
 - []()
-
+- []()
+- []()
 
 ------------
 
