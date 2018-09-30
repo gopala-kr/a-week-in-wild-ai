@@ -451,4 +451,7 @@ Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/
 the next generation of
 machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
+
+---------------
+![d6118462b94f89da](http://ctuning.org/_resources/d6118462b94f89da-cropped.png)
 ---------
