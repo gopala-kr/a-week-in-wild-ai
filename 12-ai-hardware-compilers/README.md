@@ -407,13 +407,27 @@ Quantum Compilation](https://msoeken.github.io/iwqc18.html)
 - [llvm-dev] ScaffCC (A Framework for Compilation and Analysis of Quantum Computing Programs) migrated to LLVM 6.0](http://lists.llvm.org/pipermail/llvm-dev/2017-November/118764.html)
 - [Language, Compiler,
 and Optimization Issues
-in Quantum Computing]()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+in Quantum Computing](https://pdfs.semanticscholar.org/presentation/d28b/b03ecbb5d6df27f6eaeda1f992cf46a701ad.pdf)
+- [Scaffold: Quantum Programming Language
+](ftp://ftp.cs.princeton.edu/reports/2012/934.pdf)
+- [A Compiler for a Functional
+Quantum Programming
+Language](http://www.cs.nott.ac.uk/~psztxa/publ/qmlc-draft.pdf)
+- [Quantum Computer Compilers](http://www1.cs.columbia.edu/~aho/Talks/08-06-09_PLDI.pdf)
+- [Compiler Management of Communication and Parallelism
+for Quantum Computation](https://people.cs.uchicago.edu/~ftchong/papers/ASPLOS-15-QC.pdf)
+- [Opportunities and Challenges
+in Intermediate-Scale Quantum Computing](https://cpb-us-e1.wpmucdn.com/blogs.gwu.edu/dist/d/530/files/2018/04/Chong-QC-CCGrid-5-18-1ycb6dd.pdf)
+- [Software and Architectures
+for Large-Scale Quantum
+Computing ](http://people.cs.uchicago.edu/~ftchong/Chong-QC-SFU-2015.pdf)
+- [Functional Quantum
+Programming](http://cs.ioc.ee/~tarmo/pls06/altenkirch-slides.pdf)
+- [Qubit allocation
+for quantum circuit compilers ](http://www.irisa.fr/alf/downloads/collange/talks/collange_qubitalloc_jiq17.pdf)
+- [oward a Software Architecture for Quantum
+Computing Design Tools](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/10Svore-Cross-Aho-Chuang-Markov.pdf)
+
 
 ------------
 
