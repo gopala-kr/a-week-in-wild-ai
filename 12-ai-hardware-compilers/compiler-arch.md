@@ -1,26 +1,4 @@
--------
-![KVKVPU8XD2sNxbi2u0Awwg](https://cdn-images-1.medium.com/max/1600/1*KVKVPU8XD2sNxbi2u0Awwg.png)
 
----------
-![RILS4frRfsqfyuvPINojOw](https://cdn-images-1.medium.com/max/1600/1*RILS4frRfsqfyuvPINojOw.png)
-
--------------
-![YZTMtnZGU9CQptGKEFQtFw](https://cdn-images-1.medium.com/max/1600/1*YZTMtnZGU9CQptGKEFQtFw.png)
-
----------
-![AO9suiP2QNTzAgw](https://cdn-images-1.medium.com/max/1600/1*55yoB_-AO9suiP2QNTzAgw.png)
-
----------
-![Qr3EIx5DpFqfQ](https://cdn-images-1.medium.com/max/1600/1*DH1GvuL7-Qr3EIx5DpFqfQ.png)
-
---------
-![G3knNvYZWHvZnDsY](https://cdn-images-1.medium.com/max/1600/1*G3knNvYZWHvZnDsY-S9jtQ.png)
-
----------
-![W4MUFcWTCU83dbtgSWQu6g](https://cdn-images-1.medium.com/max/1600/1*W4MUFcWTCU83dbtgSWQu6g.png)
-
------------
-![4UaX8AvUQCg](https://cdn-images-1.medium.com/max/1200/1*aal_1sevnb-4UaX8AvUQCg.png)
 
 ------------
 ![dlvm](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/dlvm.PNG)
@@ -159,6 +137,41 @@
 ![opencl_11](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/opencl_11.PNG)
 -------
 ![Codeplay](https://www.codeplay.com/public/uploaded/public/Codeplay-EN-p3.jpg)
+
+-------
+-------
+![KVKVPU8XD2sNxbi2u0Awwg](https://cdn-images-1.medium.com/max/1600/1*KVKVPU8XD2sNxbi2u0Awwg.png)
+
+---------
+![RILS4frRfsqfyuvPINojOw](https://cdn-images-1.medium.com/max/1600/1*RILS4frRfsqfyuvPINojOw.png)
+
+-------------
+![YZTMtnZGU9CQptGKEFQtFw](https://cdn-images-1.medium.com/max/1600/1*YZTMtnZGU9CQptGKEFQtFw.png)
+
+---------
+![AO9suiP2QNTzAgw](https://cdn-images-1.medium.com/max/1600/1*55yoB_-AO9suiP2QNTzAgw.png)
+
+---------
+![Qr3EIx5DpFqfQ](https://cdn-images-1.medium.com/max/1600/1*DH1GvuL7-Qr3EIx5DpFqfQ.png)
+
+--------
+![G3knNvYZWHvZnDsY](https://cdn-images-1.medium.com/max/1600/1*G3knNvYZWHvZnDsY-S9jtQ.png)
+
+---------
+![W4MUFcWTCU83dbtgSWQu6g](https://cdn-images-1.medium.com/max/1600/1*W4MUFcWTCU83dbtgSWQu6g.png)
+
+-----------
+![4UaX8AvUQCg](https://cdn-images-1.medium.com/max/1200/1*aal_1sevnb-4UaX8AvUQCg.png)
+
+---------
+
+![5b7y8fICprzxlzEmp](https://cdn-images-1.medium.com/max/2000/1*A2-5b7y8fICprzxlzEmp-A.png)
+
+-----------
+
+![J5ebPSZ0oA9baK9fMD](https://cdn-images-1.medium.com/max/1200/1*J5ebPSZ0oA9baK9fMD-yfA.png)
+------------
+![2000000100000109000000BDEB75FEAC](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/2000000100000109000000BDEB75FEAC.png)
 -------
 
 - [A Brief History of Just-In-Time](https://www.cs.tufts.edu/comp/150IPL/papers/aycock03jit.pdf)
@@ -167,6 +180,13 @@
 - [Understanding JIT compiler (just-in-time compiler)](https://aboullaite.me/understanding-jit-compiler-just-in-time-compiler/)
 - [Just in Time Compilation](https://www.youtube.com/watch?v=yQ27DjKnxwo)
 - [What are Interpreters, Compilers & JIT compilers? | Ep18](https://www.youtube.com/watch?v=svJerixawV0)
+- [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
+- [nterpreters and Compilers (Bits and Bytes, Episode 6)](https://www.youtube.com/watch?v=_C5AHaS1mOA)
+- [The Difference Between a Compiler and an Interpreter](https://tomassetti.me/difference-between-compiler-interpreter/)
+- [Short Lesson - Compilation vs Interpretation](https://www.youtube.com/watch?v=JNMy969SjyU)
+- [Machine Code and High level Languages Using Interpreters and Compilers](https://www.youtube.com/watch?v=1OukpDfsuXE)
+- [The Programming Process](http://www2.hawaii.edu/~takebaya/ics111/process_of_programming/process_of_programming.html)
+- [Why was the first compiler written before the first interpreter?](https://softwareengineering.stackexchange.com/questions/251431/why-was-the-first-compiler-written-before-the-first-interpreter)
 
 
 ------------
