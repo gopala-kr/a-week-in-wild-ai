@@ -497,6 +497,9 @@ Accelerated	Platforms](https://www.zib.de/sites/default/files/event_attachments/
 the next generation of
 machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
+- [NVIDIA: ACCELERATED COMPUTING
+& DEEP LEARNING](http://www.hpcadvisorycouncil.com/events/2015/stanford-workshop/pdf/8_NVIDIA.pdf)
+
 
 ---------------
 ![d6118462b94f89da](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/cycle.PNG)
