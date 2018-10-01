@@ -55,7 +55,8 @@ Hardware with A Neural Network Compiler](https://arxiv.org/pdf/1801.00746v3.pdf)
 Locality, and Recomputation in Image Processing Pipelines
 ](http://people.csail.mit.edu/jrk/halide-pldi13.pdf)
 - [MIT + Stanford: Darkroom: Compiling High-Level Image Processing Code into Hardware Pipelines](https://cs.stanford.edu/~zdevito/a144-hegarty.pdf)
-
+- [Weld: A Common Runtime for High Performance
+Data Analytics](https://cs.stanford.edu/~matei/papers/2017/cidr_weld.pdf)
 
 ONNX:
 
