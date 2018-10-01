@@ -499,7 +499,11 @@ machine-learning chips
 ](https://www2.deloitte.com/content/dam/Deloitte/global/Images/infographics/technologymediatelecommunications/gx-deloitte-tmt-2018-nextgen-machine-learning-report.pdf)
 - [NVIDIA: ACCELERATED COMPUTING
 & DEEP LEARNING](http://www.hpcadvisorycouncil.com/events/2015/stanford-workshop/pdf/8_NVIDIA.pdf)
-
+- [Cornell: Parallelism](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture8.pdf)
+- [Cornell: Memory Bandwidth and
+Low Precision Computation](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture9.pdf)
+- [Cornell: Hardware for Machine
+Learning](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture11.pdf)
 
 ---------------
 ![d6118462b94f89da](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/cycle.PNG)
