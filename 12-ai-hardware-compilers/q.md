@@ -27,7 +27,6 @@
 -----------
 ![030](https://nanohub.org/app/site/resources/2017/05/26516/slides/030.01.jpg)
 -----------
-
 ![quantummachi](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/3-quantummachi.jpg)
 -----------
 ![1494338766145](https://static1.squarespace.com/static/5835e608414fb5a615f828bb/t/5911cca5440243be56027a9a/1494338766145/)
@@ -46,3 +45,4 @@
 -----------
 ![Dac0C3z3igQqAbMWb9Onxw](https://cdn-images-1.medium.com/max/800/1*Dac0C3z3igQqAbMWb9Onxw.png)
 -----------
+-----------------
