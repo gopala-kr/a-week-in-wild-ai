@@ -4,7 +4,14 @@
 
 ---------------
 
-Pytorch
+Pytorch [October 2016, FAIR(Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan)]
+
+      Torch(Lua) + Python = Pytorch <--> ONNX <--> Caffe2
+
+--------
+
+Tensorflow [November 2015, Google Brain team]
+
 
 ----------
 
@@ -137,6 +144,7 @@ for Deep Learning:
 a Discussion](https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Emonet.pdf)
 - [Deep Learning with Theano, Torch, Caffe, Tensorflow, and
 Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by/bitstream/123456789/158561/1/Kovalev_Kalinovsky_Kovalev.pdf)
+- [MLlib: Scalable Machine Learning on Spark](https://stanford.edu/~rezab/sparkworkshop/slides/xiangrui.pdf)
 
 -------------
 
