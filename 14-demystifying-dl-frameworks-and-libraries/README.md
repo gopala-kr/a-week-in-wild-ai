@@ -15,9 +15,14 @@ Pytorch
 
 OpenCV
 
- - [OpenCV (Open Source Computer Vision Library)](https://delftswa.gitbooks.io/desosa2016/content/opencv/Chapter.html#ev-opencv)     
-
-
+- [Computer Vision on the GPU with
+OpenCV](http://developer.download.nvidia.com/GTC/PDF/1085_Fung.pdf)
+- [OpenCV (Open Source Computer Vision Library)](https://delftswa.gitbooks.io/desosa2016/content/opencv/Chapter.html#ev-opencv)     
+- [Introducing OpenCV for Developers](http://www.jsk.t.u-tokyo.ac.jp/rsj2011/_downloads/2Q2-3.pdf)
+- [OpenCV'Tutorial'](https://pdfs.semanticscholar.org/presentation/3feb/bbfbc205e2c4178263c421ef975ba8f0e952.pdf)
+- [Machine Learning
+for OpenCV](https://share.nxtcloud.net/mirror/New/A.I.%20by%20Packt/Machine%20Learning%20for%20OpenCV.pdf)
+- [OpenCV Introduction](https://web.stanford.edu/class/cs231a/sessions/session4_opencv_tutorial.pdf)
 
 
 --------------------
