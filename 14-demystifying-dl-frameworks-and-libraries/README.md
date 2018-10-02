@@ -15,8 +15,13 @@ Tensorflow [November 2015, Google Brain team]
 
 ----------
 
-Keras [March 2015, François Chollet]
+Keras [March 2015, François Chollet(Google)]
 
+     - Capable of running on top of TensorFlow, Microsoft Cognitive Toolkit or Theano.
+     - Developed as part of the research effort of project ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System)
+     - In 2017, Google's TensorFlow team decided to support Keras in TensorFlow's core library. 
+     - Chollet explained that Keras was conceived to be an interface rather than a standalone machine-learning framework.
+     - Keras allows users to productize deep models on smartphones (iOS and Android), on the web, or on the Java Virtual Machine.
 
 -----------
 DL4J [2014, Skymind(Adam Gibson, Chris Nicholson, Josh Patterson)]
@@ -126,6 +131,7 @@ Library in C++](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.946&r
 --------------------
 Ref:
 
+- [case study: ml/dl frameworks/libraries(architectural overview)](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
 - [Stanford from 1996: Data Mining using MLC++
 A Machine Learning Library in C++](http://robotics.stanford.edu/~ronnyk/mlc96.pdf)
 - [Cornell: Machine Learning
