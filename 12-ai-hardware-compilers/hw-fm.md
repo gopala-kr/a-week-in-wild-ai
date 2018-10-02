@@ -1,4 +1,4 @@
-![timeline](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/timeline.PNG)
+![timeline](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/timeline_1.PNG)
 
 -----------
 
