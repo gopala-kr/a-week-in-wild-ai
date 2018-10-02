@@ -15,6 +15,7 @@ in Dynamic Computation Graphs](https://arxiv.org/pdf/1705.07860.pdf)
 - [Discover how this native Python package redesigns and implements
 Torch in Python
 ](https://www.ibm.com/developerworks/library/cc-get-started-pytorch/cc-get-started-pytorch-pdf.pdf)
-
+- [Anatomy of machine learning algorithm
+implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publications/Anatomy_of_machine_learning_algorithm_in_mpi_spark_and_flink.pdf)
 
 -----------------
