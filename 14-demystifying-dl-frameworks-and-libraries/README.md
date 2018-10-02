@@ -8,6 +8,24 @@ Pytorch
 
 -----------
 
+Theano [2007, Montreal Institute for Learning Algorithms (MILA)]
+
+     On 28 September 2017, Pascal Lamblin posted a message from Yoshua Bengio, Head of MILA: major development would cease after the 1.0      release due to competing offerings by strong industrial players [ref](https://groups.google.com/forum/#!topic/theano-users/7Poq8BZutbY).Theano 1.0.0 was then released on 15 November 2017. Theano 1.0.3 on 17 September 2018.
+     
+- [Theano: A CPU and GPU Math Compiler in Python](http://www.iro.umontreal.ca/~lisa/pointeurs/theano_scipy2010.pdf)
+- [Theano and Machine Learning](https://ni.www.techfak.uni-bielefeld.de/files/theano-intro.pdf)
+- [Getting started with Theano](http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-theano.pdf)
+- [Theano Tutorial](https://colinraffel.com/talks/next2015theano.pdf)
+- [A Simple Tutorial on Theano](http://ir.hit.edu.cn/~jguo/docs/notes/a_simple_tutorial_on_theano.pdf)
+- [GPU Programming made Easy](http://www.iro.umontreal.ca/~lisa/pointeurs/tutorial_hpcs2011_fixed.pdf)
+- [Software R&D for Next
+Generation of HEP Experiments,
+Inspired by Theano](https://indico.cern.ch/event/395374/contributions/939858/attachments/1184475/1716465/DataScienceAtLHCWS.pdf)
+- [Theano-MPI:
+a Theano-based Distributed Training Framework](http://uchpc.lrr.in.tum.de/16/uchpc16-slides-hema.pdf)
+
+-----------
+
 Scikit-learn [2007, David Cournapeau(google summar code project)]
 
 - [Scikit-Learn: Machine Learning in Python](http://disi.unitn.it/~passerini/teaching/2016-2017/MachineLearning/slides/sklearn/sklearn.pdf)
@@ -75,7 +93,11 @@ implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publicatio
 - [DLFrameworks](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf)
 - [BigDL: A Distributed Deep Learning
 Framework for Big Data](https://arxiv.org/ftp/arxiv/papers/1804/1804.05839.pdf)
-
+- [Abstractions and Frameworks
+for Deep Learning:
+a Discussion](https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Emonet.pdf)
+- [Deep Learning with Theano, Torch, Caffe, Tensorflow, and
+Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by/bitstream/123456789/158561/1/Kovalev_Kalinovsky_Kovalev.pdf)
 
 -------------
 
