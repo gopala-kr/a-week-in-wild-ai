@@ -6,6 +6,13 @@
 
 Pytorch
 
+-----------
+
+Scikit-learn [2007, David Cournapeau(google summar code project)]
+
+- [Scikit-Learn: Machine Learning in Python](http://disi.unitn.it/~passerini/teaching/2016-2017/MachineLearning/slides/sklearn/sklearn.pdf)
+- [Scikit learn](https://delftswa.gitbooks.io/desosa-2017/content/scikit-learn/chapter.html)
+
 
 -----------
 
