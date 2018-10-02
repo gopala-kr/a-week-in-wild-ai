@@ -505,7 +505,7 @@ machine-learning chips
 Low Precision Computation](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture9.pdf)
 - [Cornell: Hardware for Machine
 Learning](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture11.pdf)
-
+- [ntel® CPUs for Deep Learning Training](https://people.eecs.berkeley.edu/~youyang/media/intelcpu.pdf)
 ---------------
 ![d6118462b94f89da](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/12-ai-hardware-compilers/comp/cycle.PNG)
 ---------
