@@ -69,6 +69,11 @@ implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publicatio
 - [BigDL: A Distributed Deep Learning
 Framework for Big Data](https://arxiv.org/ftp/arxiv/papers/1804/1804.05839.pdf)
 
+
+-------------
+
+Literature Review
+
 Scikit-learn
 
 - [Scikit-learn: Machine Learning in Python](https://arxiv.org/pdf/1201.0490.pdf)
