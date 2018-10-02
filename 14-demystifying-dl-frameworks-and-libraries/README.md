@@ -6,6 +6,22 @@
 
 Pytorch
 
+----------
+
+DL4J [2014, Skymind(Adam Gibson, Chris Nicholson, Josh Patterson)]
+
+     - Written in Java, Scala, CUDA, C, C++, Python, Clojure
+     - Includes implementations of the restricted Boltzmann machine, deep belief net, deep autoencoder, stacked denoising autoencoder and recursive neural tensor network, word2vec, doc2vec, and GloVe.
+     - All algorithms include distributed parallel versions that integrate with Apache Hadoop and Spark.
+     - Which bundles DL4J, Tensorflow, Keras and other deep learning libraries in an enterprise distribution called the Skymind Intelligence Layer.
+     - Works with distributed GPUs.
+
+- [DeepLearning4j](https://www.uni-weimar.de/fileadmin/user/fak/medien/professuren/Webis/teaching/ss16/big-data-seminar/scholz-deeplearning4j.pdf)
+- [Deep Learning
+Frameworks with
+Spark and GPUs](http://on-demand.gputechconf.com/gtc/2017/presentation/s7737-subbu-rama-deep-learning-with-spark%20.pdf)
+
+
 -----------
 
 Caffe [2013, Berkeley Vision and Learning Center,Yangqing Jia(PhD thesis]
