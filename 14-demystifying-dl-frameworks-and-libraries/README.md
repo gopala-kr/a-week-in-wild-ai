@@ -10,11 +10,13 @@ Pytorch
 
 Caffe [2013, Berkeley Vision and Learning Center,Yangqing Jia(PhD thesis]
 
-        Caffe supports GPU- and CPU-based acceleration computational kernel libraries such as NVIDIA cuDNN and Intel MKL.
+        - Supports CNN, RCNN, LSTM and fully connected neural network designs.
         
-        Yahoo! integrated caffe with Apache Spark to create CaffeOnSpark, a distributed deep learning framework.
+        - Caffe supports GPU- and CPU-based acceleration computational kernel libraries such as NVIDIA cuDNN and Intel MKL.
         
-        In April 2017, Facebook announced Caffe2,[12] which includes new features such as Recurrent Neural Networks. At the end of March 2018, Caffe2 was merged into PyTorch.
+        - Yahoo! integrated caffe with Apache Spark to create CaffeOnSpark, a distributed deep learning framework.
+        
+        - In April 2017, Facebook announced Caffe2, which includes new features such as Recurrent Neural Networks. At the end of March 2018, Caffe2 was merged into PyTorch.
         
 
 - [The Caffe Deep Learning Framework: An Interview with the Core Developers](https://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers)
