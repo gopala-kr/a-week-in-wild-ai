@@ -7,13 +7,23 @@
 Pytorch
 
 
+-----------
 
+Torch [2002, Ronan Collobert, Koray Kavukcuoglu, Clement Farabet]
 
-
+- [Torch7
+Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
+- [Torch_Overview_v2](https://www.airc.aist.go.jp/seminar_detail/docs/seminar05-graf.pdf)
+- [A quick tour of Torch internals](https://apaszke.github.io/torch-internals.html)
+- [Torch Cheatsheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+- [Advanced Machine Learning 2014
+(Introduction to Torch)](http://ml.informatik.uni-freiburg.de/former/_media/teaching/ws1415/presentation_dl_lect3.pdf)
+- [Getting started with Torch](http://on-demand.gputechconf.com/gtc/2015/webinar/deep-learning-course/getting-started-with-torch.pdf)
+- [https://github.com/soumith/cvpr2015](https://github.com/soumith/cvpr2015)
 
 -------------
 
-OpenCV
+OpenCV  [2000, Intel Corporation, Willow Garage, Itseez]
 
 - [Computer Vision on the GPU with
 OpenCV](http://developer.download.nvidia.com/GTC/PDF/1085_Fung.pdf)
@@ -29,6 +39,13 @@ learning software lib](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=
 - [Machine Learning
 for OpenCV](https://share.nxtcloud.net/mirror/New/A.I.%20by%20Packt/Machine%20Learning%20for%20OpenCV.pdf)
 - [OpenCV Introduction](https://web.stanford.edu/class/cs231a/sessions/session4_opencv_tutorial.pdf)
+
+MLC++ [1996, stanford]
+
+- [MLC++: A Machine Learning Library in C++
+](http://robotics.stanford.edu/~ronnyk/mlctools.pdf)
+- [MLC++: A Machine Learning
+Library in C++](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.946&rep=rep1&type=pdf)
 
 
 --------------------
@@ -48,6 +65,9 @@ implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publicatio
 - [Benchmarking Automatic Machine Learning Frameworks](https://arxiv.org/pdf/1808.06492v1.pdf)
 - [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637v1.pdf)
 - [LSTM Benchmarks for Deep Learning Frameworks](https://arxiv.org/pdf/1806.01818v1.pdf)
+- [DLFrameworks](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf)
+- [BigDL: A Distributed Deep Learning
+Framework for Big Data](https://arxiv.org/ftp/arxiv/papers/1804/1804.05839.pdf)
 
 Scikit-learn
 
