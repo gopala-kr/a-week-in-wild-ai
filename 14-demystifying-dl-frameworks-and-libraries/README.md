@@ -187,6 +187,18 @@ Network Training](https://arxiv.org/pdf/1803.06905v2.pdf)
 - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://arxiv.org/pdf/1803.10228v1.pdf)
 - [sgmcmc: An R Package for Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/pdf/1710.00578v3.pdf)
 
+Gym
+
+- [OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)
+- [MDP environments for the OpenAI Gym](https://arxiv.org/pdf/1709.09069.pdf)
+- [Game Playing with Deep Reinforcement Learning
+using OpenAi Gym](http://web.stanford.edu/~chuchro3/projects/openaigym/OpenAiGymDeepLearningPoster.pdf)
+- [Closing the loop between neural network simulators and the OpenAI Gym](https://arxiv.org/pdf/1709.05650.pdf)
+- [Game Playing with Deep Q-Learning using OpenAI Gym](http://cs231n.stanford.edu/reports/2017/pdfs/616.pdf)
+
+Deepmind
+
+- [DeepMind Control Suite](https://arxiv.org/pdf/1801.00690v1.pdf)
 
 
 -----------------
