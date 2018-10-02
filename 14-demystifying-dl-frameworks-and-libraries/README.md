@@ -18,9 +18,13 @@ Tensorflow [November 2015, Google Brain team]
 Keras [March 2015, François Chollet(Google)]
 
      - Capable of running on top of TensorFlow, Microsoft Cognitive Toolkit or Theano.
+     
      - Developed as part of the research effort of project ONEIROS (Open-ended Neuro-Electronic Intelligent Robot Operating System)
+     
      - In 2017, Google's TensorFlow team decided to support Keras in TensorFlow's core library. 
+     
      - Chollet explained that Keras was conceived to be an interface rather than a standalone machine-learning framework.
+     
      - Keras allows users to productize deep models on smartphones (iOS and Android), on the web, or on the Java Virtual Machine.
 
 -----------
@@ -120,7 +124,7 @@ learning software lib](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=
 for OpenCV](https://share.nxtcloud.net/mirror/New/A.I.%20by%20Packt/Machine%20Learning%20for%20OpenCV.pdf)
 - [OpenCV Introduction](https://web.stanford.edu/class/cs231a/sessions/session4_opencv_tutorial.pdf)
 
-MLC++ [1996, stanford]
+MLC++ [1996, Stanford]
 
 - [MLC++: A Machine Learning Library in C++
 ](http://robotics.stanford.edu/~ronnyk/mlctools.pdf)
