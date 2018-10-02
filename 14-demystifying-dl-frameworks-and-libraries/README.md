@@ -11,7 +11,11 @@ Pytorch
 
 
 
+-------------
 
+OpenCV
+
+ - [OpenCV (Open Source Computer Vision Library)](https://delftswa.gitbooks.io/desosa2016/content/opencv/Chapter.html#ev-opencv)     
 
 
 
@@ -19,7 +23,8 @@ Pytorch
 --------------------
 Ref:
 
-
+- [Stanford from 1996: Data Mining using MLC++
+A Machine Learning Library in C++](http://robotics.stanford.edu/~ronnyk/mlc96.pdf)
 - [Cornell: Machine Learning
 Frameworks](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture12.pdf)
 - [On-the-fly Operation Batching
