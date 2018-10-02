@@ -8,6 +8,23 @@ Pytorch
 
 -----------
 
+Caffe [2013, Berkeley Vision and Learning Center,Yangqing Jia(PhD thesis]
+
+        Caffe supports GPU- and CPU-based acceleration computational kernel libraries such as NVIDIA cuDNN and Intel MKL.
+        
+        Yahoo! integrated caffe with Apache Spark to create CaffeOnSpark, a distributed deep learning framework.
+        
+        In April 2017, Facebook announced Caffe2,[12] which includes new features such as Recurrent Neural Networks. At the end of March 2018, Caffe2 was merged into PyTorch.
+        
+
+- [The Caffe Deep Learning Framework: An Interview with the Core Developers](https://www.embedded-vision.com/industry-analysis/technical-articles/caffe-deep-learning-framework-interview-core-developers)
+- [S-Caffe:	Co-designing	MPI	Runtimes	and	Caffe	for	
+Scalable	Deep	Learning	on	Modern	GPU	Clusters](https://pdfs.semanticscholar.org/bd6f/e117ca35a7ab144408be1771000feb57c7fb.pdf)
+
+
+
+-----------
+
 Theano [2007, Montreal Institute for Learning Algorithms (MILA)]
 
      On 28 September 2017, Pascal Lamblin posted a message from Yoshua Bengio, Head of MILA: major development would cease after the 1.0      release due to competing offerings by strong industrial players [ref](https://groups.google.com/forum/#!topic/theano-users/7Poq8BZutbY).Theano 1.0.0 was then released on 15 November 2017. Theano 1.0.3 on 17 September 2018.
