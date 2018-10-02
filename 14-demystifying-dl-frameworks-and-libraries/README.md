@@ -7,12 +7,17 @@
 
 Ref:
 
+Scikit-learn
+
 - [Scikit-learn: Machine Learning in Python](https://arxiv.org/pdf/1201.0490.pdf)
 - [API design for machine learning software:
 experiences from the scikit-learn project](https://dtai.cs.kuleuven.be/events/lml2013/papers/lml2013_api_sklearn.pdf)
 - [Seglearn: A Python Package for Learning Sequences and Time Series](https://arxiv.org/pdf/1803.08118.pdf)
 - [Introduction to astroML: Machine Learning for Astrophysics](https://arxiv.org/pdf/1411.5039.pdf)
 - [TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555v2.pdf)
+
+Pytorch
+
 - [PyTorch – Internal Architecture Tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)
 - [Torchbearer: A Model Fitting Library for PyTorch](https://arxiv.org/pdf/1809.03363v1.pdf)
 - [DELIMIT PyTorch - An extension for Deep Learning in Diffusion Imaging](https://arxiv.org/pdf/1808.01517v1.pdf)
@@ -39,6 +44,9 @@ implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publicatio
 - [NCRF++: An Open-source Neural Sequence Labeling Toolkit](https://arxiv.org/pdf/1806.05626v2.pdf)
 - [AirLab: Autograd Image Registration Laborator](https://arxiv.org/pdf/1806.09907v1.pdf)
 - [Adversarial Robustness Toolbox v0.3.0](https://arxiv.org/pdf/1807.01069v2.pdf)
+
+Torch
+
 - [cltorch: a Hardware-Agnostic Backend for the Torch Deep Neural Network Library, Based on OpenCL](https://arxiv.org/pdf/1606.04884v1.pdf)
 - [rnn : Recurrent Library for Torch](https://arxiv.org/pdf/1511.07889v2.pdf)
 - [Neural Networks for Beginners. A fast implementation in Matlab, Torch, TensorFlow](https://arxiv.org/pdf/1703.05298v2.pdf)
@@ -55,5 +63,8 @@ implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publicatio
 - [End to End Learning for Self-Driving Cars](https://arxiv.org/pdf/1604.07316v1.pdf)
 - [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/pdf/1511.06435v3.pdf)
 - [Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines](https://arxiv.org/pdf/1512.06216v1.pdf)
+
+Caffe
+
 
 -----------------
