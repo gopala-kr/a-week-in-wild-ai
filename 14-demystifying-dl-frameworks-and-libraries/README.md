@@ -66,5 +66,64 @@ Torch
 
 Caffe
 
+- [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093v1.pdf)
+- [Using GPI-2 for Distributed Memory Paralleliziation of the Caffe Toolbox to Speed up Deep Neural Network Training](https://arxiv.org/pdf/1706.00095v2.pdf)
+- [A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe](https://arxiv.org/ftp/arxiv/papers/1701/1701.04949.pdf)
+- [Creation of a Deep Convolutional Auto-Encoder in Caffe](https://arxiv.org/ftp/arxiv/papers/1512/1512.01596.pdf)
+- [Caffe con Troll: Shallow Ideas to Speed Up Deep Learning](https://arxiv.org/pdf/1504.04343v2.pdf)
+- [Rx-Caffe: Framework for evaluating and training Deep Neural Networks on Resistive Crossbars](https://arxiv.org/pdf/1809.00072v1.pdf)
+- [Restructuring Batch Normalization to Accelerate CNN Training](https://arxiv.org/pdf/1807.01702v1.pdf)
+- [μ-cuDNN: Accelerating Deep Learning Frameworks with Micro-Batching](https://arxiv.org/pdf/1804.04806v1.pdf)
+- [Barista - a Graphical Tool for Designing and Training Deep Neural Networks](https://arxiv.org/pdf/1802.04626v1.pdf)
+- [SparCE: Sparsity aware General Purpose Core Extensions to Accelerate Deep Neural Networks](https://arxiv.org/pdf/1711.06315v2.pdf)
+- [ADaPTION: Toolbox and Benchmark for Training Convolutional Neural Networks with Reduced Numerical Precision Weights and Activation](https://arxiv.org/pdf/1711.04713v1.pdf)
+- [DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers](https://arxiv.org/pdf/1711.03543v1.pdf)
+- **[DeepDSL: A Compilation-based Domain-Specific Language for Deep Learning](https://arxiv.org/pdf/1701.02284v1.pdf)**
+- [Deep Convolutional Neural Network Design Patterns](https://arxiv.org/pdf/1611.00847v3.pdf)
+- [Caffeinated FPGAs: FPGA Framework For Convolutional Neural Networks](https://arxiv.org/abs/1609.09671v1)
+- [UnrealCV: Connecting Computer Vision to Unreal Engine](https://arxiv.org/pdf/1609.01326v1.pdf)
+- [SparkNet: Training Deep Networks in Spark](https://arxiv.org/pdf/1511.06051v4.pdf)
+- [Expresso : A user-friendly GUI for Designing, Training and Exploring Convolutional Neural Networks](https://arxiv.org/abs/1505.06605v2)
+- [Efficient Convolutional Neural Networks for Pixelwise Classification on Heterogeneous Hardware Systems](https://arxiv.org/pdf/1509.03371v1.pdf)
+- [cuDNN: Efficient Primitives for Deep Learning](https://arxiv.org/pdf/1410.0759v3.pdf)
+
+
+
+Theano
+
+- [Theano-based Large-Scale Visual Recognition with Multiple GPUs](https://arxiv.org/pdf/1412.2302v4.pdf)
+- [Theano: A Python framework for fast computation of mathematical expressions](https://arxiv.org/pdf/1605.02688v1.pdf)
+- [Synkhronos: a Multi-GPU Theano Extension for Data Parallelism](https://arxiv.org/abs/1710.04162v1)
+- [Theano: new features and speed improvements](https://arxiv.org/pdf/1211.5590v1.pdf)
+- [Improving the Expressiveness of Deep Learning Frameworks with Recursion](https://arxiv.org/pdf/1809.00832v1.pdf)
+- [The implementation of a Deep Recurrent Neural Network Language Model on a Xilinx FPGA](https://arxiv.org/ftp/arxiv/papers/1710/1710.10296.pdf)
+- [TensorLog: Deep Learning Meets Probabilistic DBs](https://arxiv.org/pdf/1707.05390v1.pdf)
+- [THUMT: An Open Source Toolkit for Neural Machine Translation](https://arxiv.org/pdf/1706.06415v1.pdf)
+- [NMTPY: A Flexible Toolkit for Advanced Neural Machine Translation Systems](https://arxiv.org/pdf/1706.00457v1.pdf)
+- [DyNet: The Dynamic Neural Network Toolkit](https://arxiv.org/pdf/1701.03980v1.pdf)
+- [On-the-fly Operation Batching
+in Dynamic Computation Graphs](https://arxiv.org/pdf/1705.07860v1.pdf)
+- [TheanoLM - An Extensible Toolkit for Neural Network Language Modeling](https://arxiv.org/pdf/1605.00942v2.pdf)
+- [Exploring the power of GPU's for training Polyglot language models](https://arxiv.org/abs/1404.1521v3)
+- [Kaldi+PDNN: Building DNN-based ASR Systems with Kaldi and PDNN](https://arxiv.org/ftp/arxiv/papers/1401/1401.6984.pdf)
+
+
+Mxnet
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 -----------------
