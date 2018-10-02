@@ -1,4 +1,7 @@
 
+![1439309114](https://image.slidesharecdn.com/e04opencvbradsk-150811160253-lva1-app6892/95/the-opencv-open-source-computer-vision-library-latest-developments-a-presentation-from-the-opencv-foundation-4-638.jpg?cb=1439309114)
+
+-------------
 ![mscvs2011](https://image.slidesharecdn.com/opencvtutorialmcvs-111206090230-phpapp02/95/mscvs2011-opencv-5-728.jpg?cb=1323164510)
 -----------
 
