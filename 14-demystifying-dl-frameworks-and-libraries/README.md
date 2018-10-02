@@ -15,6 +15,10 @@ Tensorflow [November 2015, Google Brain team]
 
 ----------
 
+Keras [March 2015, François Chollet]
+
+
+-----------
 DL4J [2014, Skymind(Adam Gibson, Chris Nicholson, Josh Patterson)]
 
      - Written in Java, Scala, CUDA, C, C++, Python, Clojure
