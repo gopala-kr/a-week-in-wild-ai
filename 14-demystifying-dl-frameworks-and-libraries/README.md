@@ -17,6 +17,12 @@ OpenCV
 
 - [Computer Vision on the GPU with
 OpenCV](http://developer.download.nvidia.com/GTC/PDF/1085_Fung.pdf)
+- [2002: 
+h
+Tor
+h: a modular ma
+hine
+learning software lib](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=CBB0C8A5FE34F6D6DAFF997F6B6A205A?doi=10.1.1.8.9850&rep=rep1&type=pdf)
 - [OpenCV (Open Source Computer Vision Library)](https://delftswa.gitbooks.io/desosa2016/content/opencv/Chapter.html#ev-opencv)     
 - [Introducing OpenCV for Developers](http://www.jsk.t.u-tokyo.ac.jp/rsj2011/_downloads/2Q2-3.pdf)
 - [OpenCV'Tutorial'](https://pdfs.semanticscholar.org/presentation/3feb/bbfbc205e2c4178263c421ef975ba8f0e952.pdf)
@@ -71,6 +77,7 @@ Pytorch
 
 Torch
 
+- [NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision](http://pub.clement.farabet.net/ecvw11.pdf)
 - [cltorch: a Hardware-Agnostic Backend for the Torch Deep Neural Network Library, Based on OpenCL](https://arxiv.org/pdf/1606.04884v1.pdf)
 - [rnn : Recurrent Library for Torch](https://arxiv.org/pdf/1511.07889v2.pdf)
 - [Neural Networks for Beginners. A fast implementation in Matlab, Torch, TensorFlow](https://arxiv.org/pdf/1703.05298v2.pdf)
