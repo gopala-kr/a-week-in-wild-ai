@@ -7,6 +7,10 @@ Core ML [Jun 2017, Apple]
 
 - [Apple announces new machine learning API to make mobile AI faster](https://www.theverge.com/2017/6/5/15725994/apple-mobile-ai-chip-announced-wwdc-2017)
 - [Create your own Object Recognizer — ML on iOS](https://medium.com/@hunter.ley.ward/create-your-own-object-recognizer-ml-on-ios-7f8c09b461a1)
+- [Deep Learning for Core ML](https://e-string.com/pdf/core-ml-dl-pdx-cocoaheads.pdf)
+- [CoreML](https://simplecore.intel.com/nervana/wp-content/uploads/sites/53/2018/05/IntelAIDC18_HishamChowdhury_Matrix_5.24_Final.pdf)
+- [CoreML Team: •
+Introducing Core ML](https://devstreaming-cdn.apple.com/videos/wwdc/2017/703muvahj3880222/703/703_introducing_core_ml.pdf?dl=1)
 
 ---------------
 
