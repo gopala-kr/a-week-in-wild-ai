@@ -4,9 +4,21 @@
 
 ---------------
 
+Caff2 [April 2017, FAIR]
+
+       - In April 2017, Facebook announced Caffe2, which includes new features such as Recurrent Neural Networks. 
+       - At the end of March 2018, Caffe2 was merged into PyTorch.
+       
+ - [Caffe2 Merges With PyTorch](https://medium.com/@Synced/caffe2-merges-with-pytorch-a89c70ad9eb7)
+ - [ONNX-workshop](http://learningsys.org/nips17/assets/slides/ONNX-workshop.pdf)
+ 
+--------------
 Pytorch [October 2016, FAIR(Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan)]
 
       Torch(Lua) + Python = Pytorch <--> ONNX <--> Caffe2
+
+- [Soumit Chintala: PyTorch-NewGeneration](http://on-demand.gputechconf.com/gtc/2017/presentation/s7784-soumith-chintala-pytorch-a-framework-for-next-generation-ai.pdf)
+- [pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
 --------
 
