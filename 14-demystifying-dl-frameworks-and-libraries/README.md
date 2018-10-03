@@ -3,7 +3,7 @@
 #### Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)
 
 ----------
-Core ML [Jun 2017, Apple]
+##### Core ML [Jun 2017, Apple]
 
 - [Apple announces new machine learning API to make mobile AI faster](https://www.theverge.com/2017/6/5/15725994/apple-mobile-ai-chip-announced-wwdc-2017)
 - [Create your own Object Recognizer — ML on iOS](https://medium.com/@hunter.ley.ward/create-your-own-object-recognizer-ml-on-ios-7f8c09b461a1)
@@ -14,7 +14,7 @@ Introducing Core ML](https://devstreaming-cdn.apple.com/videos/wwdc/2017/703muva
 
 ---------------
 
-Caff2 [April 2017, FAIR]
+##### Caff2 [April 2017, FAIR]
 
        - In April 2017, Facebook announced Caffe2, which includes new features such as Recurrent Neural Networks. 
        - At the end of March 2018, Caffe2 was merged into PyTorch.
@@ -23,7 +23,7 @@ Caff2 [April 2017, FAIR]
  - [ONNX-workshop](http://learningsys.org/nips17/assets/slides/ONNX-workshop.pdf)
  
 --------------
-Pytorch [October 2016, FAIR(Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan)]
+##### Pytorch [October 2016, FAIR(Adam Paszke, Sam Gross, Soumith Chintala, Gregory Chanan)]
 
       Torch(Lua) + Python = Pytorch <--> ONNX <--> Caffe2
 
@@ -32,12 +32,12 @@ Pytorch [October 2016, FAIR(Adam Paszke, Sam Gross, Soumith Chintala, Gregory Ch
 
 --------
 
-Tensorflow [November 2015, Google Brain team]
+##### Tensorflow [November 2015, Google Brain team]
 
 
 ----------
 
-Keras [March 2015, François Chollet(Google)]
+##### Keras [March 2015, François Chollet(Google)]
 
      - Capable of running on top of TensorFlow, Microsoft Cognitive Toolkit or Theano.
      
@@ -50,7 +50,7 @@ Keras [March 2015, François Chollet(Google)]
      - Keras allows users to productize deep models on smartphones (iOS and Android), on the web, or on the Java Virtual Machine.
 
 -----------
-DL4J [2014, Skymind(Adam Gibson, Chris Nicholson, Josh Patterson)]
+##### DL4J [2014, Skymind(Adam Gibson, Chris Nicholson, Josh Patterson)]
 
      - Written in Java, Scala, CUDA, C, C++, Python, Clojure
      
@@ -70,7 +70,7 @@ Spark and GPUs](http://on-demand.gputechconf.com/gtc/2017/presentation/s7737-sub
 
 -----------
 
-Caffe [2013, Berkeley Vision and Learning Center,Yangqing Jia(PhD thesis)]
+##### Caffe [2013, Berkeley Vision and Learning Center,Yangqing Jia(PhD thesis)]
 
         - Supports CNN, RCNN, LSTM and fully connected neural network designs.
         
@@ -89,7 +89,7 @@ Scalable	Deep	Learning	on	Modern	GPU	Clusters](https://pdfs.semanticscholar.org/
 
 -----------
 
-Theano [2007, Montreal Institute for Learning Algorithms (MILA)]
+##### Theano [2007, Montreal Institute for Learning Algorithms (MILA)]
 
      On 28 September 2017, Pascal Lamblin posted a message from Yoshua Bengio, Head of MILA: major development would cease after the 1.0      release due to competing offerings by strong industrial players [ref](https://groups.google.com/forum/#!topic/theano-users/7Poq8BZutbY).Theano 1.0.0 was then released on 15 November 2017. Theano 1.0.3 on 17 September 2018.
      
@@ -107,7 +107,7 @@ a Theano-based Distributed Training Framework](http://uchpc.lrr.in.tum.de/16/uch
 
 -----------
 
-Scikit-learn [2007, David Cournapeau(google summar code project)]
+##### Scikit-learn [2007, David Cournapeau(google summar code project)]
 
 - [Scikit-Learn: Machine Learning in Python](http://disi.unitn.it/~passerini/teaching/2016-2017/MachineLearning/slides/sklearn/sklearn.pdf)
 - [Scikit learn](https://delftswa.gitbooks.io/desosa-2017/content/scikit-learn/chapter.html)
@@ -115,7 +115,7 @@ Scikit-learn [2007, David Cournapeau(google summar code project)]
 
 -----------
 
-Torch [2002, Ronan Collobert, Koray Kavukcuoglu, Clement Farabet]
+##### Torch [2002, Ronan Collobert, Koray Kavukcuoglu, Clement Farabet]
 
 - [Torch7
 Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
@@ -129,7 +129,7 @@ Scientific computing for Lua(JIT)](http://hunch.net/~nyoml/torch7.pdf)
 
 -------------
 
-OpenCV  [2000, Intel Corporation, Willow Garage, Itseez]
+##### OpenCV  [2000, Intel Corporation, Willow Garage, Itseez]
 
 - [Computer Vision on the GPU with
 OpenCV](http://developer.download.nvidia.com/GTC/PDF/1085_Fung.pdf)
@@ -146,7 +146,9 @@ learning software lib](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=
 for OpenCV](https://share.nxtcloud.net/mirror/New/A.I.%20by%20Packt/Machine%20Learning%20for%20OpenCV.pdf)
 - [OpenCV Introduction](https://web.stanford.edu/class/cs231a/sessions/session4_opencv_tutorial.pdf)
 
-MLC++ [1996, Stanford]
+--------------
+
+##### MLC++ [1996, Stanford]
 
 - [MLC++: A Machine Learning Library in C++
 ](http://robotics.stanford.edu/~ronnyk/mlctools.pdf)
@@ -155,38 +157,11 @@ Library in C++](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.9.946&r
 
 
 --------------------
-Ref:
-
-- [case study: ml/dl frameworks/libraries(architectural overview)](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
-- [Stanford from 1996: Data Mining using MLC++
-A Machine Learning Library in C++](http://robotics.stanford.edu/~ronnyk/mlc96.pdf)
-- [Cornell: Machine Learning
-Frameworks](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture12.pdf)
-- [On-the-fly Operation Batching
-in Dynamic Computation Graphs](https://arxiv.org/pdf/1705.07860.pdf)
-- [Discover how this native Python package redesigns and implements
-Torch in Python
-](https://www.ibm.com/developerworks/library/cc-get-started-pytorch/cc-get-started-pytorch-pdf.pdf)
-- [Anatomy of machine learning algorithm
-implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publications/Anatomy_of_machine_learning_algorithm_in_mpi_spark_and_flink.pdf)
-- [Benchmarking Automatic Machine Learning Frameworks](https://arxiv.org/pdf/1808.06492v1.pdf)
-- [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637v1.pdf)
-- [LSTM Benchmarks for Deep Learning Frameworks](https://arxiv.org/pdf/1806.01818v1.pdf)
-- [DLFrameworks](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf)
-- [BigDL: A Distributed Deep Learning
-Framework for Big Data](https://arxiv.org/ftp/arxiv/papers/1804/1804.05839.pdf)
-- [Abstractions and Frameworks
-for Deep Learning:
-a Discussion](https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Emonet.pdf)
-- [Deep Learning with Theano, Torch, Caffe, Tensorflow, and
-Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by/bitstream/123456789/158561/1/Kovalev_Kalinovsky_Kovalev.pdf)
-- [MLlib: Scalable Machine Learning on Spark](https://stanford.edu/~rezab/sparkworkshop/slides/xiangrui.pdf)
-
 -------------
 
-Literature Review
+#### Literature Review
 
-Scikit-learn
+##### Scikit-learn
 
 - [Scikit-learn: Machine Learning in Python](https://arxiv.org/pdf/1201.0490.pdf)
 - [API design for machine learning software:
@@ -195,7 +170,7 @@ experiences from the scikit-learn project](https://dtai.cs.kuleuven.be/events/lm
 - [Introduction to astroML: Machine Learning for Astrophysics](https://arxiv.org/pdf/1411.5039.pdf)
 - [TensorLy: Tensor Learning in Python](https://arxiv.org/pdf/1610.09555v2.pdf)
 
-Pytorch
+##### Pytorch
 
 - [PyTorch – Internal Architecture Tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)
 - [Torchbearer: A Model Fitting Library for PyTorch](https://arxiv.org/pdf/1809.03363v1.pdf)
@@ -212,7 +187,7 @@ Pytorch
 - [AirLab: Autograd Image Registration Laborator](https://arxiv.org/pdf/1806.09907v1.pdf)
 - [Adversarial Robustness Toolbox v0.3.0](https://arxiv.org/pdf/1807.01069v2.pdf)
 
-Torch
+##### Torch
 
 - [NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision](http://pub.clement.farabet.net/ecvw11.pdf)
 - [cltorch: a Hardware-Agnostic Backend for the Torch Deep Neural Network Library, Based on OpenCL](https://arxiv.org/pdf/1606.04884v1.pdf)
@@ -232,7 +207,7 @@ Torch
 - [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/pdf/1511.06435v3.pdf)
 - [Poseidon: A System Architecture for Efficient GPU-based Deep Learning on Multiple Machines](https://arxiv.org/pdf/1512.06216v1.pdf)
 
-Caffe
+##### Caffe
 
 - [Caffe: Convolutional Architecture for Fast Feature Embedding](https://arxiv.org/pdf/1408.5093v1.pdf)
 - [Using GPI-2 for Distributed Memory Paralleliziation of the Caffe Toolbox to Speed up Deep Neural Network Training](https://arxiv.org/pdf/1706.00095v2.pdf)
@@ -257,7 +232,7 @@ Caffe
 
 
 
-Theano
+##### Theano
 
 - [Theano-based Large-Scale Visual Recognition with Multiple GPUs](https://arxiv.org/pdf/1412.2302v4.pdf)
 - [Theano: A Python framework for fast computation of mathematical expressions](https://arxiv.org/pdf/1605.02688v1.pdf)
@@ -276,7 +251,7 @@ in Dynamic Computation Graphs](https://arxiv.org/pdf/1705.07860v1.pdf)
 - [Kaldi+PDNN: Building DNN-based ASR Systems with Kaldi and PDNN](https://arxiv.org/ftp/arxiv/papers/1401/1401.6984.pdf)
 
 
-Mxnet
+##### Mxnet
 
 - [MXNet: A Flexible and Efficient Machine Learning Library for Heterogeneous Distributed Systems](https://arxiv.org/pdf/1512.01274v1.pdf)
 - [BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet](https://arxiv.org/pdf/1705.09864v1.pdf)
@@ -285,17 +260,17 @@ Mxnet
 - [Tensor Comprehensions: Framework-Agnostic High-Performance Machine Learning Abstractions](https://arxiv.org/pdf/1802.04730v3.pdf)
 
 
-Chainer
+##### Chainer
 
 - [ChainerCV: a Library for Deep Learning in Computer Vision](https://arxiv.org/pdf/1708.08169.pdf)
 
-DL4J
+##### DL4J
 
 - [An Exploration of Approaches to Integrating Neural Reranking Models in Multi-Stage Ranking Architectures](https://arxiv.org/abs/1707.08275)
 - [DLL: A Blazing Fast Deep Neural Network Library](https://arxiv.org/pdf/1804.04512.pdf)
 
 
-Keras
+##### Keras
 
 - [An MPI-Based Python Framework for Distributed Training with Keras](https://arxiv.org/abs/1712.05878v1)
 - [Kapre: On-GPU Audio Preprocessing Layers for a Quick Implementation of Deep Neural Network Models with Keras](https://arxiv.org/pdf/1706.05781v1.pdf)
@@ -304,7 +279,7 @@ Keras
 - [Tutorial on Keras](http://crcv.ucf.edu/courses/CAP6412/Spring2018/KerasTutorial.pdf)
 
 
-Tensorflow
+##### Tensorflow
 
 - [LeFlow: Enabling Flexible FPGA High-Level Synthesis of Tensorflow Deep Neural Networks](https://arxiv.org/ftp/arxiv/papers/1807/1807.05317.pdf)
 - [TFLMS: Large Model Support in TensorFlow by Graph Rewriting](https://arxiv.org/pdf/1807.02037v1.pdf)
@@ -353,7 +328,7 @@ Network Training](https://arxiv.org/pdf/1803.06905v2.pdf)
 - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://arxiv.org/pdf/1803.10228v1.pdf)
 - [sgmcmc: An R Package for Stochastic Gradient Markov Chain Monte Carlo](https://arxiv.org/pdf/1710.00578v3.pdf)
 
-Gym
+##### Gym
 
 - [OpenAI Gym](https://arxiv.org/pdf/1606.01540.pdf)
 - [MDP environments for the OpenAI Gym](https://arxiv.org/pdf/1709.09069.pdf)
@@ -362,9 +337,38 @@ using OpenAi Gym](http://web.stanford.edu/~chuchro3/projects/openaigym/OpenAiGym
 - [Closing the loop between neural network simulators and the OpenAI Gym](https://arxiv.org/pdf/1709.05650.pdf)
 - [Game Playing with Deep Q-Learning using OpenAI Gym](http://cs231n.stanford.edu/reports/2017/pdfs/616.pdf)
 
-Deepmind
+##### Deepmind
 
 - [DeepMind Control Suite](https://arxiv.org/pdf/1801.00690v1.pdf)
 
 
 -----------------
+#####  Reference
+
+- [case study: ml/dl frameworks/libraries(architectural overview)](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
+- [Stanford from 1996: Data Mining using MLC++
+A Machine Learning Library in C++](http://robotics.stanford.edu/~ronnyk/mlc96.pdf)
+- [Cornell: Machine Learning
+Frameworks](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture12.pdf)
+- [On-the-fly Operation Batching
+in Dynamic Computation Graphs](https://arxiv.org/pdf/1705.07860.pdf)
+- [Discover how this native Python package redesigns and implements
+Torch in Python
+](https://www.ibm.com/developerworks/library/cc-get-started-pytorch/cc-get-started-pytorch-pdf.pdf)
+- [Anatomy of machine learning algorithm
+implementations in MPI, Spark, and Flink](http://dsc.soic.indiana.edu/publications/Anatomy_of_machine_learning_algorithm_in_mpi_spark_and_flink.pdf)
+- [Benchmarking Automatic Machine Learning Frameworks](https://arxiv.org/pdf/1808.06492v1.pdf)
+- [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637v1.pdf)
+- [LSTM Benchmarks for Deep Learning Frameworks](https://arxiv.org/pdf/1806.01818v1.pdf)
+- [DLFrameworks](https://project.inria.fr/deeplearning/files/2016/05/DLFrameworks.pdf)
+- [BigDL: A Distributed Deep Learning
+Framework for Big Data](https://arxiv.org/ftp/arxiv/papers/1804/1804.05839.pdf)
+- [Abstractions and Frameworks
+for Deep Learning:
+a Discussion](https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/Presentation_Emonet.pdf)
+- [Deep Learning with Theano, Torch, Caffe, Tensorflow, and
+Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by/bitstream/123456789/158561/1/Kovalev_Kalinovsky_Kovalev.pdf)
+- [MLlib: Scalable Machine Learning on Spark](https://stanford.edu/~rezab/sparkworkshop/slides/xiangrui.pdf)
+
+------------
+---------------------
