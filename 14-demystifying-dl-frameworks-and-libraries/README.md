@@ -1,6 +1,13 @@
 
 
 #### Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)
+---------
+              
+         - Its more likely that Pytorch will takeover Tensorflow in 2-3 years. Will be heavy competition.
+         - Keras lives on as high level API if they given support for pytorch.
+         - Opportunities: 
+           - Future will be co-evolution of AI and Hardware, AI will fundamenetally change the computing industry.
+
 
 ----------
 ##### Core ML [Jun 2017, Apple]
