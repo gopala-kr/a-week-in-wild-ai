@@ -1,0 +1,16 @@
+![ai_tools](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/14-demystifying-dl-frameworks-and-libraries/dl/ai_tools.PNG)
+----------
+![pytorch_caffe2](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/14-demystifying-dl-frameworks-and-libraries/dl/pytorch_caffe2.PNG)
+----------
+![torch](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/14-demystifying-dl-frameworks-and-libraries/dl/torch.PNG)
+----------
+![torch_1](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/14-demystifying-dl-frameworks-and-libraries/dl/torch_1.PNG)
+----------
+![torch_3](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/14-demystifying-dl-frameworks-and-libraries/dl/torch_3.PNG)
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
