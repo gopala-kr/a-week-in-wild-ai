@@ -2,6 +2,12 @@
 
 #### Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)
 
+----------
+Core ML [Jun 2017, Apple]
+
+- [Apple announces new machine learning API to make mobile AI faster](https://www.theverge.com/2017/6/5/15725994/apple-mobile-ai-chip-announced-wwdc-2017)
+- [Create your own Object Recognizer — ML on iOS](https://medium.com/@hunter.ley.ward/create-your-own-object-recognizer-ml-on-ios-7f8c09b461a1)
+
 ---------------
 
 Caff2 [April 2017, FAIR]
