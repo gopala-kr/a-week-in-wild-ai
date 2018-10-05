@@ -2,9 +2,13 @@
 
 #### Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)
 ---------
+
+
+
+--------------
               
-         - Its more likely that Pytorch will takeover Tensorflow in 2-3 years. Will be heavy competition.
-         - Keras lives on as high level API if they given support for pytorch.
+         - Its more likely that Pytorch may takeover Tensorflow in 2-3 years.
+         - Keras lives on as high level API if they given support to pytorch.
          - Opportunities: 
            - Future will be co-evolution of AI and Hardware, AI will fundamentally change the computing industry.
 
@@ -37,6 +41,19 @@ Introducing Core ML](https://devstreaming-cdn.apple.com/videos/wwdc/2017/703muva
 - [Soumit Chintala: PyTorch-NewGeneration](http://on-demand.gputechconf.com/gtc/2017/presentation/s7784-soumith-chintala-pytorch-a-framework-for-next-generation-ai.pdf)
 - [pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
 
+-------------
+##### CNTK [January 2016, Microsoft]
+
+
+- [Build_2017_05_CNTK_Overview_v2](https://www.cntk.ai/Tutorials/Build2017/Build_2017_05_CNTK_Overview_v2.pdf)
+- [CVPR_2017_Tutorial_final](https://www.cntk.ai/Tutorials/CVPR2017/CVPR_2017_Tutorial_final.pdf)
+- [Deep Learning in Microsoft
+with CNTK ](http://on-demand.gputechconf.com/gtc/2016/presentation/S6843-alexey-kamanev-deep-learning-microsoft-cntk.pdf)
+- [CNTK—Microsoft’s Open
+Source Deep Learning Toolkit ](http://images.nvidia.com/cn/gtc/downloads/pdf/partners/609.%20CNTK%20Toolkit%20-%20%E7%8E%8B%E5%A4%AA%E5%B3%B0.pdf)
+
+
+
 --------
 
 ##### Tensorflow [November 2015, Google Brain team]
@@ -44,7 +61,7 @@ Introducing Core ML](https://devstreaming-cdn.apple.com/videos/wwdc/2017/703muva
 
 ----------
 
-##### Apache MXNet [October 2015, Apache Software Foundation]
+##### Apache MXNet [October 2015, Apache SF]
 
        - Supports multiple programming languages (including C++, Python, Julia, Matlab, JavaScript, Go, R, Scala, Perl, and Wolfram Language.)
        
@@ -64,6 +81,7 @@ and Efficient Deep Learning
 Library](http://images.nvidia.com/cn/gtc/downloads/pdf/partners/608.%20MXNet%20-%20%E7%8E%8B%E4%B9%83%E5%B2%A9.pdf)
 - [MXNET-MPI: Embedding MPI parallelism in Parameter Server
 Task Model for scaling Deep Learning](https://arxiv.org/pdf/1801.03855.pdf)
+
 
 ------------
 
@@ -399,6 +417,9 @@ a Discussion](https://perso.univ-st-etienne.fr/fod07375/Workshop/assets/slides/P
 - [Deep Learning with Theano, Torch, Caffe, Tensorflow, and
 Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by/bitstream/123456789/158561/1/Kovalev_Kalinovsky_Kovalev.pdf)
 - [MLlib: Scalable Machine Learning on Spark](https://stanford.edu/~rezab/sparkworkshop/slides/xiangrui.pdf)
+- [Visualizing Dataflow Graphs of
+Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-TensorFlowGraph-VAST.pdf)
+
 
 ------------
 ---------------------
