@@ -3,11 +3,11 @@
 #### Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)
 ---------
 
-         - Its more likely that Pytorch may takeover Tensorflow in 2-3 years/a new platform may outcompete everything with right talent and support in 5 years.
+         - Its more likely that Pytorch may takeover Tensorflow in 1-2 years.
          - Keras lives on as high level API if they given support to competitive frameowrks. 
          - Opportunities: 
            - Future will be co-evolution of AI and Hardware, AI will fundamentally change the computing industry.
-           - There is a space for a new open platform(low + high level programming) which can support future computing platforms irrespective of their underlying complexities(Multicore CPU's, GPU's, TPU's VPU's, NPUs,  ASICs, neuromarphic chipsets, FPGAs, HPC-MPIs, DSPs, Quantum chips(QPUs), mobile chipsets, custom chips and EDGE computing). Definitely existing competitive platforms evolve to this stage in 5 - 10 yrs.
+           - There is a space for a new open platform which can support/optimize high level computational graps to future computing devices/chips irrespective of their underlying complexities(Multicore CPU's, GPU's, TPU's VPU's, NPUs,  ASICs, neuromarphic chipsets, FPGAs, HPC-MPIs, DSPs, Quantum chips(QPUs), mobile chipsets, custom chips and EDGE computing). Definitely existing platforms evolve to this stage in 3-5 yrs.
 
 
 ----------
