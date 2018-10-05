@@ -3,6 +3,13 @@
 #### Demystifying Deep Learning Frameworks and Libraries(end to end low+high level)
 ---------
 
+##### Anatomy of ML/DL Frameworks 
+
+
+
+
+
+----------------------
          - Its more likely that Pytorch may takeover Tensorflow in 1-2 years.
          - Keras lives on as high level API if they given support to competitive frameowrks. 
          - Opportunities: 
