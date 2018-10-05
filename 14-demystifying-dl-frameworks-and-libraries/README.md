@@ -44,6 +44,29 @@ Introducing Core ML](https://devstreaming-cdn.apple.com/videos/wwdc/2017/703muva
 
 ----------
 
+##### Apache MXNet [October 2015, Apache Software Foundation]
+
+       - Supports multiple programming languages (including C++, Python, Julia, Matlab, JavaScript, Go, R, Scala, Perl, and Wolfram Language.)
+       
+       - MXNet is supported by public cloud providers including (AWS) and Microsoft Azure.
+       
+       - MXNet is supported by Intel, Dato, Baidu, Microsoft, Wolfram Research, and research institutions such as Carnegie Mellon, MIT, the University of Washington, and the Hong Kong University of Science and Technology.
+       
+       - MXNet is designed to be distributed on dynamic cloud infrastructure, using a distributed parameter server (based on research at Carnegie Mellon University, Baidu, and Google), and can achieve almost linear scale with multiple GPUs or CPUs.
+ 
+- [MXNet: A Flexible and Efficient Machine Learning
+Library for Heterogeneous Distributed Systems](https://www.cs.cmu.edu/~muli/file/mxnet-learning-sys.pdf) 
+- [A Practitioner’s Guide to MXNe](https://home.cse.ust.hk/~xshiab/data/MXNet.pdf)
+- [Distributed Deep Learning Inference
+using Apache MXNet* and Apache Spark](https://apachecon.com/euroadshow18/MXNet-Spark-Slides.pdf)
+- [MXNet: Lightweight, Flexible,
+and Efficient Deep Learning
+Library](http://images.nvidia.com/cn/gtc/downloads/pdf/partners/608.%20MXNet%20-%20%E7%8E%8B%E4%B9%83%E5%B2%A9.pdf)
+- [MXNET-MPI: Embedding MPI parallelism in Parameter Server
+Task Model for scaling Deep Learning](https://arxiv.org/pdf/1801.03855.pdf)
+
+------------
+
 ##### Keras [March 2015, François Chollet(Google)]
 
      - Capable of running on top of TensorFlow, Microsoft Cognitive Toolkit or Theano.
