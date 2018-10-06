@@ -9,11 +9,31 @@
 
 ----------
 
-##### Basic Linear Algebra Subprograms([BLAS](http://www.netlib.org/blas/))
+##### Numerical libraries
+
+- Basic Linear Algebra Subprograms([BLAS](http://www.netlib.org/blas/))
 
      Originated as a Fortran library in 1979
 
+- [Numerical libraries](https://hpc-forge.cineca.it/files/CoursesDev/public/2016/Milan/Cross_Sectoral_Course_PhD/0501-MathLibraries.pdf)
 - [List of numerical libraries](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
+- [Normal Cuda Vs CuBLAS?](https://stackoverflow.com/questions/25836003/normal-cuda-vs-cublas)
+- [Hands-on Lab: Rapid Multi-GPU Programming with CUDA Libraries](http://on-demand.gputechconf.com/gtc/2014/presentations/S4788-rapid-multi-gpu-programming-cuda-libraries.pdf)
+- [The CUBLAS and CULA libraries](https://wlandau.github.io/gpu/lectures/cublas-cula/cublas-cula.pdf)
+- [BLASX: A High Performance Level-3 BLAS
+Library for Heterogeneous Multi-GPU Computing](https://arxiv.org/pdf/1510.05041.pdf)
+- [Analysis of Object-Oriented Numerical Libraries ](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.91.1918&rep=rep1&type=pdf)
+- [Numerical Linear Algebra Software](https://web.stanford.edu/class/ee392o/nlas-foils.pdf)
+- [Integrating MPI-based numerical software into an advanced parallel computing environment](http://www.dma.unina.it/~lapegna/documents/euromicro03.pdf)
+- [Introduction to Scientific
+Libraries](http://www.training.prace-ri.eu/uploads/tx_pracetmo/Num_Libs_shortDOSAC15.pdf)
+- [Porting the PLASMA Numerical Library to the OpenMP Standard](https://www.icl.utk.edu/files/publications/2016/icl-utk-942-2016.pdf)
+- [IMSL Fortran Numerical Special Functions Math Library](http://www.afs.enea.it/software/imsl/help/sfun/sfun.pdf)
+- [Numerical Libraries with C or Fortran](https://www.bu.edu/tech/files/2016/06/Introduction_to_Numerical_Libraries.pdf)
+- [Python for Computational Science and Engineering](https://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
+- [Julia: A Fresh Approach to
+Numerical Computing∗](https://julialang.org/publications/julia-fresh-approach-BEKS.pdf)
+
 
 
 ----------------------
