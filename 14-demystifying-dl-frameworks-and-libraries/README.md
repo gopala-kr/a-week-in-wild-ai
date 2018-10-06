@@ -70,6 +70,9 @@ Introducing Core ML](https://devstreaming-cdn.apple.com/videos/wwdc/2017/703muva
 
 - [Soumit Chintala: PyTorch-NewGeneration](http://on-demand.gputechconf.com/gtc/2017/presentation/s7784-soumith-chintala-pytorch-a-framework-for-next-generation-ai.pdf)
 - [pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list)
+- [Edx: Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
+- [Udacity: Intro to Deep Learning with PyTorch](https://in.udacity.com/course/deep-learning-pytorch--ud188)
+- [PyTorch – Internal Architecture Tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)
 
 -------------
 ##### CNTK [January 2016, Microsoft]
@@ -250,7 +253,6 @@ experiences from the scikit-learn project](https://dtai.cs.kuleuven.be/events/lm
 
 ##### Pytorch
 
-- [PyTorch – Internal Architecture Tour](http://blog.christianperone.com/2018/03/pytorch-internal-architecture-tour/)
 - [Torchbearer: A Model Fitting Library for PyTorch](https://arxiv.org/pdf/1809.03363v1.pdf)
 - [DELIMIT PyTorch - An extension for Deep Learning in Diffusion Imaging](https://arxiv.org/pdf/1808.01517v1.pdf)
 - [Honk: A PyTorch Reimplementation of Convolutional Neural Networks for Keyword Spotting](https://arxiv.org/pdf/1710.06554v2.pdf)
