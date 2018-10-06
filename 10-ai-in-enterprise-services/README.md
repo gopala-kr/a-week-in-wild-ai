@@ -97,7 +97,7 @@ with Big Data](https://www.suse.com/media/report/extending_the_value_of_sap_hana
 Of SAP HANA
 Cost Savings Enabled By
 Transitioning to HANA](https://www.g3g.com/hubfs/White_Papers/Projected_Cost_Analysis_of_the_SAP_HANA_platform.pdf?t=1487864777000)
-
+- [Project: Machine Learning in a Box](https://blogs.sap.com/2018/01/25/introducing-project-machine-learning-in-a-box/)
 
 -----------
 
