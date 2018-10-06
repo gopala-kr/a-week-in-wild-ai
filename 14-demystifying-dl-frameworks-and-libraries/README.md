@@ -12,9 +12,6 @@
 ##### Numerical libraries
 
 - Basic Linear Algebra Subprograms([BLAS](http://www.netlib.org/blas/))
-
-      Originated as a Fortran library in 1979
-
 - [Numerical libraries](https://hpc-forge.cineca.it/files/CoursesDev/public/2016/Milan/Cross_Sectoral_Course_PhD/0501-MathLibraries.pdf)
 - [List of numerical libraries](https://en.wikipedia.org/wiki/List_of_numerical_libraries)
 - [Normal Cuda Vs CuBLAS?](https://stackoverflow.com/questions/25836003/normal-cuda-vs-cublas)
