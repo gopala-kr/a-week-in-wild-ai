@@ -452,6 +452,7 @@ Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by
 - [Visualizing Dataflow Graphs of
 Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-TensorFlowGraph-VAST.pdf)
 - [Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
+- [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef)
 
 ------------
 ---------------------
