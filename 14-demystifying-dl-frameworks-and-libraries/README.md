@@ -449,7 +449,7 @@ Deeplearning4J: Which One is the Best in Speed and Accuracy?](http://elib.bsu.by
 - [MLlib: Scalable Machine Learning on Spark](https://stanford.edu/~rezab/sparkworkshop/slides/xiangrui.pdf)
 - [Visualizing Dataflow Graphs of
 Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-TensorFlowGraph-VAST.pdf)
-
+- [Deep Learning with Python and PyTorch](https://www.edx.org/course/deep-learning-with-python-and-pytorch)
 
 ------------
 ---------------------
