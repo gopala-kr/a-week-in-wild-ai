@@ -6,6 +6,8 @@
 ##### Anatomy of ML/DL Frameworks 
 
 
+- [framework-optimizations](https://ai.intel.com/framework-optimizations/)
+
 
 ----------
 
