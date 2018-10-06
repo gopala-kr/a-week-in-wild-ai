@@ -423,7 +423,7 @@ using OpenAi Gym](http://web.stanford.edu/~chuchro3/projects/openaigym/OpenAiGym
 
 
 -----------------
-#####  Reference
+#####  References
 
 - [case study: ml/dl frameworks/libraries(architectural overview)](https://github.com/gopala-kr/10-weeks/tree/master/Projects-Blogs/06-ml-dl-frameworks)
 - [Stanford from 1996: Data Mining using MLC++
