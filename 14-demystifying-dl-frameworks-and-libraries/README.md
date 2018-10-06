@@ -9,7 +9,7 @@
 
 ----------
 
-##### Basic Linear Algebra Subprograms(BLAS)
+##### Basic Linear Algebra Subprograms([BLAS](http://www.netlib.org/blas/))
 
      Originated as a Fortran library in 1979
 
