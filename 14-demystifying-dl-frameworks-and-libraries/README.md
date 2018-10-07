@@ -32,7 +32,7 @@ Libraries](http://www.training.prace-ri.eu/uploads/tx_pracetmo/Num_Libs_shortDOS
 - [Python for Computational Science and Engineering](https://www.southampton.ac.uk/~fangohr/training/python/pdfs/Python-for-Computational-Science-and-Engineering.pdf)
 - [Julia: A Fresh Approach to
 Numerical Computing∗](https://julialang.org/publications/julia-fresh-approach-BEKS.pdf)
-
+- [NAG Presentation to Eduserv Maths and Stats Software Dec2014](https://www.slideshare.net/eduserv/math-statsgroup-nagdec2014)
 
 
 ----------------------
