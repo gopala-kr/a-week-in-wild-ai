@@ -31,9 +31,9 @@
 ![Intel_optimized_tools_for_machine_learning_pic2](https://software.intel.com/sites/default/files/managed/8c/da/Intel_optimized_tools_for_machine_learning_pic2.png)
 --------------
 
-![]()
+![intel_haswell_arch](http://www.prace-ri.eu/IMG/png/intel_haswell_arch.png)
 --------------
-![]()
+![skylakeblock](https://techreport.com/r.x/2017_10_03_Intel_s_Core_i7_8700K_CPU_reviewed/skylakeblock.png)
 --------------
 ![]()
 --------------
