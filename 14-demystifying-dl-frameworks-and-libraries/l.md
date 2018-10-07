@@ -16,9 +16,9 @@
 --------------
 ![pasted](https://devblogs.nvidia.com/wp-content/uploads/2017/10/pasted-image-0-11.png)
 --------------
-![]()
+![15170820497807043_origin](https://static.seekingalpha.com/uploads/2018/1/27/43253696-15170820497807043_origin.png)
 --------------
-![]()
+![paralution](https://developer.nvidia.com/sites/default/files/akamai/cuda/images/product_supporting_images/paralution-lib.jpg)
 --------------
 ![]()
 --------------
