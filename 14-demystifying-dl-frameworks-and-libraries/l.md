@@ -59,7 +59,7 @@
 --------------
 ![interfacing](http://www.ti.com/content/dam/ticom/images/products/ic/microcontrollers/performance/diagram/c2000-software-interfacing-diagram.jpg)
 --------------
-![]()
+![slide_20](https://images.slideplayer.com/19/5915970/slides/slide_20.jpg)
 --------------
 ![]()
 --------------
