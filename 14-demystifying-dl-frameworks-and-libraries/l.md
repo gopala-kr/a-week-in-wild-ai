@@ -55,7 +55,7 @@
 --------------
 ![1489524488](https://image.slidesharecdn.com/presentation-170314204158/95/enabling-open-and-reproducible-computer-systems-research-the-good-the-bad-and-the-ugly-4-638.jpg?cb=1489524488)
 --------------
-![]()
+![S0743731514001245](https://ars.els-cdn.com/content/image/1-s2.0-S0743731514001245-gr7.jpg)
 --------------
 ![]()
 --------------
