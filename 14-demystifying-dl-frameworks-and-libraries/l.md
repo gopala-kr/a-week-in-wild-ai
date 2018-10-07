@@ -63,3 +63,5 @@
 --------------
 ![architecture](https://3.bp.blogspot.com/-SqfxNzbWrT0/WrKjSH8V74I/AAAAAAAABRU/TrjY4u6UBeQyWInYA6naZY1ePYqtQQMEwCLcBGAs/s640/ios-architecture.png)
 --------------
+![gr1b1](https://www.cell.com/cms/attachment/2119177677/2090196893/gr1b1.jpg)
+----------
