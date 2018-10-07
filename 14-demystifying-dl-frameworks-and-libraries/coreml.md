@@ -17,18 +17,4 @@
 ![20integration](https://www.cleveroad.com/images/article-previews/Core-ML-app%20integration-1.png)
 
 ----------
-![]()
 
-----------
-![]()
-
-----------
-![]()
-
-----------
-![]()
-
-----------
-![]()
-
-----------
