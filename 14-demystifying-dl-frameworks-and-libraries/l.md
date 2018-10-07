@@ -14,7 +14,7 @@
 --------------
 ![limo_platform](https://www.javiercancela.com/images/uploads/2008/05/limo_platform.png)
 --------------
-![]()
+![pasted](https://devblogs.nvidia.com/wp-content/uploads/2017/10/pasted-image-0-11.png)
 --------------
 ![]()
 --------------
