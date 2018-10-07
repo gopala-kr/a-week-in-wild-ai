@@ -20,7 +20,7 @@
 --------------
 ![paralution](https://developer.nvidia.com/sites/default/files/akamai/cuda/images/product_supporting_images/paralution-lib.jpg)
 --------------
-![]()
+![lf_acrn_arch](http://linuxgizmos.com/files/lf_acrn_arch.jpg)
 --------------
 ![]()
 --------------
