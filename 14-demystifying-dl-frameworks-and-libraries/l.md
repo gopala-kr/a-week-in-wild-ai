@@ -35,9 +35,9 @@
 --------------
 ![skylakeblock](https://techreport.com/r.x/2017_10_03_Intel_s_Core_i7_8700K_CPU_reviewed/skylakeblock.png)
 --------------
-![]()
+![Figure7](https://www.embedded-vision.com/sites/default/files/technical-articles/DeepLearningSoftware/Figure7.png)
 --------------
-![]()
+![2BArch](https://2.bp.blogspot.com/-U6qhe_6uV6Y/WcyB2cf9xjI/AAAAAAAAHnc/L6CbHKu0JsE-4MS-hFjWfpoGkqtDd0aRwCLcBGAs/s1600/iOS%2BLayered%2BArch-1.png)
 --------------
 ![]()
 --------------
