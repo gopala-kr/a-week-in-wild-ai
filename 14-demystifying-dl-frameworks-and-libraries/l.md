@@ -68,3 +68,25 @@
 ![applications](https://www.researchgate.net/publication/282513635/figure/fig1/AS:613871031156766@1523369667774/a-Uni10-serves-as-a-middleware-between-the-tensor-network-applications-and-the.png)
 
 ----------------
+![toolsforcordova](https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/first-steps/media/vs-taco-2017-ios-guide/figure-01.png?view=toolsforcordova-2017)
+-----------------
+![apachecordovachart8](http://certifiedcoderz.io/img/toolz/apachecordovachart8.png)
+----------
+![application](https://image.slidesharecdn.com/phonegapvsnativeapp-120430022159-phpapp02/95/phonegapcordova-vs-native-application-8-728.jpg?cb=1335752689)
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
