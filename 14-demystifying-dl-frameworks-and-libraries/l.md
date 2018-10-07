@@ -1,6 +1,6 @@
 ![image](http://present5.com/presentation/6deffbccbc837d9a022c5bed1b467f48/image-13.jpg)
 -------------
-![]()
+![slide_3](http://images.slideplayer.com/23/6640477/slides/slide_3.jpg)
 --------------
 ![]()
 --------------
