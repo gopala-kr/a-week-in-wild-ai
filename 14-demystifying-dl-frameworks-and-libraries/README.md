@@ -456,6 +456,7 @@ Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-Ten
 - [http://waysidetechnology.com/content/pdf/techxtend/intel/intel-parallel-studio-xe-product-brief.pdf](http://waysidetechnology.com/content/pdf/techxtend/intel/intel-parallel-studio-xe-product-brief.pdf)
 - [frameworks — ML & DL](https://medium.com/notes-on-learning/frameworks-ml-dl-e433e9ab65c9)
 - [The Anatomy of Deep Learning Frameworks](https://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
+- [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks)
 
 ------------
 ---------------------
