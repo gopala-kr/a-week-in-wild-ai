@@ -455,5 +455,6 @@ Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-Ten
 - [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef)
 - [http://waysidetechnology.com/content/pdf/techxtend/intel/intel-parallel-studio-xe-product-brief.pdf](http://waysidetechnology.com/content/pdf/techxtend/intel/intel-parallel-studio-xe-product-brief.pdf)
 
+
 ------------
 ---------------------
