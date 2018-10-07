@@ -61,5 +61,5 @@
 --------------
 ![slide_20](https://images.slideplayer.com/19/5915970/slides/slide_20.jpg)
 --------------
-![]()
+![architecture](https://3.bp.blogspot.com/-SqfxNzbWrT0/WrKjSH8V74I/AAAAAAAABRU/TrjY4u6UBeQyWInYA6naZY1ePYqtQQMEwCLcBGAs/s640/ios-architecture.png)
 --------------
