@@ -43,11 +43,11 @@
 --------------
 ![Metalibm](https://prod.kalray.eu/wp-content/uploads/2018/04/Metalibm-diagram-XS.png)
 --------------
-![]()
+![Software](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/BDEC-Software-Ecosystem.png)
 --------------
-![]()
+![e1456170703257](https://ideas-productivity.org/wordpress/wp-content/uploads/2014/12/FutureAppBigPicture-e1456170703257.jpg)
 --------------
-![]()
+![pythonvsmatlab](http://www.pyzo.org/_images/pythonvsmatlab.png)
 --------------
 ![]()
 --------------
