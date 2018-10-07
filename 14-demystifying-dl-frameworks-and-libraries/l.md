@@ -2,7 +2,7 @@
 -------------
 ![slide_3](http://images.slideplayer.com/23/6640477/slides/slide_3.jpg)
 --------------
-![]()
+![dia](http://www.hector.ac.uk/cse/documentation/SerialOpt/dia.jpg)
 --------------
 ![]()
 --------------
