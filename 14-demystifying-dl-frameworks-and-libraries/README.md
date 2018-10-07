@@ -454,7 +454,8 @@ Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-Ten
 - [Facebook Says Developers Will Love PyTorch 1.0](https://medium.com/syncedreview/facebook-says-developers-will-love-pytorch-1-0-ba2f89ebc9cc)
 - [Neural Network Exchange Format (NNEF)](https://www.khronos.org/nnef)
 - [http://waysidetechnology.com/content/pdf/techxtend/intel/intel-parallel-studio-xe-product-brief.pdf](http://waysidetechnology.com/content/pdf/techxtend/intel/intel-parallel-studio-xe-product-brief.pdf)
-
+- [frameworks — ML & DL](https://medium.com/notes-on-learning/frameworks-ml-dl-e433e9ab65c9)
+- [The Anatomy of Deep Learning Frameworks](https://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
 
 ------------
 ---------------------
