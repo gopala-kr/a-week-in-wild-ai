@@ -88,9 +88,9 @@
 ----------
 ![roadmap](https://cdn57.androidauthority.net/wp-content/uploads/2015/04/ARM-Mali-GPU-roadmap-710x345.jpg)
 ----------
-![]()
+![texas_intruments_omap_5_OMAP5430_block_diagram](https://www.cnx-software.com/wp-content/uploads/2011/02/texas_intruments_omap_5_OMAP5430_block_diagram.png)
 ----------
-![]()
+![intel_mwc2015_slide3](http://linuxgizmos.com/files/intel_mwc2015_slide3.jpg)
 ----------
-![]()
+![atom_01](https://www.notebookcheck.net/uploads/tx_nbc2/atom_01.png)
 ----------
