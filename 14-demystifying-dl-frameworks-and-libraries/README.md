@@ -13,6 +13,28 @@
 - [tvm](https://github.com/dmlc/tvm)
 - [clang](https://github.com/llvm-mirror/clang)
 - [glow](https://github.com/pytorch/glow)
+- [NativeJIT](https://github.com/BitFunnel/NativeJIT)
+- [llgo](https://github.com/go-llvm/llgo)
+- [ocaml](https://github.com/ocaml/ocaml)
+- [Open-Source-FPGA-Bitcoin-Miner](https://github.com/progranism/Open-Source-FPGA-Bitcoin-Miner)
+- [tinygo](https://github.com/aykevl/tinygo)
+- [ngraph](https://github.com/NervanaSystems/ngraph)
+- [llvmlite](https://github.com/numba/llvmlite)
+- [luajit](https://github.com/LuaDist/luajit)
+- [taco](https://github.com/tensor-compiler/taco)
+- [lua.js](https://github.com/mherkender/lua.js)
+- [cppinsights](https://github.com/andreasfertig/cppinsights)
+- [forest-compiler](https://github.com/forest-lang/forest-compiler)
+- [hope](https://github.com/jakeret/hope)
+- [HLSLCrossCompiler](https://github.com/James-Jones/HLSLCrossCompiler)
+- [HLSLcc](https://github.com/Unity-Technologies/HLSLcc)
+- [ante](https://github.com/jfecher/ante)
+- [compilers-targeting-c](https://github.com/dbohdan/compilers-targeting-c)
+- [sklearn-compiledtrees](https://github.com/ajtulloch/sklearn-compiledtrees)
+- [RGA](https://github.com/GPUOpen-Tools/RGA)
+- [Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
+- [jit-tutorial](https://github.com/spencertipping/jit-tutorial)
+- [compiler_series](https://github.com/bisqwit/compiler_series)
 
 
 ----------
@@ -463,6 +485,8 @@ Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-Ten
 - [frameworks — ML & DL](https://medium.com/notes-on-learning/frameworks-ml-dl-e433e9ab65c9)
 - [The Anatomy of Deep Learning Frameworks](https://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
 - [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks)
+- [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://software.intel.com/en-us/download/intel-64-and-ia-32-architectures-sdm-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4)
+
 
 ------------
 ---------------------
