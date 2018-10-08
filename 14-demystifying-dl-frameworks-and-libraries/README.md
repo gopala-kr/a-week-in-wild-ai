@@ -35,6 +35,7 @@
 - [Essentials-of-Compilation](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 - [jit-tutorial](https://github.com/spencertipping/jit-tutorial)
 - [compiler_series](https://github.com/bisqwit/compiler_series)
+- [v8/v8](https://github.com/v8/v8)
 
 
 ----------
