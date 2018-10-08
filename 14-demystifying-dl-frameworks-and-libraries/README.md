@@ -8,6 +8,12 @@
 
 - [framework-optimizations](https://ai.intel.com/framework-optimizations/)
 - [compilers](https://github.com/aalhour/awesome-compilers)
+- [Halide](https://github.com/halide/Halide)
+- [gopher-lua](https://github.com/yuin/gopher-lua#design-principle)
+- [tvm](https://github.com/dmlc/tvm)
+- [clang](https://github.com/llvm-mirror/clang)
+- [glow](https://github.com/pytorch/glow)
+
 
 ----------
 
