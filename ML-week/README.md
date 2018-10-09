@@ -45,7 +45,7 @@
 - [Restricted Boltzmann Machine]
 
 #### [Reinforcement Learning](https://github.com/gopala-kr/reinforce-tf)
-     - Value Optimization
+   - Value Optimization
        - [QR-DQN]
        - [DQN]
        - [Bootstrapped DQN]
