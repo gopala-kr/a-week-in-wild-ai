@@ -12,6 +12,10 @@
 - [[Week-13](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/12-ai-hardware-compilers)] 30/09/2018: DL Compiler Optimization for Different Hardwares
 - [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/14-demystifying-dl-frameworks-and-libraries)] 07/10/2018 : Demystifying Deep Learning Frameworks and Libraries(low+high level)
 
+----------
+
+| [[AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas)] | [[ML Week](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week)] | [[Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing)] |
+
 
 -----------
 
