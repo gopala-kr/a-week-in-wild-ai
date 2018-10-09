@@ -31,10 +31,15 @@
 
 - Generative models
 
-- Learning from less data and building smaller models
+-  Learning from less data and building smaller models
 
-- Simulation environments
+-  Learning in simulated environments
 
+-  Evolutionary Computing
+
+-  Word embeddings
+
+-  
 -------------
 
 - [OpenAI: Requests for Research](https://openai.com/requests-for-research/#parallel-trpo)
