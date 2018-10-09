@@ -190,9 +190,9 @@
   
 #### Applications
 
-   + [Natural Langauge Processing]
-   + [Computer Vision]
-     - [Image Classification]
+##### [Natural Langauge Processing]
+##### [Computer Vision]
+   - [Image Classification]
        - [Face Recognition]    
      - [Object Recognition]
      - [Object Tracking]
@@ -206,11 +206,8 @@
      - [Motion Detection]
      - [Human Pose Estimation]
      - [3D Vision]
-   + [Robotics]
-   + [Speech Processing]
-
-
-
+##### [Robotics]
+##### [Speech Processing]
 
 
 ---------------
