@@ -7,6 +7,8 @@
 
 - AI hardware
 
+- ML/DL/RL platforms
+
 - Object detection
 
 - Video understanding
