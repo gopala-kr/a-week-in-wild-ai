@@ -233,7 +233,15 @@
    - [Human Pose Estimation]
    - [3D Vision]
 #### Robotics
-
+ - [Robot Vision]
+ - [DRL applied to robots]
+ - [AlphaGo Zero]
+ - [AlphaGo]
+ - [Atari Games]
+ - [Dota-2]
+ - [Starcraft]
+ - [SLAM Algorithms]
+ - [Kalman and Bayesian Filters]
 
 ---------------
 
