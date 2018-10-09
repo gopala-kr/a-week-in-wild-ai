@@ -3,7 +3,7 @@
 
 ----------------
 
-- Tranfer Learning
+- Transfer Learning
 
 - AI hardware
 
