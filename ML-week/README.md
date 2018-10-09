@@ -2,7 +2,7 @@
 
 -----------
 
-[nb_viewer](http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-week/)
+[nb_viewer for notebooks](http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-week/)
 
 ----------
 
@@ -85,10 +85,10 @@
     * Reshape Layer
     * Up Sampling Layer
     * Zero Padding Layer
-  + [Autoencoders]
-  + [Convolutional Neual Networks]
-  + [Recurrent Neural Networks]
-  + [Generative Models]
+  + [Autoencoders](https://github.com/gopala-kr/autoencoders)
+  + [Convolutional Neual Networks](https://github.com/gopala-kr/CNNs)
+  + [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)
+  + [Generative Models](https://github.com/gopala-kr/GANs)
   + [Spiking Neural Networks]
   
 #### Applications
@@ -106,7 +106,11 @@
 
 References:
 
+- [Papers with code](https://github.com/gopala-kr/pwc)
 - [https://github.com/gopala-kr/summary](https://github.com/gopala-kr/summary)
+- [State of the art resutls](https://github.com/gopala-kr/SoTA)
+- [gopala-kr/ai-applications](https://github.com/gopala-kr/ai-applications)
+- [gopala-kr/notebooks](https://github.com/gopala-kr/notebooks)
 - [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
 - [Machine Learning Math Essentials](https://courses.washington.edu/css490/2012.Winter/lecture_slides/02_math_essentials.pdf)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
