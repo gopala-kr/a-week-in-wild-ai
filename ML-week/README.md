@@ -64,9 +64,9 @@
            - [DDPG with HER]
          - [Clipped PPO]
          - [PPO]
-    - [DFP]
-    - Imitation
-        - [Behavioural cloning]
+   - [DFP]
+   - Imitation
+       - [Behavioural cloning]
 
 
 #### Deep Learning
