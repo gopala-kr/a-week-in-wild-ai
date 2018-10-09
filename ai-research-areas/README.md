@@ -39,7 +39,7 @@
 
 -  Word embeddings
 
--  
+ 
 -------------
 
 - [OpenAI: Requests for Research](https://openai.com/requests-for-research/#parallel-trpo)
