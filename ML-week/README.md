@@ -44,7 +44,29 @@
 - [Principal Component Analysis]
 - [Restricted Boltzmann Machine]
 
-#### Reinforcement Learning
+#### [Reinforcement Learning](https://github.com/gopala-kr/reinforce-tf)
+     - Value Optimization
+       - [QR-DQN]
+       - [DQN]
+       - [Bootstrapped DQN]
+       - [DDQN]
+       - [NEC]
+       - [MMC]
+       - [N-step Q Learning]
+       - [PAL]
+       - [Categorical DQN]
+       - [NAF]
+     - Policy Optimization
+       - [Policy Gradient]
+       - [Actor Critic]
+         - [DDPG]
+           - [HAC DDPG]
+           - [DDPG with HER]
+         - [Clipped PPO]
+         - [PPO]
+      - [DFP]
+      - Imitation
+        - [Behavioural cloning]
 
 
 #### Deep Learning
