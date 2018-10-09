@@ -86,15 +86,67 @@
     * Up Sampling Layer
     * Zero Padding Layer
   + [Autoencoders](https://github.com/gopala-kr/autoencoders)
+    - [AE]
+    - [SparseAE]
+    - [DeepAE]
+    - [ConvAE]
+    - [UpconvAE]
+    - [DenoisingAE]
+    - [CAE]
+    - [Seq2SeqAE]
+    - [VAE]
+    - [CatVAE]
+    - [AAE]
+    - [WTA-AE]
+    
   + [Convolutional Neual Networks](https://github.com/gopala-kr/CNNs)
+   - CNN Architectures
+    - [LeNet-5 (1998)] 
+    - [AlexNet (2012)]
+    - [ZFNet(2013)]
+    - [GoogleNet/Inception(2014)]
+    - [VGGNet (2014)]
+    - [ResNet(2015)]
+    - [SegNet(2015)]
+    - [YOLO(2015)]
+    - [SqueezeNet(2016)]
+    - [ResNeXt(2016)]
+    - [DenseNet(2016)]
+    - [MobileNets]
+
   + [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []  
   + [Generative Models](https://github.com/gopala-kr/GANs)
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
+    - []
   + [Spiking Neural Networks]
+  + [Quantum Neural Networks]
   
 #### Applications
 
    + [Natural Langauge Processing]
    + [Computer Vision]
+     - Object Recognition / classification
+     - Classification + Localisation
+     - Object Detection 
+     - Image Segmentation
    + [Robotics]
    + [Speech Processing]
 
