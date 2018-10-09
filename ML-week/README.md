@@ -129,7 +129,7 @@
       - [Segmental RNN]
       - [Seq2seq for Sets]
       - [Hierarchical Recurrent Neural Networks]    
-  + [Generative Models](https://github.com/gopala-kr/GANs)
+  + [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)
     - [DCGANs]
     - [cGANs]
     - [InfoGANs]
@@ -192,10 +192,20 @@
 
    + [Natural Langauge Processing]
    + [Computer Vision]
-     - Object Recognition / classification
-     - Classification + Localisation
-     - Object Detection 
-     - Image Segmentation
+     - [Image Classification]
+       - [Face Recognition]    
+     - [Object Recognition]
+     - [Object Tracking]
+     - [Object Localisation]
+     - [Object Detection] 
+     - [Image Segmentation]
+     - [Image Captioning]
+     - [Biomedical Imaging]
+     - [Remote Sensing]
+     - [Video Analysis]
+     - [Motion Detection]
+     - [Human Pose Estimation]
+     - [3D Vision]
    + [Robotics]
    + [Speech Processing]
 
@@ -228,5 +238,6 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [Machine Learning tips and tricks cheatsheet](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks.html)
 - [In-Depth-ML](https://github.com/Puneet2000/In-Depth-ML)
 - [ml-videos](https://github.com/dustinvtran/ml-videos)
+- [Computer Vision Computer Vision Research Areas Today's Overview](http://www.cs.cornell.edu/projects/btr/bioinformaticsschool/slides/huttenlocher.pdf)
 
 ----------------
