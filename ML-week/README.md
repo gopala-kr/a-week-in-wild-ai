@@ -56,7 +56,7 @@
        - [PAL]
        - [Categorical DQN]
        - [NAF]
-     - Policy Optimization
+   - Policy Optimization
        - [Policy Gradient]
        - [Actor Critic]
          - [DDPG]
@@ -64,8 +64,8 @@
            - [DDPG with HER]
          - [Clipped PPO]
          - [PPO]
-      - [DFP]
-      - Imitation
+    - [DFP]
+    - Imitation
         - [Behavioural cloning]
 
 
