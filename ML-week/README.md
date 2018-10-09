@@ -188,10 +188,10 @@
   + [Spiking Neural Networks]
   + [Quantum Neural Networks]
   
-#### Applications
+### Applications
 
-##### [Natural Langauge Processing]
-##### [Computer Vision]
+#### Natural Langauge Processing
+#### Computer Vision
    - [Image Classification]
        - [Face Recognition]    
      - [Object Recognition]
@@ -206,8 +206,8 @@
      - [Motion Detection]
      - [Human Pose Estimation]
      - [3D Vision]
-##### [Robotics]
-##### [Speech Processing]
+#### Robotics
+#### Speech Processing
 
 
 ---------------
