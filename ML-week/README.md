@@ -190,7 +190,7 @@
   
 ### Applications
 
-#### Natural Langauge Processing
+#### Natural Langauge & Speech Processing
    - [Text Embeddings]
      - [word2vec]
      - [GloVe]
@@ -205,7 +205,18 @@
    - [Question Answering and Knowledge Extraction]
    - [Text Summarization]
    - [Text Classification]
-   
+   - [ASR]
+   - [CCG supertagging]
+   - [Coreference resolution]
+   - [Dependency parsing]
+   - [Dialog]
+   - [Domain adaptation]
+   - [Entity Linking]
+   - [Grammatical Error Correction]
+   - [Information Extraction]
+   - [Lexical Normalization]
+   - [Part-of-speech tagging]
+   - [Sentiment analysis]  
 #### Computer Vision
    - [Image Classification]
       - [Face Recognition]    
@@ -222,7 +233,6 @@
    - [Human Pose Estimation]
    - [3D Vision]
 #### Robotics
-#### Speech Processing
 
 
 ---------------
