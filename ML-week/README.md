@@ -407,7 +407,7 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 - [A LOOK AT IMAGE SEGMENTATION USING CNNS](https://mohitjain.me/2018/09/30/a-look-at-image-segmentation/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 - [Why building your own Deep Learning Computer is 10x cheaper than AWS](https://medium.com/the-mission/why-building-your-own-deep-learning-computer-is-10x-cheaper-than-aws-b1c91b55ce8c)
-
+- [Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
 
 [Back to top](#contents)
 
