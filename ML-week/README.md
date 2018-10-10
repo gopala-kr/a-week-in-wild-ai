@@ -6,13 +6,14 @@
 
 ----------
 
-Mathematical Implementations:
+Taxonomy of AI Algorithms: Mathematical Implementations
 
 
 > ##### Contents
 
 - [Supervised Learning](#supervised-learning)
 - [Unsupervised Learning](#unsupervised-learning)
+- [Semi-Supervised Learning](#semi-supervised-learning)
 - [Reinforcement Learning](#reinforcement-learning)
 - [Deep Learning](#deep-learning)
   - [Neural Network](#neural-network)
@@ -74,6 +75,15 @@ Mathematical Implementations:
 - [Partitioning Around Medoids]
 - [Principal Component Analysis]
 - [Restricted Boltzmann Machine]
+
+### Semi-Supervised Learning
+
+[Back to top](#contents)
+
+- [Generative models]
+- [Low-density separation]
+- [Graph-based methods]
+- [Heuristic approaches]
 
 ### [Reinforcement Learning](https://github.com/gopala-kr/reinforce-tf)
 
