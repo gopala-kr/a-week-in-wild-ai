@@ -17,5 +17,10 @@
 ![nbt](https://media.springernature.com/full/nature-static/assets/v1/image-assets/nbt.4233-F1.jpg)
 -------
 ![1505939307](https://image.slidesharecdn.com/stratasqueezingmobiledeeplearning-170315173136/95/squeezing-deep-learning-into-mobile-phones-25-638.jpg?cb=1505939307)
+
+----------
+
+![whatsinside](https://software.intel.com/sites/default/files/managed/42/4f/whatsinside-openvino-toolkit.jpg)
+
 --------
 ----------
