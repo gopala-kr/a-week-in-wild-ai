@@ -6,7 +6,7 @@
 
 ----------
 
-### Taxonomy of AI Algorithms: Mathematical Implementations
+#### [Taxonomy of AI Algorithms: Mathematical Implementations]()
 
 
 > ##### Contents
@@ -17,7 +17,7 @@
 - [Reinforcement Learning](#reinforcement-learning)
 - [Deep Learning](#deep-learning)
   - [Neural Network](#neural-network)
-  - [Layers](#layers)
+  - [NN Layers](#nn-layers)
   - [Autoencoders](#autoencoders)
   - [Convolutional Neural Networks](#convolutional-neural-networks)
   - [Recurrent Neural Networks](#recurrent-neural-networks)
@@ -121,7 +121,7 @@
 
 [Back to top](#contents)
 
-#### Layers
+#### NN Layers
 
 [Back to top](#contents)
 
