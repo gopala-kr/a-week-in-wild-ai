@@ -122,7 +122,8 @@ Mathematical Implementations:
     * Reshape Layer
     * Up Sampling Layer
     * Zero Padding Layer
-  + [Autoencoders](https://github.com/gopala-kr/autoencoders)  [Back to top](#contents)
+##### [Autoencoders](https://github.com/gopala-kr/autoencoders)  
+[Back to top](#contents)
     - [AE]
     - [SparseAE]
     - [DeepAE]
@@ -135,7 +136,8 @@ Mathematical Implementations:
     - [CatVAE]
     - [AAE]
     - [WTA-AE]    
-  + [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)  [Back to top](#contents)
+##### [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)  
+[Back to top](#contents)
     - CNN Architectures
       - [LeNet-5 (1998)] 
       - [AlexNet (2012)]
@@ -149,7 +151,8 @@ Mathematical Implementations:
       - [ResNeXt(2016)]
       - [DenseNet(2016)]
       - [MobileNets]
-  + [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  [Back to top](#contents)
+#####  [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  
+[Back to top](#contents)
     - RNN Architectures
       - [LSTM]
       - [GRU (Gated Recurrent Unit)]
@@ -166,7 +169,8 @@ Mathematical Implementations:
       - [Segmental RNN]
       - [Seq2seq for Sets]
       - [Hierarchical Recurrent Neural Networks]    
-  + [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)  [Back to top](#contents)
+#####  [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)  
+[Back to top](#contents)
     - [DCGANs]
     - [cGANs]
     - [InfoGANs]
@@ -222,8 +226,11 @@ Mathematical Implementations:
     - [OptionGAN]
     - [RAN4IQA]
     - [Show, Reward and Tell]
-  + [Spiking Neural Networks]  [Back to top](#contents)
-  + [Quantum Neural Networks]  [Back to top](#contents)
+#####  [Spiking Neural Networks]  
+[Back to top](#contents)
+
+#####  [Quantum Neural Networks]  
+[Back to top](#contents)
   
 ### Applications
 
@@ -302,7 +309,7 @@ Mathematical Implementations:
 
 ---------------
 
-References:
+#### References
 
 - [Papers with code](https://github.com/gopala-kr/pwc)
 - [https://github.com/gopala-kr/summary](https://github.com/gopala-kr/summary)
