@@ -33,7 +33,7 @@ Mathematical Implementations:
 [Back to top](#contents)
 
 --------------
-#### Supervised Learning
+### Supervised Learning
 
 [Back to top](#contents)
 
@@ -59,7 +59,7 @@ Mathematical Implementations:
 - [Support Vector Machine]
 - [XGBoost]
 
-#### Unsupervised Learning
+### Unsupervised Learning
 
 [Back to top](#contents)
 
@@ -75,7 +75,7 @@ Mathematical Implementations:
 - [Principal Component Analysis]
 - [Restricted Boltzmann Machine]
 
-#### [Reinforcement Learning](https://github.com/gopala-kr/reinforce-tf)
+### [Reinforcement Learning](https://github.com/gopala-kr/reinforce-tf)
 
 [Back to top](#contents)
 
@@ -103,12 +103,18 @@ Mathematical Implementations:
        - [Behavioural cloning]
 
 
-#### Deep Learning
+### Deep Learning
 
 [Back to top](#contents)
 
-##### Neural Network
-##### Layers
+#### Neural Network
+
+[Back to top](#contents)
+
+#### Layers
+
+[Back to top](#contents)
+
    * Activation Layer
    * Average Pooling Layer
    * Batch Normalization Layer
@@ -123,7 +129,7 @@ Mathematical Implementations:
    * Up Sampling Layer
    * Zero Padding Layer
     
-##### [Autoencoders](https://github.com/gopala-kr/autoencoders) 
+#### [Autoencoders](https://github.com/gopala-kr/autoencoders) 
 
 [Back to top](#contents)
 
@@ -140,7 +146,7 @@ Mathematical Implementations:
   - [AAE]
   - [WTA-AE]  
     
-##### [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)  
+#### [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)  
 
 [Back to top](#contents)
 
@@ -158,7 +164,7 @@ Mathematical Implementations:
     - [DenseNet(2016)]
     - [MobileNets]
     
-#####  [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  
+####  [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  
 
 [Back to top](#contents)
 
@@ -179,7 +185,7 @@ Mathematical Implementations:
     - [Seq2seq for Sets]
     - [Hierarchical Recurrent Neural Networks]    
       
-#####  [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)  
+####  [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)  
 
 [Back to top](#contents)
 
@@ -239,12 +245,12 @@ Mathematical Implementations:
   - [RAN4IQA]
   - [Show, Reward and Tell]
   
-##### Spiking Neural Networks
+#### Spiking Neural Networks
 
 [Back to top](#contents)
 
 
-##### Quantum Neural Networks 
+#### Quantum Neural Networks 
 
 [Back to top](#contents)
 
@@ -275,7 +281,7 @@ Mathematical Implementations:
      - [DSP]
      - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
      - [Speech-to-Text-WaveNet]
-     - [wav2letter]\
+     - [wav2letter]
      - [Text-to-Speech]
      - [tacotron]
      - [kaldi]
@@ -328,6 +334,8 @@ Mathematical Implementations:
 
 #### References
 
+[Back to top](#contents)
+
 - [Papers with code](https://github.com/gopala-kr/pwc)
 - [https://github.com/gopala-kr/summary](https://github.com/gopala-kr/summary)
 - [State of the art resutls](https://github.com/gopala-kr/SoTA)
@@ -350,5 +358,8 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [In-Depth-ML](https://github.com/Puneet2000/In-Depth-ML)
 - [ml-videos](https://github.com/dustinvtran/ml-videos)
 - [Computer Vision Computer Vision Research Areas Today's Overview](http://www.cs.cornell.edu/projects/btr/bioinformaticsschool/slides/huttenlocher.pdf)
+
+
+[Back to top](#contents)
 
 ----------------
