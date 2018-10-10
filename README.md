@@ -16,6 +16,9 @@
 
 || [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [Taxonomy of AI Algorithms](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) ||
 
+-----------
+
+[Week-15](https://github.com/gopala-kr/reinforce-tf) : 14-20/10/2018 : [Reinforcement Learning](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week#reinforcement-learning)
 
 -----------
 
