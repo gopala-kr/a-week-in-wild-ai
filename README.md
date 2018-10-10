@@ -14,7 +14,7 @@
 
 ----------
 
-|| [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [ML Week](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) ||
+|| [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [Taxonomy of AI Algorithms: Mathematical Implementations](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) ||
 
 
 -----------
