@@ -6,7 +6,36 @@
 
 ----------
 
+Mathematical Implementations:
+
+
+> ##### Contents
+
+- [Supervised Learning](#supervised-learning)
+- [Unsupervised Learning](#unsupervised-learning)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Deep Learning](#deep-learning)
+  - [Neural Network](#neural-network)
+  - [Layers](#layers)
+  - [Autoencoders](#autoencoders)
+  - [Convolutional Neural Networks](#convolutional-neural-networks)
+  - [Recurrent Neural Networks](#recurrent-neural-networks)
+  - [Generative Adversarial Networks](#generative-adversarial-networks)
+  - [Spiking Neural Networks](#spiking-neural-networks)
+  - [Quantum Neural Networks](#quantum-neural-networks)
+- [Applications](#applications)
+- [Natural Langauge and Speech Processing](#natural-langauge-and-speech-processing)
+- [Computer Vision](#computer-vision)
+- [Robotics](#robotics)
+- [References](#references)
+
+
+[Back to top](#contents)
+
+--------------
 #### Supervised Learning
+
+[Back to top](#contents)
 
 - [Adaboost]
 - [Bayesian Regression]
@@ -32,6 +61,8 @@
 
 #### Unsupervised Learning
 
+[Back to top](#contents)
+
 - [Apriori]
 - [Autoencoder]
 - [DBSCAN]
@@ -45,6 +76,9 @@
 - [Restricted Boltzmann Machine]
 
 #### [Reinforcement Learning](https://github.com/gopala-kr/reinforce-tf)
+
+[Back to top](#contents)
+
    - Value Optimization
        - [QR-DQN]
        - [DQN]
@@ -70,6 +104,9 @@
 
 
 #### Deep Learning
+
+[Back to top](#contents)
+
   + [Neural Network]
   + [Layers]
     * Activation Layer
@@ -85,7 +122,7 @@
     * Reshape Layer
     * Up Sampling Layer
     * Zero Padding Layer
-  + [Autoencoders](https://github.com/gopala-kr/autoencoders)
+  + [Autoencoders](https://github.com/gopala-kr/autoencoders)  [Back to top](#contents)
     - [AE]
     - [SparseAE]
     - [DeepAE]
@@ -98,7 +135,7 @@
     - [CatVAE]
     - [AAE]
     - [WTA-AE]    
-  + [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)
+  + [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)  [Back to top](#contents)
     - CNN Architectures
       - [LeNet-5 (1998)] 
       - [AlexNet (2012)]
@@ -112,7 +149,7 @@
       - [ResNeXt(2016)]
       - [DenseNet(2016)]
       - [MobileNets]
-  + [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)
+  + [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  [Back to top](#contents)
     - RNN Architectures
       - [LSTM]
       - [GRU (Gated Recurrent Unit)]
@@ -129,7 +166,7 @@
       - [Segmental RNN]
       - [Seq2seq for Sets]
       - [Hierarchical Recurrent Neural Networks]    
-  + [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)
+  + [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)  [Back to top](#contents)
     - [DCGANs]
     - [cGANs]
     - [InfoGANs]
@@ -185,12 +222,17 @@
     - [OptionGAN]
     - [RAN4IQA]
     - [Show, Reward and Tell]
-  + [Spiking Neural Networks]
-  + [Quantum Neural Networks]
+  + [Spiking Neural Networks]  [Back to top](#contents)
+  + [Quantum Neural Networks]  [Back to top](#contents)
   
 ### Applications
 
-#### Natural Langauge & Speech Processing
+[Back to top](#contents)
+
+#### Natural Langauge and Speech Processing 
+
+[Back to top](#contents)
+
    - [Text Embeddings]
      - [word2vec]
      - [GloVe]
@@ -224,7 +266,11 @@
    - [Lexical Normalization]
    - [Part-of-speech tagging]
    - [Sentiment analysis]  
-#### Computer Vision
+   
+#### Computer Vision   
+
+[Back to top](#contents)
+
    - [Image Classification]
       - [Face Recognition]    
    - [Object Recognition]
@@ -239,7 +285,11 @@
    - [Motion Detection]
    - [Human Pose Estimation]
    - [3D Vision]
+   
 #### Robotics
+
+[Back to top](#contents)
+
  - [Robot Vision]
  - [DRL applied to robots]
  - [AlphaGo Zero]
