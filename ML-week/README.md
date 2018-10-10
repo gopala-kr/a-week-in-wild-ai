@@ -25,9 +25,9 @@
   - [Spiking Neural Networks](#spiking-neural-networks)
   - [Quantum Neural Networks](#quantum-neural-networks)
 - [Applications](#applications)
-- [Natural Langauge and Speech Processing](#natural-langauge-and-speech-processing)
-- [Computer Vision](#computer-vision)
-- [Robotics](#robotics)
+  - [Natural Langauge and Speech Processing](#natural-langauge-and-speech-processing)
+  - [Computer Vision](#computer-vision)
+  - [Robotics](#robotics)
 - [References](#references)
 
 
