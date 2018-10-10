@@ -107,140 +107,144 @@ Mathematical Implementations:
 
 [Back to top](#contents)
 
-  + [Neural Network]
-  + [Layers]
-    * Activation Layer
-    * Average Pooling Layer
-    * Batch Normalization Layer
-    * Constant Padding Layer
-    * Convolutional Layer
-    * Dropout Layer
-    * Flatten Layer
-    * Fully-Connected (Dense) Layer
-    * Fully-Connected RNN Layer
-    * Max Pooling Layer
-    * Reshape Layer
-    * Up Sampling Layer
-    * Zero Padding Layer
+##### Neural Network
+##### Layers
+   * Activation Layer
+   * Average Pooling Layer
+   * Batch Normalization Layer
+   * Constant Padding Layer
+   * Convolutional Layer
+   * Dropout Layer
+   * Flatten Layer
+   * Fully-Connected (Dense) Layer
+   * Fully-Connected RNN Layer
+   * Max Pooling Layer
+   * Reshape Layer
+   * Up Sampling Layer
+   * Zero Padding Layer
+    
 ##### [Autoencoders](https://github.com/gopala-kr/autoencoders) 
 
 [Back to top](#contents)
 
-    - [AE]
-    - [SparseAE]
-    - [DeepAE]
-    - [ConvAE]
-    - [UpconvAE]
-    - [DenoisingAE]
-    - [CAE]
-    - [Seq2SeqAE]
-    - [VAE]
-    - [CatVAE]
-    - [AAE]
-    - [WTA-AE]    
+  - [AE]
+  - [SparseAE]
+  - [DeepAE]
+  - [ConvAE]
+  - [UpconvAE]
+  - [DenoisingAE]
+  - [CAE]
+  - [Seq2SeqAE]
+  - [VAE]
+  - [CatVAE]
+  - [AAE]
+  - [WTA-AE]  
+    
 ##### [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)  
 
 [Back to top](#contents)
 
-    - CNN Architectures
-      - [LeNet-5 (1998)] 
-      - [AlexNet (2012)]
-      - [ZFNet(2013)]
-      - [GoogleNet/Inception(2014)]
-      - [VGGNet (2014)]
-      - [ResNet(2015)]
-      - [SegNet(2015)]
-      - [YOLO(2015)]
-      - [SqueezeNet(2016)]
-      - [ResNeXt(2016)]
-      - [DenseNet(2016)]
-      - [MobileNets]
+  - CNN Architectures
+    - [LeNet-5 (1998)] 
+    - [AlexNet (2012)]
+    - [ZFNet(2013)]
+    - [GoogleNet/Inception(2014)]
+    - [VGGNet (2014)]
+    - [ResNet(2015)]
+    - [SegNet(2015)]
+    - [YOLO(2015)]
+    - [SqueezeNet(2016)]
+    - [ResNeXt(2016)]
+    - [DenseNet(2016)]
+    - [MobileNets]
+    
 #####  [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  
 
 [Back to top](#contents)
 
-    - RNN Architectures
-      - [LSTM]
-      - [GRU (Gated Recurrent Unit)]
-      - [NTM]
-      - [Neural GPU]
-      - [Memory Network]
-      - [Pointer Network]
-      - [Deep Attention Recurrent Q-Network]
-      - [Dynamic Memory Networks]
-      - [Bi-directional RNN]
-      - [Multi-dimensional RNN]
-      - [ree-Structured RNNs]
-      - [Grid LSTM]
-      - [Segmental RNN]
-      - [Seq2seq for Sets]
-      - [Hierarchical Recurrent Neural Networks]    
+  - RNN Architectures
+    - [LSTM]
+    - [GRU (Gated Recurrent Unit)]
+    - [NTM]
+    - [Neural GPU]
+    - [Memory Network]
+    - [Pointer Network]
+    - [Deep Attention Recurrent Q-Network]
+    - [Dynamic Memory Networks]
+    - [Bi-directional RNN]
+    - [Multi-dimensional RNN]
+    - [ree-Structured RNNs]
+    - [Grid LSTM]
+    - [Segmental RNN]
+    - [Seq2seq for Sets]
+    - [Hierarchical Recurrent Neural Networks]    
       
 #####  [Generative Adversarial Networks](https://github.com/gopala-kr/GANs)  
 
 [Back to top](#contents)
 
-    - [DCGANs]
-    - [cGANs]
-    - [InfoGANs]
-    - [Wasserstein GANs]
-    - [LAPGAN]
-    - [GRAN ]
-    - [BiGANs]
-    - [f-GAN]
-    - [CoGAN]
-    - [EBGAN]
-    - [iGAN]
-    - [SeqGAN]
-    - [RenderGAN]
-    - [VGAN]
-    - [LSGANs]
-    - [IcGAN]
-    - [TGAN]
-    - [SAD-GAN]
-    - [C-RNN-GAN]
-    - [AANs]
-    - [StackGAN]
-    - [SGAN]
-    - [SalGAN]
-    - [AdaGAN]
-    - [GLS-GAN]
-    - [ArtGAN]
-    - [BS-GAN]
-    - [AM-GAN]
-    - [Triple-GAN]
-    - [DiscoGAN]
-    - [SEGAN]
-    - [CVAE-GAN]
-    - [SeGAN]
-    - [CycleGAN]
-    - [BEGAN]
-    - [MidiNet]
-    - [Semi-Latent GAN]
-    - [DualGAN]
-    - [A-Fast-RCNN]
-    - [MAGAN]
-    - [Gang of GANs]
-    - [Softmax GAN]
-    - [Show, Adapt and Tell]
-    - [Geometric GAN]
-    - [GeneGAN]
-    - [Flow-GAN]
-    - [SegAN]
-    - [DeLiGAN]
-    - [StackGAN]
-    - [Flow-GAN]
-    - [GraphGAN]
-    - [MuseGAN]
-    - [OptionGAN]
-    - [RAN4IQA]
-    - [Show, Reward and Tell]
-#####  [Spiking Neural Networks]  
+  - [DCGANs]
+  - [cGANs]
+  - [InfoGANs]
+  - [Wasserstein GANs]
+  - [LAPGAN]
+  - [GRAN ]
+  - [BiGANs]
+  - [f-GAN]
+  - [CoGAN]
+  - [EBGAN]
+  - [iGAN]
+  - [SeqGAN]
+  - [RenderGAN]
+  - [VGAN]
+  - [LSGANs]
+  - [IcGAN]
+  - [TGAN]
+  - [SAD-GAN]
+  - [C-RNN-GAN]
+  - [AANs]
+  - [StackGAN]
+  - [SGAN]
+  - [SalGAN]
+  - [AdaGAN]
+  - [GLS-GAN]
+  - [ArtGAN]
+  - [BS-GAN]
+  - [AM-GAN]
+  - [Triple-GAN]
+  - [DiscoGAN]
+  - [SEGAN]
+  - [CVAE-GAN]
+  - [SeGAN]
+  - [CycleGAN]
+  - [BEGAN]
+  - [MidiNet]
+  - [Semi-Latent GAN]
+  - [DualGAN]
+  - [A-Fast-RCNN]
+  - [MAGAN]
+  - [Gang of GANs]
+  - [Softmax GAN]
+  - [Show, Adapt and Tell]
+  - [Geometric GAN]
+  - [GeneGAN]
+  - [Flow-GAN]
+  - [SegAN]
+  - [DeLiGAN]
+  - [StackGAN]
+  - [Flow-GAN]
+  - [GraphGAN]
+  - [MuseGAN]
+  - [OptionGAN]
+  - [RAN4IQA]
+  - [Show, Reward and Tell]
+  
+##### Spiking Neural Networks
 
 [Back to top](#contents)
 
 
-#####  [Quantum Neural Networks]  
+##### Quantum Neural Networks 
 
 [Back to top](#contents)
 
