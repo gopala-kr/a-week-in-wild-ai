@@ -98,7 +98,7 @@
     - [CatVAE]
     - [AAE]
     - [WTA-AE]    
-  + [Convolutional Neual Networks](https://github.com/gopala-kr/CNNs)
+  + [Convolutional Neural Networks](https://github.com/gopala-kr/CNNs)
     - CNN Architectures
       - [LeNet-5 (1998)] 
       - [AlexNet (2012)]
@@ -206,6 +206,13 @@
    - [Text Summarization]
    - [Text Classification]
    - [ASR]
+     - [DSP]
+     - [DeepSpeech](https://github.com/mozilla/DeepSpeech)
+     - [Speech-to-Text-WaveNet]
+     - [wav2letter]\
+     - [Text-to-Speech]
+     - [tacotron]
+     - [kaldi]
    - [CCG supertagging]
    - [Coreference resolution]
    - [Dependency parsing]
