@@ -317,12 +317,12 @@
    - [Object Tracking]
    - [Object Localisation]
    - [Object Detection] 
-     - [Mask R-CNN](https://arxiv.org/abs/1703.06870) -- *Marr Prize at ICCV 2017*
-     - [RetinaNet](https://arxiv.org/abs/1708.02002) -- *Best Student Paper Award at ICCV 2017*
-     - [Faster R-CNN](https://arxiv.org/abs/1506.01497)
-     - [RPN](https://arxiv.org/abs/1506.01497)
-     - [Fast R-CNN](https://arxiv.org/abs/1504.08083)
-     - [R-FCN](https://arxiv.org/abs/1605.06409)
+     - [Mask R-CNN]
+     - [RetinaNet]
+     - [Faster R-CNN]
+     - [RPN]
+     - [Fast R-CNN]
+     - [R-FCN]
    - [Image Segmentation]
    - [Image Captioning]
    - [Biomedical Imaging]
