@@ -4,6 +4,9 @@
 
 [nb_viewer for notebooks](http://nbviewer.jupyter.org/github/gopala-kr/a-week-in-wild-ai/tree/master/ML-week/)
 
+
+[![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week)
+
 ----------
 
 #### [Taxonomy of AI Algorithms: Mathematical Implementations]()
