@@ -122,6 +122,7 @@ Source Deep Learning Toolkit ](http://images.nvidia.com/cn/gtc/downloads/pdf/par
 
 ##### Tensorflow [November 2015, Google Brain team]
 
+- [TensorFlow Roadmap](https://www.tensorflow.org/community/roadmap)
 
 ----------
 
