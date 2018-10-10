@@ -6,7 +6,7 @@
 
 ----------
 
-Taxonomy of AI Algorithms: Mathematical Implementations
+### Taxonomy of AI Algorithms: Mathematical Implementations
 
 
 > ##### Contents
