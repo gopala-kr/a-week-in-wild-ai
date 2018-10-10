@@ -368,7 +368,7 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [In-Depth-ML](https://github.com/Puneet2000/In-Depth-ML)
 - [ml-videos](https://github.com/dustinvtran/ml-videos)
 - [Computer Vision Computer Vision Research Areas Today's Overview](http://www.cs.cornell.edu/projects/btr/bioinformaticsschool/slides/huttenlocher.pdf)
-
+- [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
 
 [Back to top](#contents)
 
