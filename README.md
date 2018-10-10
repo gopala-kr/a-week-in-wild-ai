@@ -18,7 +18,7 @@
 
 -----------
 
-- [[Week-15](https://github.com/gopala-kr/reinforce-tf)] 14-20/10/2018 : [Reinforcement Learning](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week#reinforcement-learning)
+- [[Week-15-16](https://github.com/gopala-kr/reinforce-tf)] 14-20/10/2018 : [Reinforcement Learning](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week#reinforcement-learning)
 
 -----------
 
