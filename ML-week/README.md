@@ -369,6 +369,12 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [ml-videos](https://github.com/dustinvtran/ml-videos)
 - [Computer Vision Computer Vision Research Areas Today's Overview](http://www.cs.cornell.edu/projects/btr/bioinformaticsschool/slides/huttenlocher.pdf)
 - [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+- [How to build your own AlphaZero AI using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-alphazero-ai-using-python-and-keras-7f664945c188)
+- [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
+- [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+- [Reinforcement Learning from scratch](https://blog.insightdatascience.com/reinforcement-learning-from-scratch-819b65f074d8)
+- [Simple Reinforcement Learning with Tensorflow Part 0-8](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+
 
 [Back to top](#contents)
 
