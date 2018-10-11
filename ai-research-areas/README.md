@@ -2,6 +2,21 @@
 > Active AI research areas 
 
 ----------------
+Challenges of DL:
+ 
+- Big data analytics using Deep Learning
+- Scalability of DL approaches
+- Ability of generate data which is important where data is
+not available for learning the system (especially for
+computer vision task such as inverse graphics).
+- Energy efficient techniques for special purpose devices
+including mobile intelligence, FPGAs, and so on.
+- Multi-task and transfer learning (generalization) or
+multi-module learning. This means learning from
+different domains or with different models together.
+- Dealing with causality in learning.
+
+-----------
 
 - Transfer Learning
 
