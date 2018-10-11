@@ -164,18 +164,33 @@
 [Back to top](#contents)
 
   - CNN Architectures
-    - [LeNet-5 (1998)] 
+    - [LeNet(1998)] 
+    - [LeNet-5 (2010)] 
     - [AlexNet (2012)]
     - [ZFNet(2013)]
-    - [GoogleNet/Inception(2014)]
     - [VGGNet (2014)]
+    - [GoogleNet/Inception(2014)]
     - [ResNet(2015)]
+    - [FractalNet (2016)]
+    - [PolyNet/Inception-Residual(2016)]
+    - [DenseNet(2017)]    
     - [SegNet(2015)]
     - [YOLO(2015)]
     - [SqueezeNet(2016)]
     - [ResNeXt(2016)]
-    - [DenseNet(2016)]
+    - [CapsueNet(2017)]
     - [MobileNets]
+    - [fast region based CNN]
+    - [Xception]
+    - [RCNN]
+    - [IRCNN]
+    - [ViP CNN]
+    - [Look up based CNN]
+    - [FCN]
+    - [deep network with stochastic depth]
+    - [deeply-supervised networks]
+    - [ladder network]
+    
     
 ####  [Recurrent Neural Networks](https://github.com/gopala-kr/recurrent-nn)  
 
