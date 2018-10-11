@@ -490,7 +490,8 @@ Deep Learning Models in TensorFlow](https://idl.cs.washington.edu/files/2018-Ten
 - [The Anatomy of Deep Learning Frameworks](https://www.kdnuggets.com/2017/02/anatomy-deep-learning-frameworks.html)
 - [Deep Learning Frameworks](https://developer.nvidia.com/deep-learning-frameworks)
 - [Intel® 64 and IA-32 Architectures Software Developer Manuals](https://software.intel.com/en-us/download/intel-64-and-ia-32-architectures-sdm-combined-volumes-1-2a-2b-2c-2d-3a-3b-3c-3d-and-4)
-
+- [LBANN: Livermore Big Artificial Neural Network HPC
+Toolkit](https://e-reports-ext.llnl.gov/pdf/800918.pdf)
 
 ------------
 ---------------------
