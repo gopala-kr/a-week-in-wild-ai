@@ -114,6 +114,8 @@
    - [DFP]
    - Imitation
        - [Behavioural cloning]
+       - [Inverse Reinforcement Learning]
+       - [Generative Adversarial Imitation Learning]
 
 
 ### Deep Learning
