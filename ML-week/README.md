@@ -29,7 +29,7 @@
   - [Quantum Neural Networks](#quantum-neural-networks)
 - [Applications](#applications)
   - [Natural Langauge and Speech Processing](#natural-langauge-and-speech-processing)
-  - [Computer Vision](#computer-vision)
+  - [Computer Vision and Image Processing](#computer-vision-an-image-processing)
   - [Robotics](#robotics)
 - [References](#references)
 
@@ -325,7 +325,7 @@
    - [Part-of-speech tagging]
    - [Sentiment analysis]  
    
-#### Computer Vision   
+#### Computer Vision and Image Processing
 
 [Back to top](#contents)
 
