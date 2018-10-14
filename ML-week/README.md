@@ -29,8 +29,8 @@
   - [Quantum Neural Networks](#quantum-neural-networks)
 - [Applications](#applications)
   - [Natural Langauge and Speech Processing](#natural-langauge-and-speech-processing)
-  - [Computer Vision and Image Processing](#computer-vision-an-image-processing)
-  - [Robotics](#robotics)
+  - [Computer Vision and Image Processing](#computer-vision-and-image-processing)
+  - [Robotics and Control](#robotics-and-control)
 - [References](#references)
 
 
@@ -355,7 +355,7 @@
    - [Human Pose Estimation]
    - [3D Vision]
    
-#### Robotics
+#### Robotics and Control
 
 [Back to top](#contents)
 
