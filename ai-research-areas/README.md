@@ -6,7 +6,7 @@ Challenges of DL:
  
 - Big data analytics using Deep Learning
 - Scalability of DL approaches
-- Ability of generate data which is important where data is
+- Ability to generate data which is important where data is
 not available for learning the system (especially for
 computer vision task such as inverse graphics).
 - Energy efficient techniques for special purpose devices
