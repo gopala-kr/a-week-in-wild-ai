@@ -18,6 +18,7 @@
 - [Unsupervised Learning](#unsupervised-learning)
 - [Semi-Supervised Learning](#semi-supervised-learning)
 - [Reinforcement Learning](#reinforcement-learning)
+  - [Deep RL]
 - [Deep Learning](#deep-learning)
   - [Neural Network](#neural-network)
   - [NN Layers](#nn-layers)
