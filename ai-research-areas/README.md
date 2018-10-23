@@ -42,7 +42,7 @@ different domains or with different models together.
 
 - Advesarial attacks on DL networks 
 
-- AutoML(meta-learning)
+- AutoML(meta-learning) , https://sites.google.com/site/automl2018icml/
 
 - Decentralized data sharing and training
 
