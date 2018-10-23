@@ -517,3 +517,6 @@ Learning](http://www.cs.cornell.edu/courses/cs6787/2017fa/Lecture11.pdf)
 ----------
 ![Graph](https://ark-invest.com/wp-content/uploads/2017/09/GPU-vs-TPU-Graph-5-1-1500x572.png)
 ----------
+
+![ekXLMTSWc5kr3bqR](https://cdn-images-1.medium.com/max/2000/0*ekXLMTSWc5kr3bqR)
+-----------
