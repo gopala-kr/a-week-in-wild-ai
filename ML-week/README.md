@@ -362,6 +362,12 @@
 
  - [Robot Vision]
  - [DRL applied to robots]
+   - [Sim-to-Real]
+   - [Imitation Learning]
+   - [Value-based Learning]
+   - [Policy-based Learning]
+   - [Model-based Learning]
+   - [ Autonomous Driving Vehicles]
  - [AlphaGo Zero]
  - [AlphaGo]
  - [Atari Games]
