@@ -1,6 +1,32 @@
 
 > Active AI research areas 
 
+
+-------------
+
+RL Research Directions
+
+- Research direction
+1, systematic, comparative study of deep RL algorithms, is about reproducibility, and under
+the surface, about stability and convergence properties of deep RL algorithms. 
+
+- Research direction
+2, ”solve” multi-agent problems, is usually about sample efficiency, sparse reward, stability, nonstationarity,
+and convergence in a large-scale, complex setting, a frontier in AI research. 
+
+- Research
+direction 3, learn from entities, but not just raw inputs, is about sample efficiency, sparse reward,
+and interpretability, by incorporating more knowledge, structure, and inductive bias. 
+
+- Research direction 4, design an optimal representation for RL.
+
+- Research direction 5, AutoRL .
+
+- Research direction 6, develop killer applications for (deep) RL, are about the whole RL problem, about all
+issues in RL, like credit assignment, sparse reward, time/space/sample efficiency, accuracy, stability,
+convergence, interpretability, safety, scalability, robustness, simplicity, etc, from different angles
+of representation, automation, and application, respectively. 
+
 ----------------
 Challenges of DL:
  
