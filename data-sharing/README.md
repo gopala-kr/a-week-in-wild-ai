@@ -2,9 +2,11 @@
 
 
 
+-----------
 
+> [Dtata Sharing-PPT by Gopala KR](https://github.com/gopala-kr/fundamentals/blob/master/use-cases/data%20sharing.pdf)
 
-
+----------------
 - [A Technical Framework for Data Sharing](https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-18762014000300005)
 - [Data Sharing
 Frameworks](https://www.acs.org.au/content/dam/acs/acs-publications/ACS_Data-Sharing-Frameworks_FINAL_FA_SINGLE_LR.pdf)
