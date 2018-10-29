@@ -27,6 +27,19 @@ issues in RL, like credit assignment, sparse reward, time/space/sample efficienc
 convergence, interpretability, safety, scalability, robustness, simplicity, etc, from different angles
 of representation, automation, and application, respectively. 
 
+-----------
+
+[OpenAI Special Porject](https://blog.openai.com/special-projects/)
+
+
+- Detect if someone is using a covert breakthrough AI system in the world. As the number of organizations and resources allocated to AI research increases, the probability increases that an organization will make an undisclosed AI breakthrough and use the system for potentially malicious ends. It seems important to detect this. We can imagine a lot of ways to do this — looking at the news, financial markets, online games, etc.
+
+- Build an agent to win online programming competitions. A program that can write other programs would be, for obvious reasons, very powerful.
+
+- Cyber-security defense. An early use of AI will be to break into computer systems. We’d like AI techniques to defend against sophisticated hackers making heavy use of AI methods.
+
+- A complex simulation with many long-lived agents. We’re interested in building a very large simulation with lots of different agents in it that can interact with each other, learn over a long period of time, discover language, and accomplish a rich variety of goals.
+
 ----------------
 Challenges of DL:
  
