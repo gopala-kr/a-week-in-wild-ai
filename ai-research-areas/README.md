@@ -1,6 +1,11 @@
 
 > Active AI research areas 
 
+---------
+
+-------------
+- [Ingredients for
+Robotics Research](https://blog.openai.com/ingredients-for-robotics-research/)
 
 -------------
 
