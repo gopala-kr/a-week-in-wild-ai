@@ -3,7 +3,8 @@
 
 ---------
 
--------------
+- [The Scene Understanding and Modeling(SUMO) Challenge
+](https://sumochallenge.org/), Deadline November 16th, 2018. 
 - [Ingredients for
 Robotics Research](https://blog.openai.com/ingredients-for-robotics-research/)
 
