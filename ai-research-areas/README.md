@@ -1,12 +1,6 @@
 
 > Active AI research areas 
 
----------
-
-
-- [Ingredients for
-Robotics Research](https://blog.openai.com/ingredients-for-robotics-research/)
-
 -------------
 
 RL Research Directions
@@ -110,5 +104,7 @@ different domains or with different models together.
 - [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
 - [Deep Learning: Which Loss and Activation Functions should I use?](https://medium.com/@srnghn/deep-learning-which-loss-and-activation-functions-should-i-use-ac02f1c56aa8)
 - [image-kernels](http://setosa.io/ev/image-kernels/)
+- [Ingredients for
+Robotics Research](https://blog.openai.com/ingredients-for-robotics-research/)
 
 --------
