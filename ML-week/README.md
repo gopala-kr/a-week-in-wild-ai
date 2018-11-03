@@ -380,15 +380,17 @@
 
 #### Evolutionary Algorithms
 
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
-- []
+- [Genetic Algorithm]
+- [Genetic Programming]
+- [Evolution Strategies]
+- [Differential Evolution]
+- [Evolutionary Programming]
+- [Grammatical Evolution]
+- [Gene Expression Programming]
+- [Learning Classifier System]
+- [Non-dominated Sorting Genetic Algorithm]
+- [Strength Pareto Evolutionary Algorithm]
+
 
 ---------------
 
