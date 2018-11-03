@@ -32,6 +32,7 @@
   - [Natural Langauge and Speech Processing](#natural-langauge-and-speech-processing)
   - [Computer Vision and Image Processing](#computer-vision-and-image-processing)
   - [Robotics and Control](#robotics-and-control)
+- [Evolutionary Algorithms](#evolutionary-algorithms)
 - [References](#references)
 
 
@@ -375,6 +376,19 @@
  - [Starcraft]
  - [SLAM Algorithms]
  - [Kalman and Bayesian Filters]
+
+
+#### Evolutionary Algorithms
+
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
+- []
 
 ---------------
 
