@@ -380,6 +380,8 @@
 
 #### Evolutionary Algorithms
 
+[Back to top](#contents)
+
 - [Genetic Algorithm]
 - [Genetic Programming]
 - [Evolution Strategies]
