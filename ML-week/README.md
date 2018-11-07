@@ -211,7 +211,7 @@
     - [Dynamic Memory Networks]
     - [Bi-directional RNN]
     - [Multi-dimensional RNN]
-    - [ree-Structured RNNs]
+    - [Tree-Structured RNNs]
     - [Grid LSTM]
     - [Segmental RNN]
     - [Seq2seq for Sets]
