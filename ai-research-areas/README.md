@@ -107,5 +107,6 @@ different domains or with different models together.
 - [image-kernels](http://setosa.io/ev/image-kernels/)
 - [Ingredients for
 Robotics Research](https://blog.openai.com/ingredients-for-robotics-research/)
+- [AI Knowledge Map: how to classify AI technologies](https://medium.com/@Francesco_AI/ai-knowledge-map-how-to-classify-ai-technologies-6c073b969020)
 
 --------
