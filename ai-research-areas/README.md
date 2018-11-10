@@ -97,6 +97,7 @@ different domains or with different models together.
  
 -------------
 
+- [Unsolved Problems in AI](https://medium.com/ai-roadmap-institute/unsolved-problems-in-ai-38f4ce18921d)
 - [OpenAI: Requests for Research](https://openai.com/requests-for-research/#parallel-trpo)
 - [State of AI](https://www.stateof.ai/?utm_campaign=nathan.ai%20newsletter&utm_medium=email&utm_source=Revue%20newsletter)
 - [AI in 2018 for researchers](https://blog.goodaudience.com/ai-in-2018-for-researchers-8955df0caaf9)
