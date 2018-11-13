@@ -412,6 +412,7 @@
 - [Mathematics of Deep Learning](https://arxiv.org/pdf/1712.04741.pdf)
 - [Mathematics of Deep Learning ](http://www.vision.jhu.edu/tutorials/ICCV17-Tutorial-Math-Deep-Learning-Intro-Rene.pdf)
 - [Mathematics of Deep Learning](https://cims.nyu.edu/~bruna/Media/cims_oct19.pdf)
+- [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/pdf/1802.01528v2.pdf)
 - [Google: Rules of Machine Learning:
 Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [deep-learning-glossary](http://www.wildml.com/deep-learning-glossary/)
