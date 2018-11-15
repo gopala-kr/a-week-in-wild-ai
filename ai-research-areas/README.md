@@ -3,6 +3,10 @@
 
 -------------
 
+- [Research Directions: NLP and transfer learning](http://ruder.io/requests-for-research/)
+
+---------
+
 RL Research Directions
 
 - Research direction
