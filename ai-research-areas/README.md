@@ -4,7 +4,7 @@
 -------------
 
 - [Research Directions: NLP and transfer learning](http://ruder.io/requests-for-research/)
-
+- [AI Open network](https://ai-on.org/)
 ---------
 
 RL Research Directions
