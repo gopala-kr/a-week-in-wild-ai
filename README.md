@@ -20,7 +20,7 @@
 
 - [[Week-15-16-17](https://github.com/gopala-kr/reinforce-tf)] 14-28/10/2018 : [Reinforcement Learning](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week#reinforcement-learning) (to be continued from 19th Nov)
 - [Week-18-19-20] 18/11/2018 : revisit(time travel) from 2010 to Oct-2018
-- [Week-21] 25/11/2018 : Continue [Reinforcement Learning](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week#reinforcement-learning)
+- [Week-21] 25/11/2018 :  [Deep Reinforcement Learning](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week#reinforcement-learning) Continued..
 
 -----------
 
