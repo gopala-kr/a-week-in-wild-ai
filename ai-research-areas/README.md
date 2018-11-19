@@ -34,6 +34,8 @@ of representation, automation, and application, respectively.
 
 [OpenAI Special Porject](https://blog.openai.com/special-projects/)
 
+- [requests-for-research-1](https://openai.com/requests-for-research/)
+
 
 - Detect if someone is using a covert breakthrough AI system in the world. As the number of organizations and resources allocated to AI research increases, the probability increases that an organization will make an undisclosed AI breakthrough and use the system for potentially malicious ends. It seems important to detect this. We can imagine a lot of ways to do this — looking at the news, financial markets, online games, etc.
 
