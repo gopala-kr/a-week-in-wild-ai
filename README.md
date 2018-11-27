@@ -26,7 +26,7 @@
 
 ![ai-toolchain-2018f](https://www.blumbergcapital.com/cnt/uploads/2018/11/ai-toolchain-2018f.png)
 
-[Source](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
+source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
 
 -----------
 
