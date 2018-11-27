@@ -42,6 +42,10 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 
 ----------
 
+[enterprise_ai_landscape_2018_2019](https://www.topbots.com/downloads/infographics/topbots_enterprise_ai_landscape_2018_2019_v2.pdf)
+
+----------
+
 [2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
 
 -------------
