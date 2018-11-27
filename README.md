@@ -24,6 +24,12 @@
 
 -----------
 
+![ai-toolchain-2018f](https://www.blumbergcapital.com/cnt/uploads/2018/11/ai-toolchain-2018f.png)
+
+[Source](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
+
+-----------
+
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 
 -----------
