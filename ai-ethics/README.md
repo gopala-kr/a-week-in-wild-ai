@@ -1,19 +1,19 @@
-## Discussion
+#### Discussion
 * [Cathy O’Neil Twitter Discussion 'Algorithms are a threat to society and so far, academia is asleep at the wheel.'](https://twitter.com/mathbabedotorg/status/930429461165760512)
 
-## Discussion
+####  Discussion
 * [AI Ethics on Reddit](https://www.reddit.com/r/AIethics/)
 * [(HN) Attacking discrimination with smarter machine learning](https://news.ycombinator.com/item?id=13004790)
 * [(HN) Cathy O’Neil on Weapons of Math Destruction](https://news.ycombinator.com/item?id=12642432)
 * [(HN) on Neural Net Trained on Mugshots Predicts Criminals](https://news.ycombinator.com/item?id=13034116)
 * [(HN) Justice.exe: Bias in Algorithmic sentencing ](https://news.ycombinator.com/item?id=14285116)
 
-## Podcast
+####  Podcast
 
 * [EconTalk Episode with Cathy O'Neil](http://www.econtalk.org/archives/2016/10/cathy_oneil_on_1.html)
 * [Machine Ethic Podcasts](http://machine-ethics.net/podcast/)
 
-## Videos
+####  Videos
 
 * [Ethics of Artificial Intelligence conference NYU 2016](https://livestream.com/nyu-tv/ethicsofAI/)
 * [A Story of Discrimination and Unfairness - Aylin Caliskan 33c3 2016](https://media.ccc.de/v/33c3-8026-a_story_of_discrimination_and_unfairness)
@@ -22,7 +22,7 @@
 * [Eyeo 2018 - Meredith Whittaker - DATA GENESIS: AI'S PRIMORDIAL SOUP](https://vimeo.com/287094149)
 * ["Privacy: the Last Stand for Fair Algorithms" by Katharine Jarmul](https://www.youtube.com/watch?v=j4WRv6GNuDM)
 
-## Papers 
+####  Papers 
 
 * [Bias in Computer Systems](https://www.nyu.edu/projects/nissenbaum/papers/biasincomputers.pdf)
 * [Equality of Opportunity in Supervised Learning](https://drive.google.com/file/d/0B-wQVEjH9yuhanpyQjUwQS1JOTQ/view)
@@ -37,13 +37,13 @@
 * [Delayed Impact of Fair Machine Learning](http://bair.berkeley.edu/blog/2018/05/17/delayed-impact/)
 * [Bias detectives: the researchers striving to make algorithms fair](https://www.nature.com/articles/d41586-018-05469-3)
 * [ No Classification without Representation: Assessing Geodiversity Issues in Open Data Sets for the Developing World](https://arxiv.org/abs/1711.08536)
-## Books
+####  Books
 
 * [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.com/Weapons-Math-Destruction-Increases-Inequality/dp/0553418815/ref=sr_1_1?ie=UTF8&qid=1479818920&sr=8-1&keywords=Weapons-Math-Destruction-Increases-Inequality)
 * [Interpretable Machine Learning A Guide for Making Black Box Models Explainable.](https://christophm.github.io/interpretable-ml-book/)
 * [Fairness and machine learning book](http://fairmlbook.org/)
 
-## Articles
+####  Articles
 * [Algorithms: AI’s creepy control must be open to inspection](https://www.theguardian.com/commentisfree/2017/jan/01/algorithms-ai-artificial-intelligence-facebook-accountability)
 * [AI watchdog needed to regulate automated decision-making, say experts](https://www.theguardian.com/technology/2017/jan/27/ai-artificial-intelligence-watchdog-needed-to-prevent-discriminatory-automated-decisions)
 * [Scholars Delve Deeper Into The Ethics Of Artificial Intelligence](http://www.npr.org/sections/alltechconsidered/2016/11/21/502905772/scholars-delve-deeper-into-the-ethics-of-artificial-intelligence)
@@ -82,7 +82,7 @@
 * [Amazon scraps secret AI recruiting tool that showed bias against women](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scraps-secret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
 * [A skeptic’s guide to thinking about AI -  on AI Now 2018](https://www.fastcompany.com/90252753/a-skeptics-guide-to-thinking-about-ai)
 
-## Others
+####  Others
 * [Machine ethics: The robot’s dilemma](http://www.nature.com/news/machine-ethics-the-robot-s-dilemma-1.17881)
 * [Morals and the machine](http://www.economist.com/node/21556234)
 * [Robotics: Ethics of artificial intelligence](http://www.nature.com/news/robotics-ethics-of-artificial-intelligence-1.17611)
@@ -97,10 +97,10 @@
 * [NORMAN World's first psychopath AI](http://norman-ai.mit.edu/)
 * [AI can be sexist and racist — it’s time to make it fair](https://www.nature.com/articles/d41586-018-05707-8)
 
-## Reports
+####  Reports
 * [ARTIFICIAL INTELLIGENCE AND LIFE IN 2030 - 2016 Report](https://ai100.stanford.edu/2016-report)
 
-## Conferences, Workshops, Symposiums 
+####  Conferences, Workshops, Symposiums 
 
 * [Workshop on Fairness, Accountability, and Transparency in Machine Learning](http://www.fatml.org/)
 * [AI Now](https://artificialintelligencenow.com/schedule/2017-symposium)
@@ -111,7 +111,7 @@
 * [Ethics in Mathematics - Cambridge University](http://www.ethics.maths.cam.ac.uk/EiM1/)
 * [AI Now 2018 Symposium - video](https://www.youtube.com/watch?v=NmdAtfcmTNg)
 
-## Classes
+#### Classes
 
 * [Fairness in Machine Learning](https://fairmlclass.github.io/)
 * [INFO 4270: ETHICS AND POLICY IN DATA SCIENCE](https://docs.google.com/document/d/1GV97qqvjQNvyM2I01vuRaAwHe9pQAZ9pbP7KkKveg1o/)
@@ -119,12 +119,12 @@
 * [An Introduction to Data Ethics](https://www.scu.edu/ethics/focus-areas/technology-ethics/resources/an-introduction-to-data-ethics/)
 * [Machine Learning Fairness by Google](https://developers.google.com/machine-learning/crash-course/fairness/video-lecture)
 
-## Lists 
+#### Lists 
 
 * [A critical reading list for engineers, designers, and policy makers](https://github.com/rockita/criticalML)
 * [Awesome-Machine-Learning-Interpretability](https://github.com/jphall663/awesome-machine-learning-interpretability)
 * [Fast AI Ethics Resources](https://www.fast.ai/2018/09/24/ai-ethics-resources/)
-## People and Organizations
+####  People and Organizations
 
 * [Kate Crawford](http://www.katecrawford.net/)
 * [Meredith Whittaker](https://twitter.com/mer__edith)
