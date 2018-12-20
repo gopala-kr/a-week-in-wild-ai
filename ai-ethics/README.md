@@ -1,4 +1,5 @@
 #### Discussion
+
 * [Cathy O’Neil Twitter Discussion 'Algorithms are a threat to society and so far, academia is asleep at the wheel.'](https://twitter.com/mathbabedotorg/status/930429461165760512)
 
 ####  Discussion
