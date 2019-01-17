@@ -9,3 +9,4 @@
 - [endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game. http://endless-sky.github.io/
 - [3d-particle-explorations](https://tympanus.net/Development/3d-particle-explorations/) - Particle animation explorations in 3D space with three.js
 - [The New Age of Discovery: Space Exploration and Machine Learning](https://medium.com/syncedreview/the-new-age-of-discovery-space-exploration-and-machine-learning-64883f7dc7f9)
+- [NASA's Space AI Hunts Exoplanets, Not Humans — Yet](https://www.space.com/40711-artificial-intelligence-space-and-humanity.html)
