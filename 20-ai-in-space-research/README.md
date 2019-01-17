@@ -35,18 +35,8 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 - [Denoising Gravitational Waves using Deep Learning with Recurrent Denoising Autoencoders](https://arxiv.org/abs/1711.09919v1)
 - [Pulsar Candidate Identification with Artificial Intelligence Techniques](https://arxiv.org/abs/1711.10339v1)
 - [Deep-Learnt Classification of Light Curves](https://arxiv.org/abs/1709.06257v1)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Machine Learning in High Energy Physics Community White Paper](https://arxiv.org/abs/1807.02876v1)
+- [Fast inference of deep neural networks in FPGAs for particle physics](https://arxiv.org/abs/1804.06913v3)
 
 
 
