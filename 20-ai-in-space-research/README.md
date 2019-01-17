@@ -23,3 +23,31 @@ Domains Workshop – Summary Report](https://ntrs.nasa.gov/archive/nasa/casi.ntr
 - [ARTIFICIAL INTELLIGENCE FOR
 SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/files/heliophysics/resources/presentations/2018_Guhathakurta.pdf)
 - [Machine learning in space: extending our reach](https://www.semanticscholar.org/paper/Machine-learning-in-space%3A-extending-our-reach-McGovern-Wagstaff/b564107c412bce2cae9f4793769e014f1dd8c16a)
+
+---------------
+
+- [Big Universe, Big Data: Machine Learning and Image Analysis for Astronomy](https://arxiv.org/abs/1704.04650v1)
+- [ASTROMLSKIT: A New Statistical Machine Learning Toolkit: A Platform for Data Analytics in Astronomy](https://arxiv.org/abs/1504.07865v1)
+- [Machine Learning in Astronomy: A Case Study in Quasar-Star Classification](https://arxiv.org/abs/1804.05051v1)
+- [SKYNET: an efficient and robust neural network training tool for machine learning in astronomy](https://arxiv.org/abs/1309.0790v2)
+- [Advanced Image Processing for Astronomical Images](https://arxiv.org/abs/1812.09702v1)
+- [Single-epoch supernova classification with deep convolutional neural networks](https://arxiv.org/abs/1711.11526v1)
+- [Denoising Gravitational Waves using Deep Learning with Recurrent Denoising Autoencoders](https://arxiv.org/abs/1711.09919v1)
+- [Pulsar Candidate Identification with Artificial Intelligence Techniques](https://arxiv.org/abs/1711.10339v1)
+- [Deep-Learnt Classification of Light Curves](https://arxiv.org/abs/1709.06257v1)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+------------
