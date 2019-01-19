@@ -53,3 +53,33 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 
 
 -----------------
+
+- [From Satellite Imagery to Disaster Insights](https://arxiv.org/abs/1812.07033v1)
+- [Canonical Correlation Analysis for Misaligned Satellite Image Change Detection](https://arxiv.org/abs/1812.09280v1)
+- [Cascaded Coarse-to-Fine Deep Kernel Networks for Efficient Satellite Image Change Detection](https://arxiv.org/abs/1812.09119v1)
+- [The Effects of Super-Resolution on Object Detection Performance in Satellite Imagery](https://arxiv.org/abs/1812.04098v2)
+- [Learning Dense Stereo Matching for Digital Surface Models from Satellite Imagery](https://arxiv.org/abs/1811.03535v2)
+- [Assigning a Grade: Accurate Measurement of Road Quality Using Satellite Imagery](https://arxiv.org/abs/1812.01699v2)
+- [Multi3Net: Segmenting Flooded Buildings via Fusion of Multiresolution, Multisensor, and Multitemporal Satellite Imagery](https://arxiv.org/abs/1812.01756v1)
+- [Semantic Stereo for Incidental Satellite Images](https://arxiv.org/abs/1811.08739v1)
+- [Focusing on the Big Picture: Insights into a Systems Approach to Deep Learning for Satellite Imagery](https://arxiv.org/abs/1811.04893v1)
+- [Deep Learning Approach for Building Detection in Satellite Multispectral Imagery](https://arxiv.org/abs/1811.04247v1)
+- [Monitoring spatial sustainable development: Semi-automated analysis of satellite and aerial images for energy transition and sustainability indicators](https://arxiv.org/abs/1810.04881v1)
+- [Learning to Interpret Satellite Images Using Wikipedia](https://arxiv.org/abs/1809.10236v1)
+- [Take a Look Around: Using Street View and Satellite Images to Estimate House Prices](https://arxiv.org/abs/1807.07155v1)
+- [Infrastructure Quality Assessment in Africa using Satellite Imagery and Deep Learning](https://arxiv.org/abs/1806.00894v1)
+- [You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery](https://arxiv.org/abs/1805.09512v1)
+- [DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images](https://arxiv.org/abs/1805.06561v1)
+- [M3Fusion: A Deep Learning Architecture for Multi-{Scale/Modal/Temporal} satellite data fusion](https://arxiv.org/abs/1803.01945v1)
+- [An Ontology for Satellite Databases](https://arxiv.org/abs/1801.02940v1)
+- [Poverty Prediction with Public Landsat 7 Satellite Imagery and Machine Learning](https://arxiv.org/abs/1711.03654v1)
+- [Building Detection from Satellite Images on a Global Scale](https://arxiv.org/abs/1707.08952v1)
+- [Deep Learning Based Large-Scale Automatic Satellite Crosswalk Classification](https://arxiv.org/abs/1706.09302v2)
+- [Solar Power Plant Detection on Multi-Spectral Satellite Imagery using Weakly-Supervised CNN with Feedback Features and m-PCNN Fusion](https://arxiv.org/abs/1704.06410v2)
+- [Recurrent Neural Networks to Correct Satellite Image Classification Maps](https://arxiv.org/abs/1608.03440v3)
+- [Data-Intensive Supercomputing in the Cloud: Global Analytics for Satellite Imagery](https://arxiv.org/abs/1702.03935v1)
+- [Accurate Vision-based Vehicle Localization using Satellite Imagery](https://arxiv.org/abs/1510.09171v1)
+- [Major Limitations of Satellite images](https://arxiv.org/abs/1307.2434v1)
+- [Merging Satellite Measurements of Rainfall Using Multi-scale Imagery Technique](https://arxiv.org/abs/1304.3406v1)
+
+---------------
