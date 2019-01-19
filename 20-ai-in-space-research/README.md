@@ -48,5 +48,6 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 - [How hard is it for an AI to detect ships on satellite images?](https://medium.com/earthcube-stories/how-hard-it-is-for-an-ai-to-detect-ships-on-satellite-images-7265e34aadf0)
 - [AI Applications for Satellite Imagery and Satellite Data](https://emerj.com/ai-sector-overviews/ai-applications-for-satellite-imagery-and-data/)
 - [How AI lets us see the full potential of satellite imaging (VIDEO)](https://news.itu.int/ai-satellite-images/)
+- [Stanford is Using Machine Learning on Satellite Images to Predict Poverty](https://www.analyticsvidhya.com/blog/2018/02/stanford-using-machine-learning-satellite-images-predict-poverty/)
 
 -----------------
