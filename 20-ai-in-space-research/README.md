@@ -46,6 +46,6 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 - [Skylab Analytics](http://skylabanalytics.com/)
 - [The tremendous potential of Machine Learning in satellite imagery](https://www.geospatialworld.net/blogs/machine-learning-in-satellite-imagery/)
 - [How hard is it for an AI to detect ships on satellite images?](https://medium.com/earthcube-stories/how-hard-it-is-for-an-ai-to-detect-ships-on-satellite-images-7265e34aadf0)
-
+- [AI Applications for Satellite Imagery and Satellite Data](https://emerj.com/ai-sector-overviews/ai-applications-for-satellite-imagery-and-data/)
 
 -----------------
