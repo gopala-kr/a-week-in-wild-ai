@@ -83,3 +83,18 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 - [Merging Satellite Measurements of Rainfall Using Multi-scale Imagery Technique](https://arxiv.org/abs/1304.3406v1)
 
 ---------------
+Satellite Datasets
+
+- [Statlog (Landsat Satellite) Data Set ](https://archive.ics.uci.edu/ml/datasets/Statlog+(Landsat+Satellite))
+- [https://earthexplorer.usgs.gov/](https://earthexplorer.usgs.gov/)
+- [https://search.earthdata.nasa.gov/](https://search.earthdata.nasa.gov/)
+- [http://www.dgi.inpe.br/CDSR/](http://www.dgi.inpe.br/CDSR/)
+- [http://bhuvan-noeda.nrsc.gov.in/data/download/index.php](http://bhuvan-noeda.nrsc.gov.in/data/download/index.php)
+- [https://www.eorc.jaxa.jp/ALOS/en/aw3d30/](https://www.eorc.jaxa.jp/ALOS/en/aw3d30/)
+- [www.vito-eodata.be](http://www.vito-eodata.be/PDF/portal/Application.html#Home)
+- [http://www.digitalglobe.com/](http://www.digitalglobe.com/)
+- [https://www.unavco.org/data/imaging/sar/sar.html](https://www.unavco.org/data/imaging/sar/sar.html)
+- [http://odds.cs.stonybrook.edu/satellite-dataset/](http://odds.cs.stonybrook.edu/satellite-dataset/)
+- [https://www.kaggle.com/rhammell/ships-in-satellite-imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
+
+------------
