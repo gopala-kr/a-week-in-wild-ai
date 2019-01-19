@@ -43,6 +43,6 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 ------------
 
 - [Let’s talk about Satellite AI](https://www.spaceknow.com/satellite-ai/)
-
+- [Skylab Analytics](http://skylabanalytics.com/)
 
 -----------------
