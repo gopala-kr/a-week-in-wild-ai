@@ -49,5 +49,7 @@ SPACE EXPLORATION AND ALL HUMANKIND. ](https://cpaess.ucar.edu/sites/default/fil
 - [AI Applications for Satellite Imagery and Satellite Data](https://emerj.com/ai-sector-overviews/ai-applications-for-satellite-imagery-and-data/)
 - [How AI lets us see the full potential of satellite imaging (VIDEO)](https://news.itu.int/ai-satellite-images/)
 - [Stanford is Using Machine Learning on Satellite Images to Predict Poverty](https://www.analyticsvidhya.com/blog/2018/02/stanford-using-machine-learning-satellite-images-predict-poverty/)
+- [Transforming Satellite Imagery Classification with Deep Learning](https://www.gislounge.com/transforming-satellite-imagery-classification-deep-learning/)
+
 
 -----------------
