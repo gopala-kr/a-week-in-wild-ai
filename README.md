@@ -14,7 +14,7 @@
 
 ----------
 
-|| [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [Taxonomy of AI Algorithms](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) | [AI Ethics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-ethics) | [AI in Space Research](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research) ||
+|| [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [Taxonomy of AI Algorithms](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) | [AI Ethics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-ethics) | [AI in Space Research](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research) | [Global Connectivity](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/global-connectivity) ||
 
 -----------
 
