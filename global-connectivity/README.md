@@ -15,3 +15,6 @@ Empirical View](https://ourworldindata.org/technological-progress)
 - [History of Computers: A Brief Timeline](https://www.livescience.com/20718-computer-history.html)
 - [Timeline Technology](https://timelines.ws/subjects/Technology.HTML)
 
+-------------
+
+- [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
