@@ -16,5 +16,5 @@ Empirical View](https://ourworldindata.org/technological-progress)
 - [Timeline Technology](https://timelines.ws/subjects/Technology.HTML)
 
 -------------
-
+- [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
 - [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
