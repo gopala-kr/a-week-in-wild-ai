@@ -18,3 +18,4 @@ Empirical View](https://ourworldindata.org/technological-progress)
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
 - [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+- [Emerging technologies](https://en.wikipedia.org/wiki/Emerging_technologies)
