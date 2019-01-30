@@ -19,6 +19,7 @@ Empirical View](https://ourworldindata.org/technological-progress)
 - [	The Law of Accelerating Returns 
 by  	Ray Kurzweil
 ](https://web.archive.org/web/20100619033859/http://www.kurzweilai.net/articles/art0134.html?printable=1)
+- [Timeline of human prehistory](https://en.wikipedia.org/wiki/Timeline_of_human_prehistory)
 
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
