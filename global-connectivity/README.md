@@ -23,6 +23,8 @@ by  	Ray Kurzweil
 - [History of science](https://en.wikipedia.org/wiki/History_of_science)
 - [Computing timelines](https://en.wikipedia.org/wiki/Category:Computing_timelines)
 - [Timeline of quantum computing](https://en.wikipedia.org/wiki/Timeline_of_quantum_computing)
+- [Revolution – The First 2000 Years Of Computing](https://www.computerhistory.org/revolution/)
+- [Steve's Old Computer Museum](http://www.oldcomputers.net/)
 
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
