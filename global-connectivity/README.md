@@ -20,6 +20,7 @@ Empirical View](https://ourworldindata.org/technological-progress)
 by  	Ray Kurzweil
 ](https://web.archive.org/web/20100619033859/http://www.kurzweilai.net/articles/art0134.html?printable=1)
 - [Timeline of human prehistory](https://en.wikipedia.org/wiki/Timeline_of_human_prehistory)
+- [History of science](https://en.wikipedia.org/wiki/History_of_science)
 
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
