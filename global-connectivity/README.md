@@ -26,7 +26,6 @@ by  	Ray Kurzweil
 - [Revolution – The First 2000 Years Of Computing](https://www.computerhistory.org/revolution/)
 - [Steve's Old Computer Museum](http://www.oldcomputers.net/)
 - [History of computing hardware (1960s–present)](https://en.wikipedia.org/wiki/History_of_computing_hardware_(1960s%E2%80%93present))
-- [](http://vlib.iue.it/history/internet/index.html)
 - [WWW-VL: HISTORY: INTERNET & W3](http://vlib.iue.it/history/internet/index.html)
 
 -------------
