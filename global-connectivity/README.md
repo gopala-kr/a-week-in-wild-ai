@@ -16,6 +16,10 @@ Empirical View](https://ourworldindata.org/technological-progress)
 - [Timeline Technology](https://timelines.ws/subjects/Technology.HTML)
 - [History_of_communication](https://en.wikipedia.org/wiki/History_of_communication)
 - [Timeline_of_photography_technology](https://en.wikipedia.org/wiki/Timeline_of_photography_technology)
+- [	The Law of Accelerating Returns 
+by  	Ray Kurzweil
+](https://web.archive.org/web/20100619033859/http://www.kurzweilai.net/articles/art0134.html?printable=1)
+
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
 - [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
