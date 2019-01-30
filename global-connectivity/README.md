@@ -14,6 +14,7 @@ by Max Roser and Hannah Ritchie
 Empirical View](https://ourworldindata.org/technological-progress)
 - [History of Computers: A Brief Timeline](https://www.livescience.com/20718-computer-history.html)
 - [Timeline Technology](https://timelines.ws/subjects/Technology.HTML)
+- [History_of_communication](https://en.wikipedia.org/wiki/History_of_communication)
 
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
