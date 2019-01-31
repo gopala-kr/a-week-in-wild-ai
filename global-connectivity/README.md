@@ -27,6 +27,8 @@ by  	Ray Kurzweil
 - [Steve's Old Computer Museum](http://www.oldcomputers.net/)
 - [History of computing hardware (1960s–present)](https://en.wikipedia.org/wiki/History_of_computing_hardware_(1960s%E2%80%93present))
 - [WWW-VL: HISTORY: INTERNET & W3](http://vlib.iue.it/history/internet/index.html)
+- [The History of Human Communication by Chris Bowman](https://www.preceden.com/timelines/224069-the-history-of-human-communication-by-chris-bowman)
+
 
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
@@ -37,3 +39,5 @@ by  	Ray Kurzweil
 - [DARPA](https://en.wikipedia.org/wiki/DARPA)
 - [israel-s-success-story-of-the-tech-industry](http://www.chinagoabroad.com/en/guide/israel-s-success-story-of-the-tech-industry)
 - [Why is tech getting cheaper?](https://www.weforum.org/agenda/2015/10/why-is-tech-getting-cheaper/)
+
+----------------------
