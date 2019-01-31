@@ -30,6 +30,8 @@ by  	Ray Kurzweil
 - [The History of Human Communication by Chris Bowman](https://www.preceden.com/timelines/224069-the-history-of-human-communication-by-chris-bowman)
 - [List of years in science](https://en.wikipedia.org/wiki/List_of_years_in_science)
 - [List of centuries](https://en.wikipedia.org/wiki/List_of_centuries)
+- [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+- [List of decades](https://en.wikipedia.org/wiki/List_of_decades)
 
 -------------
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
