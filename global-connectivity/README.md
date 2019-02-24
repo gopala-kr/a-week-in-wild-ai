@@ -34,6 +34,7 @@ by  	Ray Kurzweil
 - [List of decades](https://en.wikipedia.org/wiki/List_of_decades)
 
 -------------
+
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
 - [List of emerging technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
 - [Emerging technologies](https://en.wikipedia.org/wiki/Emerging_technologies)
@@ -42,5 +43,26 @@ by  	Ray Kurzweil
 - [DARPA](https://en.wikipedia.org/wiki/DARPA)
 - [israel-s-success-story-of-the-tech-industry](http://www.chinagoabroad.com/en/guide/israel-s-success-story-of-the-tech-industry)
 - [Why is tech getting cheaper?](https://www.weforum.org/agenda/2015/10/why-is-tech-getting-cheaper/)
+- [History of mathematics](https://en.wikipedia.org/wiki/History_of_mathematics)
+- [History of physics](https://en.wikipedia.org/wiki/History_of_physics)
+- [History of science and technology](https://en.wikipedia.org/wiki/History_of_science_and_technology)
+- [History of technology](https://en.wikipedia.org/wiki/History_of_technology)
+- [Timeline of scientific experiments](https://en.wikipedia.org/wiki/Timeline_of_scientific_experiments)
+- [History of radio](https://en.wikipedia.org/wiki/History_of_radio)
+- [History of electromagnetic theory](https://en.wikipedia.org/wiki/History_of_electromagnetic_theory)
+- [Electromagnetic spectrum](https://en.wikipedia.org/wiki/Electromagnetic_spectrum#History)
+- [History of broadcasting](https://en.wikipedia.org/wiki/History_of_broadcasting)
+- [History of telecommunication](https://en.wikipedia.org/wiki/History_of_telecommunication)
+- [History of television](https://en.wikipedia.org/wiki/History_of_television)
+- [Timeline of computing](https://en.wikipedia.org/wiki/Timeline_of_computing)
+- [History of the Internet](https://en.wikipedia.org/wiki/History_of_the_Internet)
+- [History of the World Wide Web](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+- [History of the graphical user interface](https://en.wikipedia.org/wiki/History_of_the_Internet)
+- [History of programming languages](https://en.wikipedia.org/wiki/History_of_programming_languages)
+- [History of video games](https://en.wikipedia.org/wiki/History_of_video_games)
+- [Timeline of operating systems](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+- [History of communication](https://en.wikipedia.org/wiki/History_of_communication)
 
+
+------------------
 ----------------------
