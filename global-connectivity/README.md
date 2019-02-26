@@ -63,6 +63,19 @@ by  	Ray Kurzweil
 - [Timeline of operating systems](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
 - [History of communication](https://en.wikipedia.org/wiki/History_of_communication)
 
+--------------------------
+
+- [Timeline of Solar System exploration](https://en.wikipedia.org/wiki/Timeline_of_Solar_System_exploration)
+- [Timelines of modern history](https://en.wikipedia.org/wiki/Timelines_of_modern_history)
+- [Timeline of the Middle Ages](https://en.wikipedia.org/wiki/Timeline_of_the_Middle_Ages)
+- [Timeline of the near future](https://en.wikipedia.org/wiki/Timeline_of_the_near_future)
+- [21st century in fiction](https://en.wikipedia.org/wiki/21st_century_in_fiction)
+- [22nd century in fiction](https://en.wikipedia.org/wiki/22nd_century_in_fiction)
+- [Timeline of the far future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)
+- [List of time periods](https://en.wikipedia.org/wiki/List_of_time_periods)
+- [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline#18_years_ago_to_present)
+- [Timeline of European exploration](https://en.wikipedia.org/wiki/Timeline_of_European_exploration)
+
 
 ------------------
 ----------------------
