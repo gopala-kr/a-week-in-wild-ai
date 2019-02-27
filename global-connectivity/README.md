@@ -76,6 +76,12 @@ by  	Ray Kurzweil
 - [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline#18_years_ago_to_present)
 - [Timeline of European exploration](https://en.wikipedia.org/wiki/Timeline_of_European_exploration)
 
+---------------
+
+- [Timeline of science fiction](https://en.wikipedia.org/wiki/Timeline_of_science_fiction)
+- [History of science fiction](https://en.wikipedia.org/wiki/History_of_science_fiction)
+- [History of science fiction films](https://en.wikipedia.org/wiki/History_of_science_fiction_films)
+- [History_of_interstellar_space](https://en.wikipedia.org/wiki/Hyperspace#History_of_interstellar_space)
 
 ------------------
 ----------------------
