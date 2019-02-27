@@ -81,6 +81,7 @@ by  	Ray Kurzweil
 - [Timeline of information theory](https://en.wikipedia.org/wiki/Timeline_of_information_theory)
 - [Timeline of scientific computing](https://en.wikipedia.org/wiki/Timeline_of_scientific_computing)
 - [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
+- [Space launch market competition](https://en.wikipedia.org/wiki/Space_launch_market_competition)
 
 ---------------
 
@@ -98,6 +99,9 @@ by  	Ray Kurzweil
 - [The Evolution of the Auto industry](https://www.timetoast.com/timelines/the-evolution-of-the-car-industry)
 - [List of automobile manufacturers](https://en.wikipedia.org/wiki/List_of_automobile_manufacturers)
 - [Energy sources through time – timeline](https://www.sciencelearn.org.nz/resources/1636-energy-sources-through-time-timeline)
+- [Timeline of aviation](https://en.wikipedia.org/wiki/Timeline_of_aviation)
+- [Timeline of spaceflight](https://en.wikipedia.org/wiki/Timeline_of_spaceflight)
+- [List of human spaceflights](https://en.wikipedia.org/wiki/List_of_human_spaceflights)
 
 ------------------
 ----------------------
