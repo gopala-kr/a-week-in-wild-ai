@@ -33,6 +33,7 @@ by  	Ray Kurzweil
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
 - [List of decades](https://en.wikipedia.org/wiki/List_of_decades)
 
+
 -------------
 
 - [Wiki Portal:Technology](https://en.wikipedia.org/wiki/Portal:Technology)
@@ -75,6 +76,11 @@ by  	Ray Kurzweil
 - [List of time periods](https://en.wikipedia.org/wiki/List_of_time_periods)
 - [Detailed logarithmic timeline](https://en.wikipedia.org/wiki/Detailed_logarithmic_timeline#18_years_ago_to_present)
 - [Timeline of European exploration](https://en.wikipedia.org/wiki/Timeline_of_European_exploration)
+- [Timeline of gravitational physics and relativity](https://en.wikipedia.org/wiki/Timeline_of_gravitational_physics_and_relativity)
+- [Timeline of atomic and subatomic physics](https://en.wikipedia.org/wiki/Timeline_of_atomic_and_subatomic_physics)
+- [Timeline of information theory](https://en.wikipedia.org/wiki/Timeline_of_information_theory)
+- [Timeline of scientific computing](https://en.wikipedia.org/wiki/Timeline_of_scientific_computing)
+- [History of computing hardware](https://en.wikipedia.org/wiki/History_of_computing_hardware)
 
 ---------------
 
