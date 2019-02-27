@@ -85,5 +85,13 @@ by  	Ray Kurzweil
 - [Writing the future: A timeline of science fiction literature](https://www.bbc.com/timelines/zp7dwmn)
 - [List of fictional computers](https://en.wikipedia.org/wiki/List_of_fictional_computers)
 
+-------------
+
+- [History of the automobile](https://en.wikipedia.org/wiki/History_of_the_automobile)
+- [Timeline of motor vehicle brands](https://en.wikipedia.org/wiki/Timeline_of_motor_vehicle_brands)
+- [The Evolution of the Auto industry](https://www.timetoast.com/timelines/the-evolution-of-the-car-industry)
+- [List of automobile manufacturers](https://en.wikipedia.org/wiki/List_of_automobile_manufacturers)
+- [Energy sources through time – timeline](https://www.sciencelearn.org.nz/resources/1636-energy-sources-through-time-timeline)
+
 ------------------
 ----------------------
