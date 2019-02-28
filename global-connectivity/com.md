@@ -133,6 +133,46 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 -----------
 ![IETF-IoT-and-TCP-IP-protocol-stacks](https://www.researchgate.net/profile/Huichen_Lin/publication/305311632/figure/fig5/AS:457311522168832@1486042971757/The-comparison-between-IETF-IoT-and-TCP-IP-protocol-stacks.png)
 -----------
+![Mobile_Web_Standards_Evolution_Vector](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Mobile_Web_Standards_Evolution_Vector.svg/1200px-Mobile_Web_Standards_Evolution_Vector.svg.png)
+--------------
+![voicebot-history-voice-assistants-01](https://voicebot.ai/wp-content/uploads/2017/07/voicebot-history-voice-assistants-01.png)
+-------------
+![New-Media-Timeline-e1455890319643-1014x487](http://www.booksaresocial.com/wp-content/uploads/2016/02/New-Media-Timeline-e1455890319643-1014x487.jpg)
+-----------------
+![Accenture-S-Curve-Small](https://www.accenture.com/t20180605T020311Z__w__/us-en/_acnmedia/Accenture/Conversion-Assets/DotCom/Images/About-Accenture/Global/26/Accenture-S-Curve-Small.png)
+-----------------
+![94d136b49165b19ec1ef72850517bb208315d146](https://external-preview.redd.it/KOS658kdPILaeSvGAzHhEK1AcxH06wja3vSP00qkenE.jpg?width=960&crop=smart&auto=webp&s=94d136b49165b19ec1ef72850517bb208315d146)
+-----------------
+![yossi-vardi](https://fintech4us.files.wordpress.com/2015/08/yossi-vardi.jpg)
+-----------------
+![326804710](https://www.researchgate.net/profile/Mark_Speece2/publication/326804710/figure/fig1/AS:655521300377600@1533299865033/Technology-adoption-S-curve.png)
+-----------------
+![3-infofraphic-a-modern-history-of-human-communication](https://joaogeraldes.files.wordpress.com/2010/09/3-infofraphic-a-modern-history-of-human-communication.png)
+-----------------
+![MobileTechnologyEvolution](http://2.bp.blogspot.com/_1lYv3zr0K8g/S9KaTvRjGGI/AAAAAAAAAKI/74Qf7p1m-Tw/s1600/MobileTechnologyEvolution.JPG)
+-----------------
+![3774069_orig](http://www.rosebt.com/uploads/8/1/8/1/8181762/3774069_orig.png)
+-----------------
+![IOT-map](https://venturebeat.com/wp-content/uploads/2015/08/IOT-map.png)
+-----------------
+![wtc](http://www.wiriot.com/images/wtc.png)
+-----------------
+![Communication-protocols-used-by-different-IoRT-applications](https://www.researchgate.net/profile/Arne_Broering/publication/318012442/figure/fig2/AS:614212615282691@1523451107214/Communication-protocols-used-by-different-IoRT-applications.png)
+-----------------
+![M2M](https://thenewstack.io/wp-content/uploads/2016/04/M2M.jpg)
+-----------------
+![iot_vertical_stacks](https://2r4s9p1yi1fa2jd7j43zph8r-wpengine.netdna-ssl.com/files/2017/06/iot_vertical_stacks.png)
+-----------------
+![DHTP-protocol-comparison](https://skkynet.com/media/DHTP-protocol-comparison.svg)
+-----------------
+![white_papers](https://www.cisco.com/c/dam/en_us/about/security/images/csc_child_pages/white_papers/iot-figure1.jpg)
+-----------------
+![screen-shot-2015](https://johnmathon.files.wordpress.com/2014/08/screen-shot-2015-03-04-at-2-34-23-pm.png)
+-----------------
+![S1319157816300799](https://ars.els-cdn.com/content/image/1-s2.0-S1319157816300799-gr12.jpg)
+-----------------
+![41324_2017_161_Fig3_HTML](https://media.springernature.com/lw785/springer-static/image/art%3A10.1007%2Fs41324-017-0161-z/MediaObjects/41324_2017_161_Fig3_HTML.gif)
+-----------------
 
 
 
