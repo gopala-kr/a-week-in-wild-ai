@@ -24,3 +24,15 @@
 -----------
 ![Timeline_of_web_browsers](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Timeline_of_web_browsers.svg/1200px-Timeline_of_web_browsers.svg.png)
 -----------
+![technology-adoption-by-households-in-the-united-states](https://ourworldindata.org/grapher/exports/technology-adoption-by-households-in-the-united-states.svg)
+----------
+![old-tech](http://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/old-tech.jpg)
+---------
+![Screen-shot-2011-07](http://www.asymco.com/wp-content/uploads/2011/07/Screen-shot-2011-07-16-at-7-16-8.46.10-PM.png)
+--------
+![592389-technology-adoption-trends-1903-2016](https://assets.pcmag.com/media/images/592389-technology-adoption-trends-1903-2016.png?thumb=y&width=810&height=456)
+----------
+![newer-tech](http://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/newer-tech.jpg)
+----------
+![DNA-timeline](http://www.melissaecory.com/wp-content/uploads/2013/01/DNA-timeline.jpg)
+-----------------
