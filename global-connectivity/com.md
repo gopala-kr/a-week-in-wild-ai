@@ -18,3 +18,7 @@
 -------------
 ![Timeline_of_future_development_of_hydrogen_technologies_as_a_key_enabler_of_the_energy_transition](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Timeline_of_future_development_of_hydrogen_technologies_as_a_key_enabler_of_the_energy_transition.jpg/1280px-Timeline_of_future_development_of_hydrogen_technologies_as_a_key_enabler_of_the_energy_transition.jpg)
 -------
+![Comparison_semiconductor_process_nodes](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Comparison_semiconductor_process_nodes.svg/1024px-Comparison_semiconductor_process_nodes.svg.png)
+--------
+![b3d5a3a1c15cc9d367c7f5cff32e7b97](https://upload.wikimedia.org/wikipedia/en/timeline/b3d5a3a1c15cc9d367c7f5cff32e7b97.png)
+-----------
