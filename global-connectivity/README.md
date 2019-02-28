@@ -2,6 +2,11 @@
 
 > Global Communication Tools from Begining to Present to Future
 
+--------------
+
+> [Technology adoption by households in the United States(1860-2016)](https://ourworldindata.org/grapher/technology-adoption-by-households-in-the-united-states?time=1860..2016&country=Household%20refrigerator+Electric%20power+Microwave+Radio+Colour%20TV+Automobile+Computer+Social%20media%20usage+Landline+Tablet+Ebook%20reader+Automatic%20transmission+Cable%20TV+Cellular%20phone+Central%20heating+Dishwasher+Disk%20brakes+Dryer+Electric%20Range+Electronic%20ignition+Flush%20toilet+Freezer+Home%20air%20conditioning+Internet+Iron+Microcomputer+Nox%20pollution%20controls%20(boilers)+Podcasting+Power%20steering+RTGS%20adoption+Radial%20tires+Refrigerator+Running%20water+Shipping%20container%20port%20infrastructure+Smartphone%20usage+Stove+Television+Vacuum+Videocassette%20recorder+Washer+Washing%20machine+Water%20Heater)
+
+--------------------
 - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions)
 - [History of technology](https://en.wikipedia.org/wiki/History_of_technology)
 - [tech-generations](https://www.washingtonpost.com/graphics/2017/entertainment/tech-generations/?utm_term=.841857485b3c)
