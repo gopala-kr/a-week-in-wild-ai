@@ -1,6 +1,6 @@
 
 
-> Global Communication Tools from Begining to Present o Future
+> Global Communication Tools from Begining to Present to Future
 
 - [Timeline of historic inventions](https://en.wikipedia.org/wiki/Timeline_of_historic_inventions)
 - [History of technology](https://en.wikipedia.org/wiki/History_of_technology)
