@@ -256,6 +256,9 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 -------------
 
 ![DVSRIDyWkAAHI7R](https://pbs.twimg.com/media/DVSRIDyWkAAHI7R.jpg)
+----------------
+
+![history_of_containers_mobile](https://cdn.ttgtmedia.com/rms/onlineimages/itops-history_of_containers_mobile.png)
 
 --------------
 
@@ -265,5 +268,66 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 
 ![Capture3](https://data.bloomberglp.com/professional/sites/24/2018/01/Capture3.jpg)
 
+---------------
+![e1407170976661](https://ark-invest.com/wp-content/uploads/2014/08/AutonomousVehicleEntryYear-e1407170976661.png)
+---------------
+![1509](https://www.futuretimeline.net/blog/images/1509.jpg)
+---------------
+![yfd1vjhFYyEup23me1X8fA](https://cdn-images-1.medium.com/max/2000/1*yfd1vjhFYyEup23me1X8fA.png)
+---------------
+![SVGZ-Hydrogen-next-wave-electric-vehicles-expanded_ex3](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Hydrogen%20The%20next%20wave%20for%20electric%20vehicles/SVGZ-Hydrogen-next-wave-electric-vehicles-expanded_ex3.ashx)
+---------------
+![SVGZ_Whats-sparking-electric-vehicleV2_Ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Whats%20sparking%20electric%20vehicle%20adoption%20in%20the%20truck%20industry/SVGZ_Whats-sparking-electric-vehicleV2_Ex2.ashx)
+---------------
+![SVGZ_Whats-sparking-electric-vehicleV2_Ex3](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Whats%20sparking%20electric%20vehicle%20adoption%20in%20the%20truck%20industry/SVGZ_Whats-sparking-electric-vehicleV2_Ex3.ashx)
+---------------
+![SVGZ_Whats-sparking-electric-vehicleV2_Ex4](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Whats%20sparking%20electric%20vehicle%20adoption%20in%20the%20truck%20industry/SVGZ_Whats-sparking-electric-vehicleV2_Ex4.ashx)
+---------------
+![SVGZ_Ins_Automotive-Revolution_Ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20automotive%20revolution%20is%20speeding%20up/SVGZ_Ins_Automotive-Revolution_Ex2.ashx)
+---------------
+![SVGZ_Ins_Automotive-Revolution_Ex4](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20automotive%20revolution%20is%20speeding%20up/SVGZ_Ins_Automotive-Revolution_Ex4.ashx)
+---------------
+![SVGZ_Ins_Automotive-Revolution_Ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20automotive%20revolution%20is%20speeding%20up/SVGZ_Ins_Automotive-Revolution_Ex5.ashx)
+---------------
+![SVGZ_Ins_Automotive%20RevolutionV3_Ex6](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/The%20automotive%20revolution%20is%20speeding%20up/SVGZ_Ins_Automotive%20RevolutionV3_Ex6.ashx)
+---------------
+![SVGZ_How-mobility-players-can-compete_Ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20mobility%20players%20can%20compete%20as%20the%20automotive%20revolution%20accelerates/SVGZ_How-mobility-players-can-compete_Ex2.ashx)
+----------------
+![SVGZ_How-mobility-players-can-compete_Ex5](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20mobility%20players%20can%20compete%20as%20the%20automotive%20revolution%20accelerates/SVGZ_How-mobility-players-can-compete_Ex5.ashx)
+----------------
+![SVGZ_How-mobility-players-can-compete_Ex6](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20mobility%20players%20can%20compete%20as%20the%20automotive%20revolution%20accelerates/SVGZ_How-mobility-players-can-compete_Ex6.ashx)
+----------------
+![SVGZ_How-mobility-players-can-compete_Ex7](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/How%20mobility%20players%20can%20compete%20as%20the%20automotive%20revolution%20accelerates/SVGZ_How-mobility-players-can-compete_Ex7.ashx)
+----------------
+![SVGZ_Global_electric_vehicle_market_china_ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Dynamics%20in%20the%20global%20electric%20vehicle%20market/SVGZ_Global_electric_vehicle_market_china_ex1.ashx)
+----------------
+![SVGZ_Global_electric_vehicle_market_china_ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Automotive%20and%20Assembly/Our%20Insights/Dynamics%20in%20the%20global%20electric%20vehicle%20market/SVGZ_Global_electric_vehicle_market_china_ex2.ashx)
+----------------
+![he%20global%20electric%20vehicle%20market/SVGZ_QWeb_ChinaEV_ex1](https://www.mckinsey.com/~/media/McKinsey/Featured%20Insights/China/China%20plugs%20into%20the%20global%20electric%20vehicle%20market/SVGZ_QWeb_ChinaEV_ex1.ashx)
+----------------
+![DxJ7S_bWsAEWM4s](https://pbs.twimg.com/media/DxJ7S_bWsAEWM4s.jpg)
+----------------
+![_migrated](https://fleetimages.bobitstudios.com/upload/automotive-fleet/content/article/_migrated/m-smart-hwy2.jpg)
+----------------
+![mSD5hK2Vqqpqx7cGMgWeIbSl_JpSpjPR69W3iyvtBeY](https://assets.weforum.org/editor/mSD5hK2Vqqpqx7cGMgWeIbSl_JpSpjPR69W3iyvtBeY.png)
+----------------
+![2Fa8c53cc74ae4bb3331c74521a83e](https://assets.sourcemedia.com/dims4/default/2434a26/2147483647/resize/680x%3E/quality/90/?url=https%3A%2F%2Fassets.sourcemedia.com%2Fb5%2F8f%2Fa8c53cc74ae4bb3331c74521a83e%2Freinvent-10182016-evo-ai-copy.png)
+----------------
+![AI+Trends+Forecast](https://irp-cdn.multiscreensite.com/9297f8c7/dms3rep/multi/mobile/AI+Trends+Forecast.png)
+----------------
+![DWz0EQ3W4AAUOPD](https://pbs.twimg.com/media/DWz0EQ3W4AAUOPD.jpg)
+----------------
+![25-Milestones-in-the-digital-evolution-Rolan](https://xrmvision.com/wp-content/uploads/2018/05/25-Milestones-in-the-digital-evolution-Roland-Berger-Trend-Compedium-2030-October-2017-page-24.jpg)
+----------------
+![/technology-spending-grid](https://labs.sogeti.com/wp-content/uploads/2015/02/technology-spending-grid.jpg)
+----------------
+![DsBVuAcXQAAgawb](https://pbs.twimg.com/media/DsBVuAcXQAAgawb.jpg)
+----------------
+![History-of-Data-Science](https://lh3.googleusercontent.com/-3Mg4AnHC9kg/VkQCmiT3ROI/AAAAAAAAAQw/6RUGqWAGrdQ/w1596-h807/History-of-Data-Science.png)
+----------------
+![canvox9kvjitiaog6jft](http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_limit,fl_progressive,q_80,w_700/canvox9kvjitiaog6jft.png)
+----------------
 
+![AGI-takeoff-speed-vs-years-commercial-software](https://reducing-suffering.org/wp-content/uploads/2015/07/AGI-takeoff-speed-vs-years-commercial-software-21Jul2015.png)
+---------------
 
