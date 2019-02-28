@@ -79,6 +79,11 @@ by  	Ray Kurzweil
 - [Lists of inventions or discoveries](https://en.wikipedia.org/wiki/Category:Lists_of_inventions_or_discoveries)
 - [Timeline of cosmological theories](https://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
 - [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
+- [History of general-purpose CPUs](https://en.wikipedia.org/wiki/History_of_general-purpose_CPUs)
+- [Microprocessor_chronology](https://en.wikipedia.org/wiki/Microprocessor_chronology)
+- [History of the web browser](https://en.wikipedia.org/wiki/History_of_the_web_browser)
+- [History of video games](https://en.wikipedia.org/wiki/History_of_video_games)
+
 
 --------------------------
 
