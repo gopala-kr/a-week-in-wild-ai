@@ -67,6 +67,18 @@ by  	Ray Kurzweil
 - [Timeline of the introduction of radio in countries](https://en.wikipedia.org/wiki/Timeline_of_the_introduction_of_radio_in_countries)
 - [Timeline of the introduction of television in countries](https://en.wikipedia.org/wiki/Timeline_of_the_introduction_of_television_in_countries)
 - [Timeline of online video](https://en.wikipedia.org/wiki/Timeline_of_online_video)
+- [Timeline of Russian innovation](https://en.wikipedia.org/wiki/Timeline_of_Russian_innovation)
+- [Timeline of United States inventions](https://en.wikipedia.org/wiki/Timeline_of_United_States_inventions)
+- [List of Indian inventions and discoveries](https://en.wikipedia.org/wiki/List_of_Indian_inventions_and_discoveries)
+- [History of science and technology in the Indian subcontinent](https://en.wikipedia.org/wiki/History_of_science_and_technology_in_the_Indian_subcontinent)
+- [Timeline of Indian innovation](https://en.wikipedia.org/wiki/Timeline_of_Indian_innovation)
+- [Timeline of United States discoveries](https://en.wikipedia.org/wiki/Timeline_of_United_States_discoveries)
+- [Science and technology in the United States](https://en.wikipedia.org/wiki/Science_and_technology_in_the_United_States)
+- [Technological and industrial history of the United States](https://en.wikipedia.org/wiki/Technological_and_industrial_history_of_the_United_States)
+- [List of Greek inventions and discoveries](https://en.wikipedia.org/wiki/List_of_Greek_inventions_and_discoveries)
+- [Lists of inventions or discoveries](https://en.wikipedia.org/wiki/Category:Lists_of_inventions_or_discoveries)
+- [Timeline of cosmological theories](https://en.wikipedia.org/wiki/Timeline_of_cosmological_theories)
+- [List of timelines](https://en.wikipedia.org/wiki/List_of_timelines)
 
 --------------------------
 
