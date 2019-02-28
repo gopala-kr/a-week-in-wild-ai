@@ -22,3 +22,5 @@
 --------
 ![b3d5a3a1c15cc9d367c7f5cff32e7b97](https://upload.wikimedia.org/wikipedia/en/timeline/b3d5a3a1c15cc9d367c7f5cff32e7b97.png)
 -----------
+![Timeline_of_web_browsers](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Timeline_of_web_browsers.svg/1200px-Timeline_of_web_browsers.svg.png)
+-----------
