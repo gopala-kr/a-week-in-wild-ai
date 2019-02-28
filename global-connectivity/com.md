@@ -36,3 +36,8 @@
 ----------
 ![DNA-timeline](http://www.melissaecory.com/wp-content/uploads/2013/01/DNA-timeline.jpg)
 -----------------
+![prioritizing-cyber-threats-2](https://www.recordedfuture.com/assets/prioritizing-cyber-threats-2.png)
+------------
+![prioritizing-cyber-threats-1](https://www.recordedfuture.com/assets/prioritizing-cyber-threats-1.png)
+-----------
+
