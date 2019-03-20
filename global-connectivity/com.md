@@ -325,6 +325,8 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ----------------
 ![History-of-Data-Science](https://lh3.googleusercontent.com/-3Mg4AnHC9kg/VkQCmiT3ROI/AAAAAAAAAQw/6RUGqWAGrdQ/w1596-h807/History-of-Data-Science.png)
 ----------------
+![0jr4UrhCwTAie4lKF7A](https://cdn-images-1.medium.com/max/2560/1*Dq-0jr4UrhCwTAie4lKF7A.jpeg)
+-------------
 ![canvox9kvjitiaog6jft](http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_limit,fl_progressive,q_80,w_700/canvox9kvjitiaog6jft.png)
 ----------------
 
