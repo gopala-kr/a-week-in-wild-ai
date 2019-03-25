@@ -7,6 +7,10 @@
 
 [![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run?template=https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week)
 
+-------
+
+![types](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML-week/assets/types.PNG)
+
 ----------
 
 #### [Taxonomy of AI Algorithms: Mathematical Implementations]()
