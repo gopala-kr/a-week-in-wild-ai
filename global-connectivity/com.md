@@ -339,4 +339,6 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 
 ![AGI-takeoff-speed-vs-years-commercial-software](https://reducing-suffering.org/wp-content/uploads/2015/07/AGI-takeoff-speed-vs-years-commercial-software-21Jul2015.png)
 ---------------
-
+![D2f71N8XcAAzZCd](https://pbs.twimg.com/media/D2f71N8XcAAzZCd.jpg:large)
+-----------
+----------------
