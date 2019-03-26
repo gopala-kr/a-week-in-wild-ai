@@ -258,6 +258,15 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ![DVSRIDyWkAAHI7R](https://pbs.twimg.com/media/DVSRIDyWkAAHI7R.jpg)
 ----------------
 
+![istory-of-cloud-computing1](https://greatcloudmigration.files.wordpress.com/2014/03/history-of-cloud-computing1.jpg?w=682)
+
+-----------
+[History_of_Cloud_Computing_Timeline](https://cdn2.hubspot.net/hubfs/620276/KCS-UK/KCS-UK%20Whitepapers/History_of_Cloud_Computing_Timeline.pdf)
+----------
+![api-timeline-2010](https://www.programmableweb.com/wp-content/api-timeline-2010.jpg)
+------------
+![45130ff0198bbfb4e7522a6c3de6de24](https://i.pinimg.com/originals/45/13/0f/45130ff0198bbfb4e7522a6c3de6de24.jpg)
+------------
 ![history_of_containers_mobile](https://cdn.ttgtmedia.com/rms/onlineimages/itops-history_of_containers_mobile.png)
 
 --------------
@@ -347,5 +356,7 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ![D1jjbUBWkAcM476](https://pbs.twimg.com/media/D1jjbUBWkAcM476.jpg:large)
 --------
 ![D0rVYcBWsAI42LF](https://pbs.twimg.com/media/D0rVYcBWsAI42LF.png:large)
+--------
+![Figure-1](http://dewcomputing.org/wp-content/uploads/2016/01/Figure-1.png)
 -----------
 ----------------
