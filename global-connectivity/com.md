@@ -343,5 +343,7 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 --------
 
 ![D2chpkrX0AcmIF1](https://pbs.twimg.com/media/D2chpkrX0AcmIF1.jpg:large)
+------------
+![D1jjbUBWkAcM476](https://pbs.twimg.com/media/D1jjbUBWkAcM476.jpg:large)
 -----------
 ----------------
