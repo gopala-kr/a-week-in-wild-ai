@@ -328,6 +328,9 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ![0jr4UrhCwTAie4lKF7A](https://cdn-images-1.medium.com/max/2560/1*Dq-0jr4UrhCwTAie4lKF7A.jpeg)
 -------------
 ![canvox9kvjitiaog6jft](http://cdn.primedia.co.za/primedia-broadcasting/image/upload/c_limit,fl_progressive,q_80,w_700/canvox9kvjitiaog6jft.png)
+-----------
+
+![D2ekOzlXQAAPxAl](https://pbs.twimg.com/media/D2ekOzlXQAAPxAl.jpg:large)
 ----------------
 
 ![AGI-takeoff-speed-vs-years-commercial-software](https://reducing-suffering.org/wp-content/uploads/2015/07/AGI-takeoff-speed-vs-years-commercial-software-21Jul2015.png)
