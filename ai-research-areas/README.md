@@ -3,6 +3,10 @@
 
 -------------
 
+![v0X3I95OAYyPUAgA](https://cdn-images-1.medium.com/max/800/1*a5bEJ-v0X3I95OAYyPUAgA.gif)
+
+------------
+
 - [Research Directions: NLP and transfer learning](http://ruder.io/requests-for-research/)
 - [AI Open network](https://ai-on.org/)
 ---------
