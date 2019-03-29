@@ -7,3 +7,46 @@ Learning for Engineers](https://arxiv.org/pdf/1709.02840v3.pdf)
 - [120-Data-Science-Interview-Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 
+--------------------
+![AI-Demystified](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/AI-Demystified.png)
+
+---------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+----------------
