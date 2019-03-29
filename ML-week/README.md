@@ -11,6 +11,8 @@
 
 ![types](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML-week/assets/types.PNG)
 
+--------
+![D0cGQYnU0AARONO](https://pbs.twimg.com/media/D0cGQYnU0AARONO.jpg:large)
 ----------
 
 #### [Taxonomy of AI Algorithms: Mathematical Implementations]()
