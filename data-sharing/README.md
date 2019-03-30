@@ -45,4 +45,6 @@ framework to advance Internet research](https://www.caida.org/publications/paper
 Machine Learning
 Theory, Algorithms, and Applications](http://www.ece.rutgers.edu/~asarwate/nips2017/NIPS17_DPML_Tutorial.pdf)
 - [Intel AI:security-nervana-part-2-securing-data ](https://ai.intel.com/security-nervana-part-2-securing-data/)
+- [DAWN: Infrastructure for
+Usable Machine Learning](https://dawn.cs.stanford.edu//assets/dawn-overview.pdf)
 ------------
