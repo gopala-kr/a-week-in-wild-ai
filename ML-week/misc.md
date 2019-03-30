@@ -8,6 +8,15 @@ Learning for Engineers](https://arxiv.org/pdf/1709.02840v3.pdf)
 - [data-science-question-answer](https://github.com/ShuaiW/data-science-question-answer)
 
 --------------------
+
+
+![types](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML-week/assets/types.PNG)
+
+--------
+
+![D0cGQYnU0AARONO](https://pbs.twimg.com/media/D0cGQYnU0AARONO.jpg:large)
+
+-----------------
 ![22019-01-31_14-39-34-1548981910806](https://res.infoq.com/news/2019/02/Grady-Booch-Future-AI/en/resources/22019-01-31_14-39-34-1548981910806.jpg)
 -------------
 ![AI-Demystified](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/AI-Demystified.png)
