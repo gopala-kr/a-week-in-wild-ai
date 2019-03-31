@@ -1,6 +1,8 @@
 
 
-|| [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) | [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | [awesome-quantum-computing](https://github.com/websemantics/awesome-quantum-computing) |[Awesome-Quantum-Computation](https://github.com/hsavit1/Awesome-Quantum-Computation) | []() | []() | []() | []() ||
+|| [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) | [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | [awesome-quantum-computing](https://github.com/websemantics/awesome-quantum-computing) |[Awesome-Quantum-Computation](https://github.com/hsavit1/Awesome-Quantum-Computation) ||
+
+|| [qiskit-terra](https://github.com/Qiskit/qiskit-terra) | [Microsoft/Quantum](https://github.com/Microsoft/Quantum) | [QuantumKatas](https://github.com/Microsoft/QuantumKatas) | [Cirq](https://github.com/quantumlib/Cirq) | [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | [pyquil](https://github.com/rigetti/pyquil)| [QuSimPy](https://github.com/adamisntdead/QuSimPy) | [OpenFermion](https://github.com/quantumlib/OpenFermion)| []() | []()| []() | []()| []() | []()| []() | []()||
 
 --------------
 ![EMERGING-TECHNOLOGIES-KALEIDO-2-1.](http://www.kaleidoinsights.com/wp-content/uploads/2018/01/EMERGING-TECHNOLOGIES-KALEIDO-2-1.gif)
