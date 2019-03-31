@@ -1,3 +1,8 @@
+
+
+|| [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) | [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | []() |[]() | []() | []() | []() | []() ||
+
+--------------
 ![EMERGING-TECHNOLOGIES-KALEIDO-2-1.](http://www.kaleidoinsights.com/wp-content/uploads/2018/01/EMERGING-TECHNOLOGIES-KALEIDO-2-1.gif)
 ----------
 
