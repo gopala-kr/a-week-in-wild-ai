@@ -1,6 +1,6 @@
 
 
-|| [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) | [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | []() |[]() | []() | []() | []() | []() ||
+|| [awesome-quantum-computing](https://github.com/desireevl/awesome-quantum-computing) | [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) | [awesome-quantum-computing](https://github.com/websemantics/awesome-quantum-computing) |[Awesome-Quantum-Computation](https://github.com/hsavit1/Awesome-Quantum-Computation) | []() | []() | []() | []() ||
 
 --------------
 ![EMERGING-TECHNOLOGIES-KALEIDO-2-1.](http://www.kaleidoinsights.com/wp-content/uploads/2018/01/EMERGING-TECHNOLOGIES-KALEIDO-2-1.gif)
