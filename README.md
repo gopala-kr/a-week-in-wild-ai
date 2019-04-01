@@ -25,13 +25,13 @@
 -----------
 
 - [Week-1](01/04/2019 - 07/04/2019)  : Recent Advances in CNN architectures and CV tasks
-- [Week-2](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP and Speech tasks
+- [Week-2](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3](15/04/2019 - 21/04/2019)  : Recent Advances in Deep RL and Robotic tasks
-- [Week-4](22/04/2019 - 28/04/2019)  : Recent advances in Generative Models
+- [Week-4](22/04/2019 - 28/04/2019)  : Recent Advances in Generative Models
 - [Week-5](29/04/2019 - 05/05/2019)  : Recent Advances in Transfer Learning and Metalearning
 - [Week-6](06/05/2019 - 12/05/2019)  : Recent Advances in Hardware architectures and DL frameworks
 - [Week-7](13/05/2019 - 19/05/2019)  : Recent advances in Quantum ML and Neuromorphic hardwares
-- [Week-8-14](20/05/2019 - 30/05/2019) : AGI Roadmap
+- [Week-8-14](20/05/2019 - 30/06/2019) : AGI Roadmap
 
 -------------------
 
