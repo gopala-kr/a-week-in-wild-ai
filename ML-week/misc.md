@@ -9,6 +9,9 @@ Learning for Engineers](https://arxiv.org/pdf/1709.02840v3.pdf)
 
 --------------------
 
+![68747470733a2f2f6d6565652d73657276696365732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f41492e6a7067](https://camo.githubusercontent.com/2ab36a7d57dda88cd784f9c7da7987f59e024e38/68747470733a2f2f6d6565652d73657276696365732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f41492e6a7067)
+
+--------------
 
 ![types](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML-week/assets/types.PNG)
 
