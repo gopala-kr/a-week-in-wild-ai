@@ -550,8 +550,6 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [Rohan & Lenny #2: Convolutional Neural Networks](https://ayearofai.com/rohan-lenny-2-convolutional-neural-networks-5f4cd480a60b)
 - [Visualizing Deep Neural Networks Classes and Features](http://ankivil.com/visualizing-deep-neural-networks-classes-and-features/)
 - [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
-------
-
  <li>
         <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> by Andrew Ng - deeplearning.ai
     </li>
@@ -588,6 +586,9 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
     <li>
         <a href="https://www.coursera.org/learn/ai-for-everyone">AI for Everyone</a> by Andrew Ng - deeplearning.ai
     </li>                
+
+
+-----------
 
 [Back to top](#contents)
 
