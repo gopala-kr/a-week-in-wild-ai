@@ -546,6 +546,48 @@ Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules
 - [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 - [Train Your Machine Learning Models on Google’s GPUs for Free — Forever](https://hackernoon.com/train-your-machine-learning-models-on-googles-gpus-for-free-forever-a41bd309d6ad)
 - [Google’s AutoML will change how businesses use Machine Learning](https://towardsdatascience.com/googles-automl-will-change-how-businesses-use-machine-learning-c7d72257aba9)
+- [The Deep Learning(.ai) Dictionary](https://towardsdatascience.com/the-deep-learning-ai-dictionary-ade421df39e4)
+- [Rohan & Lenny #2: Convolutional Neural Networks](https://ayearofai.com/rohan-lenny-2-convolutional-neural-networks-5f4cd480a60b)
+- [Visualizing Deep Neural Networks Classes and Features](http://ankivil.com/visualizing-deep-neural-networks-classes-and-features/)
+- [Deep Learning for Computer Vision – Introduction to Convolution Neural Networks](https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/)
+------
+
+ <li>
+        <a href="https://www.coursera.org/specializations/deep-learning">Deep Learning Specialization</a> by Andrew Ng - deeplearning.ai
+    </li>
+    <li>
+        <a href="https://course.fast.ai/">Deep Learning For Coders</a> by Jeremy Howard, Rachel Thomas, Sylvain Gugger - fast.ai
+    </li>
+    <li>
+        <a href="https://udacity.com/course/deep-learning-nanodegree--nd101">Deep Learning Nanodegree Program</a> by Udacity
+    </li>  
+    <li>
+        <a href="http://web.stanford.edu/class/cs224n/">CS224n: Natural Language Processing with Deep Learning</a> by Christopher Manning, Abigail See - Stanford
+    </li> 
+    <li>
+        <a href="http://cs231n.stanford.edu/">CS231n: Convolutional Neural Networks for Visual Recognition</a> by Stanford
+    </li>
+    <li>
+        <a href="https://deeplearning.mit.edu/">MIT Deep Learning</a> by MIT
+    </li>
+    <li>
+        <a href="http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html">Introduction to Reinforcement Learning</a> by David Silver - UCL / DeepMind
+    </li>
+    <li>
+        <a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs">Advanced Deep Learning & Reinforcement Learning</a> by Thore Graepel, Hado van Hasselt UCL / DeepMind
+    </li>
+    <li>
+        <a href="https://spinningup.openai.com/en/latest/index.html">Spinning Up in Deep RL</a> by OpenAI
+    </li>
+    <li>
+        <a href="https://www.coursera.org/learn/machine-learning">Machine Learning</a> by Andrew Ng - Stanford
+    </li>
+    <li>
+        <a href="https://work.caltech.edu/telecourse">CS156: Machine Learning Course</a> by Yaser S. Abu-Mostafa - Caltech
+    </li>
+    <li>
+        <a href="https://www.coursera.org/learn/ai-for-everyone">AI for Everyone</a> by Andrew Ng - deeplearning.ai
+    </li>                
 
 [Back to top](#contents)
 
