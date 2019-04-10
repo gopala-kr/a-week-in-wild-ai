@@ -25,7 +25,7 @@
 -----------
 
 - [[Week-1](https://github.com/gopala-kr/ConvNets)](01/04/2019 - 07/04/2019)  : Recent Advances in CNN architectures and CV tasks
-- [Week-2](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
+- [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3](15/04/2019 - 21/04/2019)  : Recent Advances in Deep RL and Robotic tasks
 - [Week-4](22/04/2019 - 28/04/2019)  : Recent Advances in Generative Models
 - [Week-5](29/04/2019 - 05/05/2019)  : Recent Advances in Transfer Learning and Metalearning
