@@ -124,7 +124,7 @@ Learning for Engineers](https://arxiv.org/pdf/1709.02840v3.pdf)
 -------------
 ![DzuVsSBXcAI0nGL](https://pbs.twimg.com/media/DzuVsSBXcAI0nGL.jpg)
 -------------
-![]()
+![D3kmho](https://pbs.twimg.com/media/D3kmho-WAAAI_uZ.jpg:large)
 -------------
 ![]()
 -------------
