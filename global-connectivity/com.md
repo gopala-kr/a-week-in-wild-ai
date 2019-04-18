@@ -361,7 +361,8 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ---------
 ![lg9nkMo7qaE3PSTbpgbdlQ](https://cdn-images-1.medium.com/max/800/1*lg9nkMo7qaE3PSTbpgbdlQ.png)
 --------------
-
+![D4cpewbXsAIJo1H](https://pbs.twimg.com/media/D4cpewbXsAIJo1H.jpg)
+-----------
 ![D3KwZkvUIAApZlc](https://pbs.twimg.com/media/D3KwZkvUIAApZlc.jpg:large)
 ----
 ![3JkAyD8jx3_oaEJTsxo67g](https://cdn-images-1.medium.com/max/1200/1*3JkAyD8jx3_oaEJTsxo67g.jpeg)
