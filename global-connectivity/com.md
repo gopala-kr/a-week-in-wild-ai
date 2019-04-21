@@ -366,5 +366,11 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ![D3KwZkvUIAApZlc](https://pbs.twimg.com/media/D3KwZkvUIAApZlc.jpg:large)
 ----
 ![3JkAyD8jx3_oaEJTsxo67g](https://cdn-images-1.medium.com/max/1200/1*3JkAyD8jx3_oaEJTsxo67g.jpeg)
+-------
+![ai-feature](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/29104213/ai-featured.png)
+------
+![IoT_Featured_Image](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/11/28125927/IoT_Featured_Image.png)
+----------
+![Blockchain-Trends-2019-feature](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/11/29183334/Blockchain-Trends-2019-feature.png)
 -----------
 ----------------
