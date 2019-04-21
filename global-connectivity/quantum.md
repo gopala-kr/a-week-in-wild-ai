@@ -7,9 +7,21 @@
 --------------
 ![EMERGING-TECHNOLOGIES-KALEIDO-2-1.](http://www.kaleidoinsights.com/wp-content/uploads/2018/01/EMERGING-TECHNOLOGIES-KALEIDO-2-1.gif)
 ----------
-
+![quantum-computing-news1](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/10154034/quantum-computing-news1-1024x532.png)
+-------------
+![moores-law-is-ending-2-768x576](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/07132048/moores-law-is-ending-2-768x576.png)
+-------------
 ![quantum-computing-qubit-timeline](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/14180930/quantum-computing-qubit-timeline.png)
 ----------
+![QC-types-chart-1-768x576](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/12/06125748/QC-types-chart-1-768x576.png)
+-------------
+![top-qc-players](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/07133847/top-qc-players-768x576.png)
+-------------
+![qc-funding-growing](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/07134230/qc-funding-growing-768x576.png)
+-------------
+![qc-investors-snapshot](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/01/15143211/qc-investors-snapshot-bsg-2-768x576.png)
+-------------
+
 
 ![nature23459](https://media.springernature.com/full/nature-static/assets/v1/image-assets/nature23459-f1.jpg)
 ----------
