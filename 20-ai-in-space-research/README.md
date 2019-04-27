@@ -3,6 +3,7 @@
 
 
 
+----------------------
 
 - [How Can AI Assist Humans in Space Exploration? NASA Astronauts Tell Us What They Think.](https://software.intel.com/en-us/blogs/2018/08/07/how-can-ai-assist-humans-in-space-exploration-nasa-astronauts-tell-us-what-they)
 - [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) - A list of space exploration related books (some are online, some are on paper)
@@ -102,3 +103,12 @@ Satellite Datasets
 - [https://www.kaggle.com/rhammell/ships-in-satellite-imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
 
 ------------
+- [List of private spaceflight companies](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
+- [5 Space Companies Zeroing in on First Launch of Tourists Into Orbit and Beyond](https://singularityhub.com/2018/05/10/5-space-companies-zeroing-in-on-first-launch-of-tourists-into-orbit-and-beyond/#sm.001834va21c6cf5ixwm27qvm7zp6b)
+- [Interplanetary players: a who’s who of space mining](https://www.ft.com/content/fb420788-72d1-11e7-93ff-99f383b09ff9)
+- [Luxembourg leads the trillion-dollar race to become the Silicon Valley of asteroid mining](https://www.cnbc.com/2018/04/16/luxembourg-vies-to-become-the-silicon-valley-of-asteroid-mining.html)
+- [The asteroid rush sending 21st-century prospectors into space](https://www.theguardian.com/science/2018/jun/09/asteroid-mining-space-prospectors-precious-resources-fuelling-future-among-stars)
+- [The asteroid mining bubble has burst](http://www.thespacereview.com/article/3633/1)
+- [Mining in Space: What It Means for the Economy?](https://interestingengineering.com/mining-in-space-what-it-means-for-the-economy)
+
+-------
