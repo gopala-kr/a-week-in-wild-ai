@@ -39,3 +39,5 @@
 -----------
 ![DNA-storage-hierarchy](https://2.bp.blogspot.com/-2dA336NeoWw/WnFOMUncM5I/AAAAAAAAEPE/bjiWqW5Zx3wjEf-7GbqD3JLHW-T3bSq_gCLcBGAs/s1600/DNA-storage-hierarchy.png)
 -----------
+![Fig12](https://dlg7f0e93aole.cloudfront.net/wp-content/uploads/Fig12.jpg)
+-----------
