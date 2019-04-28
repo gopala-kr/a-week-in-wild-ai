@@ -2,3 +2,6 @@
 -----------
 ![SpaceX_MoonOrbit_BFR](https://www.spacex.com/sites/all/themes/spacex2012/images/mars/SpaceX_MoonOrbit_BFR.png)
 -----------
+![china-ecosystem](http://www.leonarddavid.com/wp-content/uploads/2018/11/china-ecosystem.png)
+
+---------
