@@ -115,6 +115,8 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [The asteroid mining bubble has burst](http://www.thespacereview.com/article/3633/1)
 - [Mining in Space: What It Means for the Economy?](https://interestingengineering.com/mining-in-space-what-it-means-for-the-economy)
 - [Additive Manufacturing in Launch Vehicles](http://www.spacetechasia.com/additive-manufacturing-in-launch-vehicles/)
+- [SpaceX Has a Bold Timeline for Getting to Mars and Starting a Colony](https://www.inverse.com/article/51291-spacex-here-s-the-timeline-for-getting-to-mars-and-starting-a-colony)
+- [SpaceX Roadmap building on its rocket business revolution](https://www.nasaspaceflight.com/2014/07/spacex-roadmap-rocket-business-revolution/)
 
 -------
 - [Outline of space technology](https://en.wikipedia.org/wiki/Outline_of_space_technology)
@@ -127,5 +129,8 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [China Space Station and its Resources for International Cooperation](http://english.csu.cas.cn/News_Event/pictures/201805/W020180530540318938248.pdf)
 - [NASA Invests in 18 Potentially Revolutionary Space Tech Concepts](https://www.nasa.gov/press-release/nasa-invests-in-18-potentially-revolutionary-space-tech-concepts)
 - [https://gameon.nasa.gov/](https://gameon.nasa.gov/)
+- [Strategic technology roadmap for space x](https://www.slideshare.net/carlesdebart/strategic-technology-roadmap-for-space-x)
+- [Starlink_(satellite_constellation](https://en.wikipedia.org/wiki/Starlink_(satellite_constellation))
+- [Timeline of SpaceX](https://timelines.issarice.com/wiki/Timeline_of_SpaceX)
 
 --------------
