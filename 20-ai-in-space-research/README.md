@@ -1,7 +1,7 @@
 
 
 
-
+![space_industry](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/20-ai-in-space-research/img/space_industry.PNG)
 
 ----------------------
 
