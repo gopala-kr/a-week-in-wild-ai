@@ -123,5 +123,9 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [NASA Space Technology](https://www.nasa.gov/topics/technology/videos/index.html)
 - [Space Technology: Investments in our Future ](https://www.nasa.gov/pdf/527871main_Space_Tech_FY12_Overview_external_vers3.pdf)
 - [Space exploration](https://www.britannica.com/science/space-exploration)
+- [NASA: Space Technology Roadmaps • STR](https://www.nasa.gov/pdf/501627main_TASR-TABS_Foldouts-A.pdf)
+- [China Space Station and its Resources for International Cooperation](http://english.csu.cas.cn/News_Event/pictures/201805/W020180530540318938248.pdf)
+- [NASA Invests in 18 Potentially Revolutionary Space Tech Concepts](https://www.nasa.gov/press-release/nasa-invests-in-18-potentially-revolutionary-space-tech-concepts)
+- [https://gameon.nasa.gov/](https://gameon.nasa.gov/)
 
 --------------
