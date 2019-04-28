@@ -103,12 +103,17 @@ Satellite Datasets
 - [https://www.kaggle.com/rhammell/ships-in-satellite-imagery](https://www.kaggle.com/rhammell/ships-in-satellite-imagery)
 
 ------------
+- [An International Comparison of Space History,
+Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-LaunchPropulsion-DRAFT-Nov2010-A.pdf)
 - [List of private spaceflight companies](https://en.wikipedia.org/wiki/List_of_private_spaceflight_companies)
+- [Launch Vehicle Manufacturers](http://www.satellite-links.com/index.php/launch-vehicle-manufacturers)
+- [List of spacecraft manufacturers](https://en.wikipedia.org/wiki/List_of_spacecraft_manufacturers)
 - [5 Space Companies Zeroing in on First Launch of Tourists Into Orbit and Beyond](https://singularityhub.com/2018/05/10/5-space-companies-zeroing-in-on-first-launch-of-tourists-into-orbit-and-beyond/#sm.001834va21c6cf5ixwm27qvm7zp6b)
 - [Interplanetary players: a who’s who of space mining](https://www.ft.com/content/fb420788-72d1-11e7-93ff-99f383b09ff9)
 - [Luxembourg leads the trillion-dollar race to become the Silicon Valley of asteroid mining](https://www.cnbc.com/2018/04/16/luxembourg-vies-to-become-the-silicon-valley-of-asteroid-mining.html)
 - [The asteroid rush sending 21st-century prospectors into space](https://www.theguardian.com/science/2018/jun/09/asteroid-mining-space-prospectors-precious-resources-fuelling-future-among-stars)
 - [The asteroid mining bubble has burst](http://www.thespacereview.com/article/3633/1)
 - [Mining in Space: What It Means for the Economy?](https://interestingengineering.com/mining-in-space-what-it-means-for-the-economy)
+- [Additive Manufacturing in Launch Vehicles](http://www.spacetechasia.com/additive-manufacturing-in-launch-vehicles/)
 
 -------
