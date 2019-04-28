@@ -5,7 +5,8 @@
 ![46wF8U9jBiR2](https://cdn-images-1.medium.com/max/800/1*46wF8U9jBiR2-6uhAEDcjw.jpeg)
 --------
 ![coding-decoding-dna-storage](http://www.extremetech.com/wp-content/uploads/2012/08/coding-decoding-dna-storage.jpg)
-
+-----------
+![100655391](https://images.techhive.com/images/article/2016/04/screen-shot-2016-04-11-at-12.37.07-pm-100655391-orig.png)
 ---------------
 ![P6Aqh3TfGIP6M2jEGwukFg](https://cdn-images-1.medium.com/max/800/1*P6Aqh3TfGIP6M2jEGwukFg.png)
 --------
@@ -25,7 +26,7 @@
 ------------
 ![41598_2019_41228_Fig1_HTML](https://media.springernature.com/lw900/springer-static/image/art%3A10.1038%2Fs41598-019-41228-8/MediaObjects/41598_2019_41228_Fig1_HTML.png)
 ------------
-![]()
+![dna-data-catalog-stats-2](https://icdn7.digitaltrends.com/image/dna-data-catalog-stats-2-2956x1663.png)
 ------------
 ![]()
 ------------
