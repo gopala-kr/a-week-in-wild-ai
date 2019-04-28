@@ -117,6 +117,7 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [Additive Manufacturing in Launch Vehicles](http://www.spacetechasia.com/additive-manufacturing-in-launch-vehicles/)
 - [SpaceX Has a Bold Timeline for Getting to Mars and Starting a Colony](https://www.inverse.com/article/51291-spacex-here-s-the-timeline-for-getting-to-mars-and-starting-a-colony)
 - [SpaceX Roadmap building on its rocket business revolution](https://www.nasaspaceflight.com/2014/07/spacex-roadmap-rocket-business-revolution/)
+- [https://www.space.com/](https://www.space.com/)
 
 -------
 - [Outline of space technology](https://en.wikipedia.org/wiki/Outline_of_space_technology)
@@ -132,6 +133,8 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [https://mars.nasa.gov/](https://mars.nasa.gov/)
 - [https://www.spacex.com/mars](https://www.spacex.com/mars)
 - [Spaceflight Architecture](https://www.nasa.gov/content/spaceflight-architecture)
+- [Spacecraft design](https://en.wikipedia.org/wiki/Spacecraft_design)
+- [SPACECRAFT DESIGN 101](https://www.gaia.com/article/spacecraft-design-101)
 - [NASA:  Journey to Mars](https://www.nasa.gov/sites/default/files/atoms/files/journey-to-mars-next-steps-20151008_508.pdf)
 - [Strategic technology roadmap for space x](https://www.slideshare.net/carlesdebart/strategic-technology-roadmap-for-space-x)
 - [Starlink_(satellite_constellation](https://en.wikipedia.org/wiki/Starlink_(satellite_constellation))
