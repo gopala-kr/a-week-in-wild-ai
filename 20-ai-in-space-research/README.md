@@ -118,6 +118,8 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [SpaceX Has a Bold Timeline for Getting to Mars and Starting a Colony](https://www.inverse.com/article/51291-spacex-here-s-the-timeline-for-getting-to-mars-and-starting-a-colony)
 - [SpaceX Roadmap building on its rocket business revolution](https://www.nasaspaceflight.com/2014/07/spacex-roadmap-rocket-business-revolution/)
 - [https://www.space.com/](https://www.space.com/)
+- [https://www.reddit.com/r/space/](https://www.reddit.com/r/space/)
+- [https://www.youtube.com/user/ouramazingspace/videos](https://www.youtube.com/user/ouramazingspace/videos)
 
 -------
 - [Outline of space technology](https://en.wikipedia.org/wiki/Outline_of_space_technology)
