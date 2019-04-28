@@ -131,6 +131,8 @@ Policy and Industrial Capability](https://www.nasa.gov/pdf/500393main_TA01-Launc
 - [https://gameon.nasa.gov/](https://gameon.nasa.gov/)
 - [https://mars.nasa.gov/](https://mars.nasa.gov/)
 - [https://www.spacex.com/mars](https://www.spacex.com/mars)
+- [Spaceflight Architecture](https://www.nasa.gov/content/spaceflight-architecture)
+- [NASA:  Journey to Mars](https://www.nasa.gov/sites/default/files/atoms/files/journey-to-mars-next-steps-20151008_508.pdf)
 - [Strategic technology roadmap for space x](https://www.slideshare.net/carlesdebart/strategic-technology-roadmap-for-space-x)
 - [Starlink_(satellite_constellation](https://en.wikipedia.org/wiki/Starlink_(satellite_constellation))
 - [Timeline of SpaceX](https://timelines.issarice.com/wiki/Timeline_of_SpaceX)
