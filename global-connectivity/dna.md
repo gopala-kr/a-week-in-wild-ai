@@ -41,3 +41,8 @@
 -----------
 ![Fig12](https://dlg7f0e93aole.cloudfront.net/wp-content/uploads/Fig12.jpg)
 -----------
+![Uestc-software-description-4](https://i2.wp.com/www.dnalinkseqlab.com/wp-content/uploads/2017/05/Uestc-software-description-4.png?resize=800%2C526&ssl=1)
+
+----------
+![universal_compatibility_vector_optimised](https://sequencing.com/sites/default/files/wysiwyg/735/universal_compatibility_vector_optimised.svg)
+----------
