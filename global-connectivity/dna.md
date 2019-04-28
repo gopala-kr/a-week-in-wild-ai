@@ -1,13 +1,16 @@
 
 - [Demonstration of End-to-End Automation of DNA Data Storage](https://www.nature.com/articles/s41598-019-41228-8)
 ----------
-
+![Schematic-flow-of-high-throughput-data-storage-in-DNA-From-a-single-degenerate](https://www.researchgate.net/publication/310791669/figure/fig2/AS:431942651912194@1479994561374/Schematic-flow-of-high-throughput-data-storage-in-DNA-From-a-single-degenerate.png)
+-------------
 ![46wF8U9jBiR2](https://cdn-images-1.medium.com/max/800/1*46wF8U9jBiR2-6uhAEDcjw.jpeg)
 --------
 ![coding-decoding-dna-storage](http://www.extremetech.com/wp-content/uploads/2012/08/coding-decoding-dna-storage.jpg)
 -----------
 ![100655391](https://images.techhive.com/images/article/2016/04/screen-shot-2016-04-11-at-12.37.07-pm-100655391-orig.png)
 ---------------
+![mproved-error-correction-approach-for-DNA-data-storage-using-Golay-codes-is-developed](https://www.researchgate.net/profile/Manish_Gupta/publication/271532092/figure/fig5/AS:295172731621380@1447386071683/mproved-error-correction-approach-for-DNA-data-storage-using-Golay-codes-is-developed.png)
+-----------
 ![P6Aqh3TfGIP6M2jEGwukFg](https://cdn-images-1.medium.com/max/800/1*P6Aqh3TfGIP6M2jEGwukFg.png)
 --------
 ![magepublish.upp-prod-us.s3.amazonaws](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fb3e02f30-0680-11e8-9650-9c0ad2d7c5b5?source=next&fit=scale-down&quality=highest&width=700)
@@ -19,6 +22,8 @@
 ![images](https://media.nature.com/m685/nature-assets/nbt/journal/v36/n3/images/nbt.4079-F2.jpg)
 ------------
 ![Error](https://www.nonteek.com/wp-content/uploads/2018/10/2015-02-17-12_12_24-Robust-Chemical-Preservation-of-Digital-Information-on-DNA-in-Silica-with-Error%E2%80%90.png)
+----------
+![Sequencing](http://slideplayer.com/slide/3351231/12/images/1/The+History+of+DNA+Sequencing+Technology.jpg)
 ------------
 ![41598_2017_5188_Fig1_HTML](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-017-05188-1/MediaObjects/41598_2017_5188_Fig1_HTML.jpg)
 ------------
@@ -28,5 +33,9 @@
 ------------
 ![dna-data-catalog-stats-2](https://icdn7.digitaltrends.com/image/dna-data-catalog-stats-2-2956x1663.png)
 ------------
-![]()
+![fd8af630aafd86f8df44dfb68c66728e](https://userscontent2.emaze.com/images/e9402bc6-f049-4690-9eb3-73469e755c5a/fd8af630aafd86f8df44dfb68c66728e.png)
 ------------
+![storage](http://www.physics.wisc.edu/~himpsel/storage.jpg)
+-----------
+![DNA-storage-hierarchy](https://2.bp.blogspot.com/-2dA336NeoWw/WnFOMUncM5I/AAAAAAAAEPE/bjiWqW5Zx3wjEf-7GbqD3JLHW-T3bSq_gCLcBGAs/s1600/DNA-storage-hierarchy.png)
+-----------
