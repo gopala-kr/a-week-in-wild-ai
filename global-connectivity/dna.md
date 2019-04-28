@@ -46,3 +46,5 @@
 ----------
 ![universal_compatibility_vector_optimised](https://sequencing.com/sites/default/files/wysiwyg/735/universal_compatibility_vector_optimised.svg)
 ----------
+![storage-costs](https://www.kurzweilai.net/images/storage-costs.png)
+----------
