@@ -350,6 +350,8 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ---------------
 ![D2f71N8XcAAzZCd](https://pbs.twimg.com/media/D2f71N8XcAAzZCd.jpg:large)
 --------
+![ai-vector-swarm-intelligence-15](https://i.ya-webdesign.com//images/ai-vector-swarm-intelligence-15.png)
+----------
 
 ![D2chpkrX0AcmIF1](https://pbs.twimg.com/media/D2chpkrX0AcmIF1.jpg:large)
 ------------
@@ -374,5 +376,13 @@ Source: [Modern Trends in Telecommunication and Information Super Highway](https
 ![Blockchain-Trends-2019-feature](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/11/29183334/Blockchain-Trends-2019-feature.png)
 ----------
 ![1*mwFT5xz6a-3K-MV4L19u7A](https://cdn-images-1.medium.com/max/1000/1*mwFT5xz6a-3K-MV4L19u7A.png)
+-----------
+![AI+Trends+Forecast](https://irp-cdn.multiscreensite.com/9297f8c7/dms3rep/multi/mobile/AI+Trends+Forecast.png)
+----------------
+![Energy-scale-100](https://vignette.wikia.nocookie.net/doctorwhomarvel/images/c/ca/Energy-scale-100.jpg/revision/latest?cb=20120202004021)
+
+---------
+- [Long-Term Trajectories of Human Civilization](https://ora.ox.ac.uk/objects/uuid:2e0b181c-ee8f-446e-a790-f76fbc972757/download_file?file_format=pdf&safe_filename=Trajectories%252C%2BBaum.pdf&type_of_work=Journal+article)
+
 -----------
 ----------------
