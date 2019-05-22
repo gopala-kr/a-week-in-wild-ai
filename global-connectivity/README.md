@@ -134,5 +134,10 @@ by  	Ray Kurzweil
 - [Timeline of biotechnology](https://en.wikipedia.org/wiki/Timeline_of_biotechnology)
 - [History of genetic engineering](https://en.wikipedia.org/wiki/History_of_genetic_engineering)
 
+---------
+
+- [100 Science Topics for Research Papers](https://owlcation.com/academia/100-Science-Topics-for-Research-Papers)
+- [Lists of unsolved problems](https://en.wikipedia.org/wiki/Lists_of_unsolved_problems)
+
 ------------------
 ----------------------
