@@ -28,11 +28,11 @@
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3-7](15/04/2019 - 22/05/2019)  : time travel 4000 bc
 - [Week-8](15/04/2019 - 22/05/2019)  : Recent Advances in Deep RL and Robotic tasks
-- [Week-9](tbd)  : Recent Advances in Generative Models
-- [Week-10](tbd)  : Recent Advances in Transfer Learning and Metalearning
-- [Week-11](tbd)  : Recent Advances in Hardware architectures and DL frameworks
-- [Week-12](tbd)  : Recent advances in Quantum ML and Neuromorphic hardwares
-- [Week-13-15](tbd) : AGI Roadmap
+- [Week-9](-tbd)  : Recent Advances in Generative Models
+- [Week-10](-tbd)  : Recent Advances in Transfer Learning and Metalearning
+- [Week-11](-tbd)  : Recent Advances in Hardware architectures and DL frameworks
+- [Week-12](-tbd)  : Recent advances in Quantum ML and Neuromorphic hardwares
+- [Week-13-15](-tbd) : AGI Roadmap
 
 -------------------
 
