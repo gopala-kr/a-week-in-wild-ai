@@ -34,6 +34,10 @@
 - [MIT Quantum Computer](https://www.youtube.com/playlist?list=PLFpYpCavUtYnXsBMLLS4umE5HG8FMk4uP)
 - [Berkeley course  "Quantum Mechanics and Quantum Computation" video lecture series by Professor Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
 - [Quantum Mechanics and Quantum Computation](https://www.youtube.com/playlist?list=PL2jykFOD1AWap0r8WOuZ-08BFgMyx-5RT)
+- [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
+- [IBM - DNA, Quantum, NANO, Molecular Computing](https://www.youtube.com/playlist?list=PL45nK_2UWrYAK16myTug8-oCgGheS8WBk)
+- [quantum computing](https://www.youtube.com/playlist?list=PL29WzsKWf-rDQx_Sc8bKYs14BUveiOnBc)
+
 
 --------------
 
