@@ -37,7 +37,9 @@
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)
 - [IBM - DNA, Quantum, NANO, Molecular Computing](https://www.youtube.com/playlist?list=PL45nK_2UWrYAK16myTug8-oCgGheS8WBk)
 - [quantum computing](https://www.youtube.com/playlist?list=PL29WzsKWf-rDQx_Sc8bKYs14BUveiOnBc)
-
+- [Neuromorphic computing with emerging memory devices](https://www.youtube.com/watch?v=gX9NqDuwTnA&t=141s)
+- [Neuromorphic Computing, AI Chips Emulating the Brain](https://www.youtube.com/watch?v=NM7hdDZN2YI)
+- [neuromorphic computing](https://www.youtube.com/playlist?list=PLu5YcsAk-a3lFTlBAlMg86FhmSZSdz6W5)
 
 --------------
 
