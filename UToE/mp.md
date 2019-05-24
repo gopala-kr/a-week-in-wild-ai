@@ -2,7 +2,7 @@
 ------------
 ![29852456427_d59d142757_b](https://live.staticflickr.com/1846/29852456427_d59d142757_b.jpg)
 -------------
-![32264483720_c51bdde679_b](https://live.staticflickr.com/272/32264483720_c51bdde679_b.jpg)
+![32264483720_c51bdde679_b](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/UToE/imgs/32786397946_5c5a887538_o.png)
 -------------
 ![30976775430_0d5e4fdc5c_b](https://live.staticflickr.com/5536/30976775430_0d5e4fdc5c_b.jpg)
 -------------
