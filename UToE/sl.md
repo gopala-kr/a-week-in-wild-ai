@@ -742,33 +742,31 @@
 ---------
 ![stockphoto6235139-9](http://www.interactive-biology.com/wp-content/uploads/2012/04/canstockphoto6235139-906x1024.jpg)
 ---------
-![]()
+![Structural+Classes+of+Neurons](http://slideplayer.com/slide/9363515/28/images/6/Structural+Classes+of+Neurons.jpg)
 ---------
-![]()
----------
-
-![]()
+![nversion-gate01/95/150-ch11-neurology-15-63](https://image.slidesharecdn.com/150ch11-neurology-141213131338-conversion-gate01/95/150-ch11-neurology-15-638.jpg?cb=1418476441)
 ---------
 
-![]()
+![neuron_anatomy](https://healthjade.com/wp-content/uploads/2018/08/Neuron-with-myelin-sheath.jpg)
 ---------
 
-![]()
+![W74XG](https://i.stack.imgur.com/W74XG.jpg)
 ---------
 
-![]()
+![kat_ch21_f001](https://accesspharmacy.mhmedical.com/data/books/1193/kat_ch21_f001.png)
 ---------
 
-![]()
+![Byb_mgnlgn_pic5](https://backyardbrains.com/experiments/img/Byb_mgnlgn_pic5.png)
 ---------
 
-![]()
+![nejmra1812053](https://www.nejm.org/na101/home/literatum/publisher/mms/journals/content/nejm/2019/nejm_2019.380.issue-5/nejmra1812053/20190125/images/img_medium/nejmra1812053_f1.jpeg)
 ---------
 
-![]()
+![1565_2018_107_Fig1_](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41565-018-0107-1/MediaObjects/41565_2018_107_Fig1_HTML.jpg)
 ---------
 
-![]()
+![434234855_450663946](https://present5.com/presentation/434234855_450663946/image-1.jpg)
 ---------
+-----------------------
 
 
