@@ -1125,27 +1125,29 @@ processes
 -------------
 ![9_13_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-48933-9_13/MediaObjects/978-3-319-48933-9_13_Fig1_HTML.png)
 -------------
-![]()
+----------------
+
+![Heisenbergs-Uncertainty-Principle](https://r.hswstatic.com/w_907/gif/Heisenbergs-Uncertainty-Principle.png)
 -------------
-![]()
+![s_QhH2R_91b5CFYqjAxXVA](https://cdn-images-1.medium.com/max/1600/1*s_QhH2R_91b5CFYqjAxXVA.jpeg)
 -------------
-![]()
+![Heisenberg-Uncertainty-Principle](https://cdn1.byjus.com/chemistry/wp-content/uploads/2015/12/Heisenberg-Uncertainty-Principle.jpg)
 -------------
-![]()
+![slide_23](https://images.slideplayer.com/19/5918876/slides/slide_23.jpg)
 -------------
-![]()
+![66y08](https://i.stack.imgur.com/66y08.png)
 -------------
-![]()
+![slide_7](http://images.slideplayer.com/19/5803022/slides/slide_7.jpg)
 -------------
-![]()
+![UncertaintyPrinciple](https://3.bp.blogspot.com/-3gG9U4qib7k/V2xVkQV3kwI/AAAAAAAAASM/z5jpjuVAV70Hgbesmn-Qg7wAU-xUE8PEwCLcB/s1600/UncertaintyPrinciple.jpg)
 -------------
-![]()
+![Figure](https://cnx.org/resources/43dbdd52944f2d97dfe2c9acc030f06999860aad/Figure%2030_07_01a.jpg)
 -------------
-![]()
+![img006](https://courses.cs.washington.edu/courses/cse599/99sp/admin/Slides/Week8/img006.gif)
 -------------
-![]()
+![uncertainty](https://image.slidesharecdn.com/uncertainty-120208074244-phpapp01/95/uncertainty-8-728.jpg?cb=1328687161)
 -------------
-![]()
+![uncertainty](http://www.math.keio.ac.jp/~ishikawa/QLEJ/PicQL/uncertainty.png)
 -------------
 ![]()
 -------------
@@ -1256,6 +1258,7 @@ Michio Kaku
 - [Royal Society Of Chemistry](https://www.youtube.com/user/wwwRSCorg/playlists)
 - [ACM A.M. Turing Award Lectures](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYCkOxtYqozyDuwt-4sC2L6)
 - [The Royal Society](https://www.youtube.com/user/RoyalSociety/playlists)
-
+- [https://curiositystream.com/](https://curiositystream.com/)
+- [https://www.thegreatcoursesplus.com/](https://www.thegreatcoursesplus.com/)
 ----------
 ---------------
