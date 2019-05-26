@@ -42,6 +42,15 @@
 
 --------
 
+> “Many, many rules had begun to bend at the hand of nanotechnology, gene therapy, robotics, artificial intelligence. This produced a lot of good, and a lot of bad. This trade-off has always plagued us. When you make waves, you produce peaks and troughs.” 
+― Matt Spire, Caligatha
+
+--------------
+
+> By 2100, our destiny is to become like the gods we once worshipped and feared. But our tools will not be magic wands and potions but the science of computers, nanotechnology, artificial intelligence, biotechnology, and most of all, the quantum theory.
+Michio Kaku
+
+-----------
 > “Whether we are based on carbon or on silicon makes no fundamental difference; we should each be treated with appropriate respect.” ― Arthur C. Clarke, 2010: Odyssey Two
 
 -----
