@@ -13,6 +13,13 @@
 ---------- 
 
 > "If you think you understand quantum mechanics, you don't understand quantum mechanics". -  Richard Feynman
+----------
+
+>  ["There's Plenty of Room at the Bottom"  - Richard Feynman](https://www.youtube.com/watch?v=4eRCygdW--c)
+
+---------
+
+"It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages."
 
 ------------
 --------------
