@@ -23,17 +23,40 @@
 
 ---------
 
-Any further smaller, [uncentaintry principle](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and electrons leak out of the transistor, destroying its properties.
+> Any further smaller, [uncentaintry principle](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and electrons leak out of the transistor, destroying its properties.
 
-----------
+---------
 
 > Atom is the smallest unit that one can calculate on. Quantum computers operare at atomic level, an atom is like a spinning up. Nomally, you can strore digital information on spinning tops by assigning the number 0 if the top is spinning upword, or 1 if the top is spinning downward, or spin up and down simultaneously.
 
-> When atoms are coherant and vibrating in phase with one another , the tiniest disturabances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passin of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and dstroy computation.
+> When atoms are coherant and vibrating in phase with one another , the tiniest disturabances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passing of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and destroy computation.
 
-> The decoheence problem is the single most difficult barrier creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
+> The decohence problem is the single most difficult barrier creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
 
+-----------
+> Much like you can't make a boy and a irl fall in love with each other simply by pushing them together, you cannot make precise chemistry occur as desired between two molecular objects with simple mechanical motion... chemistry like love is more subtle than that.
 
+----------
+
+> “The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” ― Edsger W. Dijkstra
+
+--------
+
+> “Whether we are based on carbon or on silicon makes no fundamental difference; we should each be treated with appropriate respect.” ― Arthur C. Clarke, 2010: Odyssey Two
+
+-----
+> “Most obvious is that DNA may be only one of many ways that biological information is encoded, and it is hard to see how the aliens would know in advance what terrestrial life uses.” 
+― Paul Davies
+
+-------
+
+> “Even if DNA is the only viable genetic molecule, there is no reason why the same amino acids in similar combinations would be used as enzymes by all life. Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t eat our plants and animals.” ― Paul Davies
+
+--------------
+
+> “My conclusion is a startling one. I think it very likely—in fact inevitable—that biological intelligence is only a transitory phenomenon, a fleeting phase in the evolution of intelligence in the universe. If we ever encounter extraterrestrial intelligence, I believe it is overwhelmingly likely to be post-biological in nature, a conclusion that has obvious and far-reaching ramifications for SETI.” ― Paul Davies
+
+----------
 ------------
 --------------
 
