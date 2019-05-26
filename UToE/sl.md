@@ -781,6 +781,8 @@
 ------------
 ![C7od4fVXgAEU_U3](https://pbs.twimg.com/media/C7od4fVXgAEU_U3.jpg)
 -------------
+
+![9_13_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-48933-9_13/MediaObjects/978-3-319-48933-9_13_Fig1_HTML.png)
 ----------
 ![maxresdefault](https://i.ytimg.com/vi/jQlg2q39z7U/maxresdefault.jpg)
 -------------
@@ -1083,8 +1085,7 @@
 ![Insights_20170120](https://evertiq.com/nimg/research/2017/IC-Insights/IC-Insights_20170120.jpg)
 -------------
 ![Who_exported_Electronic_integrated_circuits_in_2016](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_exported_Electronic_integrated_circuits_in_2016.svg/1200px-Who_exported_Electronic_integrated_circuits_in_2016.svg.png)
--------------
-![9_13_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-48933-9_13/MediaObjects/978-3-319-48933-9_13_Fig1_HTML.png)
+
 -------------
 -----------------
 
