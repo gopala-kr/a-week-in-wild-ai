@@ -27,14 +27,15 @@
 
 ---------
 
-> Atom is the smallest unit that one can calculate on. Quantum computers operare at atomic level, an atom is like a spinning up. Nomally, you can strore digital information on spinning tops by assigning the number 0 if the top is spinning upword, or 1 if the top is spinning downward, or spin up and down simultaneously.
+> Atom is the smallest unit that one can calculate on. Quantum computers operare at atomic level, an atom is like a spinning up. Nomally, you can strore digital information on spinning tops by assigning the number 0 if the top is spinning upward, or 1 if the top is spinning downward, or spin up and down simultaneously.
 
-> When atoms are coherant and vibrating in phase with one another , the tiniest disturabances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passing of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and destroy computation.
+> When atoms are coherant and vibrating in phase with one another , the tiniest disturbances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passing of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and destroy computation.
 
-> The decohence problem is the single most difficult barrier creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
+> The decohence problem is the single most difficult barrier for creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
 
 -----------
-> Much like you can't make a boy and a irl fall in love with each other simply by pushing them together, you cannot make precise chemistry occur as desired between two molecular objects with simple mechanical motion... chemistry like love is more subtle than that.
+
+> Much like you can't make a boy and a girl fall in love with each other simply by pushing them together, you cannot make precise chemistry occur as desired between two molecular objects with simple mechanical motion... chemistry like love is more subtle than that.
 
 ----------
 
