@@ -19,7 +19,20 @@
 
 ---------
 
-> "It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages." Any further smaller, [uncentaintry priciple](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and elecrons leak ou of the transistor, destroying its properties. 
+> "It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages."
+
+---------
+
+Any further smaller, [uncentaintry principle](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and electrons leak out of the transistor, destroying its properties.
+
+----------
+
+> Atom is the smallest unit that one can calculate on. Quantum computers operare at atomic level, an atom is like a spinning up. Nomally, you can strore digital information on spinning tops by assigning the number 0 if the top is spinning upword, or 1 if the top is spinning downward, or spin up and down simultaneously.
+
+> When atoms are coherant and vibrating in phase with one another , the tiniest disturabances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passin of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and dstroy computation.
+
+> The decoheence problem is the single most difficult barrier creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
+
 
 ------------
 --------------
