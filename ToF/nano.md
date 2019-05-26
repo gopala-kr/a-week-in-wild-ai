@@ -8,7 +8,7 @@
 
 -----------------
 
-> The principles of physics, as far as I can see, do not speak aginst the possibility of maneuvering things atom by atom. - Richard Feynman
+> The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. - Richard Feynman
 
 ---------- 
 
@@ -19,7 +19,7 @@
 
 ---------
 
-"It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages."
+> "It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages." Any further smaller, [uncentaintry priciple](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and elecrons leak ou of the transistor, destroying its properties. 
 
 ------------
 --------------
