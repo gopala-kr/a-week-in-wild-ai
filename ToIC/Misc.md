@@ -6,3 +6,10 @@
 - [Timeline| Nature Reviews Neuroscience](https://www.nature.com/nrn/articles?type=timeline)
 
 ------------
+
+- [https://www.humanbrainproject.eu/en/](https://www.humanbrainproject.eu/en/)
+- [TheHumanBrainProject](https://www.youtube.com/user/TheHumanBrainProject/playlists)
+- [https://www.braininitiative.org/](https://www.braininitiative.org/)
+- [NSFbraininitiative](https://www.youtube.com/user/NSFbraininitiative/playlists)
+
+--------------
