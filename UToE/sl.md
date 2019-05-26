@@ -770,13 +770,12 @@
 
 ![434234855_450663946](https://present5.com/presentation/434234855_450663946/image-1.jpg)
 -------------
+-------------------------
+-----------------------
 
 
 ![474903_1_En_1_Fig2_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-04513-5_1/MediaObjects/474903_1_En_1_Fig2_HTML.png)
 -------------
--------------------------
------------------------
-
 
 ![siliconengine-welcome](https://www.computerhistory.org/siliconengine/_media/img/siliconengine-welcome-main.jpg)
 ------------
@@ -1078,9 +1077,17 @@
 ![applicationsofnanomaterialsinfoodandcosmetic](https://image.slidesharecdn.com/applicationsofnanomaterialsinfoodandcosmetic-150306015050-conversion-gate01/95/applications-of-nanomaterials-in-food-and-cosmetic-8-638.jpg?cb=1425606744)
 -------------
 ![tion-of-nanomaterials-in-catalysts-](https://www.researchgate.net/profile/Saeedeh_Imani_Moqadam2/publication/259466107/figure/fig4/AS:297138740318211@1447854804409/application-of-nanomaterials-in-catalysts-4.png)
+----------------
+![ic_13973_20171120](https://anysilicon.com/wp-content/uploads/2016/05/ic_13973_20171120-small.gif)
+-------------
+![Insights_20170120](https://evertiq.com/nimg/research/2017/IC-Insights/IC-Insights_20170120.jpg)
+-------------
+![Who_exported_Electronic_integrated_circuits_in_2016](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_exported_Electronic_integrated_circuits_in_2016.svg/1200px-Who_exported_Electronic_integrated_circuits_in_2016.svg.png)
+-------------
+![9_13_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-48933-9_13/MediaObjects/978-3-319-48933-9_13_Fig1_HTML.png)
 -------------
 -----------------
-----
+
 ![gate](http://www.techplayon.com/wp-content/uploads/2017/07/gate-2.png)
 --------
 <table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size: 110%"></td></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
@@ -1113,17 +1120,6 @@ processes
 <hr />
 </li></ul></div></td></tr></tbody></table>
 
-
-----------------
---------------
-
-![ic_13973_20171120](https://anysilicon.com/wp-content/uploads/2016/05/ic_13973_20171120-small.gif)
--------------
-![Insights_20170120](https://evertiq.com/nimg/research/2017/IC-Insights/IC-Insights_20170120.jpg)
--------------
-![Who_exported_Electronic_integrated_circuits_in_2016](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_exported_Electronic_integrated_circuits_in_2016.svg/1200px-Who_exported_Electronic_integrated_circuits_in_2016.svg.png)
--------------
-![9_13_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-48933-9_13/MediaObjects/978-3-319-48933-9_13_Fig1_HTML.png)
 -------------
 ----------------
 
@@ -1147,21 +1143,6 @@ processes
 -------------
 ![uncertainty](https://image.slidesharecdn.com/uncertainty-120208074244-phpapp01/95/uncertainty-8-728.jpg?cb=1328687161)
 -------------
-![uncertainty](http://www.math.keio.ac.jp/~ishikawa/QLEJ/PicQL/uncertainty.png)
--------------
-![]()
--------------
-![]()
--------------
-![]()
--------------
-![]()
--------------
-![]()
--------------
-![]()
--------------
-
 -----------
 
 > Eventually, the goal is not just to make computers the size of dust particles. The idea would be to make simple computers the size of bacteria. Then you could get something as powerful as whats now on your desktop into a dust particle.
