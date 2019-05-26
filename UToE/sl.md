@@ -1,99 +1,4 @@
------------
 
-> Eventually, the goal is not just to make computers the size of dust particles. The idea would be to make simple computers the size of bacteria. Then you could get something as powerful as whats now on your desktop into a dust particle.
-
-------------
-
-> The role of infinitely small is infinitely large.
-
------------------
-
-> The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. - Richard Feynman
-
----------- 
-
-> "If you think you understand quantum mechanics, you don't understand quantum mechanics". -  Richard Feynman
-----------
-
->  ["There's Plenty of Room at the Bottom"  - Richard Feynman](https://www.youtube.com/watch?v=4eRCygdW--c)
-
----------
-
-> "It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages."
-
----------
-
-> Any further smaller, [uncentaintry principle](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and electrons leak out of the transistor, destroying its properties.
-
----------
-
-> Atom is the smallest unit that one can calculate on. Quantum computers operare at atomic level, an atom is like a spinning up. Nomally, you can strore digital information on spinning tops by assigning the number 0 if the top is spinning upward, or 1 if the top is spinning downward, or spin up and down simultaneously.
-
-> When atoms are coherant and vibrating in phase with one another , the tiniest disturbances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passing of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and destroy computation.
-
-> The decohence problem is the single most difficult barrier for creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
-
------------
-
-> Much like you can't make a boy and a girl fall in love with each other simply by pushing them together, you cannot make precise chemistry occur as desired between two molecular objects with simple mechanical motion... chemistry like love is more subtle than that.
-
-----------
-
-> “The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” ― Edsger W. Dijkstra
-
---------
-
-> “Many, many rules had begun to bend at the hand of nanotechnology, gene therapy, robotics, artificial intelligence. This produced a lot of good, and a lot of bad. This trade-off has always plagued us. When you make waves, you produce peaks and troughs.” 
-― Matt Spire, Caligatha
-
---------------
-
-> By 2100, our destiny is to become like the gods we once worshipped and feared. But our tools will not be magic wands and potions but the science of computers, nanotechnology, artificial intelligence, biotechnology, and most of all, the quantum theory.
-Michio Kaku
-
------------
-> “Whether we are based on carbon or on silicon makes no fundamental difference; we should each be treated with appropriate respect.” ― Arthur C. Clarke, 2010: Odyssey Two
-
------
-> “Most obvious is that DNA may be only one of many ways that biological information is encoded, and it is hard to see how the aliens would know in advance what terrestrial life uses.” 
-― Paul Davies
-
--------
-
-> “Even if DNA is the only viable genetic molecule, there is no reason why the same amino acids in similar combinations would be used as enzymes by all life. Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t eat our plants and animals.” ― Paul Davies
-
---------------
-
-> “My conclusion is a startling one. I think it very likely—in fact inevitable—that biological intelligence is only a transitory phenomenon, a fleeting phase in the evolution of intelligence in the universe. If we ever encounter extraterrestrial intelligence, I believe it is overwhelmingly likely to be post-biological in nature, a conclusion that has obvious and far-reaching ramifications for SETI.” ― Paul Davies
-
-----------
----------------
-
-- [fermilab](https://www.youtube.com/user/fermilab/playlists)
-- [TheRoyalInstitution](https://www.youtube.com/user/TheRoyalInstitution/playlists)
-- [NASAtelevision](https://www.youtube.com/user/NASAtelevision/playlists)
-- [PIOutreach](https://www.youtube.com/user/PIOutreach/playlists)
-- [DARPAtv](https://www.youtube.com/user/DARPAtv/playlists)
-- [Science | National Geographic](https://www.youtube.com/playlist?list=PLivjPDlt6ApS90YoAu-T8VIj6awyflIym)
-- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/playlists)
-- [NatureVideoChannel](https://www.youtube.com/user/NatureVideoChannel/playlists)
-- [ScienceAtNASA](https://www.youtube.com/user/ScienceAtNASA/playlists)
-- [Artificial Intelligence Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
-- [khanacademy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=2)
-- [The Floating University Sessions](https://www.youtube.com/playlist?list=PL5uULy4b0kV7TrpD6UU1t9dsxD_kHjkyV)
-- [numberphile](https://www.youtube.com/user/numberphile/playlists)
-- [YuvalNoahHarari](https://www.youtube.com/user/YuvalNoahHarari/playlists)
-- [NASA's Marshall Space Flight Center](https://www.youtube.com/user/NASAMarshallTV/playlists)
-- [All Chemical Elements in Order - Periodic Videos](https://www.youtube.com/playlist?list=PL7A1F4CF36C085DE1)
-- [VideoFromSpace](https://www.youtube.com/user/VideoFromSpace/playlists)
-- [worldsciencefestival](https://www.youtube.com/user/worldsciencefestival/playlists)
-- [Ri Archives](https://www.youtube.com/channel/UCxM3Fds7Z9hfgrWJaIcjRLA/playlists)
-- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
-- [NOVA PBS Official](https://www.youtube.com/user/NOVAonline/playlists)
-- [3Blue1Brown ](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
-- [Royal Society Of Chemistry](https://www.youtube.com/user/wwwRSCorg/playlists)
-- [ACM A.M. Turing Award Lectures](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYCkOxtYqozyDuwt-4sC2L6)
-- [The Royal Society](https://www.youtube.com/user/RoyalSociety/playlists)
 
 ------------------
 - [A Comparison of Scale: Macro, Micro, Nano](https://nanohub.org/resources/26676/download/Int_Scale_PK12_PG.pdf)
@@ -867,4 +772,102 @@ Michio Kaku
 ---------
 -----------------------
 
+-----------
 
+> Eventually, the goal is not just to make computers the size of dust particles. The idea would be to make simple computers the size of bacteria. Then you could get something as powerful as whats now on your desktop into a dust particle.
+
+------------
+
+> The role of infinitely small is infinitely large.
+
+-----------------
+
+> The principles of physics, as far as I can see, do not speak against the possibility of maneuvering things atom by atom. - Richard Feynman
+
+---------- 
+
+> "If you think you understand quantum mechanics, you don't understand quantum mechanics". -  Richard Feynman
+----------
+
+>  ["There's Plenty of Room at the Bottom"  - Richard Feynman](https://www.youtube.com/watch?v=4eRCygdW--c)
+
+---------
+
+> "It’s about the smallest you can get," Novoselov told Wired Science. "From the point of view of physics, graphene is a goldmine. You can study it for ages."
+
+---------
+
+> Any further smaller, [uncentaintry principle](https://en.wikipedia.org/wiki/Uncertainty_principle) takes over and electrons leak out of the transistor, destroying its properties.
+
+---------
+
+> Atom is the smallest unit that one can calculate on. Quantum computers operare at atomic level, an atom is like a spinning up. Nomally, you can strore digital information on spinning tops by assigning the number 0 if the top is spinning upward, or 1 if the top is spinning downward, or spin up and down simultaneously.
+
+> When atoms are coherant and vibrating in phase with one another , the tiniest disturbances from outside world can ruin this delicate balences and make the atom decohere, so they no loger vibrate in unison, even the passing of consmic ray or rumble of truck outside the lab can destroy the delicate spinning alignment of these atoms and destroy computation.
+
+> The decohence problem is the single most difficult barrier for creating quantum computers. Anyone who can solve this problem of decoherence... worth Nobel prize.
+
+-----------
+
+> Much like you can't make a boy and a girl fall in love with each other simply by pushing them together, you cannot make precise chemistry occur as desired between two molecular objects with simple mechanical motion... chemistry like love is more subtle than that.
+
+----------
+
+> “The question of whether a computer can think is no more interesting than the question of whether a submarine can swim.” ― Edsger W. Dijkstra
+
+--------
+
+> “Many, many rules had begun to bend at the hand of nanotechnology, gene therapy, robotics, artificial intelligence. This produced a lot of good, and a lot of bad. This trade-off has always plagued us. When you make waves, you produce peaks and troughs.” 
+― Matt Spire, Caligatha
+
+--------------
+
+> By 2100, our destiny is to become like the gods we once worshipped and feared. But our tools will not be magic wands and potions but the science of computers, nanotechnology, artificial intelligence, biotechnology, and most of all, the quantum theory.
+Michio Kaku
+
+-----------
+> “Whether we are based on carbon or on silicon makes no fundamental difference; we should each be treated with appropriate respect.” ― Arthur C. Clarke, 2010: Odyssey Two
+
+-----
+> “Most obvious is that DNA may be only one of many ways that biological information is encoded, and it is hard to see how the aliens would know in advance what terrestrial life uses.” 
+― Paul Davies
+
+-------
+
+> “Even if DNA is the only viable genetic molecule, there is no reason why the same amino acids in similar combinations would be used as enzymes by all life. Alien and terrestrial life forms simply wouldn’t mesh, so the aliens couldn’t eat our plants and animals.” ― Paul Davies
+
+--------------
+
+> “My conclusion is a startling one. I think it very likely—in fact inevitable—that biological intelligence is only a transitory phenomenon, a fleeting phase in the evolution of intelligence in the universe. If we ever encounter extraterrestrial intelligence, I believe it is overwhelmingly likely to be post-biological in nature, a conclusion that has obvious and far-reaching ramifications for SETI.” ― Paul Davies
+
+----------
+---------------
+
+- [fermilab](https://www.youtube.com/user/fermilab/playlists)
+- [TheRoyalInstitution](https://www.youtube.com/user/TheRoyalInstitution/playlists)
+- [NASAtelevision](https://www.youtube.com/user/NASAtelevision/playlists)
+- [PIOutreach](https://www.youtube.com/user/PIOutreach/playlists)
+- [DARPAtv](https://www.youtube.com/user/DARPAtv/playlists)
+- [Science | National Geographic](https://www.youtube.com/playlist?list=PLivjPDlt6ApS90YoAu-T8VIj6awyflIym)
+- [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g/playlists)
+- [NatureVideoChannel](https://www.youtube.com/user/NatureVideoChannel/playlists)
+- [ScienceAtNASA](https://www.youtube.com/user/ScienceAtNASA/playlists)
+- [Artificial Intelligence Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
+- [khanacademy](https://www.youtube.com/user/khanacademy/playlists?view=50&sort=dd&shelf_id=2)
+- [The Floating University Sessions](https://www.youtube.com/playlist?list=PL5uULy4b0kV7TrpD6UU1t9dsxD_kHjkyV)
+- [numberphile](https://www.youtube.com/user/numberphile/playlists)
+- [YuvalNoahHarari](https://www.youtube.com/user/YuvalNoahHarari/playlists)
+- [NASA's Marshall Space Flight Center](https://www.youtube.com/user/NASAMarshallTV/playlists)
+- [All Chemical Elements in Order - Periodic Videos](https://www.youtube.com/playlist?list=PL7A1F4CF36C085DE1)
+- [VideoFromSpace](https://www.youtube.com/user/VideoFromSpace/playlists)
+- [worldsciencefestival](https://www.youtube.com/user/worldsciencefestival/playlists)
+- [Ri Archives](https://www.youtube.com/channel/UCxM3Fds7Z9hfgrWJaIcjRLA/playlists)
+- [MIT OpenCourseWare](https://www.youtube.com/user/MIT/playlists)
+- [NOVA PBS Official](https://www.youtube.com/user/NOVAonline/playlists)
+- [3Blue1Brown ](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+- [Royal Society Of Chemistry](https://www.youtube.com/user/wwwRSCorg/playlists)
+- [ACM A.M. Turing Award Lectures](https://www.youtube.com/playlist?list=PLn0nrSd4xjjYCkOxtYqozyDuwt-4sC2L6)
+- [The Royal Society](https://www.youtube.com/user/RoyalSociety/playlists)
+
+----------
+---------------
