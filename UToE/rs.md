@@ -10,3 +10,9 @@
 - [Space Exploration Timeline](http://www.seasky.org/space-exploration/space-timeline-menu.html)
 - [Timeline of SpaceX Missions](https://www.nytimes.com/interactive/2018/science/spacex-falcon-launch.html)
 -----------------------
+- [Rocket Science](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnsqbIM2XBduT79fDjisSqe)
+- [rocket science](https://www.youtube.com/playlist?list=PLRtG0PPePczwzlHVnvhqbmiP01EvPZtBI)
+- [Rocket Propulsion Lectures](https://www.youtube.com/playlist?list=PL8T9k99OFn-x2rOXlkfXRz09Ch_t4nEX1)
+- [MIT Spacecraft Engineering Lectures](https://www.youtube.com/playlist?list=PLhuO1S79mUkOCizrQDQKHBPYNKWvKHBQB)
+
+----------------------
