@@ -1,5 +1,5 @@
 --------------
-
+- [DL-on-Silicon](https://github.com/gopala-kr/DL-on-Silicon)
 - [Theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation)
 - [https://toc.csail.mit.edu/](https://toc.csail.mit.edu/)
 - [andrew.cmu.edu/~dabousen](http://www.contrib.andrew.cmu.edu/~dabousen/theory%20of%20computation.html)
