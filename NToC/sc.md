@@ -1,10 +1,24 @@
+-------------------------
+-----------------------
+
 
 ![474903_1_En_1_Fig2_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-04513-5_1/MediaObjects/474903_1_En_1_Fig2_HTML.png)
 -------------
+
 ![siliconengine-welcome](https://www.computerhistory.org/siliconengine/_media/img/siliconengine-welcome-main.jpg)
 ------------
 ![C7od4fVXgAEU_U3](https://pbs.twimg.com/media/C7od4fVXgAEU_U3.jpg)
+-------------
 
+![9_13_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-48933-9_13/MediaObjects/978-3-319-48933-9_13_Fig1_HTML.png)
+----------
+![maxresdefault](https://i.ytimg.com/vi/jQlg2q39z7U/maxresdefault.jpg)
+-------------
+![hXswtv3hQv6PlDAO6Fka_averillfwk](https://d2jmvrsizmvf4x.cloudfront.net/hXswtv3hQv6PlDAO6Fka_averillfwk-fig07_007.jpg)
+-------------
+![s1600](http://1.bp.blogspot.com/_IAeZpYK5VFs/TGiARmqcmhI/AAAAAAAAAgQ/9_9kadQnu4U/s1600/1.png)
+-------------
+![atom_sphere1](https://www.ice-age-ahead-iaa.ca/small/atom_sphere1.jpg)
 ----------
 ![Doping-in-semiconductors](https://www.scienceabc.com/wp-content/uploads/2017/07/Doping-in-semiconductors.jpg)
 ------------
@@ -104,9 +118,6 @@
 ![large](https://science.sciencemag.org/content/sci/327/5966/662/F1.large.jpg)
 -------------
 ![ics](http://www.vintagecalculators.com/assets/images/ics.gif)
--------------
-
-![veLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyOK2bg25OMKlpm1WXGl4cSC0BWigoZpSDrAP6QQQHTL3QvA2hLaLXZCUAJSNCnJIFAPM9Qj04r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCA5LVuLbs0yuXmLWZW24KLSWUioqDrCAdYGqHPg](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEBUQEBMQFRUVGRUWFhUVGRkYFxUVHRcWGBYXFxodHSkgHh0nGxcXIjEhJTUrLjouFyA1ODMtNygtOisBCgoKDQ0OGhAPFy0dHSUtLS0tLS0tNy0tLS0tLS8tLS0tKys3Ny0tLS0rLy0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIAKcBLwMBIgACEQEDEQH/xAAcAAADAQEBAQEBAAAAAAAAAAAABgcFBAMCAQj/xABIEAABAgMEBAkJBgUEAgMBAAABAgMABBEFBhIhEzFV0gcWFyJBUpOi0xUyNVFhc5Kz1BQjcXKB0TRUkbLCM0JiobHBNkOCJP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AP1VrW9PWtPSdnzjbaZdxdEuJbACMeFIB0Sif1jT8g3t2hKdz6eDg0/+R2x+ZXzYoV8LbMhKLmQgqwFAVkVBCFLSlbignMpSklRA101jWAnvkG9u0JTufTweQb27QlO59PD7Z1421MKmVvyy2KoCHmakLUo0wYKqUF4ilISKkkjpNB6PXsk0N6VT1E0dNMDmMBo0eJbw4wEnWSOkQE+8g3t2hKdz6eDyDe3aEp3Pp4dFXnItNuVBZMu5KKmg7mCAFgVxYsOHCa6o2bLthiZroF4sIQoghSThWMSFUUASlQrRQyND6jATLyDe3aEp3Pp4PIN7doSnc+nikovDLKe0AdBcxLRSiqFxCQtbaVUwqWEkEpBJ15ZGMu5tvv2gy5MFLSGypxDQwrxgoccQdIDQKFEoPNpmVDohQleQb27QlO59PB5BvbtCU7n08Mt2L8hcmmatBbTWkfXLt6Nt3DjClJAUaqpWms0EaM1faVDTDrRcdTMPCXRhbcBCwSFhaSnEkpCVc0ippq6QCT5BvbtCU7n08HkG9u0JTufTxSfL8tpdDpU4wVJNQoJC0o0ikY6YcYRzimtaVNMjHIzfKSXiwOrVgaMwaNPZsVUNInmc5NUmmGtaZQCD5BvbtCU7n08HkG9u0JTufTw/yt8ZF1IU29UENFPMcGPS4tGEApqpRwq5qakYTUCPCZvnLASqmit1M24pttSELIGEKKyoYagjCRhpWvRkaAj+Qb27QlO59PB5BvbtCU7n08PFl3qaWH1OutUbmjLJDaHgrFzQhtSVJqpypNcAKafrHvMXxkUJaUp7J/SaIpQ4rEWwS4nmpNFChGE0NRSlYBA8g3t2hKdz6eMq9BvRZ0qucfn5ctt4cQQGyrnLSgUBYA1qEWizJ9qZZQ+woLbcSFIUKiqTqyOY/A5wncN/oKa/Fj57UArSVl3reaQ6m0JXC4lKxUIrRQBFfuNdDHv5BvbtCU7n08Uu7X8FLe5Z+WmMm+d6HLN0bugLrBqX1IJxsoBSC5gpzkgrFcx+wJXkG9u0JTufTweQb27QlO59PFCbvA2At5xxhMv91o3sRosOAFBJIoK1AGZrWPdd4ZRIUpUwyAlwMqJUAEunU2r1KzGR9cBNvIN7doSnc+ng8g3t2hKdz6eKRLXjk3VIQ3My6lOlYbSlaSVlHnhIrnTpjNule1E6khzRNO6V9pLYXUr0SqKUmoHRnToBgEnyDe3aEp3Pp4PIN7doSnc+nilm3ZXCtWnao0Cpw4hRKQooUo+wKSoE6gUkHVH3ZtsS8yVCXeadwhBVgUFYQtOJBNNWJOYgJj5BvbtCU7n08HkG9u0JTufTxThbDBK0pdQpSAsqSk1NE+fQdNDkaajGVdi33p+U+1oZbSHKFgKcPOGo6Tmc0gg6sVYBG8g3t2hKdz6eDyDe3aEp3Pp4dLBvI9NTE0zomkiUeS0tWNRKwU1K0jDkR6v+405e8sm55kzLq5ql5LT5qVYVK16grL8YCceQb27QlO59PB5BvbtCU7n08Upd4JVKC4p9kIC9EVFQAS71FepXsMfrdvSqkBxL7KkFSkBSVAgrSCVJy6QASfYKwE08g3t2hKdz6eDyDe3aEp3Pp4oYt5AmHWlrl0obQ0vFpPvOeaDEimSSSkA1NSaQTV5ZdD8vL4ipcwXMGEEiiAcZJpTJVE011PsMBPPIN7doSnc+ng8g3t2hKdz6eKe1a7ClKSl1tRQFFQBqQEkhZ9tCCDTUco5WLzyTgq3NS66hKhhWDUKXo0kAetfN/GAlN4Wr0yMs5NvT8sW2gFKCAgqoSBkCwBrMUzg9tJ2asuVmH1YnHG6rVQDEakVoMujojO4VnkrsObWghSS2kgjMEaRGYMe3BP6Fk/d/5qgE/g0/+R2x+ZXzYqFqS7riAGVpQoKSSVJK0qSPOQUgjJQqK9Fa50iESN612XbtqOolXZnG4tBDZIwfeEgmiVa6H+kM3LQ9sib+JXhQDBO8HQWl9TC25Zx16XmG0Npqy04xXCcPNqVFRxEAf7css+6892pyebDapllCS0+26lLasJU4jChQOPEQnPImhrWmQoo8tD2yJv4leFBy0PbIm/iV4UAwuXDccW3pXm8KbPVZ68CVAnF/9iQSfUMq+2vRG5c+wFSTIS59mU4ENtlxloNqcSgEJU4akqVn+Gv1whctD2yJv4leFBy0PbIm/iV4UA0yVyFNPIVpQWmpp+dQKELK3UFIbUdVEqUo4ukECgpU6lzrDckJP7MpSFqC3lgioBxrUuhyyoVU6dVYQuWh7ZE38SvCg5aHtkTfxK8KA2pW4L6JNiVLrJ0E4mcxUUMQC1LLdOjM0xZ/hHu3cZ4NNJDzQWzPLnQSlSkkLKyUEVBqMZz9kL3LQ9sib+JXhQctD2yJv4leFANEnc37O9NOqEs806t2YQlbOJ5Di0EOISvM4TU6hWhIGuMK6cg8pOgVKJQtcmqXRMB/SpZbA5rakaNKkAlZICipZw0JOGo5OWh7ZE38SvCg5aHtkTfxK8KAcW7tTKJCUk2n20GXLIcVhUQ62gUIFClSCrI1B9YrnGfZ1xHmWZJtL7WKTmHngdGcKkOFwlNMesaTLo/9r3LQ9sib+JXhQctD2yJv4leFAMLFxHEuLeLreP7f5QbFDhzBSplf/wCdSx09GWf6zcRxsyikutqLDs2+vECAtcwFghNK4QnF7a06Kwu8tD2yJv4leFBy0PbIm/iV4USCiXOsdUjIsyi1JWWU4MSagKzJBodWuF7hw9BTX4sfPahc5aHtkTfxK8KF3hB4TXJ+znpVVnTDAXo/vVqJSnC4hef3Y14aa+mKLddr+Clvcs/LTH7Ny61voqhpTOjdQvEo4jiLeWDAQpNEmtSNeoxKLJ4YHWpdpoWVNKCG20YgpVFUSBUfddNKx1ctD2yJv4leFAbcxweKbs+akJZ0YXHm3pcOlVGkpU0vQk0JCcSFUIr53Sa18nLmTq2nwv7IFvTzM5QOOFKUI0eJFS1Uq5lNVDWuWqMnloe2RN/ErwoOWh7ZE38SvCgNmz7mTbcy26r7NhTaE1OKo4sqLTySlKf9Mc8YjXOmWvPL1sm476FMh1bWBmampvEgqKlF1KghFCkAUxklVT5oyzyweWh7ZE38SvCg5aHtkTfxK8KA2rGuTMsSLsosSy3Ay/LsPlx3EptxRNFpKCGgObUJxVIGqmbbdWzVSslLy7gbxtMtNLKM0qKEBNQSASDQnMdMTjloe2RN/ErwoOWh7ZE38SvCgN2xrjPy6pYFxtSZQT2jOJWN8zBOHS83m0BzPOqQDDDcWyHZKz2JR/RlxpJSS2oqSecSCCUpOojKkIPLQ9sib+JXhQctD2yJv4leFAOV0rCmZWan3ngxhmnQ62ELUpQoCnCsFsAZUNQTrP651n3TmmrJek8MiZhxx1aS4C6yQt4OHGFN5kJyFUkVSk0he5aHtkTfxK8KDloe2RN/ErwoDTmrizapeZZrLEvzjM0MTjh5iQ3jSolskmqKDoz6NUe3EeYLMylRaS6ucmJyXdaecSplSxRs1DesVIUmhBB1xjctD2yJv4leFBy0PbIm/iV4UAxTVzn3pmYcfDDrb8vLMHnrbWVtrStTgwo5hrVSaE0KU/p6Sd1ZxDtnPOPoeVKCaQ6pwqxqbdIwEKCeetKUpBJw1OdYWeWh7ZE38SvCg5aHtkTfxK8KA37BuS/LrlsTjakybc4hshSsT5fVVJd5vNoAKkYqk1j0se5S0WQ1Z8wlkuIKiVtOLQQdIt1DjbgQFBYUUnVTIwuctD2yJv4leFBy0PbIm/iV4UBv3+lnmrtvtzDgddSygOOD/erGip9v49OuNLgm9Cyfu/8ANUTK+3Ck7OWe/LKs2ZZDiQC4pRKUc5Jqfux6qa+mKbwT+hZP3f8AmqAXuC70xbvv2v7pmKdEx4LvTFu+/a/umYp0AQQQQH5WPwLB6YyL3y2lknmg9oC4AgO9VSlJSmvsJIB9hMI6dO8ias+ZbYkpzBLUea50tMJLpS1VNKgKWC2UnMg09kQU/SD1iP0GuqI9eaZU5ZlqMTko0xNMtS6l6IhTDqStWjdbyqlVQsEHPmjP1VOwWkolWUpASA23QAAAc0agIo74IIIAggggCCCCAIIIIAhE4b/QU1+LHz2oe4ROHD0FNfix89qAabtfwUt7ln5aY0ozbtfwUt7ln5aY0oAggggCCCCAI/KwGE+VE8i10oMyXmFMrcebKEJSwoqAZDZAxZ0WAFE5IUc+gHGCFy2LddZmUsNmRUogEMOvhqYdBrVTQoRQEUAOspVmKQW7eNUpZrs842krbCvu0rxDHpNGhClDprQKpqIVrpAMVY/YT7BvCAHm5h1wzTSmkOodwNoC3EFSNFhJSGyAo1qpVEKrUiPXg1th2dkdO+tK3C7MJJTQAAOqCUgDUAmlK50prgGuCCCAIIIIAggggE/hd9CTn5E/MRH3wTehZP3f+ao+OF30JOfkT8xEffBN6Fk/d/5qgF7gu9MW779r+6ZinRDLBsSdm7Xtj7DPKk8D6cdEY9JVT2HpFKUV8UNHEi29uL7Eb0BS4ImnEi29uL7Eb0HEi29uL7Eb0BRphhDiShxKVJOtKgCDQ1FQfaI5hZMvhUjQtYVUxApBCqebWuunRCFxItvbi+xG9BxItvbi+xG9APT9hyzjamlsMqQshS0KSClahShUDrIoNfqEdktLoaQlttISlIolKRQJHqA6BE54kW3txfYjeg4kW3txfYjegKXBE04kW3txfYjeg4kW3txfYjegKXBE04kW3txfYjeg4kW3txfYjegKXBE04kW3txfYjeg4kW3txfYjegKXBE04kW3txfYjeg4kW3txfYjegKXCJw4egpr8WPntRn8SLb24vsRvQscJV17Ul7MedmrVVMNJ0WJkthOOrqAnOvQog/pAWC7X8FLe5Z+WmNKJRY1zbZXLMrRbS0JU22Uo0IOFJQCE1xdAyjs4kW3txfYjegKXBE04kW3txfYjeg4kW3txfYjegKXBE04kW3txfYjeg4kW3txfYjegKWYXbOuroZlUz9stBzEpS1NOOI0JURh81LadQoAK9AhW4k23txfYjeg4k23txfYjegKBN2ay8lSHWmnEroVpWkKCiBQEgjPLKPCcsKXdlVSSmkBhScGjSMKQnoCaaqHMUhG4kW3txfYjeg4k23txfYjegG+zbrsMlxSwX1u6MuOPhClK0aMDeQSEigrqA84+uPW7F3mbPY+zsYinGtZKsOIqUoqNSlIGVaD2AQl8Sbb24vsRvQcSbb24vsRvQFLgiacSbb24vsRvQcSLb24vsRvQFLgiacSLb24vsRvQcSLb24vsRvQFLgiacSLb24vsRvQcSLb24vsRvQG3wu+hJz8ifmIj74JvQsn7v/NUIN/rqWqxZsw7MWst9pKQVtFoJxjGkUriyzof0h+4J/Qsn7v/ADVAL3Bd6Yt337X90zFOiY8F3pi3fftf3TMU6AIIIIDMvFpvs6/s7mjdyCF4UqAUSEjEFA1FT7D7YSG76zLliOvpUlE7Lh5D9UghDjPnkp1Z1QKf8/ZD9acsp1vAhYQapNSnF5qgqlKjpA/7hfnbjsrE9gWUKn8IeUE1wgIwq0YrQFR5xJrn68ogyJy9zsqiTXNreRLvMIWubQ2haUzKqUQ6AmiG6HKgqa68jHSq25k2lZ8umZStqYYW64W0oKHFISCFNqIJCFVrrOWoxtS13lttpQmYJAYRLlKmwptSE46LKa1x0VStcP8Ax1U45S5KGX5R5l1SUybRZbQU4sSFCiytVRVR1gigHqMVDZBH4I/YKIIIIAggggCCCCAIROHD0FNfix89qHuEThw9BTX4sfPagGm7X8FLe5Z+WmNKM27X8FLe5Z+WmNKAIIIIAhYvzazzCJdiWOF2afQwlzL7tJBUtYqCMWFJAqCKkZGGeOG1bKamUpS6muBaHUKBIUhxBqlaSOkH9NYNQYBGtC+jLVluqYeUw+RNBP2p3E6HWiUrwYlnGcZASlOQxDIUpG7Y9qq8jyz6X28ZYl6vO4nRjKUpWVBJxOLxVGGoJV0xqpu9LiVXJhBDTgcCxU4laQkuKKteIlRNfbHZIyDbLLbCBzGkoQgHMhKQEpzOdaDXAYV27dcmFhK3rPcTRVFy61FbhGHFiZI+6wk5gqVrAyjhtez5kWpKusTUycSll9gq/wD50SoSaHR9CsWEBWZJUTkBk3olkBRWEIClUxKAAUqmqp1mMZ26UuuZM2pU1pCpKiNM4Gzh80FsKwFI9VP/ADAJUheaZCpaZK1qL8zaLS2ySUaNoOFpKU6klOiTmMzVVa1jiF7JtiWbeDi1rfsx6aUVkqCX0rThWkHJIGkIwjLJOWUUti70uh3TJRmFOOJFealxymlWlOoFVM/xVqxGvnLXXlGwUhoFJbUwEKzSlhRKlNJB1JJOr2AagKBjXTn3RPvyiluLbTLyjyStSlqC1pUF85RJocINPXX1w5Rn2ZY7UuVKbBxKCEqWo4lFKE4W01PQBX+pOsmNCAIIIIAggggE/hd9CTn5E/MRH3wTehZP3f8AmqPjhd9CTn5E/MRH3wTehZP3f+aoCX3OmbWXaVrLsxMmSX/vtPUDJx8N4KH2Lr+kOWkvV1LJ729GbwI+kLa9+j5s1FdgJppL1dSye9vQaS9XUsnvb0UuCAmmkvV1LJ729BpL1dSye9vRRJ11SG1LQEqKQSASUg0zoSAaf0MZFyrfVaMk3OKaS0HcWFAWXKAKKczgTnlqgFLS3q6lk97eg0t6upZPe3oZrBvT9tAXLttqRpHG1Ud+8aKcVC83g5lSkZVJ5yY+rl3jXaDbzi2UNBp5xigcLmIoNFKzbTQV1a4BX0l6upZPe3oNJerqWT3t6KXBATTSXq6lk97eg0l6upZPe3opcEBNNJerqWT3t6DSXq6lk97eilwQE00l6upZPe3oNJerqWT3t6KXBATTSXq6lk97ehY4Sl2+bMe8oJs8S9WsZaxY/wDVRhw1PWw/pWLlCJw3+gpr8WPntQGHYzl5/szOiRZej0beDFirgwDDXPXSkdmkvV1LJ729Dzdr+Clvcs/LTGlATTSXq6lk97eg0l6upZPe3opcEBNNJerqWT3t6DSXq6lk97ehivnep2zkh0SjjzCSjTOpWlJbClBIwIIJcIrmMhmM9dC0r4oZedRgxNsOSzLzmKhQt8gIwpw84DEgqzGSjStMwXdLerqWT3t6DSXq6lk97ehibvk2X0owfdLmXJNLuLPToQVGqKZIqlaa1JqBlQ1H7Yl8UTLrKNHhTMoecl14qlaWlhKsaaDCSFJUKFWVa0IzBc0l6upZPe3oNJerqWT3t6KVGHbF40szCJNpKXJhxKlhClhtCGwaY3F0JAKiEgJCiSdVASAUdJerqWT3t6DSXq6lk97ehst+8qZRyVZUgrcmXm2QEnJGKtVqNNXNVQZVodVDT3ty3BLuS7CUhbsytSG0lWBNEIU4tSlYSQAlPQDmQMtYBM0t6upZPe3oNJerqWT3t6NhN/m3G21sNFalsPzK0KXgwNsq0biahJxL0lUgZA4SajKv1N3+ZSFONoK2WmZaYecxYSht8/d4U0OIhIKiCU5UpWuQYukvV1LJ729BpL1dSye9vRSgY/YCaaS9XUsnvb0GkvV1LJ729FLggIpf5d4fJsx9tTZwYwjSFvFjpjTTDU660hy4FZguWJLFVObpUCnqS6sCOnhd9CTn5E/MRHDwGeg5f8z/AM5cBgcCPpC2vfo+bNRXY/ni69r2lIWjaiZCS+0lT50o5x0dHHyjzT04lfDDXx7vDsbuub0BXIIkfHu8Oxu65vQce7w7G7rm9AVWeSotrCRUlJAFaVJFNcKdy7JnZGz5aSLbWNtQDjgcqgNl0qWU82pVhNKEDM68s1bj3eHY3dc3oOPd4djd1zegGRF0Vmcl57RtMzLZJmXWVEJmUYFDAUUAJKikkq1YdZyjs4PrEfkmn25hKAXJh55JQrEMLhqAchQj9R7YT+Pd4djd1zeg493h2N3XN6ArkESPj3eHY3dc3oOPd4djd1zegK5BEj493h2N3XN6Dj3eHY3dc3oCuQRI+Pd4djd1zeg493h2N3XN6ArkESPj3eHY3dc3oOPd4djd1zegK5CJw4egpr8WPntQvce7w7G7rm9C5whXrtmYs55mcs3QMq0eN2i+bRxBTrNM1AD9YC23a/gpb3LPy0xpRGLJvtb6JdpDdkYkJbbCVUc5yQkBKvO6RQx18e7w7G7rm9AVyCJHx7vDsbuub0HHu8Oxu65vQDpeuXnXXG0sS8q8yghxQedU3idSQW8g2rmpIxU6VYfVnm2pcxx5yZGJGCbek33FaigslOkSE9IUG04c/wDca6s13j3eHY3dc3oOPd4djd1zegGJm5Sw6hBKdC3OvTwVXnKC0Ko1SmRC1nPqpHScvq7VzXJdyT0iklMi3MtIINS7pVpwqIpzaITmPWrLIZrfHu8Oxu65vQce7w7G7rm9AUxUg4Xw99pmAgf/AEAM6I5UzJa0nt87X7MoU733NemnplbWiKZqWRLnGSC04hzEhwZGooSaa6pT68l/j3eHY3dc3oOPd4djd1zegGG8dy33npRxmaeIamWXnEr0QCUoRgKm/uioq1ZKJGZjofkpicmWZpTaEqkZh9KEpWSl9lbOAqCikUUCrMZiqVCtdSrx6vDsbuub0HHq8Oxu65vQGxJ3Adlm0aJSFr+yzUq4CaJCn3dMFg0zSlRUmlK0pBMcHig09LNLBbmJeSllrOSm/s/NUulM8SDkOsPUcsjj3eHY3dc3oOPd4djd1zegK0hNAAOjKPqJHx7vDsbuub0HHu8Oxu65vQFcgiR8e7w7G7rm9Bx7vDsbuub0A2cLvoSc/In5iI4eAz0HL/mf+cuES+97rafs99qasvQsqSAt2i+YMSTXM01gD9Ye+Az0HL/mf+cuAz+C70xbvv2v7pmKdEx4LvTFu+/a/umYp0AQQQQH5BHDblltzcu5LOiqXElJ9YJGSh6iDmD7IR+DxKZqWakplpBcs5xbbtU5aRBKWSKjPEmqiR0oBOvOCjQRP+DJtCHbVVhSkInHU1oBhQEpOEepIzNI4rwPuysw/OOtJmpFxbeJ5s0mZIgIRhAOZbrRWFNPPUTrzopsfsT66bCBb9qEJSMKZQpyHNxIWV09VSBX1xQRAEEEEAQQQQBBBBAEInDh6CmvxY+e1D3CJw4egpr8WPntQDTdr+Clvcs/LTGlGbdr+Clvcs/LTGlAEfDrqUjEogAaySAB+pj7iWXlth5q0ZuYWht1MkqRbZYcSo1Q+UhbrVFU0mM4QohXmECmcBUVLApUjPIe066D+hj5ddSkVUpKRqqSAK9AzicXjtBxVtWYFtzKQl6aQlJTRCgGigOJz51alVehJHtr2XnmUvz7BSpDjBlLQoUkKbLoShKsxkVBOIfgVe2IHtbyUkBSkgqNACQKn1D1wF5IUE1TiOYTUVI6SBEUU5MKk3lP6TSCyJRTRVXFi0iiVJ6ceINkkZ1CfZGlaC5jHNKVi+0CessI11CcLVAn/icTtejnL9sUVtSwBUkADMk6gPbH4hYIqCCDqIzBjAteclnmHRPMuJYbopf2hIS25Q0SNdFZ0IB6cMZ/B80xJyCGEPsEqcdwIS6lSULWpTgYQQo4ilJFaV6TEDch5JJSFJJTTEAQSK6qjogbeSqpSpJoSDQg0I1g+oxGJR6aTKyamcenVI2wp2nnl0KSaqHXDx/qY/LZcdSy6mXqGjZlmFzDqoZgpUf1Z0lT1QfVFFoadSsYkkKB1EEEH8CIA6kqKQpOIZlNRUDoJEJ12JvRWhaaXFoQzp5ZLWIhKS6qWbKkpr0nmmg9cK9nOTGOUWjFpzO2qHNeKmF3JX/HmtUGrmo9kBWUPJUSEqSSk0IBBofUfVA08lQqlSVDVUEEV6RlEUDkwmTZLGkxqseaLpTXEV6RJxKOvHiU5Q66lXth2ufiFovpRkz9kkDQebjwLAI6K4AB+AT7IB5ggggE/hd9CTn5E/MRHDwGeg5f8z/zlx3cLvoSc/In5iI4eAz0HL/mf+cuAyODecbati3NK42ir7dMagmtFTFaVOesf1ij+WZb+Yl+0R+8RexLiytr2va/2ovDQvjBo1BPnqexVqk18wf9wzchVl9ed7RHhwFC8sy38xL9oj94PLMt/MS/aI/eJ7yFWX153tEeHByF2X153tEeHAULyzLfzEv2iP3jwZnZJBWpDsqkuKxLIWgFasITiJrmcKQK+yETkLsvrzvaI8ODkLsvrzvaI8OAakyFlBLiAqWCXSS6kPZOk+cXBjosnpJrHQU2cVFWKUqpQWrnpAWtNMKlitFKFBQqqRQU1CE3kLsvrzvaI8ODkLsvrzvaI8OAcpUWc08uYbclkuuf6iw6MS6asXOzp0V1dEaHlmW/mJftEfvE95C7L6872iPDg5CrL6872iPDgKF5Zlv5iX7RH7weWZb+Yl+0R+8T3kKsvrzvaI8ODkLsvrzvaI8OAoXlmW/mJftEfvB5Zlv5iX7RH7xPeQqy+vO9ojw4OQqy+vO9ojw4CheWZb+Yl+0R+8HlmW/mJftEfvE95CrL6872iPDg5CrL6872iPDgKF5Zlv5iX7RH7wkcNNpMOWJMpQ8ypRLFEpWkk/ftHIAxychVl9ed7RHhws8JHBTIWdZj04wqaLjeiwha0lPOdQg1AQOhRgKvdy15cScuC+wCGWQQXE1B0afbGj5Zlv5iX7RH7xMrH4FLNelmXVLnMTjbazRxFKqSCafd+sx18hdl9ed7RHhwFC8sy38xL9oj9453pqRWtLi1yalo81alNlSfyqOY/SEXkLsvrzvaI8ODkLsvrzvaI8OAe3p2SWtDi3JRS26lC1KbKkEiisBJqmoyNI4ZGXs1prQhUkUFanCklnDjVrISOaMssh/5MKXIXZfXne0R4cHIXZfXne0R4cA9vzskspUtyUUUZpKlNkpOR5pJyzA1eoQLnZIrDpclCsZBZU3iAzyCq1Gs/wBTCJyF2X153tEeHByF2X153tEeHAPM/MyEwjRvrknUVBwuFtaajUaKqKxwuSdllLSEmRQhpwPIS3oUgODMKFPNNaElNCaUORIKpyF2X153tEeHByF2X153tEeHAPbM7JIUpaHJRKl+cpKmwpWvziDU6zr9cfjE3IthSUOSaQqpUEqbAUSKEqA15euEXkLsvrzvaI8ODkLsvrzvaI8OAbp5mzXmksKXJBtKw4EAtUCgSap6pqfOFDmc847UTskFl0OSgWrJSwpsKIy1qrU6h/QQichdl9ed7RHhwchdl9ed7RHhwD2xOySCpSHJRJXmopU2Co1Jqog55k6/WYJWdkmhhaclEA50QptIrSlaA+oD+kInIXZfXne0R4cHIXZfXne0R4cBQvLMt/MS/aI/eDyzLfzEv2iP3ie8hdl9ed7RHhwchdl9ed7RHhwGrwr2owuxptKHmVKKE0CVpJP3iNQBj44DPQcv+Z/5y4T7+cEdnyNnTE2yqaLjSQUha0lNcSRmAgdBhw4DPQcv+Z/5y4DP4LvTFu+/a/umYp0THgu9MW779r+6ZinQBBBBAZN6LXMlKOzeDSBpJWpOLCSka6Ghz9n/AHHzLWo64iXWGW/v04iC6eZzMYH+nnl+Gfrj9vbZKpyRmJVCkpU62tCSqtAojKtM6VjwsRl9LMul5ooUw0EqAUhWNwICKN0Pm5KzVh1j20D5ufeM2g247otEG3Vs0x4yVINFHzRQZ5f+o/JK8wfcdSw2Fhl7QOALAdSoKCVLLZGTYJOdakCoFIxbn2ZOyMq+1oKuuzDzqCFt4EpcUKFRxVqkVNACDQCueRaV0lvTLc0lpLE0h8KM0yuiXJYOeY8kUKlqaASRQitOdSogNq7l41TcxNMaEI+yrDSlY8WJRFRhGEZU9f8ASGGFG5tkTEvN2g683hRMvB1s4knmhOGigDkenKo9sN0AQQQQBBBBAEEEEAQicOHoKa/Fj57UPcInDh6CmvxY+e1ANN2v4KW9yz8tMaJjOu1/BS3uWflpjSgEyfl5xFqyxamnloc0qphghGhbYCaNkUTiCispFSSSa0oAQPa9FoufbpaTQtaEONTTyyg4VEtoSEDEMwAV4steEVyqD28VG/tRmy/PFRUlZb06gycPmpLYokpHqjzlbrDCC86+pxK3lNOFZW4224nCpoLUOckipoRkSKeaDECOi+M2/KqeK1IWzZiZsFPNC5grUMahqKfu/NPN56stVOufvbMH7TMpUtP2d2zW0NDzSl4NqeCk/wC4qDpFTqwppQ1q5TF0ZRaEthBQhLP2YpQaBcvUHRLrUkZa8lZqzzNfaZu1LuOl1STziypaBkhxTJqypQprSaaqVwpBqAIqOG9VouImZCVQpSUzLzgcKSQooQytYSFDNNVBNSKHKnSYT7MvRNTSGmlOuJKZW0HVOJolTjrDuhaWSBTIAqI80k5giHVi7VVLW668o6czDBKytUuSkpIbKxQJIKuZQpAVQaqx6KunLYG20JUgNocaCkHnFtz/AFUqJrXEQCTrrmCDEUhv3ymnZZ+aClIVLyMjMpSnJKnXVFThUP8AckhITQ6gSRQ5xTH7UZabQ5MOtMhdKFxSUDERXCCojOgOXsjhmrqSrn+zCnRtsqQnJLjTasTbaxTUDXVQ0JBqMo2FspUKKSkgagQDSKjIvQyp+Vow+tpay2G3m1Hm41pSFZGihQ6jCvdq861OFq0StqakW3TMpSpYbdbSElEwlI5qgRi/Xo1Q8T8lpUhGNbYSpChgw1qkhSRzkkUqBl7I8pmxmHHtOttJcLamCrrNKIJQr1ioy9VT6zEVlXdvaibdQyW1Nqdl0zbVSFYmFKw87LmrBKapzHOFCc6LFv266zNWsC5MaJiXlnEpbcwqbKsWNTRUlQSrIdFIcbFuxLyiw40FlSWky6Cs1LbCTiS0nLVXpNSaCpNBHNaVzZeYXMrcU9WbQht4ApAKEeaE82o6c/b+EUZVp3/EspxKpdxaWUSi1rDia4X1BCciBVQUdWr2iPK3L41ln1FEw0qWm2mFhtxAWaqQUkKKFAg40hSfViz9erPXFlntJpFzB0qGELopAqlhQU1/syooVy1/hH1NXIl3UPIWt8iYeRMOZpBLiKYSOZkOanL/AIj21D6sC3HpienmFpbDcspptNFEkkox1PN6QodOWEa8zDLGVIWC0xMPTSC5jmMBcBUcBUlISFBOoGgH9OiNWAT+F30JOfkT8xEcPAZ6Dl/zP/OXHdwu+hJz8ifmIjh4DPQcv+Z/5y4DLduBajU7NzUhaDLAmnC4pOjxGgKigHEk6sZ1euPbiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyDiveLbDPYo3IIIA4r3i2wz2KNyOK2bg25OMKlpm1WXGl4cSC0BWigoZpSDrAP6QQQHTL3QvA2hLaLXZCUAJSNCnJIFAPM9Qj04r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCAOK94tsM9ijcg4r3i2wz2KNyCCA5LVuLbs0yuXmLWZW24KLSWUioqDrCAdYGqHPg+u6uzLPbk3FpcUguHEkEA4lqUMj+MEEB//Z)
 -------------
 ![slide_2](https://images.slideplayer.com/26/8404244/slides/slide_2.jpg)
 -------------
@@ -220,43 +231,145 @@
 -------------
 ![EPE_Borodovsky](http://semimd.com/wp-content/uploads/2017/03/EPE_Borodovsky.jpg)
 -------------
+![pic4](https://semiengineering.com/wp-content/uploads/2018/01/pic4.png)
+-------------
+![Intel-10nm-Process-Node](https://cdn.wccftech.com/wp-content/uploads/2016/01/Intel-10nm-Process-Node.jpg)
+-------------
+![areatrend](https://techreport.com/r.x/2017_03_30_Intel_manufacturing_day/areatrend.png)
+-------------
+![32edc3cf57891c9d41b169c0c4b0d240](https://linustechtips.com/main/uploads/monthly_2017_04/Slide1-1.jpg.32edc3cf57891c9d41b169c0c4b0d240.jpg)
+-------------
+![EPE_Borodovsky](http://semimd.com/wp-content/uploads/2017/03/EPE_Borodovsky.jpg)
+-------------
 ![DqIAQy7V4AAb7Im](https://pbs.twimg.com/media/DqIAQy7V4AAb7Im.jpg)
 -------------
 ![Intel-RnD-ideas](https://www.smallpc.net/wp-content/uploads/2012/10/Intel-RnD-ideas.jpg)
 -------------
 ![Slide1](https://www.extremetech.com/wp-content/uploads/2017/03/Slide1.png)
 -------------
-![]()
+![2015_InvestorMeeting_Bill_Holt_WEB2](https://cdn.wccftech.com/wp-content/uploads/2016/09/2015_InvestorMeeting_Bill_Holt_WEB2-page-022.jpg)
 -------------
-![]()
+![nextgenfig4png](https://semiengineering.com/wp-content/uploads/2018/02/nextgenfig4png.png)
 -------------
-![]()
+![it_photo_178222](https://cdn2.alphr.com/sites/alphr/files/styles/insert_main_image/public/images/dir_356/it_photo_178222.jpg?itok=kEeHTAdR)
 -------------
-![]()
+![2011](https://www.extremetech.com/wp-content/uploads/2016/12/2011-01-17_Mfg.jpg)
 -------------
-![]()
+![Part](http://electroiq.com/chipworks_real_chips_blog/wp-content/uploads/sites/7/2019/02/Part-1-Fig-1-1024x575.png)
 -------------
-![]()
+![SamsungRoadmap](https://www.extremetech.com/wp-content/uploads/2017/05/SamsungRoadmap.jpg)
 -------------
-![]()
+![Picture4](https://3uzly11fn22f2ax25l6snwb1-wpengine.netdna-ssl.com/wp-content/uploads/Picture4-1.png)
 -------------
-![]()
+![Foundry](https://4.bp.blogspot.com/-wouyHDR3yd4/XJXiJxSAcJI/AAAAAAAAFaE/QoW2tpIeMZYt0NCp-pUV8gQzx4LU3t9lACLcBGAs/s1600/Foundry.jpg)
 -------------
-![]()
+
+![chips_companies_history](https://fortunedotcom.files.wordpress.com/2017/12/chips_companies_history.png)
 -------------
-![]()
+![Samsung-4nm-RoadMap-840x52](https://cdn57.androidauthority.net/wp-content/uploads/2017/11/Samsung-4nm-RoadMap-840x522.jpg)
 -------------
-![]()
+![3230628](https://deliveryimages.acm.org/10.1145/3240000/3230628/f1.jpg)
 -------------
-![]()
+![429194-iintel-technology-pipeline](https://assets.pcmag.com/media/images/429194-iintel-technology-pipeline.jpg)
 -------------
-![]()
+![3230628](https://deliveryimages.acm.org/10.1145/3240000/3230628/f4.jpg)
 -------------
-![]()
+![395463_1_En_1_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-90385-9_1/MediaObjects/395463_1_En_1_Fig1_HTML.png)
 -------------
-![]()
+![395463_1_En_1_Fig8_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-90385-9_1/MediaObjects/395463_1_En_1_Fig8_HTML.png)
 -------------
-![]()
+![beyondmooreslaw](https://1.bp.blogspot.com/-8HO4XsApanA/WAj3MohVDQI/AAAAAAABOzc/D8z-vAVZq8k_rUVgm98jH9AwkVdMJLYwQCLcB/s1600/beyondmooreslaw.jpg)
 -------------
-![]()
+![6LnU6bI2yq9A9tmzxHAV2g](https://cdn-images-1.medium.com/max/1200/1*6LnU6bI2yq9A9tmzxHAV2g.png)
 -------------
+![chips](https://static.financialsense.com/historical/users/u607/images/2014/chips-lrg.jpg)
+-------------
+![20150425_woc302](http://moreisdifferent.com/wp-content/uploads/2015/10/20150425_woc302.png)
+-------------
+![FRAMED](http://2.bp.blogspot.com/-Wwu24JmCkL0/Vpjkn4G0n9I/AAAAAAACtGg/iDmYsy5qw1w/s1600/FRAMED%2B8.png)
+-------------
+![c016cb3166afbeaab86bb58914d042c05e301fff](https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fwww.blogcdn.com%2Fwww.engadget.com%2Fmedia%2F2010%2F05%2F5-2-10-mooreslawwall600.jpg&client=amp-blogside-v2&signature=c016cb3166afbeaab86bb58914d042c05e301fff)
+-------------
+![Screen](http://a2apple.com/beta/wp-content/themes/a2a/uploads/Screen%20Shot%202017-07-23%20at%20425360.5025360.09%20PM25360.png)
+-------------
+![mooreslaw-marketvolumelaw](https://historythings.com/wp-content/uploads/2016/05/mooreslaw-marketvolumelaw.png)
+-------------
+![040](https://nanohub.org/app/site/resources/2016/04/23953/slides/040.01.jpg)
+-------------
+![Screen](https://www.nextbigfuture.com/wp-content/uploads/2019/02/Screen-Shot-2019-02-23-at-10.19.51-AM-1024x676.jpg)
+-------------
+![c7nh00138j](https://pubs.rsc.org/image/article/2018/nh/c7nh00138j/c7nh00138j-f1_hi-res.gif)
+-------------
+![-advantages-and-disadvantages-6](https://image.slidesharecdn.com/advantages-160821134535/95/nanotechnology-advantages-and-disadvantages-6-638.jpg?cb=1471787263)
+-------------
+![apps](http://www.nbetech.com/images/apps.jpg)
+-------------
+![applicationsofnanomaterialsinfoodandcosmetic](https://image.slidesharecdn.com/applicationsofnanomaterialsinfoodandcosmetic-150306015050-conversion-gate01/95/applications-of-nanomaterials-in-food-and-cosmetic-8-638.jpg?cb=1425606744)
+-------------
+![tion-of-nanomaterials-in-catalysts-](https://www.researchgate.net/profile/Saeedeh_Imani_Moqadam2/publication/259466107/figure/fig4/AS:297138740318211@1447854804409/application-of-nanomaterials-in-catalysts-4.png)
+----------------
+![ic_13973_20171120](https://anysilicon.com/wp-content/uploads/2016/05/ic_13973_20171120-small.gif)
+-------------
+![Insights_20170120](https://evertiq.com/nimg/research/2017/IC-Insights/IC-Insights_20170120.jpg)
+-------------
+![Who_exported_Electronic_integrated_circuits_in_2016](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_exported_Electronic_integrated_circuits_in_2016.svg/1200px-Who_exported_Electronic_integrated_circuits_in_2016.svg.png)
+
+-------------
+-----------------
+
+![gate](http://www.techplayon.com/wp-content/uploads/2017/07/gate-2.png)
+--------
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:auto;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%"><tbody><tr><th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;font-size: 110%"></td></tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
+  
+  Semiconductor
+manufacturing
+processes
+<ul><li><a href="https://en.wikipedia.org/wiki/10_%C2%B5m_process" title="10 µm process">10&#160;µm</a>&#160;– 1971</li>
+<li><a href="https://en.wikipedia.org/wiki/6_%C2%B5m_process" title="6 µm process">6&#160;µm</a>&#160;– 1974</li>
+<li><a href="https://en.wikipedia.org/wiki/3_%C2%B5m_process" title="3 µm process">3&#160;µm</a>&#160;– 1977</li>
+<li><a href="https://en.wikipedia.org/wiki/1.5_%C2%B5m_process" title="1.5 µm process">1.5&#160;µm</a>&#160;– 1982</li>
+<li><a href="https://en.wikipedia.org/wiki/1_%C2%B5m_process" title="1 µm process">1&#160;µm</a>&#160;– 1985</li>
+<li><a href="https://en.wikipedia.org/wiki/800_nanometer" title="800 nanometer">800&#160;nm</a>&#160;– 1989</li>
+<li><a href="https://en.wikipedia.org/wiki/600_nanometer" title="600 nanometer">600&#160;nm</a>&#160;– 1994</li>
+<li><a href="https://en.wikipedia.org/wiki/350_nanometer" title="350 nanometer">350&#160;nm</a>&#160;– 1995</li>
+<li><a href="https://en.wikipedia.org/wiki/250_nanometer" title="250 nanometer">250&#160;nm</a>&#160;– 1997</li>
+<li><a href="https://en.wikipedia.org/wiki/180_nanometer" title="180 nanometer">180&#160;nm</a>&#160;– 1999</li>
+<li><a href="https://en.wikipedia.org/wiki/130_nanometer" title="130 nanometer">130&#160;nm</a>&#160;– 2001</li>
+<li><a href="https://en.wikipedia.org/wiki/90_nanometer" title="90 nanometer">90&#160;nm</a>&#160;– 2004</li>
+<li><a href="https://en.wikipedia.org/wiki/65-nanometer_process" title="65-nanometer process">65&#160;nm</a>&#160;– 2006</li>
+<li><a href="https://en.wikipedia.org/wiki/45_nanometer" title="45 nanometer">45&#160;nm</a>&#160;– 2008</li>
+<li><a href="https://en.wikipedia.org/wiki/32_nanometer" title="32 nanometer">32&#160;nm</a>&#160;– 2010</li>
+<li><a href="https://en.wikipedia.org/wiki/22_nanometer" title="22 nanometer">22&#160;nm</a>&#160;– 2012</li>
+<li><a href="https://en.wikipedia.org/wiki/14_nanometer" title="14 nanometer">14&#160;nm</a>&#160;– 2014</li>
+<li><a href="https://en.wikipedia.org/wiki/10_nanometer" title="10 nanometer">10&#160;nm</a>&#160;– 2017</li>
+<li><span style="visibility:hidden;color:transparent;">00</span><a href="/wiki/7_nanometer" title="7 nanometer">7&#160;nm</a>&#160;– 2018</li>
+<li><span style="visibility:hidden;color:transparent;">00</span><a href="https://en.wikipedia.org/wiki/5_nanometer" title="5 nanometer">5&#160;nm</a>&#160;– <i>~2020</i></li>
+<li><span style="visibility:hidden;color:transparent;">00</span><a href="https://en.wikipedia.org/wiki/3_nanometer" title="3 nanometer">3&#160;nm</a>&#160;– <i>~2022</i></li></ul></td>
+</tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
+<hr />
+</li></ul></div></td></tr></tbody></table>
+
+-------------
+----------------
+
+![Heisenbergs-Uncertainty-Principle](https://r.hswstatic.com/w_907/gif/Heisenbergs-Uncertainty-Principle.png)
+-------------
+![s_QhH2R_91b5CFYqjAxXVA](https://cdn-images-1.medium.com/max/1600/1*s_QhH2R_91b5CFYqjAxXVA.jpeg)
+-------------
+![Heisenberg-Uncertainty-Principle](https://cdn1.byjus.com/chemistry/wp-content/uploads/2015/12/Heisenberg-Uncertainty-Principle.jpg)
+-------------
+![slide_23](https://images.slideplayer.com/19/5918876/slides/slide_23.jpg)
+-------------
+![66y08](https://i.stack.imgur.com/66y08.png)
+-------------
+![slide_7](http://images.slideplayer.com/19/5803022/slides/slide_7.jpg)
+-------------
+![UncertaintyPrinciple](https://3.bp.blogspot.com/-3gG9U4qib7k/V2xVkQV3kwI/AAAAAAAAASM/z5jpjuVAV70Hgbesmn-Qg7wAU-xUE8PEwCLcB/s1600/UncertaintyPrinciple.jpg)
+-------------
+![Figure](https://cnx.org/resources/43dbdd52944f2d97dfe2c9acc030f06999860aad/Figure%2030_07_01a.jpg)
+-------------
+![img006](https://courses.cs.washington.edu/courses/cse599/99sp/admin/Slides/Week8/img006.gif)
+-------------
+![uncertainty](https://image.slidesharecdn.com/uncertainty-120208074244-phpapp01/95/uncertainty-8-728.jpg?cb=1328687161)
+-------------
+-----------
