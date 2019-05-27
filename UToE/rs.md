@@ -188,9 +188,9 @@
 ![qoJT88h](https://i.imgur.com/qoJT88h.png)
 
 ----------
-![]()
+![Blueoriginvsspacex](https://dgit.com/wp-content/uploads/2017/01/Blueoriginvsspacex.jpg)
 ----------
-![]()
+![oorocket](https://s3.amazonaws.com/images.spaceref.com/news/2019/oorocket.compare.jpg)
 ----------
 ![]()
 ----------
@@ -278,9 +278,30 @@
 ![fig1](http://www.braeunig.us/space/pics/fig1-08.gif)
 
 ----------
-![]()
+![lrockth](https://www.grc.nasa.gov/www/k-12/airplane/Images/lrockth.gif)
 ----------
-![]()
+![Smplnsr](http://www.neofuel.com/mirf/Smplnsr.gif)
+----------
+![Staged_combustion_rocket_cycle](https://upload.wikimedia.org/wikipedia/commons/1/19/Staged_combustion_rocket_cycle.png)
+
+----------
+![rocket_motor](https://www.mpoweruk.com/images/rocket_motor.gif)
+----------
+![rockth](http://1.bp.blogspot.com/-_qGKRbQh-Dw/UxeSNUHq5EI/AAAAAAAAAQk/xIKf8CNIu_0/s1600/rockth.gif)
+----------
+![rktcompare](https://www.grc.nasa.gov/WWW/K-12/rocket/Images/rktcompare.gif)
+
+----------
+![116837980](https://thumbs.dreamstime.com/z/rocket-propulsion-space-engineering-vector-illustration-technical-diagram-scheme-liquid-propellant-solid-propellant-examples-116837980.jpg)
+----------
+![Ssme_schematic](https://upload.wikimedia.org/wikipedia/commons/b/bc/Ssme_schematic.svg)
+----------
+![21491](https://forum.nasaspaceflight.com/index.php?action=dlattach;topic=21491.0;attach=1438752;image)
+
+----------
+![170202084705](https://image.slidesharecdn.com/cryogenicengine-140710125319-phpapp011-170202084705/95/cryogenic-rocket-engine-8-638.jpg?cb=1486025502)
+----------
+![310488_1_En_11_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4471-6796-9_11/MediaObjects/310488_1_En_11_Fig1_HTML.gif)
 ----------
 ![]()
 
@@ -293,6 +314,9 @@
 
 ----------
 ![]()
+
+----------
+![]()
 ----------
 ![]()
 ----------
@@ -300,8 +324,44 @@
 
 ----------
 ![]()
+
 ----------
 ![]()
+----------
+![]()
+----------
+![]()
+
+----------
+![]()
+
+----------
+![]()
+----------
+![]()
+----------
+![]()
+
+----------
+![]()
+
+----------
+![]()
+----------
+![]()
+----------
+![]()
+
+----------
+![]()
+
+----------
+![]()
+----------
+![]()
+----------
+![]()
+
 ----------
 ![]()
 
@@ -397,20 +457,21 @@
 #### Launch
 -----------
 ![BlueOrigin_NewGlenn_FlightProfile](https://www.blueorigin.com/assets/diagrams/new-glenn/BlueOrigin_NewGlenn_FlightProfile.jpg)
-![]()
+-------------
+![19_15_38](https://www.nasaspaceflight.com/wp-content/uploads/2018/11/2018-11-28-19_15_38-Window.jpg)
 ----------
-![]()
+![VvulbkePN2sUoabaQ1x3](https://cdn-images-1.medium.com/max/1600/1*VvulbkePN2sUoabaQ1x3-w.jpeg)
 ----------
-![]()
+![BlueOrigin_NewShepard_FlightProfile](https://publicnewsupdate.com/wp-content/uploads/2019/01/BlueOrigin_NewShepard_FlightProfile.jpg)
 ----------
-![]()
+![lunarchisolnuk4](http://www.neofuel.com/moonicerocket/lunarchisolnuk4.gif)
 ----------
-![]()
+![adam](https://falsesteps.files.wordpress.com/2017/08/adam.png)
 ----------
-![]()
+![fg1mirf2](http://www.neofuel.com/space98/fg1mirf2.gif)
 
 ----------
-![]()
+![994a7977071b](https://earth.esa.int/image/image_gallery?uuid=a0652b6f-c8ad-49bb-beba-994a7977071b&groupId=163813&t=1339679008127)
 ----------
 ![]()
 ----------
