@@ -22,8 +22,10 @@
 
 ----------------
 ----------
-#### Orbits
+#### Earth Orbits
 ----------
+![Seasons1](https://upload.wikimedia.org/wikipedia/commons/f/f0/Seasons1.svg)
+------------
 ![satellite_orbits](https://spaceforscience.files.wordpress.com/2015/08/satellite_orbits.jpg)
 ----------
 ![types-of-orbits-satellite-communication-course](https://www.technobyte.org/wp-content/uploads/2017/05/types-of-orbits-satellite-communication-course.jpg)
