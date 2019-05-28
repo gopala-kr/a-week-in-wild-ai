@@ -3,6 +3,7 @@
 #### Contents
 
 - [Kardashev Scale](#kardashev-scale)
+- [Energy Source Maps](#energy-source-maps)
 - [Energy Timeline](#energy-timeline)
 - [Energy Consumption](#energy-consumption)
 
@@ -59,8 +60,13 @@
 ![320467_1_En_9_Fig3_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-05062-1_9/MediaObjects/320467_1_En_9_Fig3_HTML.gif)
 -------------
 ![n18a](http://www.astro.sunysb.edu/lattimer/AST248/n18a.gif)
--------------
--------------------
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+#### Energy Source Maps
+
+[Back to top](#contents)
+
+-----------------
 ![energy](http://www.venturemagazine.me/wp-content/uploads/2019/03/WEF-energy-1.png)
 -------------
 ![energy1](http://www.venturemagazine.me/wp-content/uploads/2019/03/WEF-energy-2.png)
