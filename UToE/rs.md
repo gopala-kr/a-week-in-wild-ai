@@ -43,6 +43,10 @@
 - [ESPI Public Reports](https://espi.or.at/publications/espi-public-reports/category/2-public-espi-reports)
 - [The future of
 the European space sector](https://www.eib.org/attachments/thematic/future_of_european_space_sector_en.pdf)
+- [Evaluation of a Human Mission to
+Mars by 2033](https://www.ida.org/idamedia/Corporate/Files/Publications/STPIPubs/2019/D-10510.pdf)
+
+
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------
