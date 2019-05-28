@@ -39,7 +39,10 @@
 - [Space: Investing in the Final Frontier | Morgan Stanley](https://www.morganstanley.com/ideas/investing-in-space)
 - [Space Market Uptake in Europe](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/569984/IPOL_STU(2016)569984_EN.pdf)
 - [spacedaily](http://www.spacedaily.com/reports/Global_Space_Propulsion_System_Market_forecast_to_exceed_10_billion_by_2023_999.html)
-- []()
+- [Space Launch Services Market by Service Type (Pre-Launch, Post-Launch), Payload (Satellite, Human Spacecraft, Cargo, Testing Probes, Stratollite), End User, Orbit, Launch Vehicle Size, Launch Platform, and Region - Global Forecast to 2025](https://www.marketsandmarkets.com/Market-Reports/space-launch-services-market-132122845.html)
+- [ESPI Public Reports](https://espi.or.at/publications/espi-public-reports/category/2-public-espi-reports)
+- [The future of
+the European space sector](https://www.eib.org/attachments/thematic/future_of_european_space_sector_en.pdf)
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------
