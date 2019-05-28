@@ -524,6 +524,9 @@
 ![]()
 -------------
 ![]()
+---------------
+- [World-Energy-Issues-Monitor-2019](https://www.worldenergy.org/wp-content/uploads/2019/02/1.-World-Energy-Issues-Monitor-2019-Interactive-Full-Report.pdf)
+- [BP Statistical Review of World Energy 2018](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2018-full-report.pdf)
 -------------------------------------------------------------------------------------------------------------------
 [Back to top](#contents)
 -------------------------------------------------------------------------------------------------------------------
