@@ -943,6 +943,9 @@ the European space sector](https://www.eib.org/attachments/thematic/future_of_eu
 - [making_life_multiplanetary-2017](https://www.spacex.com/sites/spacex/files/making_life_multiplanetary-2017.pdf)
 - [falcon_users_guide](https://www.spacex.com/sites/spacex/files/falcon_users_guide.pdf)
 - [Making Privatisation of Space Exploration, Possible– SpaceX](https://www.academia.edu/37063711/Making_Privatisation_of_Space_Exploration_Possible_SpaceX)
+- [SpaceX Demonstration Mission ](https://www.nasa.gov/pdf/641018main_pk_objectives.pdf)
+- [SpaceX delivers outer space at bargain rates](https://www.ideal-plm.ru/uEditor/files/4/NXCAD01_10_en_spacex_CS.pdf)
+- [ Falcon 9 User's Guide ](https://www.spaceflightnow.com/falcon9/001/f9guide.pdf)
 
 -----------
 ![20180210_FBC925](https://cdn.static-economist.com/sites/default/files/images/print-edition/20180210_FBC925.png)
