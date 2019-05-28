@@ -2,7 +2,7 @@
 #### Theories of Mind, Intelligence and Conciousness
 
 ----------------
-> there are two mysteries in 21st century conciousness and the begining(bigbang(why), dark enegy and dark matter, quantum machanics)
+> there are two mysteries in 21st century conciousness and the begining(bigbang(why), dark enegydark matter & quantum machanics)
 --------------
 
 
