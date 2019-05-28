@@ -36,7 +36,7 @@
 
 -------------------
 
-|| [Theories of Mind, Intelligence and Conciousness](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ToIC) | [New Theories of Computation](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/NToC) | [Theories on Future](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ToF) | [Universal Theory of Everything](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/UToE) ||
+|| [Theories of Mind, Intelligence and Conciousness](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ToIC) | [New Theories of Computation](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/NToC) | [Universal Theory of Everything](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/UToE) ||
 
 ----------------------
 --------------------------------
