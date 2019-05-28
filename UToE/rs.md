@@ -29,6 +29,8 @@
 - [Space and Technology ](https://brycetech.com/reports.html)
 - [Space Launch Report](http://www.spacelaunchreport.com/)
 - [Global Space Activities Status Boards](https://www.thespacereport.org/resources/global-space-activities-status-boards)
+- [RESEARCH ON THE ISS](https://www.issnationallab.org/research-on-the-iss/reports/)
+- [spaceflightnow](https://spaceflightnow.com/category/mission-reports/)
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
