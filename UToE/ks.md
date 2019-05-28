@@ -1,29 +1,28 @@
------------
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 #### Kardashev Scale
 
 ----------------
-![galaxy](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/galaxy.png)
--------------
-![kardashev_scale_type_1](https://www.futuretimeline.net/23rdcentury/images/kardashev_scale_type_1.jpg)
--------------
-![revision](https://vignette.wikia.nocookie.net/factpile/images/a/aa/Kardashev_Civilization_Chart.png/revision/latest?cb=20130613083928)
--------------
-![1541994522001](https://i.warosu.org/data/sci/img/0101/34/1541994522001.jpg)
--------------
 ![type1 ](https://images.slideplayer.com/24/7352871/slides/slide_2.jpg)
 -------------
 ![slide_3](https://images.slideplayer.com/24/7352871/slides/slide_3.jpg)
 -------------
 ![slide_4](https://images.slideplayer.com/24/7352871/slides/slide_4.jpg)
 -------------
+![kardashev_scale_type_1](https://www.futuretimeline.net/23rdcentury/images/kardashev_scale_type_1.jpg)
+-------------
+![revision](https://vignette.wikia.nocookie.net/factpile/images/a/aa/Kardashev_Civilization_Chart.png/revision/latest?cb=20130613083928)
+-------------
+![galaxy](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/galaxy.png)
+-------------
+![1541994522001](https://i.warosu.org/data/sci/img/0101/34/1541994522001.jpg)
+-------------
 ![320467_1_En_9_Fig3_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-05062-1_9/MediaObjects/320467_1_En_9_Fig3_HTML.gif)
 -------------
-
 ![5b3a6c014447272a008b46a1](https://i1.wp.com/cosmological.in/wp-content/uploads/2019/02/5b3a6c014447272a008b46a1.png?resize=1000%2C467&ssl=1)
 -------------
 ![slide_9](https://images.slideplayer.com/34/8346619/slides/slide_9.jpg)
-
 -------------
 ![n18a](http://www.astro.sunysb.edu/lattimer/AST248/n18a.gif)
 -------------
@@ -46,11 +45,12 @@
 ![]()
 -------------
 ![]()
--------------
----------------
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 
 #### Energy Timeline
 
+-----------------------
 ![US_consumption_1635](https://www.wou.edu/las/physci/GS361/graphics/US_consumption_1635-2000.jpg)
 -------------
 ![vbeHRXfG2PU_UblaosnVHC_uITHe9aqIg](https://3.bp.blogspot.com/-8d-aek6RxdI/VwJnv6nSDVI/AAAAAAABH6w/vbeHRXfG2PU_UblaosnVHC_uITHe9aqIg/s1600/energyhistory.png)
@@ -74,11 +74,11 @@
 ![]()
 -------------
 ![]()
--------------
------------
-
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
 #### Energy Consumption
 
+---------------------------
 ![production](https://image.slidesharecdn.com/energyproductionconsumption-140708084901-phpapp01/95/energy-production-consumption-11-638.jpg?cb=1404810895)
 -----------
 ![renewables](https://gailtheactuary.files.wordpress.com/2013/03/world-fuel-consumption-including-renewables.png)
