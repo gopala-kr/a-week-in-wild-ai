@@ -24,10 +24,10 @@
 
 - [National Space Exploration Campaign Report](https://www.nasa.gov/sites/default/files/atoms/files/nationalspaceexplorationcampaign.pdf)
 - [NASA Reports and Transcripts](https://www.nasa.gov/news/reports/index.html)
-- []()
-- []()
-- []()
-- []()
+- [ESC 2018 General report - The Future of the Space Industry](https://www.nato-pa.int/download-file?filename=sites/default/files/2018-12/2018%20-%20THE%20FUTURE%20OF%20SPACE%20INDUSTRY%20-%20BOCKEL%20REPORT%20-%20173%20ESC%2018%20E%20fin.pdf)
+- [https://www.space.com/news](https://www.space.com/news)
+- [Space and Technology ](https://brycetech.com/reports.html)
+- [Space Launch Report](http://www.spacelaunchreport.com/)
 - []()
 
 -------------------------------------------------------------------------------------------------------------------------
