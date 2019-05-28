@@ -6,7 +6,8 @@
 - [Energy Source Maps](#energy-source-maps)
 - [Energy Timeline](#energy-timeline)
 - [Energy Consumption](#energy-consumption)
-
+- [Landscape](#landscape)
+- [Energy Storage](#energy-storage)
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -330,5 +331,76 @@
 ![]()
 -------------
 ![]()
+-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
+#### Lanscape
+-----------
+![55AFC0D85E22350FA47474888D6CCB0E116DB4C1](https://www.irena.org/-/media/Images/IRENA/Agency/Article/2017/Dec/Innovation-landscape.JPG?la=en&hash=55AFC0D85E22350FA47474888D6CCB0E116DB4C1)
+-------------
+![our_changing_energy_landscape2](https://www.spenergynetworks.co.uk/userfiles/image/our_changing_energy_landscape2.png)
+-------------
+![Selected_Energy_Management_Platform_Providers_Within_the_Building_Energy_Landscape_1518_626_85](https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_dqbasmyouzti2.cloudfront.net/content/images/articles/Selected_Energy_Management_Platform_Providers_Within_the_Building_Energy_Landscape_1518_626_85.jpg)
+-------------
+![WEI2018](https://www.climateforesight.eu/wp-content/uploads/2018/08/IEA-WEI2018-energy-investment.png)
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+------------
+
+#### Energy Storage
+
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![sustainable](http://www.catsense.eu/media/110838/sustainable-energy-future.jpg?width=500&height=375)
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+------------
+
 -------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------
