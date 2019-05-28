@@ -20,6 +20,15 @@
 - [rocket science](https://www.youtube.com/playlist?list=PLRtG0PPePczwzlHVnvhqbmiP01EvPZtBI)
 - [Rocket Propulsion Lectures](https://www.youtube.com/playlist?list=PL8T9k99OFn-x2rOXlkfXRz09Ch_t4nEX1)
 - [MIT Spacecraft Engineering Lectures](https://www.youtube.com/playlist?list=PLhuO1S79mUkOCizrQDQKHBPYNKWvKHBQB)
+------------
+
+- [National Space Exploration Campaign Report](https://www.nasa.gov/sites/default/files/atoms/files/nationalspaceexplorationcampaign.pdf)
+- [NASA Reports and Transcripts](https://www.nasa.gov/news/reports/index.html)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
