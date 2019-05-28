@@ -533,6 +533,9 @@ Issues Monitor 2018](https://www.worldenergy.org/wp-content/uploads/2018/05/Issu
 - [2018 Energy Statistics Pocketbook - UNSD](https://unstats.un.org/unsd/energy/pocket/2018/2018pb-web.pdf)
 - [8652_GSR2018_FullReport_web_](http://www.ren21.net/wp-content/uploads/2018/06/17-8652_GSR2018_FullReport_web_-1.pdf)
 - [2018-Outlook-for-Energy](https://corporate.exxonmobil.com/en/~/media/Global/Files/outlook-for-energy/2018-Outlook-for-Energy.pdf)
+- [Global Energy Transformation: A Roadmap to 2050](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf)
+- [IEA Energy Efficiency 2018 and
+World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Events/181127PolicySeminar/kevin_lane_seminar_27nov.pdf)
 -------------------------------------------------------------------------------------------------------------------
 [Back to top](#contents)
 -------------------------------------------------------------------------------------------------------------------
