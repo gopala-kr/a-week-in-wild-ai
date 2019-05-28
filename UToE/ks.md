@@ -343,13 +343,13 @@
 -------------
 ![WEI2018](https://www.climateforesight.eu/wp-content/uploads/2018/08/IEA-WEI2018-energy-investment.png)
 -------------
-![]()
+![Electricity](https://www.openelectricitymarket.sg/wcm/connect/oem/2b35dcad-195a-42c6-a6a4-05164f88059f/1/How-Electricity-Market-Works.png?MOD=AJPERES&CVID=)
 -------------
-![]()
+![RTS63L71](https://assets.weforum.org/wp-content/uploads/2015/12/RTS63L71.jpg)
 -------------
-![]()
+![Screen](https://www.kiwipowered.com/wp-content/uploads/2018/04/Screen-Shot-2018-04-05-at-15.32.09-2.png)
 -------------
-![]()
+![segmentation](https://www.alliedmarketresearch.com/images/solar-energy-market-segmentation.jpeg)
 -------------
 ![]()
 -------------
