@@ -16,6 +16,14 @@
 [Back to top](#contents)
 
 ----------------
+![kardashev](https://www.52-insights.com/wp-content/uploads/2018/03/kardashev.jpg)
+-------------
+![civilization](https://thefutureworld.org/wp-content/uploads/2019/03/type3-civilization-2.jpg)
+-------------
+![image](https://media.springernature.com/lw785/springer-static/image/chp%3A10.1007%2F978-3-319-46557-9_8/MediaObjects/192832_2_En_8_Fig2_HTML.gif)
+------------
+![vUJQ](https://miro.medium.com/max/898/1*nuypllLGRVoeoeWZ5-vUJQ.png)
+---------
 ![type1 ](https://images.slideplayer.com/24/7352871/slides/slide_2.jpg)
 -------------
 ![slide_3](https://images.slideplayer.com/24/7352871/slides/slide_3.jpg)
@@ -28,25 +36,17 @@
 -------------
 ![galaxy](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/galaxy.png)
 -------------
-![1541994522001](https://i.warosu.org/data/sci/img/0101/34/1541994522001.jpg)
+![eff576bbc1](https://imgv2-2-f.scribdassets.com/img/document/365890560/original/eff576bbc1/1532671665?v=1)
+-------------
+![Interstellar_archaeology_table_2010_12_8](https://home.fnal.gov/~carrigan/infrared_astronomy/Interstellar_archaeology_table_2010_12_8.png)
 -------------
 ![320467_1_En_9_Fig3_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-05062-1_9/MediaObjects/320467_1_En_9_Fig3_HTML.gif)
 -------------
+![1541994522001](https://i.warosu.org/data/sci/img/0101/34/1541994522001.jpg)
+-------------
 ![5b3a6c014447272a008b46a1](https://i1.wp.com/cosmological.in/wp-content/uploads/2019/02/5b3a6c014447272a008b46a1.png?resize=1000%2C467&ssl=1)
 -------------
-![slide_9](https://images.slideplayer.com/34/8346619/slides/slide_9.jpg)
--------------
-![Screen](http://sites.psu.edu/wp-content/uploads/sites/9476/2012/10/Screen-shot-2012-10-01-at-11.27.29-AM.png)
----------
 ![n18a](http://www.astro.sunysb.edu/lattimer/AST248/n18a.gif)
--------------
-![eff576bbc1](https://imgv2-2-f.scribdassets.com/img/document/365890560/original/eff576bbc1/1532671665?v=1)
--------------
-![222879338](http://www.cashadvance6online.com/data/archive/img/222879338.png)
--------------
-![earthsolar](https://www.nextbigfuture.com/wp-content/uploads/2012/05/earthsolar-4-730x430.png)
--------------
-![Interstellar_archaeology_table_2010_12_8](https://home.fnal.gov/~carrigan/infrared_astronomy/Interstellar_archaeology_table_2010_12_8.png)
 -------------
 ![]()
 -------------
@@ -192,6 +192,8 @@
 ![GRAPHchangeinprimaryenergydemand](https://www.iea.org/media/publications/weo/GRAPHchangeinprimaryenergydemand.png)
 -------------
 ![Figure_6](http://www.ren21.net/wp-content/uploads/2018/06/Figure_6.jpg)
+-------------
+![earthsolar](https://www.nextbigfuture.com/wp-content/uploads/2012/05/earthsolar-4-730x430.png)
 -------------
 ![]()
 -------------
