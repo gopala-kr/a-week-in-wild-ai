@@ -536,6 +536,10 @@ Issues Monitor 2018](https://www.worldenergy.org/wp-content/uploads/2018/05/Issu
 - [Global Energy Transformation: A Roadmap to 2050](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf)
 - [IEA Energy Efficiency 2018 and
 World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Events/181127PolicySeminar/kevin_lane_seminar_27nov.pdf)
+- [the-biggest-energy-challenges-facing-humanity](http://www.bbc.com/future/story/20170313-the-biggest-energy-challenges-facing-humanity)
+- [World Energy 2017-2050: Annual Report ](https://content.csbs.utah.edu/~mli/2017/World%20Energy%202017-2050.pdf)
+- [World Energy Consumption Since 1820 in Charts](https://ourfiniteworld.com/2012/03/12/world-energy-consumption-since-1820-in-charts/)
+
 -------------------------------------------------------------------------------------------------------------------
 [Back to top](#contents)
 -------------------------------------------------------------------------------------------------------------------
