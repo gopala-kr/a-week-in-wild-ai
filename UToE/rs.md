@@ -873,6 +873,10 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 [Back to top](#index)
 
 ----------
+- [Space India Jan-Jun 2017.](https://www.isro.gov.in/sites/default/files/flipping_book/SI-Jan-Jun2017/files/assets/common/downloads/Space%20India%20Jan-Jun%202017.pdf)
+- [Glimpses of Indian Space Programme](http://www.jsforum.or.jp/stableuse/2016/pdf/13.%20Dhekane.pdf)
+
+-----------
 ![6b486e3d8ebe3d90f3230b9f82be2491](https://i.pinimg.com/originals/6b/48/6e/6b486e3d8ebe3d90f3230b9f82be2491.jpg)
 ----------
 ![organisation_chart](https://www.isro.gov.in/sites/default/files/organisation_chart.jpg)
