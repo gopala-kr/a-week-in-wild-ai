@@ -531,6 +531,8 @@
 - [World Energy
 Issues Monitor 2018](https://www.worldenergy.org/wp-content/uploads/2018/05/Issues-Monitor-2018-HQ-Final.pdf)
 - [2018 Energy Statistics Pocketbook - UNSD](https://unstats.un.org/unsd/energy/pocket/2018/2018pb-web.pdf)
+- [8652_GSR2018_FullReport_web_](http://www.ren21.net/wp-content/uploads/2018/06/17-8652_GSR2018_FullReport_web_-1.pdf)
+- [2018-Outlook-for-Energy](https://corporate.exxonmobil.com/en/~/media/Global/Files/outlook-for-energy/2018-Outlook-for-Energy.pdf)
 -------------------------------------------------------------------------------------------------------------------
 [Back to top](#contents)
 -------------------------------------------------------------------------------------------------------------------
