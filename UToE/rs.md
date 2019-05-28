@@ -31,6 +31,9 @@
 - [Global Space Activities Status Boards](https://www.thespacereport.org/resources/global-space-activities-status-boards)
 - [RESEARCH ON THE ISS](https://www.issnationallab.org/research-on-the-iss/reports/)
 - [spaceflightnow](https://spaceflightnow.com/category/mission-reports/)
+- [World Space Week Annual Reports](https://www.worldspaceweek.org/organization/annual-reports/)
+- [unoosa](http://www.unoosa.org/oosa/en/ourwork/un-space/reports_publications.html)
+- [Space Utilization Reports](http://www.schev.edu/index/institutional/guidance-policies/finance-and-facilities/space-utilization-reports)
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
