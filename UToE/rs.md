@@ -939,6 +939,12 @@ the European space sector](https://www.eib.org/attachments/thematic/future_of_eu
 [Back to top](#index)
 
 ----------------
+- [Starlink_press_kit](https://www.spacex.com/sites/spacex/files/starlink_press_kit.pdf)
+- [making_life_multiplanetary-2017](https://www.spacex.com/sites/spacex/files/making_life_multiplanetary-2017.pdf)
+- [falcon_users_guide](https://www.spacex.com/sites/spacex/files/falcon_users_guide.pdf)
+- [Making Privatisation of Space Exploration, Possible– SpaceX](https://www.academia.edu/37063711/Making_Privatisation_of_Space_Exploration_Possible_SpaceX)
+
+-----------
 ![20180210_FBC925](https://cdn.static-economist.com/sites/default/files/images/print-edition/20180210_FBC925.png)
 ---------------
 ![DcW9ESBXcAAUPQl](https://pbs.twimg.com/media/DcW9ESBXcAAUPQl.jpg)
