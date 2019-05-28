@@ -38,7 +38,8 @@
 - [Spacecraft Market - Growth, Trends, and Forecast (2019 - 2024)](https://www.mordorintelligence.com/industry-reports/spacecraft-market)
 - [Space: Investing in the Final Frontier | Morgan Stanley](https://www.morganstanley.com/ideas/investing-in-space)
 - [Space Market Uptake in Europe](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/569984/IPOL_STU(2016)569984_EN.pdf)
-
+- [spacedaily](http://www.spacedaily.com/reports/Global_Space_Propulsion_System_Market_forecast_to_exceed_10_billion_by_2023_999.html)
+- []()
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------
