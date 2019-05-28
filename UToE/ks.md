@@ -12,6 +12,22 @@
 
 -------------------------------------------------------------------------------------------------------------------
 
+- [World-Energy-Issues-Monitor-2019](https://www.worldenergy.org/wp-content/uploads/2019/02/1.-World-Energy-Issues-Monitor-2019-Interactive-Full-Report.pdf)
+- [BP Statistical Review of World Energy 2018](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2018-full-report.pdf)
+- [World Energy 2018-2050: World Energy Annual Report ](http://peakoilbarrel.com/world-energy-2018-2050-world-energy-annual-report-part-1/)
+- [World Energy
+Issues Monitor 2018](https://www.worldenergy.org/wp-content/uploads/2018/05/Issues-Monitor-2018-HQ-Final.pdf)
+- [2018 Energy Statistics Pocketbook - UNSD](https://unstats.un.org/unsd/energy/pocket/2018/2018pb-web.pdf)
+- [8652_GSR2018_FullReport_web_](http://www.ren21.net/wp-content/uploads/2018/06/17-8652_GSR2018_FullReport_web_-1.pdf)
+- [2018-Outlook-for-Energy](https://corporate.exxonmobil.com/en/~/media/Global/Files/outlook-for-energy/2018-Outlook-for-Energy.pdf)
+- [Global Energy Transformation: A Roadmap to 2050](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf)
+- [IEA Energy Efficiency 2018 and
+World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Events/181127PolicySeminar/kevin_lane_seminar_27nov.pdf)
+- [the-biggest-energy-challenges-facing-humanity](http://www.bbc.com/future/story/20170313-the-biggest-energy-challenges-facing-humanity)
+- [World Energy 2017-2050: Annual Report ](https://content.csbs.utah.edu/~mli/2017/World%20Energy%202017-2050.pdf)
+- [World Energy Consumption Since 1820 in Charts](https://ourfiniteworld.com/2012/03/12/world-energy-consumption-since-1820-in-charts/)
+
+------------------
 
 #### Kardashev Scale
 
@@ -525,21 +541,8 @@
 -------------
 ![]()
 ---------------
-- [World-Energy-Issues-Monitor-2019](https://www.worldenergy.org/wp-content/uploads/2019/02/1.-World-Energy-Issues-Monitor-2019-Interactive-Full-Report.pdf)
-- [BP Statistical Review of World Energy 2018](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/energy-economics/statistical-review/bp-stats-review-2018-full-report.pdf)
-- [World Energy 2018-2050: World Energy Annual Report ](http://peakoilbarrel.com/world-energy-2018-2050-world-energy-annual-report-part-1/)
-- [World Energy
-Issues Monitor 2018](https://www.worldenergy.org/wp-content/uploads/2018/05/Issues-Monitor-2018-HQ-Final.pdf)
-- [2018 Energy Statistics Pocketbook - UNSD](https://unstats.un.org/unsd/energy/pocket/2018/2018pb-web.pdf)
-- [8652_GSR2018_FullReport_web_](http://www.ren21.net/wp-content/uploads/2018/06/17-8652_GSR2018_FullReport_web_-1.pdf)
-- [2018-Outlook-for-Energy](https://corporate.exxonmobil.com/en/~/media/Global/Files/outlook-for-energy/2018-Outlook-for-Energy.pdf)
-- [Global Energy Transformation: A Roadmap to 2050](https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_Report_GET_2018.pdf)
-- [IEA Energy Efficiency 2018 and
-World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Events/181127PolicySeminar/kevin_lane_seminar_27nov.pdf)
-- [the-biggest-energy-challenges-facing-humanity](http://www.bbc.com/future/story/20170313-the-biggest-energy-challenges-facing-humanity)
-- [World Energy 2017-2050: Annual Report ](https://content.csbs.utah.edu/~mli/2017/World%20Energy%202017-2050.pdf)
-- [World Energy Consumption Since 1820 in Charts](https://ourfiniteworld.com/2012/03/12/world-energy-consumption-since-1820-in-charts/)
 
 -------------------------------------------------------------------------------------------------------------------
 [Back to top](#contents)
+
 -------------------------------------------------------------------------------------------------------------------
