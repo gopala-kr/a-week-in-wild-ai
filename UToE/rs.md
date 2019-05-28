@@ -946,6 +946,10 @@ the European space sector](https://www.eib.org/attachments/thematic/future_of_eu
 - [SpaceX Demonstration Mission ](https://www.nasa.gov/pdf/641018main_pk_objectives.pdf)
 - [SpaceX delivers outer space at bargain rates](https://www.ideal-plm.ru/uEditor/files/4/NXCAD01_10_en_spacex_CS.pdf)
 - [ Falcon 9 User's Guide ](https://www.spaceflightnow.com/falcon9/001/f9guide.pdf)
+- [Emerging Market Analysis of SpaceX and the
+Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?article=1686&context=honorsprojects)
+- [DISRUPTING	LAUNCH	SYSTEMS](https://www.frstrategie.org/web/documents/publications/autres/2017/2017-wohrer-these.pdf)
+- [SpaceX Dragon ](http://wsn.spaceflight.esa.int/docs/Factsheets/28%20SpaceXDragon%20LR.pdf)
 
 -----------
 ![20180210_FBC925](https://cdn.static-economist.com/sites/default/files/images/print-edition/20180210_FBC925.png)
