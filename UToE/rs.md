@@ -28,7 +28,7 @@
 - [https://www.space.com/news](https://www.space.com/news)
 - [Space and Technology ](https://brycetech.com/reports.html)
 - [Space Launch Report](http://www.spacelaunchreport.com/)
-- []()
+- [Global Space Activities Status Boards](https://www.thespacereport.org/resources/global-space-activities-status-boards)
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
