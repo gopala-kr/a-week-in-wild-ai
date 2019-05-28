@@ -16,6 +16,19 @@
 [Back to top](#contents)
 
 ----------------
+![projection](https://www.mapsofworld.com/large-world-map-in-robinson-projection.jpg)
+-----------
+![Religions_world_map](https://www.worldometers.info/img/Religions_world_map.gif)
+-----------
+![worldpopulation](http://population.city/images/worldpopulation.jpg)
+--------------
+![world](https://www.visualcapitalist.com/wp-content/uploads/2018/09/world-map-share.png)
+-------------
+![civilization](http://image.slidesharecdn.com/5keyelementsofcivilization-130925131115-phpapp01/95/5-key-elements-of-civilization-18-638.jpg)
+-----------
+-----------------
+![eff576bbc1](https://imgv2-2-f.scribdassets.com/img/document/365890560/original/eff576bbc1/1532671665?v=1)
+-------------
 ![kardashev](https://www.52-insights.com/wp-content/uploads/2018/03/kardashev.jpg)
 -------------
 ![civilization](https://thefutureworld.org/wp-content/uploads/2019/03/type3-civilization-2.jpg)
@@ -30,21 +43,20 @@
 -------------
 ![slide_4](https://images.slideplayer.com/24/7352871/slides/slide_4.jpg)
 -------------
-![kardashev_scale_type_1](https://www.futuretimeline.net/23rdcentury/images/kardashev_scale_type_1.jpg)
--------------
 ![revision](https://vignette.wikia.nocookie.net/factpile/images/a/aa/Kardashev_Civilization_Chart.png/revision/latest?cb=20130613083928)
+-------------
+![kardashev_scale_type_1](https://www.futuretimeline.net/23rdcentury/images/kardashev_scale_type_1.jpg)
 -------------
 ![galaxy](https://dothemath.ucsd.edu/wp-content/uploads/2011/07/galaxy.png)
 -------------
-![eff576bbc1](https://imgv2-2-f.scribdassets.com/img/document/365890560/original/eff576bbc1/1532671665?v=1)
--------------
 ![Interstellar_archaeology_table_2010_12_8](https://home.fnal.gov/~carrigan/infrared_astronomy/Interstellar_archaeology_table_2010_12_8.png)
 -------------
-![320467_1_En_9_Fig3_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-05062-1_9/MediaObjects/320467_1_En_9_Fig3_HTML.gif)
--------------
+
 ![1541994522001](https://i.warosu.org/data/sci/img/0101/34/1541994522001.jpg)
 -------------
 ![5b3a6c014447272a008b46a1](https://i1.wp.com/cosmological.in/wp-content/uploads/2019/02/5b3a6c014447272a008b46a1.png?resize=1000%2C467&ssl=1)
+-------------
+![320467_1_En_9_Fig3_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-319-05062-1_9/MediaObjects/320467_1_En_9_Fig3_HTML.gif)
 -------------
 ![n18a](http://www.astro.sunysb.edu/lattimer/AST248/n18a.gif)
 -------------
