@@ -34,6 +34,10 @@
 - [World Space Week Annual Reports](https://www.worldspaceweek.org/organization/annual-reports/)
 - [unoosa](http://www.unoosa.org/oosa/en/ourwork/un-space/reports_publications.html)
 - [Space Utilization Reports](http://www.schev.edu/index/institutional/guidance-policies/finance-and-facilities/space-utilization-reports)
+- [Space exploration - Statistics & Facts](https://www.statista.com/topics/5049/space-exploration/)
+- [Spacecraft Market - Growth, Trends, and Forecast (2019 - 2024)](https://www.mordorintelligence.com/industry-reports/spacecraft-market)
+- [Space: Investing in the Final Frontier | Morgan Stanley](https://www.morganstanley.com/ideas/investing-in-space)
+- [Space Market Uptake in Europe](http://www.europarl.europa.eu/RegData/etudes/STUD/2016/569984/IPOL_STU(2016)569984_EN.pdf)
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
