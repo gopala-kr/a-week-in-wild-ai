@@ -45,7 +45,8 @@
 the European space sector](https://www.eib.org/attachments/thematic/future_of_european_space_sector_en.pdf)
 - [Evaluation of a Human Mission to
 Mars by 2033](https://www.ida.org/idamedia/Corporate/Files/Publications/STPIPubs/2019/D-10510.pdf)
-
+- [2018_ast_compendium](https://www.faa.gov/about/office_org/headquarters_offices/ast/media/2018_ast_compendium.pdf)
+- [Space Launch Calendar 2019: Sky Events, Missions & More](https://www.space.com/32286-space-calendar.html)
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
