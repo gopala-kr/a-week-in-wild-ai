@@ -3,7 +3,7 @@
 
 ----------------
 
-> The two greatest mysteries in all nature are the Mind(Conciousness & Intelligence) and Universe(bigbang, dark enegy, dark matter & quantum machanics)
+> there are two mysteries in all nature the Mind(Conciousness & Intelligence) and the Universe(bigbang, dark enegy, dark matter & quantum machanics)
 
 --------------
 
