@@ -2,12 +2,7 @@
 -------------
 ![Intraduce-Iconic-Timeline](http://intraduce.com/wp-content/uploads/Intraduce-Iconic-Timeline-v228-2600x4000.jpg)
 ---------------
-![adf416ab5c4702ac80a15142dea42989](https://i.pinimg.com/originals/ad/f4/16/adf416ab5c4702ac80a15142dea42989.jpg)
------------
-![20Industrial](http://slideplayer.com/slide/4571420/15/images/2/Timeline%20of%20the%20Industrial%20Revolution.jpg)
----------
---------------
-!transportation](https://image.slidesharecdn.com/report-151004045823-lva1-app6891/95/history-of-transportation-mode-2-638.jpg?cb=1443973979)
+![transportation](https://image.slidesharecdn.com/report-151004045823-lva1-app6891/95/history-of-transportation-mode-2-638.jpg?cb=1443973979)
 ---------
 ![history](https://image.slidesharecdn.com/report-151004045823-lva1-app6891/95/history-of-transportation-mode-3-638.jpg?cb=1443973979)
 ---------
@@ -32,9 +27,6 @@
 ![]()
 ---------
 ![]()
----------
---------------
-![transportation_54f432ee9524d_w1500](https://thumbnails-visually.netdna-ssl.com/an-array-of-different-modes-of-transportation_54f432ee9524d_w1500.jpg)
 ---------
 ![]()
 ---------
