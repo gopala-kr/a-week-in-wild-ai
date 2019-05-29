@@ -1209,6 +1209,8 @@ processes
 ![summit](https://fuse.wikichip.org/wp-content/uploads/2018/06/ornl-summit-roadmap.png)
 ---------
 ![Summit-specs-June-2018](http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/oak-ridge-summit-system-assembly.jpg)
+---------
+![d40b7d1e8004](https://hexus.net/media/uploaded/2015/6/ff510e38-4007-4160-b107-d40b7d1e8004.jpg)
 -------------
 ----------------
 
