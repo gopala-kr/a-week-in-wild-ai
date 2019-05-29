@@ -436,6 +436,16 @@ processes
 </tr><tr><td class="plainlist" style="padding:0 0.1em 0.4em;text-align:left">
 <hr />
 </li></ul></div></td></tr></tbody></table>
+---------
+![Timeline_larger](https://www.ibm.com/thought-leadership/summit-supercomputer/images/Summit-Timeline_larger.jpg)
+--------
+![singularity-future-timeline](https://www.futuretimeline.net/21stcentury/images/singularity-future-timeline-1500px.jpg)
+--------
+![Summit](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Summit-specs-June-2018-750x.png)
+---------
+![summit](https://fuse.wikichip.org/wp-content/uploads/2018/06/ornl-summit-roadmap.png)
+---------
+![Summit-specs-June-2018](http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/oak-ridge-summit-system-assembly.jpg)
 
 -------------
 ----------------
