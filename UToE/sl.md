@@ -1199,6 +1199,16 @@ processes
 <hr />
 </li></ul></div></td></tr></tbody></table>
 
+---------
+![Timeline_larger](https://www.ibm.com/thought-leadership/summit-supercomputer/images/Summit-Timeline_larger.jpg)
+--------
+![singularity-future-timeline](https://www.futuretimeline.net/21stcentury/images/singularity-future-timeline-1500px.jpg)
+--------
+![Summit](https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/Summit-specs-June-2018-750x.png)
+---------
+![summit](https://fuse.wikichip.org/wp-content/uploads/2018/06/ornl-summit-roadmap.png)
+---------
+![Summit-specs-June-2018](http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/oak-ridge-summit-system-assembly.jpg)
 -------------
 ----------------
 
@@ -1209,6 +1219,8 @@ processes
 ![Heisenberg-Uncertainty-Principle](https://cdn1.byjus.com/chemistry/wp-content/uploads/2015/12/Heisenberg-Uncertainty-Principle.jpg)
 -------------
 ![slide_23](https://images.slideplayer.com/19/5918876/slides/slide_23.jpg)
+----------
+![NVIDIA](https://cdn.wccftech.com/wp-content/uploads/2014/11/NVIDIA-Volta-Summit-Super-Computer.jpg)
 -------------
 ![66y08](https://i.stack.imgur.com/66y08.png)
 -------------
