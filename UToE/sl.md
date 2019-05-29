@@ -1211,6 +1211,146 @@ processes
 ![Summit-specs-June-2018](http://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/oak-ridge-summit-system-assembly.jpg)
 ---------
 ![d40b7d1e8004](https://hexus.net/media/uploaded/2015/6/ff510e38-4007-4160-b107-d40b7d1e8004.jpg)
+
+---------
+
+<table class="BarChartTemplate" style="border-style:solid; border-width:1px; border-color:#c0c0c0; background-color:#fdfdfd; text-align:left;" cellpadding="1">
+<caption style="font-weight:bold">Distribution of supercomputers in the TOP500 list by country (November 2018)
+</caption>
+<tbody><tr>
+<th scope="col">Country
+</th>
+<th scope="col" style="width: 35em&#125;;">Systems
+</th></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/China" title="China">China</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:34.8em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">229</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" />&#160;</span><a href="https://en.wikipedia.org/wiki/United_States" title="United States">United States</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:16.4em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">108</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/35px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/45px-Flag_of_Japan.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Japan" title="Japan">Japan</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:4.7em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">31</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:3em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">20</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/France" title="France">France</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:2.7em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">18</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/35px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/46px-Flag_of_Germany.svg.png 2x" data-file-width="1000" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Germany" title="Germany">Germany</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:2.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">17</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/23px-Flag_of_Ireland.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/35px-Flag_of_Ireland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/46px-Flag_of_Ireland.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Republic_of_Ireland" title="Republic of Ireland">Ireland</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:1.8em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">12</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/23px-Flag_of_Canada_%28Pantone%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/35px-Flag_of_Canada_%28Pantone%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/46px-Flag_of_Canada_%28Pantone%29.svg.png 2x" data-file-width="1200" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Canada" title="Canada">Canada</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:1.2em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">8</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/35px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/45px-Flag_of_Italy.svg.png 2x" data-file-width="1500" data-file-height="1000" />&#160;</span><a href="https://en.wikipedia.org/wiki/Italy" title="Italy">Italy</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.9em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">6</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/35px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/45px-Flag_of_South_Korea.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/South_Korea" title="South Korea">Korea, South</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.9em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">6</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/35px-Flag_of_the_Netherlands.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/45px-Flag_of_the_Netherlands.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Netherlands" title="Netherlands">Netherlands</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.9em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">6</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/23px-Flag_of_Australia_%28converted%29.svg.png" decoding="async" width="23" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/35px-Flag_of_Australia_%28converted%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/46px-Flag_of_Australia_%28converted%29.svg.png 2x" data-file-width="1280" data-file-height="640" />&#160;</span><a href="https://en.wikipedia.org/wiki/Australia" title="Australia">Australia</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.8em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">5</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/35px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/45px-Flag_of_India.svg.png 2x" data-file-width="1350" data-file-height="900" />&#160;</span><a href="https://en.wikipedia.org/wiki/India" title="India">India</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">4</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" data-file-width="1280" data-file-height="800" />&#160;</span><a href="https://en.wikipedia.org/wiki/Poland" title="Poland">Poland</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">4</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/35px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/46px-Flag_of_Sweden.svg.png 2x" data-file-width="1600" data-file-height="1000" />&#160;</span><a href="https://en.wikipedia.org/wiki/Sweden" title="Sweden">Sweden</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.6em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">4</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Russia" title="Russia">Russia</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.5em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">3</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/23px-Flag_of_Saudi_Arabia.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/35px-Flag_of_Saudi_Arabia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/45px-Flag_of_Saudi_Arabia.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Saudi_Arabia" title="Saudi Arabia">Saudi Arabia</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.5em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">3</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/23px-Flag_of_Singapore.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/35px-Flag_of_Singapore.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/45px-Flag_of_Singapore.svg.png 2x" data-file-width="4320" data-file-height="2880" />&#160;</span><a href="https://en.wikipedia.org/wiki/Singapore" title="Singapore">Singapore</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.5em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">3</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/23px-Flag_of_South_Africa.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/35px-Flag_of_South_Africa.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/45px-Flag_of_South_Africa.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/South_Africa" title="South Africa">South Africa</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.3em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">2</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/35px-Flag_of_Spain.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/45px-Flag_of_Spain.svg.png 2x" data-file-width="750" data-file-height="500" />&#160;</span><a href="https://en.wikipedia.org/wiki/Spain" title="Spain">Spain</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.3em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">2</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/16px-Flag_of_Switzerland.svg.png" decoding="async" width="16" height="16" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/24px-Flag_of_Switzerland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/32px-Flag_of_Switzerland.svg.png 2x" data-file-width="1000" data-file-height="1000" />&#160;&#160;</span><a href="https://en.wikipedia.org/wiki/Switzerland" title="Switzerland">Switzerland</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.3em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">2</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/23px-Flag_of_the_Republic_of_China.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/35px-Flag_of_the_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/45px-Flag_of_the_Republic_of_China.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Taiwan" title="Taiwan">Taiwan</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.3em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">2</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/22px-Flag_of_Brazil.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/33px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/43px-Flag_of_Brazil.svg.png 2x" data-file-width="720" data-file-height="504" />&#160;</span><a href="https://en.wikipedia.org/wiki/Brazil" title="Brazil">Brazil</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.2em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">1</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="23" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;</span><a href="https://en.wikipedia.org/wiki/Czech_Republic" title="Czech Republic">Czechia</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.2em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">1</span></span></div>
+</td></tr>
+<tr>
+<th scope="row" style="font-weight:normal;"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/23px-Flag_of_Finland.svg.png" decoding="async" width="23" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/35px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/46px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" />&#160;</span><a href="/wiki/Finland" title="Finland">Finland</a>
+</th>
+<td><div style="height: 1.25em; width: 35em;"><div style="position: absolute; background-color: rgb(206, 223, 242); width:0.2em; height: 1.25em; margin: 0 0 0 0; z-index: 0;"></div><span style="position: absolute; height:1.25em; width: 35em; padding: 0 0 0 2em; z-index: 10;"><span class="nowrap">1</span></span></div>
+</td></tr>
+
+</tbody></table>
+
+
 -------------
 ----------------
 
