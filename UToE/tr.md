@@ -439,11 +439,11 @@
 --------------
 ![roundup](https://coadroneflightschool.files.wordpress.com/2018/03/dji-roundup-13.jpg?w=825&h=464)
 --------------
-![]()
+![innovating-pedagogy](https://aace-web-static.s3.amazonaws.com/2019/01/innovating-pedagogy-trends-2019-970x703.png)
 -------------
-![]()
+![58d57c41440243314db04ff7](https://static1.squarespace.com/static/58a47fcd17bffc2342458913/t/58d57c41440243314db04ff7/1490385993326/?format=750w)
 --------------
-![]()
+![58d57c7f86e6c087a925cdbd](https://static1.squarespace.com/static/58a47fcd17bffc2342458913/t/58d57c7f86e6c087a925cdbd/1490386061682/?format=750w)
 -------------
 
 ![]()
