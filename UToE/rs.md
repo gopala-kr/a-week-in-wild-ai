@@ -324,7 +324,8 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ![slide_14](https://images.slideplayer.com/26/8460587/slides/slide_14.jpg)
 -----------
 ![slide_13](https://images.slideplayer.com/26/8460587/slides/slide_13.jpg)
-![]()
+--------------
+![252FPreparatory](https://portal.cta-observatory.org/SiteAssets/Pages/Preparatory-Phase/Project%20WBS_062015.png?Mobile=1&Source=%2F_layouts%2Fmobile%2Fview%2Easpx%3FList%3Df160b676%252D6d33%252D41db%252Dbc2b%252D7f02faac2941%26View%3D6100c91f%252D9821%252D4660%252Da231%252D8ec55f1cf454%26RootFolder%3D%252FSiteAssets%252FPages%252FPreparatory%252DPhase%26ViewMode%3DDetail%26CurrentPage%3D1)
 -------------
 ![]()
 -------------
@@ -750,7 +751,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![DVXbp4NUMAAdXcA](https://pbs.twimg.com/media/DVXbp4NUMAAdXcA.jpg)
 ----------
-![]()
+![1534275622273](https://static1.squarespace.com/static/5ac66a1e1137a6a9d6412267/t/5b733019575d1f737103a97f/1534275622273/launch_profile.png)
 ----------
 ![]()
 
@@ -1747,9 +1748,9 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![Magazine%20Articles/2018](http://www.astronomy.com/-/media/Images/Magazine%20Articles/2018/08/GW5.jpg)
 ---------------
-![]()
+![280917_article_aperture_fever_00](https://cosmos-magazine.imgix.net/file/spina/photo/12327/280917_article_aperture_fever_00.png?fit=clip&w=835)
 ---------------
-![]()
+![SM3BEVA](https://asd.gsfc.nasa.gov/archive/hubble/art/shuttle_missions/sm3b/SM3BEVA.gif)
 ---------------
 ![]()
 ---------------
