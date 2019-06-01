@@ -1088,7 +1088,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![nr3dlys](https://bhousley.files.wordpress.com/2015/02/nr3dlys.jpg)
 ---------------
-![]()
+![brief](https://blog.forumias.com/wp-content/uploads/2018/11/a-brief.jpg)
 ---------------
 ![]()
 ---------------
@@ -1395,7 +1395,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 
 [Back to top](#index)
 ---------------
-![]()
+![soyuz_ms12](http://www.russianspaceweb.com/images/spacecraft/manned/space_stations/iss/soyuz_ms/soyuz_ms12/soyuz_ms12_launch_profile_1.jpg)
 ---------------
 ![]()
 ---------------
@@ -1519,9 +1519,9 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 
 [Back to top](#index)
 ---------------
-![]()
+![798efa6d5382fb29e452749f34e17001](https://i.pinimg.com/originals/79/8e/fa/798efa6d5382fb29e452749f34e17001.jpg)
 ---------------
-![]()
+![Fall_of_Chinese_space_station_Tiangong_1](https://i.dailymail.co.uk/1/2018/03/31/23/2613076-5564875-Fall_of_Chinese_space_station_Tiangong_1-m-10_1522534527088.jpg)
 ---------------
 ![]()
 ---------------
