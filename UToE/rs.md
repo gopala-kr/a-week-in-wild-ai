@@ -753,7 +753,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![1534275622273](https://static1.squarespace.com/static/5ac66a1e1137a6a9d6412267/t/5b733019575d1f737103a97f/1534275622273/launch_profile.png)
 ----------
-![]()
+![20180808_d4h](https://planetary.s3.amazonaws.com/assets/images/charts-diagrams/2018/20180808_d4h-timeline.png)
 
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
@@ -1752,7 +1752,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![SM3BEVA](https://asd.gsfc.nasa.gov/archive/hubble/art/shuttle_missions/sm3b/SM3BEVA.gif)
 ---------------
-![]()
+![eb7f4172da24334d073ddb111185159a7ffe4de0](https://www.tmt.org/published/system/articles/images/304/original/eb7f4172da24334d073ddb111185159a7ffe4de0.png?1517539183)
 ---------------
 ![]()
 ---------------
