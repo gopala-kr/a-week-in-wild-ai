@@ -14,7 +14,7 @@
 
 ----------
 
-|| [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [Taxonomy of AI Algorithms](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) | [AI Ethics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-ethics) | [AI in Space Research](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research) | [Global Connectivity](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/global-connectivity) ||
+|| [Active AI research areas](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-research-areas) | [Taxonomy of AI Algorithms](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ML-week) | [Data Sharing](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/data-sharing) | [AI Ethics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-ethics) | [AI in Space Research](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research) |[Global Connectivity](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/global-connectivity)||
 
 -----------
 
@@ -27,7 +27,7 @@
 - [[Week-1](https://github.com/gopala-kr/ConvNets)](01/04/2019 - 07/04/2019)  : Recent Advances in CNN architectures and CV tasks
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
-- [Week-9] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware architectures and DL frameworks
+- [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware architectures and DL frameworks
 - [Week-10] (tbd)  : Recent advances in Quantum ML and Neuromorphic hardwares
 - [Week-11] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [Week-12] (tbd)  : Recent Advances in Generative Models
