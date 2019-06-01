@@ -1153,7 +1153,6 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ![NASA_evolvable_mars_campaign_2015](https://spacenews.com/wp-content/uploads/2015/04/NASA_evolvable_mars_campaign_2015.png)
 ---------------
 
----------------
 ![large_jpg](https://images.adsttc.com/media/images/59ce/60ec/b22e/380e/2c00/0046/large_jpg/Screen_Shot_2017-09-29_at_10.43.13_AM.jpg?1506697447)
 ---------------
 ![](https://www.sciencealert.com/images/2017-05/moon-trip-2.jpg)
@@ -1586,7 +1585,35 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![Bi88ja_CUAA53ec](https://pbs.twimg.com/media/Bi88ja_CUAA53ec.jpg)
 ---------------
-![]()
+![mwmw_8x10](https://asd.gsfc.nasa.gov/archive/mwmw/mwpics/mwmw_8x10.jpg)
+---------------
+![slide33](https://image2.slideserve.com/4806569/slide33-n.jpg)
+---------------
+![slide_4](https://images.slideplayer.com/16/5145200/slides/slide_4.jpg)
+---------------
+![LIGO_Orrery_v5_still_after_merger](https://www.ligo.org/detections/images/LIGO_Orrery_v5_still_after_merger-sm.png)
+---------------
+![JWSTDeployment](https://upload.wikimedia.org/wikipedia/commons/6/6a/JWSTDeployment.jpg)
+---------------
+![Hudf-illustration](https://upload.wikimedia.org/wikipedia/commons/3/33/Hudf-illustration.jpg)
+---------------
+![web_print](http://imgsrc.hubblesite.org/hvi/uploads/image_file/image_attachment/21399/web_print.jpg)
+---------------
+![k2_explained_25nov_story_0](https://cdn.arstechnica.net/wp-content/uploads/2013/11/k2_explained_25nov_story_0.jpg)
+---------------
+![0PcZsy5](http://i.imgur.com/0PcZsy5.jpg)
+---------------
+![UpdatedJamesWebbFigure](http://sitn.hms.harvard.edu/wp-content/uploads/2013/07/UpdatedJamesWebbFigure.jpg)
+---------------
+![em_spectrum_satellite](https://jwst.nasa.gov/images/em_spectrum_satellite.jpg)
+---------------
+![spectrum](https://dlbjbjzgnk95t.cloudfront.net/1068000/1068163/spectrum.png)
+---------------
+![Lightsquared](https://rntfnd.org/wp-content/uploads/GPS-freq-and-Lightsquared.jpg)
+---------------
+![Ligado-GPS%20Manufacturers%20parameters](http://www.insidegnss.com/auto/popupimage/Ligado-GPS%20Manufacturers%20parameters.jpg)
+---------------
+![J7g4Y2d](https://i.imgur.com/J7g4Y2d.jpg)
 ---------------
 ![]()
 ---------------
@@ -1607,12 +1634,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ![]()
 ---------------
 ![]()
----------------
-![]()
----------------
-![]()
----------------
-![]()
+
 
 
 -------------------------------------------------------------------------------------------------------------------------
