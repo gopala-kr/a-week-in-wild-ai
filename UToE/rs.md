@@ -1615,7 +1615,23 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![J7g4Y2d](https://i.imgur.com/J7g4Y2d.jpg)
 ---------------
-![]()
+![_95363502_bag](https://ichef.bbci.co.uk/news/660/cpsprodpb/5038/production/_95363502_bag.jpg)
+---------------
+![mather_slide_28](https://elementy.ru/images/lections/mather_slide_28.jpg)
+---------------
+![_49888706_telescopes_inf466](https://ichef.bbci.co.uk/news/624/media/images/49888000/jpg/_49888706_telescopes_inf466.jpg)
+---------------
+![21c4a1b334286ebc65dcb5e783b8eb20](https://i.pinimg.com/originals/21/c4/a1/21c4a1b334286ebc65dcb5e783b8eb20.jpg)
+---------------
+![exoplanetmissions](https://www.nextbigfuture.com/wp-content/uploads/2014/02/exoplanetmissions-1.png)
+---------------
+![2147_missiongraphic](https://exoplanets.nasa.gov/system/resources/detail_files/2147_missiongraphic.jpg)
+---------------
+![JWST-big](https://www.nature.com/news/2010/101027/images/JWST-big.jpg)
+---------------
+![the-james-webb-space-telescope](https://image.slidesharecdn.com/jwst-120720081259-phpapp01/95/the-james-webb-space-telescope-6-728.jpg?cb=1343122950)
+---------------
+![201788main_jwst_telemetry2_HI](https://i0.wp.com/www.humansinspace.org/wp/wp-content/uploads/2014/02/201788main_jwst_telemetry2_HI.jpg)
 ---------------
 ![]()
 ---------------
@@ -1634,7 +1650,16 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ![]()
 ---------------
 ![]()
-
+---------------
+![]()
+---------------
+![]()
+---------------
+![]()
+---------------
+![]()
+---------------
+![]()
 
 
 -------------------------------------------------------------------------------------------------------------------------
