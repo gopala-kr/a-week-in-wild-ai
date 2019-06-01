@@ -1199,13 +1199,13 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![nature_news_Mars](https://www.nature.com/polopoly_fs/7.39794.1476195066!/image/nature_news_Mars-timeline_13.10.2016_WEB2.png_gen/derivatives/fullsize/nature_news_Mars-timeline_13.10.2016_WEB2.png)
 ---------------
-![]()
+![d41586-018-04157-6_15603866](https://media.nature.com/w800/magazine-assets/d41586-018-04157-6/d41586-018-04157-6_15603866.jpg)
 ---------------
-![]()
+![telescopelocations](https://www.atnf.csiro.au/outreach//education/senior/astrophysics/images/resolution/telescopelocations.jpg)
 ---------------
-![]()
+![all-ground-based-telescopes-that-the-MST-have-procured-to-observe-during-K2C9](https://www.researchgate.net/profile/Yasushi_Muraki2/publication/288890062/figure/fig4/AS:667816021733380@1536231155237/A-map-of-all-ground-based-telescopes-that-the-MST-have-procured-to-observe-during-K2C9.png)
 ---------------
-![]()
+![Lockheed_MUOS_schematic](https://apjjf.org/data/Lockheed_MUOS_schematic.jpg)
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
 
