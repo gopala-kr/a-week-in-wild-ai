@@ -26,15 +26,16 @@
 
 - [[Week-1](https://github.com/gopala-kr/ConvNets)](01/04/2019 - 07/04/2019)  : Recent Advances in CNN architectures and CV tasks
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
-- [Week-3-7](15/04/2019 - 22/05/2019)  : time travel 4000 bc
-- [Week-8] (tbd)  : Recent Advances in Deep RL and Robotic tasks
-- [Week-9] (tbd)  : Recent Advances in Generative Models
-- [Week-10] (tbd)  : Recent Advances in Transfer Learning and Metalearning
-- [Week-11] (tbd)  : Recent Advances in Hardware architectures and DL frameworks
-- [Week-12] (tbd)  : Recent advances in Quantum ML and Neuromorphic hardwares
-- [Week-13-15] (tbd) : AGI Roadmap
+- [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
+- [Week-9] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware architectures and DL frameworks
+- [Week-10] (tbd)  : Recent advances in Quantum ML and Neuromorphic hardwares
+- [Week-11] (tbd)  : Recent Advances in Deep RL and Robotic tasks
+- [Week-12] (tbd)  : Recent Advances in Generative Models
+- [Week-13] (tbd)  : Recent Advances in Transfer Learning and Metalearning
+- [Week-14-15] (tbd) : AGI Roadmap
 
 -------------------
+
 
 || [Theories of Mind, Intelligence and Conciousness](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ToIC) | [New Theories of Computation](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/NToC) | [Universal Theory of Everything](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/UToE) ||
 
