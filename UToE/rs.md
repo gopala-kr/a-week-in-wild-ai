@@ -806,11 +806,11 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![nasafs](http://educypedia.karadimov.info/library/nasafs.gif)
 ---------------
-![]()
+![Infographic](https://wingsmuseum.org/wp-content/uploads/2018/06/BTW-Infographic-E16-FOSE.jpg)
 ----------
-![]()
+![800px_COLOURBOX22411989](https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX22411989.jpg)
 ----------
-![]()
+![e+Weather+Forescasting](https://slideplayer.com/slide/6826546/23/images/2/Satellite+Observations+for+Future+Space+Weather+Forescasting.jpg)
 ----------
 ![]()
 ----------
@@ -1397,7 +1397,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![soyuz_ms12](http://www.russianspaceweb.com/images/spacecraft/manned/space_stations/iss/soyuz_ms/soyuz_ms12/soyuz_ms12_launch_profile_1.jpg)
 ---------------
-![]()
+![169141768](https://cdn2.img.sputniknews.com/images/16914/17/169141768.jpg)
 ---------------
 ![]()
 ---------------
