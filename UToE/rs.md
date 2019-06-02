@@ -55,11 +55,15 @@
 - [ROCKET & SPACE MILESTONES](http://www.braeunig.us/space/timeline.htm)
 - [Space Exploration Timeline](http://www.seasky.org/space-exploration/space-timeline-menu.html)
 - [Timeline of SpaceX Missions](https://www.nytimes.com/interactive/2018/science/spacex-falcon-launch.html)
+- [ROCKET PROPULSION](http://www.braeunig.us/space/propuls.htm)
 -----------------------
 - [Rocket Science](https://www.youtube.com/playlist?list=PLYu7z3I8tdEnsqbIM2XBduT79fDjisSqe)
 - [rocket science](https://www.youtube.com/playlist?list=PLRtG0PPePczwzlHVnvhqbmiP01EvPZtBI)
 - [Rocket Propulsion Lectures](https://www.youtube.com/playlist?list=PL8T9k99OFn-x2rOXlkfXRz09Ch_t4nEX1)
 - [MIT Spacecraft Engineering Lectures](https://www.youtube.com/playlist?list=PLhuO1S79mUkOCizrQDQKHBPYNKWvKHBQB)
+- [Pratt & Whitney Rocketdyne's engineering journal of power technology](https://web.archive.org/web/20071009151907/http://www.pwrengineering.com/articles/heart.htm)
+- [Rocket Propulsion Analysis](http://www.propulsion-analysis.com/index.htm)
+
 ------------
 
 - [National Space Exploration Campaign Report](https://www.nasa.gov/sites/default/files/atoms/files/nationalspaceexplorationcampaign.pdf)
@@ -593,6 +597,49 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![rktacoup](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/Images/rktacoup.gif)
 ----------
+--------------
+![rocket-propulsion-1-638](https://image.slidesharecdn.com/prop-150402154030-conversion-gate01/95/rocket-propulsion-1-638.jpg?cb=1427989327)
+----------
+![rocket-propulsion-space-engineering-vector-illustration-technical-diagram-scheme](https://thumbs.dreamstime.com/z/rocket-propulsion-space-engineering-vector-illustration-technical-diagram-scheme-liquid-propellant-solid-propellant-examples-116837980.jpg)
+
+----------
+![fast-plasma-rocket-test/plasma-rocket](https://thefutureofthings.com/upload/image/new-news/2008/september/fast-plasma-rocket-test/plasma-rocket.jpg)
+
+----------
+![The+Liquid+Propellant+Rocket](https://slideplayer.com/slide/4379574/14/images/25/The+Liquid+Propellant+Rocket.jpg)
+----------
+![ETM_48_Dual](https://www.heinzmann.no/images/news/ETM_48_Dual-Fuel-System-for-Propulsion-Engine.png)
+----------
+![310488_1_En_11_Fig1_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-1-4471-6796-9_11/MediaObjects/310488_1_En_11_Fig1_HTML.gif)
+
+----------
+![electric-propulsion-29-638](https://image.slidesharecdn.com/electricpropulsion-141216005456-conversion-gate01/95/electric-propulsion-29-638.jpg?cb=1418691726)
+
+----------
+![1551428589](https://image.slidesharecdn.com/seminaronnuclearthermalpropulsionntp-170324133625/95/nuclear-thermal-propulsion-in-spacentp-14-638.jpg?cb=1551428589)
+----------
+![introduction](https://i1.wp.com/image.slidesharecdn.com/rocketpropulsion-byvishusharma-160124224333/95/introduction-to-rocket-propulsion-14-638.jpg?cb=1453680397)
+----------
+![50d00024ad49989d4e40b22760bc4392](https://i.pinimg.com/originals/50/d0/00/50d00024ad49989d4e40b22760bc4392.jpg)
+----------
+![introduction-to-rocket-propulsion-23-638](https://image.slidesharecdn.com/rocketpropulsion-byvishusharma-160124224333/95/introduction-to-rocket-propulsion-23-638.jpg?cb=1453680397)
+----------
+![Propulsion+Industrial+Base+is+a+National+Concern](https://slideplayer.com/slide/14702503/90/images/4/Propulsion+Industrial+Base+is+a+National+Concern.jpg)
+----------
+![c917f11a0c15e71eb2bb066a56fcdb4b](https://i.pinimg.com/originals/c9/17/f1/c917f11a0c15e71eb2bb066a56fcdb4b.gif)
+
+----------
+![solid-rocket-propulsion-design-flow-n](https://image3.slideserve.com/6750612/solid-rocket-propulsion-design-flow-n.jpg)
+
+----------
+![garage-spaceships-rockets](https://www.ttgame.info/wp-content/uploads/2018/08/rocket-engine-line-diagram-v2-merlin-pin-by-on-spacecraft-wiring-diagrams-jet-maker-shop-man-cave-garage-spaceships-rockets.jpg)
+----------
+![cryogenic-rocket-engine](https://image.slidesharecdn.com/prem-140327161935-phpapp02/95/cryogenic-rocket-engine-9-638.jpg?cb=1423737687)
+----------
+![]()
+----------
+![]()
+----------
 ![]()
 ----------
 ![]()
@@ -606,10 +653,6 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ![]()
 ----------
 ![]()
-
-----------
-![]()
-
 ----------
 ![]()
 ----------
@@ -617,13 +660,22 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![]()
 
+----------
+![]()
+
+----------
+![]()
+----------
+![]()
+----------
+![]()
 -------------------------------------------------------------------------------------------------------------------------
 #### Rocket Types
 
 [Back to top](#index)
 
 -------------------------------------------------------------------------------------------------------------------------
-![]()
+![Types+of+Rockets+Liquid+Fueled+Rocket+Solid+Fueled+Rocket](https://slideplayer.com/slide/9041662/27/images/5/Types+of+Rockets+Liquid+Fueled+Rocket+Solid+Fueled+Rocket.jpg)
 ----------
 ![]()
 
@@ -775,7 +827,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 -------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------
 
-#### vSpace elevator
+#### Space elevator
 
 [Back to top](#index)
 
@@ -926,7 +978,29 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 [Back to top](#index)
 
 -------------------------------------------------------------------------------------------------------------------------
+![]()
+----------
+![]()
 
+----------
+![]()
+
+----------
+![]()
+----------
+![]()
+----------
+![]()
+
+----------
+![]()
+
+----------
+![]()
+----------
+![]()
+----------
+![]()
 
 -------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------
