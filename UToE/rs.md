@@ -2670,7 +2670,6 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ![FCC-hh-HE-LHC-and-HL-LH](https://www.researchgate.net/publication/328058933/figure/tbl1/AS:677816488189955@1538615452759/Table-Showing-Various-Machine-Parameters-for-FCC-hh-HE-LHC-and-HL-LHC.png)
 ---------------
 ![NIF-Fusion-Strategy](https://scitechdaily.com/images/NIF-Fusion-Strategy.jpg)
----------------
-![science-fiction-timeline](https://vizzlo.com/gallery/timeline/example/science-fiction-timeline.png)
+
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
