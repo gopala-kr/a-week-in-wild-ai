@@ -5,7 +5,7 @@
 
 - [Earth Orbits](#earth-orbits)
 - [Earth Gravity](#earth-gravity)
-- [Measurements](#Mmasurements)
+- [Measurements](#Measurements)
 - [Earth and Moon](#earth-and-moon)
 - [Spaceports](#spaceports)
 - [Space stations, Spacecafts, Rockets](#space-stations-spacecafts-rockets)
@@ -2115,7 +2115,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 -------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------
 
-#### IRFSA or Roscosmos
+#### RFSA or Roscosmos
 
 [Back to top](#index)
 
