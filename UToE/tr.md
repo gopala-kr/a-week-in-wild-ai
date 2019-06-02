@@ -350,20 +350,20 @@
 -------------
 ![autonomous](http://sanantoniomobiledentrepair.com/wp-content/uploads/2016/07/PNG_Ten-ways-autonomous-driving_ex1.png)
 --------------
-![]()
+![5b77aa594467a45856637c67a15e7b3d](https://i.pinimg.com/originals/5b/77/aa/5b77aa594467a45856637c67a15e7b3d.jpg)
 -------------
-![]()
+![CF2PWlGWEAAJLUN](https://pbs.twimg.com/media/CF2PWlGWEAAJLUN.png)
 --------------
-![]()
+![2018](http://inrix.com/wp-content/uploads/2018/06/ACES.png)
 --------------
-![]()
+![MzE0NDk3NA](https://spectrum.ieee.org/image/MzE0NDk3NA.jpeg)
 -------------
-![]()
+![20Web_Disruptive_trends_auto_industry_ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/High%20Tech/Our%20Insights/Disruptive%20trends%20that%20will%20transform%20the%20auto%20industry/SVG%20Web_Disruptive_trends_auto_industry_ex2.ashx)
 --------------
-![]()
+![autonomous](https://blog.euromonitor.com/wp-content/uploads/2016/10/autonomous-vehicle-impact.png)
 -------------
 
-![]()
+![Driving-Roadmap](https://www.novatel.com/assets/images/Autonomous-Industry/Driving-Roadmap.png)
 --------------
 ![]()
 -------------
