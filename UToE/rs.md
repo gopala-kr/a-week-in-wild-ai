@@ -1982,6 +1982,10 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 [Back to top](#index)
 
 ---------------
+- [List of space telescopes](https://en.wikipedia.org/wiki/List_of_space_telescopes)
+- [Lists of telescopes](https://en.wikipedia.org/wiki/Lists_of_telescopes)
+
+----------
 ![optics-timeline-up-to-1850-40-638](https://image.slidesharecdn.com/opticstimelineupto1850-140925074943-phpapp01/95/optics-timeline-up-to-1850-40-638.jpg?cb=1420412369)
 ---------------
 ![Telescope+Timeline+1600%E2%80%99s+1700%E2%80%99s+1800%E2%80%99s+1900%E2%80%99s+](http://slideplayer.com/slide/8053490/25/images/4/Telescope+Timeline+1600%E2%80%99s+1700%E2%80%99s+1800%E2%80%99s+1900%E2%80%99s+Hans+Lipperhey.jpg)
@@ -2154,7 +2158,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![2FEHT_components](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fstartswithabang%2Ffiles%2F2017%2F05%2FEHT_components.jpg)
 ---------------
-![]()
+![public-media.si-cdn.com/filer/71/b9/71b94849-b449-4a04-832b-09bf3df56a07/unknown-1-wr](https://thumbs-prod.si-cdn.com/VPXs8f1jImU5vwgbsMprLwFac-Y=/1024x596/https://public-media.si-cdn.com/filer/71/b9/71b94849-b449-4a04-832b-09bf3df56a07/unknown-1-wr.jpeg)
 ---------------
 ![]()
 ---------------
@@ -2249,6 +2253,8 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ![biggest%20sci%20discoveries%20in%20every%20state](https://static2.businessinsider.com/image/5953edd3a3630f1b008b62de-1201/biggest%20sci%20discoveries%20in%20every%20state.png)
 ---------------
 ![B17CB1D2F2E23F38_source](https://static.scientificamerican.com/sciam/cache/file/BB8D6F14-CC6A-41E4-B17CB1D2F2E23F38_source.jpg)
+----------
+![high-level-org-chart](https://als.lbl.gov/wp-content/uploads/2019/05/2019-05-07-high-level-org-chart.jpg)
 ---------------
 ![europeanlanddiscovery](https://www.popsci.com/sites/popsci.com/files/import/2013/images/2013/08/europeanlanddiscovery.png)
 ---------------
@@ -2296,11 +2302,45 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![c9b801502cf8c1324ef9d88b7c10a5ee](https://i.pinimg.com/originals/c9/b8/01/c9b801502cf8c1324ef9d88b7c10a5ee.jpg)
 ---------------
-![]()
+![62886136](https://cdn.vox-cdn.com/thumbor/iDMWx9xTAfuiuSF_nmc70kpGKv0=/0x0:4320x2068/1200x800/filters:focal(1815x689:2505x1379)/cdn.vox-cdn.com/uploads/chorus_image/image/62886136/fcc.0.jpg)
 ---------------
-![]()
+![colliders](http://universe-review.ca/I15-71-colliders.png)
 ---------------
-![]()
+![physics](https://www.researchgate.net/profile/Carlos_Bertulani/publication/266024188/figure/fig1/AS:392147791564802@1470506727221/PeV-accelerator-as-large-as-the-country-of-Romania-Future-of-particle-physics.png)
+---------------
+![landscape_630](https://www.nature.com/polopoly_fs/7.18651.1406041612!/image/Collider.jpg_gen/derivatives/landscape_630/Collider.jpg)
+---------------
+![conversion](https://image.slidesharecdn.com/collidersforhighenergyphysics-141031153539-conversion-gate01/95/colliders-for-high-energy-physics-15-638.jpg?cb=1414770897)
+---------------
+![img](https://www.nirs.qst.go.jp/ENG/core/ace/img/3-1.jpg)
+---------------
+![FCC_schematic](https://upload.wikimedia.org/wikipedia/commons/9/96/FCC_schematic.png)
+---------------
+![Timeline](http://newsline.linearcollider.org/wp-content/uploads/2015/11/Timeline.jpg)
+---------------
+![1546542515_513c8a463c7827ae92f2150a16d5eee4](https://www.lhc-closer.es/webapp/files/1546542515_513c8a463c7827ae92f2150a16d5eee4.jpg)
+---------------
+![CCfcc3_04_17](https://cerncourier.com/objects/ccr/cern/57/4/20/CCfcc3_04_17.jpg)
+---------------
+![Two+Different+Timelines](https://slideplayer.com/slide/13747300/85/images/6/Two+Different+Timelines.jpg)
+---------------
+![fig4c](http://inspirehep.net/record/1647418/files/fig4c.png)
+---------------
+![FCC](http://atominfo.bg/wp-content/uploads/2017/09/FCC.jpg)
+---------------
+![S0168900218300512](https://ars.els-cdn.com/content/image/1-s2.0-S0168900218300512-gr4.jpg)
+---------------
+![slide_7](https://images.slideplayer.com/35/10446634/slides/slide_7.jpg)
+---------------
+![physics+at+FCC-ee+and+ILC+%2810%29](https://slideplayer.com/slide/8456357/26/images/20/Precision+Higgs+physics+at+FCC-ee+and+ILC+%2810%29.jpg)
+---------------
+![FCC-hh+baseline+parameters](https://slideplayer.com/slide/7723126/25/images/10/FCC-hh+baseline+parameters.jpg)
+---------------
+![assessment](https://www.tunneltalk.com/images/article-0129/8-FCC-Risk-assessment.jpg)
+---------------
+![FCC-hh-HE-LHC-and-HL-LH](https://www.researchgate.net/publication/328058933/figure/tbl1/AS:677816488189955@1538615452759/Table-Showing-Various-Machine-Parameters-for-FCC-hh-HE-LHC-and-HL-LHC.png)
+---------------
+![NIF-Fusion-Strategy](https://scitechdaily.com/images/NIF-Fusion-Strategy.jpg)
 ---------------
 ![]()
 
