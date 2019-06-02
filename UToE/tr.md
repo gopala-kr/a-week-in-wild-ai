@@ -382,17 +382,26 @@
 ![151116220017](https://image.slidesharecdn.com/self-drivingvehiclesinanurbancontext-151116220017-lva1-app6891/95/self-driving-vehicles-in-an-urban-context-10-638.jpg?cb=1448355660)
 -------------
 
-![]()
+![S522913618_g](https://www.openpr.com/images/articles/S/5/S522913618_g.jpg)
 --------------
-![]()
+![pressrelease](https://www.gminsights.com/assets/img/automotive-lidar-market-pressrelease.jpg)
 -------------
-![]()
+![FAMGA-In-auto-BSG](https://s3.amazonaws.com/cbi-research-portal-uploads/2018/11/27174716/FAMGA-In-auto-BSG.png)
 --------------
-![]()
+![7fa05b40abf4dcb2910dbfc6251e2359](https://i.pinimg.com/originals/7f/a0/5b/7fa05b40abf4dcb2910dbfc6251e2359.png)
 -------------
+![670021080600587](https://www.researchgate.net/profile/Xiang_Li232/publication/319715393/figure/fig1/AS:670021080600587@1536756882307/Autonomous-driving-architecture.png)
+--------------
+![autonomous_machines_in_the_fast_lane_figure_2](https://www.adlittle.com/sites/default/files/autonomous_machines_in_the_fast_lane_figure_2.png)
+--------------
+![taxonomy-large](https://www.greentechmedia.com/images/wysiwyg/research-blogs/taxonomy-large.jpg)
+--------------
 ![]()
 --------------
 ![]()
+--------------
+![]()
+
 ---------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
 #### Drones, Flying
