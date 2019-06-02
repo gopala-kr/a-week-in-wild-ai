@@ -14,7 +14,7 @@
   - [Space elevator](#space-elevator)
   - [Space fountain](#space-fountain)
   - [EmDrive](#emdrive)
-  - [Reusable launch system](reusable-launch-system)
+  - [Reusable launch system](#reusable-launch-system)
 - [Space Technologies](#space-technologies)
 - [Launch](#launch)
 - [Misc](#misc)
@@ -39,6 +39,8 @@
 -------------------------------------------------------------------------------------------------------------------------
 
 #### Ref
+
+[Back to top](#index)
 
 - [Aerodynamics Index](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/short.html)
 - [Propulsion Index](https://www.grc.nasa.gov/www/k-12/VirtualAero/BottleRocket/airplane/shortp.html)
@@ -1162,15 +1164,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 
 [Back to top](#index)
 
-----------
-![798efa6d5382fb29e452749f34e17001](https://i.pinimg.com/originals/79/8e/fa/798efa6d5382fb29e452749f34e17001.jpg)
-----------
-![feecf02d870ee2f94f318fbadc005e1f](https://i.pinimg.com/originals/fe/ec/f0/feecf02d870ee2f94f318fbadc005e1f.gif)
-----------
-![Fall_of_Chinese_space_station_Tiangong_1](https://www.habeshatimes.com/wp-content/uploads/2018/04/2613076-5564875-Fall_of_Chinese_space_station_Tiangong_1-m-10_1522534527088.jpg)
-----------
-![Screen](https://www.howitworksdaily.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-04-at-14.34.56.png)
-----------
+------------------
 ![Manned-Spaceflight-History-The-Economist](http://www.performancemagazine.org/wp-content/uploads/Manned-Spaceflight-History-The-Economist.jpg)
 ----------
 ![Number_of_humans_launched_into_space_bar_chart](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Number_of_humans_launched_into_space_bar_chart.png/800px-Number_of_humans_launched_into_space_bar_chart.png)
@@ -2348,9 +2342,6 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ![FCC-hh-HE-LHC-and-HL-LH](https://www.researchgate.net/publication/328058933/figure/tbl1/AS:677816488189955@1538615452759/Table-Showing-Various-Machine-Parameters-for-FCC-hh-HE-LHC-and-HL-LHC.png)
 ---------------
 ![NIF-Fusion-Strategy](https://scitechdaily.com/images/NIF-Fusion-Strategy.jpg)
----------------
-![]()
-
 ---------------
 ![science-fiction-timeline](https://vizzlo.com/gallery/timeline/example/science-fiction-timeline.png)
 -------------------------------------------------------------------------------------------------------------------------
