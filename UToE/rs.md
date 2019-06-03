@@ -280,6 +280,8 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ![27_04_figure_sml](http://www.khadley.com/Courses/Astronomy/ph_207/topics/bigbang/images/27_04_figure_sml.jpg?crc=4276637256)
 -------------
 ![birth_of_Universe](http://abyss.uoregon.edu/~js/images/birth_of_Universe.gif)
+------------
+![oWiHGggXc8duKnSl](https://cdn-images-1.medium.com/max/800/0*oWiHGggXc8duKnSl.jpg)
 -------------
 ![unification](http://horizons-2000.org/2.%20Ideas%20and%20Meaning/Topics/quantum%20vacuum_files/unification.gif)
 -------------
