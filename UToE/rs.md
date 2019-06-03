@@ -329,6 +329,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 -------------
 - [Evidence for the Big Bang Topic 3: Photons and Hydrogen in the Universe Big Bang, Black Holes, No Math 1 Big Bang, Black Holes, No Math ASTR/PHYS](https://slideplayer.com/slide/4921156/)
 ---------
+![ekiVPe5YP8AAUBnA](https://cdn-images-1.medium.com/max/800/0*ekiVPe5YP8AAUBnA)
 ---------------
 ![Electromagnetic](http://ecuip.lib.uchicago.edu/multiwavelength-astronomy/images/astrophysics/Electromagnetic-Force.jpg)
 ----------------
