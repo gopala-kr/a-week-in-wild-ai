@@ -5,6 +5,7 @@
 - [Kardashev Scale](#kardashev-scale)
 - [Energy Source Maps](#energy-source-maps)
 - [Energy Timeline](#energy-timeline)
+- [Energy Production](#energy-production)
 - [Energy Consumption](#energy-consumption)
 - [Landscape](#landscape)
 - [Energy Storage](#energy-storage)
@@ -143,7 +144,12 @@ World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Eve
 -------------
 ![df1b67a07ec9a0fa85fe87568932eed4](https://i.pinimg.com/originals/df/1b/67/df1b67a07ec9a0fa85fe87568932eed4.png)
 -------------
-![]()
+------------------
+#### Energy Production
+
+
+-----------------
+![solaire_va](https://www.engie.com/wp-content/uploads/2018/04/engie-map-solaire_va.jpg)
 -------------
 ![]()
 -------------
@@ -463,11 +469,11 @@ World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Eve
 [Back to top](#contents)
 
 -------------
-![]()
+![electricity](https://www.cleanenergywire.org/sites/default/files/styles/lightbox_image/public/images/dossier/electricity-storage-needs-irena.jpg?itok=NOIaUSo7)
 -------------
-![]()
+![storage](https://energypost.eu/wp-content/uploads/2015/11/Ramez-storage-9.jpg)
 -------------
-![]()
+![3A10](https://media.springernature.com/original/springer-static/image/art%3A10.1007%2Fs38311-013-0034-6/MediaObjects/38311_2013_34_Fig4_HTML.gif)
 -------------
 ![]()
 -------------
