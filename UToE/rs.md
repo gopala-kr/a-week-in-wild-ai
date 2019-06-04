@@ -1540,9 +1540,9 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![e+Weather+Forescasting](https://slideplayer.com/slide/6826546/23/images/2/Satellite+Observations+for+Future+Space+Weather+Forescasting.jpg)
 ----------
-![]()
+![1054339_1_0117](https://images.csmonitor.com/csm/2018/01/1054339_1_0117-space-map_large.jpg?alias=original_900)
 ----------
-![]()
+![Screen-Shot-2016-06-22-at-3.49.56-PM](https://132q6j40a81047nmwg1az6v8-wpengine.netdna-ssl.com/wp-content/uploads/2016/06/Screen-Shot-2016-06-22-at-3.49.56-PM.png)
 ----------
 ![]()
 -------------------------------------------------------------------------------------------------------------------------
