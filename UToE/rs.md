@@ -109,8 +109,10 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 
 ----------
 
-![satellite_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
 
+![satellite_orbits](https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg)
+-------------
+![Pangea_animation_03](https://upload.wikimedia.org/wikipedia/commons/8/8e/Pangea_animation_03.gif)
 ----------
 ![Seasons1](https://upload.wikimedia.org/wikipedia/commons/f/f0/Seasons1.svg)
 ------------
