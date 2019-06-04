@@ -2133,9 +2133,9 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![169141768](https://cdn2.img.sputniknews.com/images/16914/17/169141768.jpg)
 ---------------
-![]()
+![slide_2](https://images.slideplayer.com/15/4570571/slides/slide_2.jpg)
 ---------------
-![]()
+![44d7faed077442113394cd1721e6bf3b](https://i.pinimg.com/originals/44/d7/fa/44d7faed077442113394cd1721e6bf3b.jpg)
 ---------------
 ![]()
 ---------------
@@ -2267,7 +2267,7 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 ---------------
 ![20190123_china](https://planetary.s3.amazonaws.com/assets/images/charts-diagrams/2019/20190123_china-exploration-roadmap.png)
 ---------------
-![]()
+![chartoftheday_16509_china_lunar_missions_timeline_n](http://infographic.statista.com/normal/chartoftheday_16509_china_lunar_missions_timeline_n.jpg)
 ---------------
 ![]()
 ---------------
