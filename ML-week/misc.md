@@ -140,5 +140,7 @@ Learning for Engineers](https://arxiv.org/pdf/1709.02840v3.pdf)
 ![GraphTechnologyLandscape](https://graphaware.com/assets/graphtechnologylandscape/GraphTechnologyLandscape.jpg)
 -------------
 ![2019-market-map-173-e1551567182626](https://i2.wp.com/www.thegerontechnologist.com/wp-content/uploads/2019/03/2019-market-map-173-e1551567182626.png?w=1588&ssl=1)
+------
+![D8WwQYXU8AAGlT7](https://pbs.twimg.com/media/D8WwQYXU8AAGlT7.jpg:large)
 -------------
 ----------------
