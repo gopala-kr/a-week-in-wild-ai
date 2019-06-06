@@ -440,9 +440,9 @@ World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Eve
 -------------
 ![2018_Infographic1_enincon](https://enincon.com/wp-content/uploads/2018/01/BESS-Market-in-India-2018_Infographic1_enincon.jpg)
 -------------
-![]()
+![6OMcbAiMOiaC_gRB](https://cdn-images-1.medium.com/max/800/0*6OMcbAiMOiaC_gRB.png)
 -------------
-![]()
+![ZangT3mSfrXaV1YA](https://cdn-images-1.medium.com/max/800/0*ZangT3mSfrXaV1YA.jpg)
 -------------
 ![]()
 -------------
