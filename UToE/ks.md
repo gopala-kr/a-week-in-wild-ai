@@ -444,7 +444,7 @@ World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Eve
 -------------
 ![ZangT3mSfrXaV1YA](https://cdn-images-1.medium.com/max/800/0*ZangT3mSfrXaV1YA.jpg)
 -------------
-![]()
+![q5r9IHJGR5rXu7BIJ225jg](https://cdn-images-1.medium.com/max/2560/1*q5r9IHJGR5rXu7BIJ225jg.png)
 -------------
 ![]()
 -------------
