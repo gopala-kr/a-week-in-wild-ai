@@ -324,7 +324,7 @@ World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Eve
 -------------
 ![4_1528791489](http://recap.asia/common/uploaded_files/visual/4_1528791489.jpg)
 -------------
-![]()
+![94PIdVcG5da6VmU3q8ILyA](https://cdn-images-1.medium.com/max/1200/1*94PIdVcG5da6VmU3q8ILyA.png)
 -------------
 ![]()
 -------------
