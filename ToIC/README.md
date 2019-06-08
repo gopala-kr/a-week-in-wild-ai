@@ -24,3 +24,10 @@
 - [NSFbraininitiative](https://www.youtube.com/user/NSFbraininitiative/playlists)
 
 --------------
+
+- [Inside the Moonshot Effort to Finally Figure Out the Brain](https://medium.com/mit-technology-review/inside-the-moonshot-effort-to-finally-figure-out-the-brain-39f95c31b780)
+
+
+
+
+-----------------
