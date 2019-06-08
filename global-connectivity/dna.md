@@ -1,5 +1,6 @@
 
 - [Demonstration of End-to-End Automation of DNA Data Storage](https://www.nature.com/articles/s41598-019-41228-8)
+- [Storing data in DNA is a lot easier than getting it back out](https://medium.com/mit-technology-review/storing-data-in-dna-is-a-lot-easier-than-getting-it-back-out-46dba18e169e)
 ----------
 ![Schematic-flow-of-high-throughput-data-storage-in-DNA-From-a-single-degenerate](https://www.researchgate.net/publication/310791669/figure/fig2/AS:431942651912194@1479994561374/Schematic-flow-of-high-throughput-data-storage-in-DNA-From-a-single-degenerate.png)
 -------------
