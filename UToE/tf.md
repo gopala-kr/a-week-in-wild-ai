@@ -28,3 +28,11 @@
 | [rossdawson](https://rossdawson.com/blog/)
 | [davidbrin](http://davidbrin.blogspot.com/)
 ||
+
+------------------
+
+![our-emerging-future](https://frankdiana.files.wordpress.com/2018/07/our-emerging-future.png?w=2000)
+
+Source: [frankdiana](https://frankdiana.net/2018/07/24/republic-2-0-added-to-emerging-future-visual/)
+
+-------------
