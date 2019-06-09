@@ -307,6 +307,8 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ![slide_2](https://images.slideplayer.com/24/7505832/slides/slide_2.jpg)
 -------------
 ![planck-qm-g](https://holometer.fnal.gov/images/planck-qm-g.png)
+-------
+![PyvQLLN_YMuXXUAk](https://cdn-images-1.medium.com/max/800/0*PyvQLLN_YMuXXUAk.jpg)
 ----------------
 -------------
 ![slide_30](https://images.slideplayer.com/16/5168258/slides/slide_30.jpg)
