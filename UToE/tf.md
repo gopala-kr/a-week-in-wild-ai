@@ -80,4 +80,6 @@ Source: [frankdiana](https://frankdiana.net/2018/07/24/republic-2-0-added-to-eme
 
 [source](https://toptrends.nowandnext.com/wp-content/uploads/2014/06/EmergingScienceTech-5.pdf)
 ---------
+![D8zDr3AWkAI0LiT](https://pbs.twimg.com/media/D8zDr3AWkAI0LiT.jpg:large)
+------------
 ---
