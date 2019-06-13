@@ -2,7 +2,7 @@
 ---------------
 ![b7kN_xCA7Fw15VKll6rP7g](https://cdn-images-1.medium.com/max/800/1*b7kN_xCA7Fw15VKll6rP7g.png)
 ---------------
-![]()
+![D87TSa6XkAE1ZFH](https://pbs.twimg.com/media/D87TSa6XkAE1ZFH.jpg:large)
 -------------
 ![]()
 -------------
