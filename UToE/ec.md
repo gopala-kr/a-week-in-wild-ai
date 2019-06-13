@@ -389,7 +389,7 @@
 -------------
 ![Central](https://slideplayer.com/slide/5680351/18/images/13/From+DNA+to+Proteins+1957+%E2%80%93+the+Central+Dogma+%28Crick%29.jpg)
 -------------
-![]()
+![timeline](https://www.printnpractice.com/images/grammar-timeline.png)
 -------------
 ![]()
 -------------
