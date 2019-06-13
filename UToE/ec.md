@@ -1,3 +1,5 @@
+-------------
+![share-of-gdp-history1070](http://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/share-of-gdp-history1070.jpg)
 
 ---------------
 ![b7kN_xCA7Fw15VKll6rP7g](https://cdn-images-1.medium.com/max/800/1*b7kN_xCA7Fw15VKll6rP7g.png)
@@ -216,18 +218,17 @@
 -------------
 ![20190105_woc222](https://cdn.static-economist.com/sites/default/files/images/2019/01/articles/main/20190105_woc222.png)
 -------------
-![]()
+![iazwi88eYtu0](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iazwi88eYtu0/v0/-1x-1.png)
+-------------
+![world_nat_cats_16](https://www.iii.org/sites/default/files/graphs/world_nat_cats_16.gif)
+-------------
+![Munich](https://i2.wp.com/allcot.com/wp-content/uploads/2019/01/Foto-Munich-Re.png?resize=1080%2C810&ssl=1)
+-------------
+![ancient]https://new.goldprice.com/wp-content/uploads/2018/06/richest-people-of-ancient-history.jpg()
 -------------
 ![]()
 -------------
-![]()
--------------
-![]()
--------------
-![]()
--------------
-![]()
--------------
+
 ![]()
 -------------
 ![]()
