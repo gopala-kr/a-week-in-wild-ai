@@ -399,11 +399,11 @@
 -------------
 ![investors](https://www.moneyweb.co.za/wp-content/uploads/2019/05/robot-investors-.png)
 -------------
-![]()
+![70850](https://www.iclarified.com/images/news/70850/70850/70850-1280.jpg)
 -------------
-![]()
+![companies](https://fortunedotcom.files.wordpress.com/2018/05/fortune-500-companies-list-most-valuable.png)
 -------------
-![]()
+![large](http://online.fliphtml5.com/ilbn/dweq/files/large/3.jpg)
 -------------
 ![]()
 -------------
