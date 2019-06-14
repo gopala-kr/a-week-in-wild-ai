@@ -391,13 +391,13 @@
 -------------
 ![timeline](https://www.printnpractice.com/images/grammar-timeline.png)
 -------------
-![]()
+![Screen-Shot-2019-03-09-at-5.21.](https://nycdatascience.com/blog/wp-content/uploads/2019/02/Screen-Shot-2019-03-09-at-5.21.06-PM-1024x429.png)
 -------------
-![]()
+![fortune500_employees](http://www.iaacblog.com/wp-content/uploads/2017/12/fortune500_employees-by-sector.png)
 -------------
-![]()
+![wvF0XST](https://i.imgur.com/wvF0XST.jpg)
 -------------
-![]()
+![investors](https://www.moneyweb.co.za/wp-content/uploads/2019/05/robot-investors-.png)
 -------------
 ![]()
 -------------
