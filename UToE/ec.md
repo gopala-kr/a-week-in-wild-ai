@@ -1,7 +1,8 @@
 -------------
 ![share-of-gdp-history1070](http://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/share-of-gdp-history1070.jpg)
 
----------------
+
+---------
 ![b7kN_xCA7Fw15VKll6rP7g](https://cdn-images-1.medium.com/max/800/1*b7kN_xCA7Fw15VKll6rP7g.png)
 ---------------
 ![D87TSa6XkAE1ZFH](https://pbs.twimg.com/media/D87TSa6XkAE1ZFH.jpg:large)
@@ -138,6 +139,10 @@
 ![624_international_systems_map](https://timeandnavigation.si.edu/sites/default/files/multimedia-assets/624_international_systems_map.jpg)
 -------------
 ![D8_zmZJVUAESvaH](https://pbs.twimg.com/media/D8_zmZJVUAESvaH.png:large)
+
+---------------
+- [Top 20 Country Population History & Projection (1810-2100)](https://www.youtube.com/watch?v=bFuEMnPVZyE)
+- [Top 15 Most Populated Countries (10000 BCE - 2100 AD)](https://www.youtube.com/watch?v=d1jBi7psYEU)
 -------------
 ![]()
 -------------
@@ -315,6 +320,10 @@
 ![W1siZiIsIjIwMTUvMDEvMTUvNTVqYXdld2FoMF9TdGFuZGFyZF9PaWxfaW5mb2dyYXBoaWMucG5nIl0sWyJwIiwidGh1bWIiLCI3NTB4PiJdXQ](https://www.dividend.com/media/W1siZiIsIjIwMTUvMDEvMTUvNTVqYXdld2FoMF9TdGFuZGFyZF9PaWxfaW5mb2dyYXBoaWMucG5nIl0sWyJwIiwidGh1bWIiLCI3NTB4PiJdXQ/Standard%20Oil%20infographic.png)
 -------------
 -----------------
+- [Top 15 Largest U.S. Companies by Revenue (1954-2018)](https://www.youtube.com/watch?v=X6MSQ6n-3YA)
+- [Top 10 Most Valuable Companies In The World (1997-2019)](https://www.youtube.com/watch?v=8WVoJ6JNLO8)
+
+-----------
 ![history](https://www.simio.com/applications/industry-40/history.png)
 -------------
 ![Colonisation_1754](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Colonisation_1754.png/1280px-Colonisation_1754.png)
