@@ -495,9 +495,9 @@
 -----------
 ![autonomous](http://technologymagazine.org/wp-content/uploads/2019/03/autonomous-car-market-pressrelease-620x315.jpg)
 -----------
-![]()
+![chartoftheday_17144_test_miles_and_reportable_miles_per_disengagement_n](http://infographic.statista.com/normal/chartoftheday_17144_test_miles_and_reportable_miles_per_disengagement_n.jpg)
 -----------
-![]()
+![Slide8](http://svenbeiker.com/pics/Slide8.png)
 -----------
 ![]()
 -----------
