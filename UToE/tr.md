@@ -527,9 +527,9 @@
 ![58d57c7f86e6c087a925cdbd](https://static1.squarespace.com/static/58a47fcd17bffc2342458913/t/58d57c7f86e6c087a925cdbd/1490386061682/?format=750w)
 -------------
 
-![]()
+![5849d568ba6eb61b008b839c](https://amp.businessinsider.com/images/5849d568ba6eb61b008b839c-750-811.png)
 --------------
-![]()
+![auto](https://cbi-blog.s3.amazonaws.com/blog/wp-content/uploads/2016/08/1-big-auto-tech-timeline-august-2016-1.png)
 -------------
 ![]()
 --------------
