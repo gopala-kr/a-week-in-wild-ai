@@ -486,6 +486,26 @@
 ![6_2018](https://www.eia.gov/outlooks/aeo/images/fig_if5-6_2018.png)
 --------------
 ![IntelligentMobility](http://www.cargroup.org/wp-content/uploads/2017/06/IntelligentMobility-Tech-Timeline_Updates.jpg)
+-----------
+![page_5](http://docplayer.net/docs-images/43/8131773/images/page_5.jpg)
+-----------
+![industry](https://www.gminsights.com/assets/img/autonomous-car-market-industry-coverage.png)
+-----------
+![fig_if5](https://www.eia.gov/outlooks/aeo/images/fig_if5-3_2018.png)
+-----------
+![autonomous](http://technologymagazine.org/wp-content/uploads/2019/03/autonomous-car-market-pressrelease-620x315.jpg)
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
+![]()
 
 ---------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
