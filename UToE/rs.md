@@ -2072,9 +2072,9 @@ Privatized Race to Space](https://scholarworks.gvsu.edu/cgi/viewcontent.cgi?arti
 [Back to top](#index)
 
 ---------------
-![]()
+![slide_2](https://images.slideplayer.com/23/6906136/slides/slide_2.jpg)
 ---------------
-![]()
+![02816994f871cb506b6f7fd5059843db](https://upload.wikimedia.org/wikipedia/en/timeline/02816994f871cb506b6f7fd5059843db.png)
 ---------------
 ![]()
 ---------------
