@@ -479,13 +479,13 @@
 --------------
 ![BCG](http://energyfuse.org/wp-content/uploads/2016/05/BCG.gif)
 --------------
-![]()
+![1526462296025047_origin](https://static.seekingalpha.com/uploads/2018/5/16/37628986-1526462296025047_origin.png)
 --------------
-![]()
+![Autonomous](https://www.theaugmented.city/wp-content/uploads/2018/11/Autonomous-Driving-patents.jpg)
 --------------
-![]()
+![6_2018](https://www.eia.gov/outlooks/aeo/images/fig_if5-6_2018.png)
 --------------
-![]()
+![IntelligentMobility](http://www.cargroup.org/wp-content/uploads/2017/06/IntelligentMobility-Tech-Timeline_Updates.jpg)
 
 ---------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
