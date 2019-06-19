@@ -1114,21 +1114,21 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![gw28](https://fuelrfuture.com/science/gw28.png)
 ----------
-![]()
+![slide_11](https://images.slideplayer.com/33/8247741/slides/slide_11.jpg)
 ----------
-![]()
+![gasdynamicMirror](http://talknicer.com/icryo/docs/rocket3ap_files/gasdynamicMirror.jpg)
 
 ----------
-![]()
+![gw36](https://fuelrfuture.com/science/gw36.png)
 
 ----------
-![]()
+![propulsion](https://image.slidesharecdn.com/unit-vrocketpropulsion-161223084047/95/unit-v-rocket-propulsion-24-638.jpg?cb=1482482619)
 ----------
-![]()
+![SloughPresentation2012](https://i2.wp.com/hobbyspace.com/Blog/wp-content/uploads/2013/04/SloughPresentation2012-03.jpg?resize=500%2C436)
 ----------
-![]()
+![slide_3](https://images.slideplayer.com/33/8247741/slides/slide_3.jpg)
 ----------
-![]()
+![FusionFuelCycles](https://ehabich.info/singularity/helium3/FusionFuelCycles.jpg)
 ----------
 ![]()
 
