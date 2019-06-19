@@ -459,10 +459,21 @@
 --------------
 ![automotive](https://www.knowmade.com/wp-content/uploads/edd/2018/05/LIDAR-for-automotive-IP-dynamics.png)
 --------------
+![49DEA2C862AE17230A86618B622096C8](https://www.mynrma.com.au/-/media/advocacy/timeline-to-autonomous-vehicles.jpg?la=en&hash=49DEA2C862AE17230A86618B622096C8)
+--------------
+![connected](https://image.slidesharecdn.com/cavportsmouthlecture-1-170404181422/95/introduction-to-connected-cars-and-autonomous-vehicles-10-638.jpg?cb=1491330090)
+--------------
+![adoption](https://frankdiana.files.wordpress.com/2014/03/autonomous-vehicle-adoption-timeline.jpg)
+--------------
+![bajpai](https://community.nasdaq.com/uploadedimages/author/prableen-bajpai/0115cars.jpg)
+--------------
 ![]()
 --------------
 ![]()
-
+--------------
+![]()
+--------------
+![]()
 ---------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------
 #### Drones, Flying
