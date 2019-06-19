@@ -1130,7 +1130,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 ----------
 ![FusionFuelCycles](https://ehabich.info/singularity/helium3/FusionFuelCycles.jpg)
 ----------
-![]()
+- [SPACE PROPULSION BASED ON HIGH-BETA MAGNETIC FUSION ROCKET I. V. Romadanov, S. V. Ryzhkov Bauman Moscow State Technical University](https://slideplayer.com/slide/8247741/)
 
 ----------
 ![]()
@@ -1184,31 +1184,31 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 
 -------------------------------------------------------------------------------------------------------------------------
 
-![]()
+![gettyimages](https://images.newscientist.com/wp-content/uploads/2019/01/08144711/gettyimages-680804651-800x533.jpg)
 ----------
-![]()
+![18enfuwsagjl5jpg](https://i.kinja-img.com/gawker-media/image/upload/s--tOgGa5O2--/c_fill,fl_progressive,g_center,h_900,q_80,w_1600/18enfuwsagjl5jpg.jpg)
 
 ----------
-![]()
+![ISECfacebookcove](https://isec.org/wp-content/uploads/2017/06/ISECfacebookcove.png)
 
 ----------
-![]()
+![2016](https://www.engineersrule.com/wp-content/uploads/2016/02/1-1.jpg)
 ----------
-![]()
+![Configuration](https://magazine.iit.edu/sites/magazine/files/issues/2018/Spring/images/Space-Elevator-Configuration-Graphic.jpg)
 ----------
-![]()
+![iPhoneSnapshot](https://www.spaceelevatorblog.com/media/iPhoneSnapshot.png)
 
 ----------
-![]()
+![LeavingThePlanetBySpaceElevator](https://www.spaceelevatorblog.com/media/LeavingThePlanetBySpaceElevator.jpg)
 
 ----------
-![]()
+![Space_elevator_structural_diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Space_elevator_structural_diagram--corrected_for_scale%2BCM%2Betc.svg/260px-Space_elevator_structural_diagram--corrected_for_scale%2BCM%2Betc.svg.png)
 ----------
-![]()
+![report](https://image.slidesharecdn.com/2-160423164108/95/space-elevator-report-2-638.jpg?cb=1461429932)
 ----------
-![]()
+![more_accurate_force_vectors](https://upload.wikimedia.org/wikipedia/commons/8/8f/Space_elevator_balance_of_forces--circular_Earth--more_accurate_force_vectors.svg)
 ----------
-![]()
+![tensile](https://sustainablenano.files.wordpress.com/2014/03/1-tensile-space-elevator.png)
 ----------
 ![]()
 
