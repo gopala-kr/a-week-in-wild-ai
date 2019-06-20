@@ -460,7 +460,7 @@
 -------------
 ![2Fsteveschaefer](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fblogs-images.forbes.com%2Fsteveschaefer%2Ffiles%2F2016%2F05%2Fglobal-2000-1200x712.jpg)
 -------------
-![]()
+![country](https://cdn.howmuch.net/articles/the-worlds-largest-public-companies-per-country-2019-world-7a7f.jpg)
 -------------
 ![]()
 -------------
