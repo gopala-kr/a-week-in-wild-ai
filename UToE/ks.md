@@ -446,13 +446,13 @@ World Energy Outlook 2018](https://www.eceee.org/static/media/uploads/site-2/Eve
 -------------
 ![q5r9IHJGR5rXu7BIJ225jg](https://cdn-images-1.medium.com/max/2560/1*q5r9IHJGR5rXu7BIJ225jg.png)
 -------------
-![]()
+![900x533](http://www.mining-technology.com/wp-content/uploads/sites/8/2019/04/mining_cap_ex-900x533-1-900x533.jpg)
 -------------
-![]()
+![indiainfographic](https://www.eia.gov/outlooks/ieo/images/indiainfographic.png)
 -------------
-![]()
+![chinainfographic](https://www.eia.gov/outlooks/ieo/images/chinainfographic.png)
 -------------
-![]()
+![pantalla](http://power-electronics.com/files/2019/05/Captura-de-pantalla-2019-05-10-a-las-13.59.58.png)
 -------------
 ![]()
 -------------
