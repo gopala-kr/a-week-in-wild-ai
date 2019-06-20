@@ -499,7 +499,7 @@
 -----------
 ![Slide8](http://svenbeiker.com/pics/Slide8.png)
 -----------
-![]()
+![articles](http://www.climateaction.org/images/uploads/articles/Charging.PNG)
 -----------
 ![]()
 -----------
