@@ -85,5 +85,7 @@ Source: [frankdiana](https://frankdiana.net/2018/07/24/republic-2-0-added-to-eme
 
 -----------
 ![D9cnOpZX4AAcdRo](https://pbs.twimg.com/media/D9cnOpZX4AAcdRo.jpg)
+---------
+![BZuII6BcZOIJg9UMA84c0Q](https://cdn-images-1.medium.com/max/1200/1*BZuII6BcZOIJg9UMA84c0Q.jpeg)
 ------------
 ---
