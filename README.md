@@ -32,7 +32,9 @@
 - [Week-11] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [Week-12] (tbd)  : Recent Advances in Generative Models
 - [Week-13] (tbd)  : Recent Advances in Transfer Learning and Metalearning
-- [Week-14-15] (tbd) : AGI Roadmap
+- [Week-14] (tbd)  : Neural ODE's and Graph Neural Network
+- [Week-15] (tbd)  : AI for Science Advancement
+- [Week-16-17] (tbd) : AGI Roadmap
 
 -------------------
 
