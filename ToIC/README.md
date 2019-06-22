@@ -7,25 +7,6 @@
 
 --------------
 
-
-#### Ref
-
-- [History of neuroscience](https://en.wikipedia.org/wiki/History_of_neuroscience)
-- [A Timeline of Neuroscience](https://www.scaruffi.com/mind/ns.html)
-- [A Timeline of Artificial Intelligence](https://www.scaruffi.com/mind/ai.html)
-- [History of Neuroscience](https://www.preceden.com/timelines/42790-history-of-neuroscience)
-- [Timeline| Nature Reviews Neuroscience](https://www.nature.com/nrn/articles?type=timeline)
-
-------------
-
-- [https://www.humanbrainproject.eu/en/](https://www.humanbrainproject.eu/en/)
-- [TheHumanBrainProject](https://www.youtube.com/user/TheHumanBrainProject/playlists)
-- [https://www.braininitiative.org/](https://www.braininitiative.org/)
-- [NSFbraininitiative](https://www.youtube.com/user/NSFbraininitiative/playlists)
-- [Inside the Moonshot Effort to Finally Figure Out the Brain](https://medium.com/mit-technology-review/inside-the-moonshot-effort-to-finally-figure-out-the-brain-39f95c31b780)
-
---------------
-
 #### Conciousness
 
 - [The Origin of Consciousness – How Unaware Things Became Aware](https://www.youtube.com/watch?v=H6u0VBqNBQ8)
@@ -72,7 +53,7 @@
 
 --------------
 
-#### Mind
+#### Brain
 
 - [The most important lesson from 83,000 brain scans | Daniel Amen | TEDxOrangeCoast](https://www.youtube.com/watch?v=esPRsT-lmw8)
 - [Time and the brain: the illusion of now | Hinze Hogendoorn | TEDxUtrechtUniversity](https://www.youtube.com/watch?v=BEuNa1Vp_b0)
@@ -104,15 +85,24 @@
 - [Evolution of Complexity and Intelligence on Earth](https://www.youtube.com/watch?v=PQJ-hgg71KQ)
 - [David Haussler | Genomics and the Evolution of Intelligence: Breakthrough Discuss 2019](https://www.youtube.com/watch?v=E_kLHcPCQTk)
 - [The Evolution of Synthetic Intelligence | Amir Husain | TEDxUTAustin](https://www.youtube.com/watch?v=43UJUt_Omsk)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+
+
+--------------
+
+#### Psycology & Neuroscience
+
+- [Stanford: Neuroscience Lectures](https://www.youtube.com/playlist?list=PLgfyCCmwycpJdqDUybk-8Yi6693q5tHew)
+- [Edinberg: Neuroscience - Lectures.](https://www.youtube.com/playlist?list=PLA3769071B1361BEC)
+- [TED Neuroscience Lectures](https://www.youtube.com/playlist?list=PLnq4tn6t2r2oNRvOlFxWRYKMBEGLw8RBw)
+- [Lecture Collection | Human Behavioral Biology](https://www.youtube.com/playlist?list=PL848F2368C90DDC3D)
+- [Interesting Neurology lectures](https://www.youtube.com/playlist?list=PLALrPCBUtoDIDlTfTG1fvZgK0k10klqEQ)
+- [neuroscience lectures standford](https://www.youtube.com/playlist?list=PLA95166807095A202)
+- [Neuroanatomy](https://www.youtube.com/playlist?list=PLO2O9UjkQxLcziD2izdpcI-YtdRIPqXdc)
+- [Psychology & Neuroscience: Lessons & Lectures Playlist](https://www.youtube.com/playlist?list=PLk3zILm6mXo4PweAqmfPCtWb2OMvRPKbQ)
+- [Neuroscience lectures](https://www.youtube.com/playlist?list=PL1A0262F8CA3DF23F)
+- [Neuroscience Lectures](https://www.youtube.com/playlist?list=PL-ZgxT3Ykxrt6yBhx6M93ZAR_v8JrXvJQ)
+- [Anatomy - Neuroscience lectures](https://www.youtube.com/playlist?list=PLBBE9F86F5E856C8F)
+- [Dr. David Eagleman Lectures (Neuroscience)](https://www.youtube.com/playlist?list=PLjzJM86eX1Tvwrq_5TEL1H4qmfjL_BGnf)
 
 -----------------
 
@@ -138,4 +128,23 @@
 - [Nick Bostrom: "Superintelligence" | Talks at Google](https://www.youtube.com/watch?v=pywF6ZzsghI)
 
 -------------------
+
+
+#### Ref
+
+- [History of neuroscience](https://en.wikipedia.org/wiki/History_of_neuroscience)
+- [A Timeline of Neuroscience](https://www.scaruffi.com/mind/ns.html)
+- [A Timeline of Artificial Intelligence](https://www.scaruffi.com/mind/ai.html)
+- [History of Neuroscience](https://www.preceden.com/timelines/42790-history-of-neuroscience)
+- [Timeline| Nature Reviews Neuroscience](https://www.nature.com/nrn/articles?type=timeline)
+
+------------
+
+- [https://www.humanbrainproject.eu/en/](https://www.humanbrainproject.eu/en/)
+- [TheHumanBrainProject](https://www.youtube.com/user/TheHumanBrainProject/playlists)
+- [https://www.braininitiative.org/](https://www.braininitiative.org/)
+- [NSFbraininitiative](https://www.youtube.com/user/NSFbraininitiative/playlists)
+- [Inside the Moonshot Effort to Finally Figure Out the Brain](https://medium.com/mit-technology-review/inside-the-moonshot-effort-to-finally-figure-out-the-brain-39f95c31b780)
+
+--------------
 -----------------
