@@ -32,14 +32,14 @@
 - [Week-11] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [Week-12] (tbd)  : Recent Advances in Generative Models
 - [Week-13] (tbd)  : Recent Advances in Transfer Learning and Metalearning
-- [Week-14] (tbd)  : Neural ODE's and Graph Neural Network
-- [Week-15] (tbd)  : AI for Science Advancement
+- [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] (tbd)  : Neural ODE's and Graph Neural Network
+- [[Week-15](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] (tbd)  : AI for Science Advancement
 - [Week-16-17] (tbd) : AGI Roadmap
 
 -------------------
 
 
-|| [Theories of Mind, Intelligence and Conciousness](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ToIC) | [New Theories of Computation](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/NToC) | [Universal Theory of Everything](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/UToE) ||
+|| [Theories of Mind, Intelligence & Conciousness](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ToIC) | [Genetics](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Genetics) | [New Theories of Computation](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/NToC) | [Universal Theory of Everything](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/UToE) ||
 
 ----------------------
 --------------------------------
