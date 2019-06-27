@@ -45,6 +45,6 @@
 - [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://arxiv.org/abs/1806.02473v3)
 - [Generating equilibrium molecules with deep neural networks](https://arxiv.org/abs/1810.11347v1)
 - [ANI-1: A data set of 20M off-equilibrium DFT calculations for organic molecules](https://arxiv.org/abs/1708.04987v4)
-
+- [Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427v1)
 
 --------------------------
