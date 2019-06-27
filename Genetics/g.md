@@ -41,13 +41,13 @@
 --------
 ![20crispr](http://www.fullertreacymoney.com/system/data/images/2017/March/science%20crispr%20graphic.png)
 --------
-![]()
+![scale-down&quality=highest&source=next&width=700](https://www.ft.com/__origami/service/image/v2/images/raw/http%3A%2F%2Fcom.ft.imagepublish.upp-prod-us.s3.amazonaws.com%2Fdb5dbc48-1d33-11e8-aaca-4574d7dabfb6?fit=scale-down&quality=highest&source=next&width=700)
 --------
-![]()
+![20150822_FBC953_1](https://www.economist.com/sites/default/files/imagecache/original-size/20150822_FBC953_1.png)
 --------
-![]()
+![y9pWeBl75H0YRoFY9EPpqgCzTYtUwjOYmGWQHHsdd](https://assets.weforum.org/editor/y9pWeBl75H0YRoFY9EPpqgCzTYtUwjOYmGWQHHsdd-0.png)
 --------
-![]()
+![maxresdefault](https://i.ytimg.com/vi/xdv6gKe_v6A/maxresdefault.jpg)
 --------
 ![]()
 --------
