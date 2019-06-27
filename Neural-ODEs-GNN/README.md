@@ -18,6 +18,7 @@ Neural ODE's
 
 GNNs
 
+- [Innovations in Graph Representation Learning](https://ai.googleblog.com/2019/06/innovations-in-graph-representation.html)
 - [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v2)
 - [Graph Neural Networks: A Review of Methods and Applications](https://arxiv.org/abs/1812.08434v3)
 - [GeniePath: Graph Neural Networks with Adaptive Receptive Paths](https://arxiv.org/abs/1802.00910v3)
