@@ -20,6 +20,10 @@ Agriculture, and Law](https://www.mcdb.ucla.edu/Research/Goldberg/HC70A_Sp17/pdf
 - [Genome Editing: Past, Present, and Future](https://www.researchgate.net/publication/321951965_Genome_Editing_Past_Present_and_Future)
 - [The commercialization of genome-editing technologies](https://pdfs.semanticscholar.org/8209/764268481b8062ab5f33b49789c28f08573d.pdf)
 - [Advanced Gene Editing: CRISPR-Cas9](https://fas.org/sgp/crs/misc/R44824.pdf)
+- [Biopharma_Trends_Survey_Mar19](https://www.nibrt.ie/wp-content/uploads/2019/03/Biopharma_Trends_Survey_Mar19.pdf)
+- [Detection of food and feed plant products
+obtained by new mutagenesis techniques](http://gmo-crl.jrc.ec.europa.eu/doc/JRC116289-GE-report-ENGL.pdf)
+- [What if gene editing became routine practice?](http://euromind.global/wp-content/uploads/2019/02/What-if-gene-editing-became-routine-practice.pdf)
 
 --------------------------
 
