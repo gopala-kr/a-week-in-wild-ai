@@ -33,6 +33,7 @@
 - [Machine learning for long-distance quantum communication](https://arxiv.org/abs/1904.10797v1)
 - [Quantum-assisted associative adversarial network: Applying quantum annealing in deep learning](https://arxiv.org/abs/1904.10573v1)
 - [Like Quantum Computing without Quantum Physics: Is it How the Brain Works?](https://arxiv.org/abs/1904.10508v1)
+- [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445v1)
 
 ---------------------
 
