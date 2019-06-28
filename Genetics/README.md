@@ -12,9 +12,10 @@ in Life Sciences](https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/02/driving-va
 - [A guide to genomics
 and UK excellence in
 the field](https://www.bioindustry.org/uploads/assets/uploaded/367e0ae6-6fa4-47b1-aa80c77118ca0c83.pdf)
-- []()
-- []()
-- []()
+- [FOE_ExtremeGenEngineering_10](https://1bps6437gg8c169i0y1drtgz-wpengine.netdna-ssl.com/wp-content/uploads/wpallimport/files/archive/FOE_ExtremeGenEngineering_10.pdf)
+- [Genetic Engineering in Medicine,
+Agriculture, and Law](https://www.mcdb.ucla.edu/Research/Goldberg/HC70A_Sp17/pdf/HC70A-Sp17-Lecture6.pdf)
+- [Gene Cloning Technology ](https://www.tcd.ie/Biology_Teaching_Centre/assets/pdf/by1101/jfby1101/jfby1101-lecture11v2-2013-bw.pdf)
 
 --------------------------
 
