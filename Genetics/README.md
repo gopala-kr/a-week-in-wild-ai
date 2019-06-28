@@ -2,7 +2,19 @@
 ------------------------------
 
 - [The Age of Living Machines: How Biology Will Build the Next Technology Revolution](https://www.scribd.com/audiobook/405672240/The-Age-of-Living-Machines-How-the-Convergence-of-Biology-and-Engineering-Will-Build-the-Next-Technology-Revolution)
-
+- [Genomics 2020: Research and Clinical Trends to Watch](https://www.lek.com/sites/default/files/insights/pdf-attachments/1843_Genomics_2020_Executive_Insights.pdf)
+- [The Genomics Bottleneck](http://www.preoncapital.com/wp-content/uploads/2018/06/THR_Genomics.pdf)
+- [The Genomics Revolution](https://www.centrepopulationgenomic.org/sites/cpgm/files/content/attachments/2018-02-12/Genomics-report_DIGITAL.pdf)
+- [Driving value
+from genomics
+in Life Sciences](https://assets.kpmg/content/dam/kpmg/xx/pdf/2019/02/driving-value-from-genomics-in-life-sciences.pdf)
+- [Genomics England](https://worldhealthcarejournal.com/wp-content/uploads/2019/02/IQVIA-Genomics-England-Collaboration-Paper.pdf)
+- [A guide to genomics
+and UK excellence in
+the field](https://www.bioindustry.org/uploads/assets/uploaded/367e0ae6-6fa4-47b1-aa80c77118ca0c83.pdf)
+- []()
+- []()
+- []()
 
 --------------------------
 
