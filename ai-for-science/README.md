@@ -46,5 +46,5 @@
 - [Generating equilibrium molecules with deep neural networks](https://arxiv.org/abs/1810.11347v1)
 - [ANI-1: A data set of 20M off-equilibrium DFT calculations for organic molecules](https://arxiv.org/abs/1708.04987v4)
 - [Alchemy: A Quantum Chemistry Dataset for Benchmarking AI Models](https://arxiv.org/abs/1906.09427v1)
-
+- [Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective](https://arxiv.org/abs/1906.11081v1)
 --------------------------
