@@ -30,6 +30,7 @@
 - [Deep Extreme Feature Extraction: New MVA Method for Searching Particles in High Energy Physics](https://arxiv.org/abs/1603.07454v1)
 - [Using Machine Learning to Predict the Evolution of Physics Research](https://arxiv.org/abs/1810.12116v1)
 - [Machine Learning Approach to Earthquake Rupture Dynamics](https://arxiv.org/abs/1906.06250v1)
+- [Machine learning for long-distance quantum communication](https://arxiv.org/abs/1904.10797v1)
 
 ---------------------
 
