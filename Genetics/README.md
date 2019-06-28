@@ -18,6 +18,8 @@ Agriculture, and Law](https://www.mcdb.ucla.edu/Research/Goldberg/HC70A_Sp17/pdf
 - [Gene Cloning Technology ](https://www.tcd.ie/Biology_Teaching_Centre/assets/pdf/by1101/jfby1101/jfby1101-lecture11v2-2013-bw.pdf)
 - [Genome Editing: Technologies and Global Markets](https://www.researchandmarkets.com/research/dh8zqb/global_genome?w=4)
 - [Genome Editing: Past, Present, and Future](https://www.researchgate.net/publication/321951965_Genome_Editing_Past_Present_and_Future)
+- [The commercialization of genome-editing technologies](https://pdfs.semanticscholar.org/8209/764268481b8062ab5f33b49789c28f08573d.pdf)
+- [Advanced Gene Editing: CRISPR-Cas9](https://fas.org/sgp/crs/misc/R44824.pdf)
 
 --------------------------
 
