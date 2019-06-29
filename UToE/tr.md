@@ -160,6 +160,10 @@
 
 -----------
 
+- [The Race For The Electric Car](https://www.cbinsights.com/research/report/page/5/)
+- [Auto & Mobility Trends In 2019](https://www.cbinsights.com/research/report/auto-mobility-trends-2019/)
+
+--------------
 ![timeline_large](http://sharpmagazine.com/wp-content/uploads/2017/12/timeline_large.jpg)
 -----------
 
