@@ -57,6 +57,6 @@
 - [Molecular Property Prediction: A Multilevel Quantum Interactions Modeling Perspective](https://arxiv.org/abs/1906.11081v1)
 - [Unifying machine learning and quantum chemistry -- a deep neural network for molecular wavefunctions](https://arxiv.org/abs/1906.10033v1)
 - [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682v1)
-
+- [Generative Models for Automatic Chemical Design](https://arxiv.org/pdf/1907.01632v1.pdf)
 
 --------------------------
