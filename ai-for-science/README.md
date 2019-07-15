@@ -36,7 +36,7 @@
 - [Efficient Learning for Deep Quantum Neural Networks](https://arxiv.org/abs/1902.10445v1)
 - [Quantum Memristors in Quantum Photonics](https://arxiv.org/abs/1709.07808v2)
 - [The Ramanujan Machine: Automatically Generated Conjectures on Fundamental Constants](https://arxiv.org/pdf/1907.00205v1.pdf)
-
+- [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
 
 
 ---------------------
