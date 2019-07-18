@@ -37,5 +37,6 @@ GNNs
 - [Graph Neural Networks for Social Recommendation](https://arxiv.org/abs/1902.07243v1)
 - [Pre-training Graph Neural Networks with Kernels](https://arxiv.org/abs/1811.06930v1)
 - [A Survey on Graph Kernels](https://arxiv.org/pdf/1903.11835v1.pdf)
+- [Graph Kernels: A Survey](https://arxiv.org/pdf/1904.12218v1.pdf)
 
 --------------
