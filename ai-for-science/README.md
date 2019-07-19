@@ -37,7 +37,7 @@
 - [Quantum Memristors in Quantum Photonics](https://arxiv.org/abs/1709.07808v2)
 - [The Ramanujan Machine: Automatically Generated Conjectures on Fundamental Constants](https://arxiv.org/pdf/1907.00205v1.pdf)
 - [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
-
+- [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587v2)
 
 ---------------------
 
