@@ -79,5 +79,10 @@ Astronomy
 - [Convolutional neural networks: a magic bullet for gravitational-wave detection?](https://arxiv.org/pdf/1904.08693v1.pdf)
 - [Desaturating EUV observations of solar flaring storms](https://arxiv.org/pdf/1904.04211v1.pdf)
 - [Evolutionary Deep Learning to Identify Galaxies in the Zone of Avoidance](https://arxiv.org/pdf/1903.07461v2.pdf)
+- [Forging new worlds: high-resolution synthetic galaxies with chained generative adversarial networks](https://arxiv.org/pdf/1811.03081v3.pdf)
+- [NEARBY Platform for Automatic Asteroids Detection and EURONEAR Surveys](https://arxiv.org/pdf/1903.03479v1.pdf)
+- [Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era](https://arxiv.org/pdf/1902.00522v1.pdf) :star:
+- [Advanced Image Processing for Astronomical Images](https://arxiv.org/ftp/arxiv/papers/1812/1812.09702.pdf)
+- [Computational Intelligence Challenges and Applications on Large-Scale Astronomical Time Series Databases](https://arxiv.org/pdf/1509.07823v1.pdf)
 
 -------------------
