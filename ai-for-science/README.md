@@ -98,7 +98,10 @@ Geography/Climate
 - [DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images](https://arxiv.org/pdf/1805.06561v1.pdf)
 - [Satellite-Net: Automatic Extraction of Land Cover Indicators from Satellite Imagery by Deep Learning](https://arxiv.org/ftp/arxiv/papers/1907/1907.09423.pdf)
 - [SpaceNet: A Remote Sensing Dataset and Challenge Series](https://arxiv.org/pdf/1807.01232v3.pdf)
-
+- [SOMOSPIE: A modular SOil MOisture SPatial Inference Engine based on data driven decisions](https://arxiv.org/pdf/1904.07754v2.pdf)
+- [DOTA: A Large-scale Dataset for Object Detection in Aerial Images](https://arxiv.org/pdf/1711.10398v3.pdf)
+- [Automated Prototype for Asteroids Detection](https://arxiv.org/pdf/1901.10469v1.pdf)
+- [On-Orbit Smart Camera System to Observe Illuminated and Unilluminated Space Objects](https://arxiv.org/ftp/arxiv/papers/1809/1809.02042.pdf)
 
 
 -------------------
