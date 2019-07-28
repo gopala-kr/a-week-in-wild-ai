@@ -87,11 +87,17 @@ Astronomy
 
 --------------
 
-Geography
+Geography/Climate
 
 - [Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [PlaNet - Photo Geolocation with Convolutional Neural Networks](https://arxiv.org/abs/1602.05314v1)
 - [Exploring Urban Air Quality with MAPS: Mobile Air Pollution Sensing](https://arxiv.org/abs/1904.12303v1)
+- [AI-based evaluation of the SDGs: The case of crop detection with earth observation data](https://arxiv.org/abs/1907.02813v1)
+- [Enabling FAIR Research in Earth Science through Research Objects](https://arxiv.org/pdf/1809.10617v1.pdf) :star:
+- [Automatic Spatial Context-Sensitive Cloud/Cloud-Shadow Detection in Multi-Source Multi-Spectral Earth Observation Images: AutoCloud+](https://arxiv.org/ftp/arxiv/papers/1701/1701.04256.pdf)
+- [DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images](https://arxiv.org/pdf/1805.06561v1.pdf)
+- []()
+- []()
 
 
 
