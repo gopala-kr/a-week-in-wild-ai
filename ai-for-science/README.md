@@ -85,4 +85,14 @@ Astronomy
 - [Advanced Image Processing for Astronomical Images](https://arxiv.org/ftp/arxiv/papers/1812/1812.09702.pdf)
 - [Computational Intelligence Challenges and Applications on Large-Scale Astronomical Time Series Databases](https://arxiv.org/pdf/1509.07823v1.pdf)
 
+--------------
+
+Geography
+
+- [Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
+- [PlaNet - Photo Geolocation with Convolutional Neural Networks](https://arxiv.org/abs/1602.05314v1)
+- [Exploring Urban Air Quality with MAPS: Mobile Air Pollution Sensing](https://arxiv.org/abs/1904.12303v1)
+
+
+
 -------------------
