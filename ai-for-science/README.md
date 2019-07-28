@@ -105,5 +105,7 @@ Geography/Climate
 - [Learning Spectral-Spatial-Temporal Features via a Recurrent Convolutional Neural Network for Change Detection in Multispectral Imagery](https://arxiv.org/pdf/1803.02642v1.pdf)
 - [Using Satellite Imagery for Good: Detecting Communities in Desert and Mapping Vaccination Activities](https://arxiv.org/ftp/arxiv/papers/1705/1705.04451.pdf)
 - [Merging Satellite Measurements of Rainfall Using Multi-scale Imagery Technique](https://arxiv.org/pdf/1304.3406v1.pdf)
+- [VARENN: Graphical representation of spatiotemporal data and application to climate studies](https://arxiv.org/ftp/arxiv/papers/1907/1907.09725.pdf)
+- [Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling](https://arxiv.org/pdf/1906.06622v1.pdf)
 
 -------------------
