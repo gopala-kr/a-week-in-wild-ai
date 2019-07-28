@@ -1,6 +1,8 @@
 
 -----------------------
 
+Physics
+
 - [Toward an AI Physicist for Unsupervised Learning](https://arxiv.org/abs/1810.10525v3) :star:
 - [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/abs/1905.11481v1) :star:
 - [Accelerated Nuclear Magnetic Resonance Spectroscopy with Deep Learning](https://arxiv.org/abs/1904.05168v2)
@@ -43,6 +45,8 @@
 
 ---------------------
 
+Chemistry
+
 - [A survey on Big Data and Machine Learning for Chemistry](https://arxiv.org/abs/1904.10370v1)
 - [Deep Learning for Computational Chemistry](https://arxiv.org/abs/1701.04503v1)
 - [Neural networks for the prediction organic chemistry reactions](https://arxiv.org/abs/1608.06296v2)
@@ -62,3 +66,11 @@
 - [Generative Models for Automatic Chemical Design](https://arxiv.org/pdf/1907.01632v1.pdf)
 
 --------------------------
+
+Astronomy
+
+- [Big Universe, Big Data: Machine Learning and Image Analysis for Astronomy](https://arxiv.org/abs/1704.04650v1)
+- [ASTROMLSKIT: A New Statistical Machine Learning Toolkit: A Platform for Data Analytics in Astronomy](https://arxiv.org/ftp/arxiv/papers/1504/1504.07865.pdf)
+
+
+-------------------
