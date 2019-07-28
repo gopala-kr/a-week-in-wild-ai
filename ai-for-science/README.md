@@ -107,5 +107,7 @@ Geography/Climate
 - [Merging Satellite Measurements of Rainfall Using Multi-scale Imagery Technique](https://arxiv.org/pdf/1304.3406v1.pdf)
 - [VARENN: Graphical representation of spatiotemporal data and application to climate studies](https://arxiv.org/ftp/arxiv/papers/1907/1907.09725.pdf)
 - [Achieving Conservation of Energy in Neural Network Emulators for Climate Modeling](https://arxiv.org/pdf/1906.06622v1.pdf)
+- [Tackling Climate Change with Machine Learning](https://arxiv.org/pdf/1906.05433v1.pdf) :star:
+- [Learning Radiative Transfer Models for Climate Change Applications in Imaging Spectroscopy](https://arxiv.org/pdf/1906.03479v1.pdf)
 
 -------------------
