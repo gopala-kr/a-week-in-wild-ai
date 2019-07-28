@@ -71,6 +71,9 @@ Astronomy
 
 - [Big Universe, Big Data: Machine Learning and Image Analysis for Astronomy](https://arxiv.org/abs/1704.04650v1)
 - [ASTROMLSKIT: A New Statistical Machine Learning Toolkit: A Platform for Data Analytics in Astronomy](https://arxiv.org/ftp/arxiv/papers/1504/1504.07865.pdf)
+- [Deep Learning for Energy Estimation and Particle Identification in Gamma-ray Astronomy](https://arxiv.org/abs/1907.10480v1)
+- [Particle identification in ground-based gamma-ray astronomy using convolutional neural networks](https://arxiv.org/ftp/arxiv/papers/1812/1812.01551.pdf)
+- [Machine Learning in Astronomy: A Case Study in Quasar-Star Classification](https://arxiv.org/abs/1804.05051v1)
 
 
 -------------------
