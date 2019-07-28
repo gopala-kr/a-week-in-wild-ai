@@ -96,8 +96,8 @@ Geography/Climate
 - [Enabling FAIR Research in Earth Science through Research Objects](https://arxiv.org/pdf/1809.10617v1.pdf) :star:
 - [Automatic Spatial Context-Sensitive Cloud/Cloud-Shadow Detection in Multi-Source Multi-Spectral Earth Observation Images: AutoCloud+](https://arxiv.org/ftp/arxiv/papers/1701/1701.04256.pdf)
 - [DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images](https://arxiv.org/pdf/1805.06561v1.pdf)
-- []()
-- []()
+- [Satellite-Net: Automatic Extraction of Land Cover Indicators from Satellite Imagery by Deep Learning](https://arxiv.org/ftp/arxiv/papers/1907/1907.09423.pdf)
+- [SpaceNet: A Remote Sensing Dataset and Challenge Series](https://arxiv.org/pdf/1807.01232v3.pdf)
 
 
 
