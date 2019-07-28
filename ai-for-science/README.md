@@ -39,6 +39,8 @@
 - [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
 - [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587v2)
 - [MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621v1)
+- [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/pdf/1807.07706v3.pdf)
+- [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/abs/1906.07906v1) :star:
 
 ---------------------
 
