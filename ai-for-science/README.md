@@ -87,7 +87,7 @@ Astronomy
 
 --------------
 
-Geography/Climate
+Geography/Climate Change
 
 - [Urban morphology meets deep learning: Exploring urban forms in one million cities, town and villages across the planet](https://arxiv.org/pdf/1709.02939v2.pdf)
 - [PlaNet - Photo Geolocation with Convolutional Neural Networks](https://arxiv.org/abs/1602.05314v1)
@@ -114,3 +114,10 @@ Geography/Climate
 - [Predicting Climate Variability over the Indian Region Using Data Mining Strategies](https://arxiv.org/pdf/1509.06920v1.pdf)
 
 -------------------
+
+Space
+
+- [ai-in-space-research](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/20-ai-in-space-research)
+
+--------------
+-------------------------
