@@ -5,7 +5,6 @@
 - [AI Feynman: a Physics-Inspired Method for Symbolic Regression](https://arxiv.org/abs/1905.11481v1) :star:
 - [Accelerated Nuclear Magnetic Resonance Spectroscopy with Deep Learning](https://arxiv.org/abs/1904.05168v2)
 - [Theory-guided Data Science: A New Paradigm for Scientific Discovery from Data](https://arxiv.org/abs/1612.08544v2)
-- [Discovery of Physics from Data: Universal Laws and Discrepancy Models]()
 - [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/abs/1906.06843v1)
 - [Variational Autoencoders for New Physics Mining at the Large Hadron Collider](https://arxiv.org/abs/1811.10276v3)
 - [Covariance in Physics and Convolutional Neural Networks](https://arxiv.org/abs/1906.02481v1)
@@ -39,9 +38,8 @@
 - [Explainable Machine Learning for Scientific Insights and Discoveries](https://arxiv.org/abs/1905.08883v2)
 - [A Differentiable Programming System to Bridge Machine Learning and Scientific Computing](https://arxiv.org/abs/1907.07587v2)
 - [MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621v1)
-- [Efficient Probabilistic Inference in the Quest for Physics Beyond the Standard Model](https://arxiv.org/pdf/1807.07706v3.pdf)
 - [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/abs/1906.07906v1) :star:
-- [Predicting Research Trends with Semantic and Neural Networks with an application in Quantum Physics](https://arxiv.org/pdf/1906.06843v1.pdf)
+
 
 ---------------------
 
