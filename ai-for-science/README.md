@@ -74,6 +74,10 @@ Astronomy
 - [Deep Learning for Energy Estimation and Particle Identification in Gamma-ray Astronomy](https://arxiv.org/abs/1907.10480v1)
 - [Particle identification in ground-based gamma-ray astronomy using convolutional neural networks](https://arxiv.org/ftp/arxiv/papers/1812/1812.01551.pdf)
 - [Machine Learning in Astronomy: A Case Study in Quasar-Star Classification](https://arxiv.org/abs/1804.05051v1)
-
+- [Distributed image reconstruction for very large arrays in radio astronomy](https://arxiv.org/pdf/1507.00501v1.pdf)
+- [SKYNET: an efficient and robust neural network training tool for machine learning in astronomy](https://arxiv.org/abs/1309.0790v2)
+- [Convolutional neural networks: a magic bullet for gravitational-wave detection?](https://arxiv.org/pdf/1904.08693v1.pdf)
+- [Desaturating EUV observations of solar flaring storms](https://arxiv.org/pdf/1904.04211v1.pdf)
+- [Evolutionary Deep Learning to Identify Galaxies in the Zone of Avoidance](https://arxiv.org/pdf/1903.07461v2.pdf)
 
 -------------------
