@@ -102,6 +102,7 @@ Geography/Climate
 - [DOTA: A Large-scale Dataset for Object Detection in Aerial Images](https://arxiv.org/pdf/1711.10398v3.pdf)
 - [Automated Prototype for Asteroids Detection](https://arxiv.org/pdf/1901.10469v1.pdf)
 - [On-Orbit Smart Camera System to Observe Illuminated and Unilluminated Space Objects](https://arxiv.org/ftp/arxiv/papers/1809/1809.02042.pdf)
-
+- [Learning Spectral-Spatial-Temporal Features via a Recurrent Convolutional Neural Network for Change Detection in Multispectral Imagery](https://arxiv.org/pdf/1803.02642v1.pdf)
+- [Using Satellite Imagery for Good: Detecting Communities in Desert and Mapping Vaccination Activities](https://arxiv.org/ftp/arxiv/papers/1705/1705.04451.pdf)
 
 -------------------
