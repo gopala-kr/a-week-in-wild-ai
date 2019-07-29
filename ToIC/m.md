@@ -12,5 +12,16 @@
 -------------
 ![mobile](https://tr1.cbsistatic.com/hub/i/2015/05/07/84cd6086-f48e-11e4-940f-14feb5cc3d2a/550x418-cochrane-mobile-intelligence.jpg)
 -------------
+![factors](https://www.researchgate.net/profile/Harold_Szu2/publication/258393482/figure/fig14/AS:342368189468675@1458638345858/Moores-Law-history-future-limited-factors-and-Nanotechnology-Enhance-factors-for.png)
+-------------
 ![]()
 -------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+![]()
+-------------
+
