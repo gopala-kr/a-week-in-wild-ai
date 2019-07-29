@@ -16,9 +16,9 @@
 -------------
 ![Outcome](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Outcome-Spectrum.jpg)
 -------------
-![]()
+![Projections](http://waitbutwhy.com/wp-content/uploads/2015/01/Projections.png)
 -------------
-![]()
+![Disruption](https://cmte.ieee.org/futuredirections/wp-content/uploads/sites/44/2018/06/FG-Divergence-Disruption-and-Innovation-19-1.png)
 -------------
 ![]()
 -------------
