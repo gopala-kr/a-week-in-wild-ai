@@ -14,7 +14,7 @@
 -------------
 ![factors](https://www.researchgate.net/profile/Harold_Szu2/publication/258393482/figure/fig14/AS:342368189468675@1458638345858/Moores-Law-history-future-limited-factors-and-Nanotechnology-Enhance-factors-for.png)
 -------------
-![]()
+![Outcome](https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/uploads/2015/01/Outcome-Spectrum.jpg)
 -------------
 ![]()
 -------------
