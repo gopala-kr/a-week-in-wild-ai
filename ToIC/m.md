@@ -22,6 +22,11 @@
 -------------
 ![kjYByWLZFEtArZsLlXqKgWmFccfWO7PYjJiZnXyPvsA](https://assets.weforum.org/editor/kjYByWLZFEtArZsLlXqKgWmFccfWO7PYjJiZnXyPvsA.PNG)
 -------------
-![]()
+![2018](https://cmte.ieee.org/futuredirections/wp-content/uploads/sites/44/2018/07/gr1.jpg)
 -------------
-
+![]()
+-----------
+![]()
+-----------
+![]()
+-----------
