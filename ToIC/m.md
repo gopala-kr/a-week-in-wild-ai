@@ -24,9 +24,6 @@
 -------------
 ![2018](https://cmte.ieee.org/futuredirections/wp-content/uploads/sites/44/2018/07/gr1.jpg)
 -------------
-![]()
+![scenarios](https://cmte.ieee.org/futuredirections/wp-content/uploads/sites/44/2018/09/future-scenarios.png)
 -----------
-![]()
------------
-![]()
------------
+------------------
