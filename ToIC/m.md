@@ -20,7 +20,7 @@
 -------------
 ![Disruption](https://cmte.ieee.org/futuredirections/wp-content/uploads/sites/44/2018/06/FG-Divergence-Disruption-and-Innovation-19-1.png)
 -------------
-![]()
+![kjYByWLZFEtArZsLlXqKgWmFccfWO7PYjJiZnXyPvsA](https://assets.weforum.org/editor/kjYByWLZFEtArZsLlXqKgWmFccfWO7PYjJiZnXyPvsA.PNG)
 -------------
 ![]()
 -------------
