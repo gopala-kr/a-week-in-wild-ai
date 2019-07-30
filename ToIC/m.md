@@ -1,4 +1,6 @@
 ---------------
+![Singularity](https://academy.resonance.is/wp-content/uploads/2015/04/Singularity-epochs.png)
+------------
 ![subconscious-mind-wide-equisync-version](https://infinisync-images-2-23-15.s3.amazonaws.com/actual-images-on-site/subconscious-mind-wide-equisync-version-6-12-16-v1.png)
 --------------
 ![calleman_timeline_of_the_evolution_of_consciousness2](https://lookinnotout.files.wordpress.com/2014/02/calleman_timeline_of_the_evolution_of_consciousness2.jpg)
