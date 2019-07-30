@@ -1,7 +1,7 @@
 ---------------
 ![calleman_timeline_of_the_evolution_of_consciousness2](https://lookinnotout.files.wordpress.com/2014/02/calleman_timeline_of_the_evolution_of_consciousness2.jpg)
 -------------
-![]()
+![Spirituality](http://www.mapofspirituality.org/wp-content/uploads/2016/07/Map-Of-Spirituality.png)
 ---------------
 ![SITN](https://i2.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2017/08/Anyoha-SITN-Figure-2-AI-timeline-2.jpg)
 
