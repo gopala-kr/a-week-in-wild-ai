@@ -114,6 +114,8 @@ Geography/Climate Change
 - [Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets](https://arxiv.org/pdf/1605.01156v1.pdf)
 - [Predicting Climate Variability over the Indian Region Using Data Mining Strategies](https://arxiv.org/pdf/1509.06920v1.pdf)
 - [Moon Search Algorithms for NASA's Dawn Mission to Asteroid Vesta](https://arxiv.org/abs/1301.1907v1)
+- [A Novel Deep Neural Network Architecture for Mars Visual Navigation](https://arxiv.org/pdf/1808.08395v1.pdf)
+
 -------------------
 
 Space
