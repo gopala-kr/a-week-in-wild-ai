@@ -85,6 +85,9 @@ Astronomy
 - [Advanced Image Processing for Astronomical Images](https://arxiv.org/ftp/arxiv/papers/1812/1812.09702.pdf)
 - [Computational Intelligence Challenges and Applications on Large-Scale Astronomical Time Series Databases](https://arxiv.org/pdf/1509.07823v1.pdf)
 - [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://arxiv.org/abs/1802.04431v3)
+- [Moon Search Algorithms for NASA's Dawn Mission to Asteroid Vesta](https://arxiv.org/abs/1301.1907v1)
+- [A Novel Deep Neural Network Architecture for Mars Visual Navigation](https://arxiv.org/pdf/1808.08395v1.pdf)
+- [SPASS: Scientific Prominence Active Search System with Deep Image Captioning Network](https://arxiv.org/pdf/1809.03385v1.pdf)
 
 --------------
 
