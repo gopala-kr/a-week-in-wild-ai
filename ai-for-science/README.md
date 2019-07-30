@@ -90,6 +90,8 @@ Astronomy
 - [SPASS: Scientific Prominence Active Search System with Deep Image Captioning Network](https://arxiv.org/pdf/1809.03385v1.pdf)
 - [FPGA Architecture for Deep Learning and its application to Planetary Robotics](https://arxiv.org/ftp/arxiv/papers/1701/1701.07543.pdf)
 - [Solar-Sail Trajectory Design for Multiple Near Earth Asteroid Exploration Based on Deep Neural Networks](https://arxiv.org/ftp/arxiv/papers/1901/1901.02172.pdf)
+- [Automated Prototype for Asteroids Detection](https://arxiv.org/pdf/1901.10469v1.pdf)
+- [Seeker based Adaptive Guidance via Reinforcement Meta-Learning Applied to Asteroid Close Proximity Operations](https://arxiv.org/pdf/1907.06098v1.pdf)
 
 --------------
 
@@ -106,7 +108,6 @@ Geography/Climate Change
 - [SpaceNet: A Remote Sensing Dataset and Challenge Series](https://arxiv.org/pdf/1807.01232v3.pdf)
 - [SOMOSPIE: A modular SOil MOisture SPatial Inference Engine based on data driven decisions](https://arxiv.org/pdf/1904.07754v2.pdf)
 - [DOTA: A Large-scale Dataset for Object Detection in Aerial Images](https://arxiv.org/pdf/1711.10398v3.pdf)
-- [Automated Prototype for Asteroids Detection](https://arxiv.org/pdf/1901.10469v1.pdf)
 - [On-Orbit Smart Camera System to Observe Illuminated and Unilluminated Space Objects](https://arxiv.org/ftp/arxiv/papers/1809/1809.02042.pdf)
 - [Learning Spectral-Spatial-Temporal Features via a Recurrent Convolutional Neural Network for Change Detection in Multispectral Imagery](https://arxiv.org/pdf/1803.02642v1.pdf)
 - [Using Satellite Imagery for Good: Detecting Communities in Desert and Mapping Vaccination Activities](https://arxiv.org/ftp/arxiv/papers/1705/1705.04451.pdf)
