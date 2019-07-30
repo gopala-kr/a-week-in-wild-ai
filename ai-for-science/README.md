@@ -42,6 +42,7 @@ Physics
 - [MadMiner: Machine learning-based inference for particle physics](https://arxiv.org/abs/1907.10621v1)
 - [Discovery of Physics from Data: Universal Laws and Discrepancy Models](https://arxiv.org/abs/1906.07906v1) :star:
 - [How the fundamental concepts of mathematics and physics explain deep learning](https://arxiv.org/abs/1811.00576v2)
+- [Ultimate Intelligence Part II: Physical Measure and Complexity of Intelligence](https://arxiv.org/pdf/1504.03303v2.pdf)
 
 ---------------------
 
