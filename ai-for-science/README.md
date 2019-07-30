@@ -93,6 +93,7 @@ Astronomy
 - [Automated Prototype for Asteroids Detection](https://arxiv.org/pdf/1901.10469v1.pdf)
 - [Seeker based Adaptive Guidance via Reinforcement Meta-Learning Applied to Asteroid Close Proximity Operations](https://arxiv.org/pdf/1907.06098v1.pdf)
 - [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728v2.pdf)
+- [From Dark Matter to Galaxies with Convolutional Networks](https://arxiv.org/pdf/1902.05965v2.pdf)
 
 --------------
 
