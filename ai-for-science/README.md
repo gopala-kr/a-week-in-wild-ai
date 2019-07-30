@@ -64,7 +64,7 @@ Chemistry
 - [Unifying machine learning and quantum chemistry -- a deep neural network for molecular wavefunctions](https://arxiv.org/abs/1906.10033v1)
 - [Parameterized quantum circuits as machine learning models](https://arxiv.org/abs/1906.07682v1)
 - [Generative Models for Automatic Chemical Design](https://arxiv.org/pdf/1907.01632v1.pdf)
-
+- [Graph Informer Networks for Molecules](https://arxiv.org/pdf/1907.11318v1.pdf)
 --------------------------
 
 Astronomy
@@ -84,7 +84,7 @@ Astronomy
 - [Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era](https://arxiv.org/pdf/1902.00522v1.pdf) :star:
 - [Advanced Image Processing for Astronomical Images](https://arxiv.org/ftp/arxiv/papers/1812/1812.09702.pdf)
 - [Computational Intelligence Challenges and Applications on Large-Scale Astronomical Time Series Databases](https://arxiv.org/pdf/1509.07823v1.pdf)
-- [Graph Informer Networks for Molecules](https://arxiv.org/pdf/1907.11318v1.pdf)
+- [Detecting Spacecraft Anomalies Using LSTMs and Nonparametric Dynamic Thresholding](https://arxiv.org/abs/1802.04431v3)
 
 --------------
 
@@ -113,9 +113,7 @@ Geography/Climate Change
 - [ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events](https://arxiv.org/abs/1612.02095v2)
 - [Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets](https://arxiv.org/pdf/1605.01156v1.pdf)
 - [Predicting Climate Variability over the Indian Region Using Data Mining Strategies](https://arxiv.org/pdf/1509.06920v1.pdf)
-- [Moon Search Algorithms for NASA's Dawn Mission to Asteroid Vesta](https://arxiv.org/abs/1301.1907v1)
-- [A Novel Deep Neural Network Architecture for Mars Visual Navigation](https://arxiv.org/pdf/1808.08395v1.pdf)
-- [SPASS: Scientific Prominence Active Search System with Deep Image Captioning Network](https://arxiv.org/pdf/1809.03385v1.pdf)
+
 
 -------------------
 
