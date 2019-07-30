@@ -96,6 +96,8 @@ Astronomy
 - [From Dark Matter to Galaxies with Convolutional Networks](https://arxiv.org/pdf/1902.05965v2.pdf)
 - [Single-epoch supernova classification with deep convolutional neural networks](https://arxiv.org/pdf/1711.11526v1.pdf)
 - [Estimating Cosmological Parameters from the Dark Matter Distribution](https://arxiv.org/pdf/1711.02033v1.pdf)
+- [Enabling Dark Energy Science with Deep Generative Models of Galaxy Images](https://arxiv.org/pdf/1609.05796v2.pdf)
+
 
 --------------
 
