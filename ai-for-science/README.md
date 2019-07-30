@@ -84,6 +84,7 @@ Astronomy
 - [Deep Learning for Multi-Messenger Astrophysics: A Gateway for Discovery in the Big Data Era](https://arxiv.org/pdf/1902.00522v1.pdf) :star:
 - [Advanced Image Processing for Astronomical Images](https://arxiv.org/ftp/arxiv/papers/1812/1812.09702.pdf)
 - [Computational Intelligence Challenges and Applications on Large-Scale Astronomical Time Series Databases](https://arxiv.org/pdf/1509.07823v1.pdf)
+- [Graph Informer Networks for Molecules](https://arxiv.org/pdf/1907.11318v1.pdf)
 
 --------------
 
