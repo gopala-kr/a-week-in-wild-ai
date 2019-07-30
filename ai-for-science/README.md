@@ -95,6 +95,7 @@ Astronomy
 - [CosmoFlow: Using Deep Learning to Learn the Universe at Scale](https://arxiv.org/pdf/1808.04728v2.pdf)
 - [From Dark Matter to Galaxies with Convolutional Networks](https://arxiv.org/pdf/1902.05965v2.pdf)
 - [Single-epoch supernova classification with deep convolutional neural networks](https://arxiv.org/pdf/1711.11526v1.pdf)
+- [Estimating Cosmological Parameters from the Dark Matter Distribution](https://arxiv.org/pdf/1711.02033v1.pdf)
 
 --------------
 
