@@ -7,6 +7,8 @@
 ------------
 ![Evolution](https://www.researchgate.net/profile/Dilip_Prasad/publication/228726238/figure/tbl1/AS:670363998486546@1536838640915/Evolution-and-consciousness.png)
 ----------
+![CountdowntoSingularityLin](http://singularity.com/images/charts/CountdowntoSingularityLin.jpg)
+----------
 ![Intelligence](https://slideplayer.com/slide/15082302/91/images/1/The+Evolution+of+Intelligence.jpg)
 --------
 ![S1364661305000823](https://ars.els-cdn.com/content/image/1-s2.0-S1364661305000823-gr2.jpg)
