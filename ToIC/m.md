@@ -4,6 +4,8 @@
 ![calleman_timeline_of_the_evolution_of_consciousness2](https://lookinnotout.files.wordpress.com/2014/02/calleman_timeline_of_the_evolution_of_consciousness2.jpg)
 ------------
 ![Evolution](https://www.researchgate.net/profile/Dilip_Prasad/publication/228726238/figure/tbl1/AS:670363998486546@1536838640915/Evolution-and-consciousness.png)
+----------
+![Intelligence](https://slideplayer.com/slide/15082302/91/images/1/The+Evolution+of+Intelligence.jpg)
 --------
 ![S1364661305000823](https://ars.els-cdn.com/content/image/1-s2.0-S1364661305000823-gr2.jpg)
 -------------
