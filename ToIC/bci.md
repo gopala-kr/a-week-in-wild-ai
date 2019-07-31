@@ -12,7 +12,7 @@
 ----------
 ![d92e6fee41b6c472523da5fedbf4a21a](https://s3.studylib.net/store/data/006941065_1-d92e6fee41b6c472523da5fedbf4a21a.png)
 ----------
-![]()
+![Figure](https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2017/08/Figure-2.jpg)
 ----------
 ![]()
 ----------
