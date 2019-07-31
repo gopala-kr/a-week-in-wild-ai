@@ -617,7 +617,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 -------------
 ![graph](https://www.nasa.gov/sites/default/files/thumbnails/image/graph-16.gif)
 -------------
-![]()
+![asterres11tbl18](https://space.nss.org/settlement/nasa/spaceresvol3/images/asterres11tbl18.gif)
 -------------
 ![]()
 
