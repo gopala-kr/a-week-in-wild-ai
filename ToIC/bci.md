@@ -8,3 +8,5 @@
 ----------
 ![full_immersion](https://d11wkw82a69pyn.cloudfront.net/siteassets/images/sonar_human_machine/full_immersion.png)
 ----------
+![3231589](https://deliveryimages.acm.org/10.1145/3240000/3231589/f2.jpg)
+----------
