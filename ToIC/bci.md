@@ -14,7 +14,7 @@
 ----------
 ![Figure](https://i0.wp.com/sitn.hms.harvard.edu/wp-content/uploads/2017/08/Figure-2.jpg)
 ----------
-![]()
+![20181010_Infographics_The_memory_market](https://samim.io/static/upload/20181010_Infographics_The_memory_market.png)
 ----------
 ![]()
 ----------
