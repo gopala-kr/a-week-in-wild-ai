@@ -24,7 +24,7 @@
 ----------
 ![interface](https://www.alliedmarketresearch.com/images/brain-computer-interface-market%20(2).jpg)
 ----------
-![]()
+![Computer](https://www.omrglobal.com/wp-content/uploads/2018/06/Brain-Computer-Interface-Market.jpg)
 ----------
 ![]()
 ----------
