@@ -26,7 +26,7 @@
 ----------
 ![Computer](https://www.omrglobal.com/wp-content/uploads/2018/06/Brain-Computer-Interface-Market.jpg)
 ----------
-![]()
+![59804576acab8b2b1f88c703ba778a5b](https://i.pinimg.com/originals/59/80/45/59804576acab8b2b1f88c703ba778a5b.png)
 ----------
 ![]()
 ----------
