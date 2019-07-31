@@ -18,6 +18,27 @@
 ----------
 ![Privacy_threats_4](http://brl.ee.washington.edu/wp-content/uploads/2014/05/Privacy_threats_4.jpg)
 ----------
+![BCI_Anonymizer](http://www.tamarabonaci.com/_/rsrc/1472874818035/research/neural-privacy/BCI_Anonymizer.jpg?height=265&width=684)
+----------
 ![]()
 ----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+![]()
+----------
+
 
