@@ -603,7 +603,7 @@ From Mercury to Pluto and Beyond](https://science.house.gov/imo/media/doc/Stern%
 
 
 -------------
-![]()
+![20190529_WhereWeAre20190701](https://planetary.s3.amazonaws.com/assets/images/charts-diagrams/2019/20190529_WhereWeAre20190701-01_f840.png)
 
 -------------
 ![]()
