@@ -16,7 +16,7 @@
 ----------
 ![20181010_Infographics_The_memory_market](https://samim.io/static/upload/20181010_Infographics_The_memory_market.png)
 ----------
-![]()
+![Privacy_threats_4](http://brl.ee.washington.edu/wp-content/uploads/2014/05/Privacy_threats_4.jpg)
 ----------
 ![]()
 ----------
