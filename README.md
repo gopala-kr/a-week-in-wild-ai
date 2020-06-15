@@ -43,6 +43,7 @@
 
 ----------------------
 --------------------------------
+- [Lex AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) :star:
 - [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
 
 -----------
