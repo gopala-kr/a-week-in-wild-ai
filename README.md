@@ -56,6 +56,14 @@
 source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
 
 -----------
+![dl_frameworks](https://brianhhu.github.io/img/dl_frameworks.jpg)
+
+
+- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) [Slides](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf)
+- [AI Podcast Clips](https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41) :star:
+------------
+![2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize](http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png) 
+----------
 
 ![Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final](http://mattturck.com/wp-content/uploads/2018/07/Matt_Turck_FirstMark_Big_Data_Landscape_2018_Final.png)
 
