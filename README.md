@@ -27,11 +27,11 @@
 - [[Week-1](https://github.com/gopala-kr/ConvNets)](01/04/2019 - 07/04/2019)  : Recent Advances in CNN architectures and CV tasks
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
-- [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware architectures and DL frameworks
-- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 14/06/2020) : Recent Advances in Quantum ML and [Neuromorphic hardwares, BCI, DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic)
+- [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware Architectures and DL frameworks
+- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 14/06/2020) : Recent Advances in [Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review), [Neuromorphic, BCI, DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic)
 - [[Week-11](https://github.com/gopala-kr/DRL-Agents)] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [[Week-12](https://github.com/gopala-kr/generative-models)] (tbd)  : Recent Advances in Generative Models
-- [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and Metalearning
+- [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
 - [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] (tbd)  : Neural ODE's and Graph Neural Network
 - [[Week-15](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] (tbd)  : AI for Science Advancement
 - [Week-16-17] (tbd) : AGI Roadmap
@@ -43,7 +43,7 @@
 
 ----------------------
 --------------------------------
-- [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/)
+- [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
 
 -----------
 ![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-02.png?resize=1024%2C682&ssl=1)
@@ -81,7 +81,7 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![dl_frameworks](https://brianhhu.github.io/img/dl_frameworks.jpg)
 
 
-- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) [Slides](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf)
+- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) |  [Slides](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf)
 - [AI Podcast Clips](https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41) :star:
 ------------
 ![2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize](http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png) 
