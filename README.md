@@ -28,7 +28,7 @@
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
 - [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware architectures and DL frameworks
-- [[Week-10](https://github.com/gopala-kr/DL-on-Silicon)] (tbd)  : Recent advances in Quantum ML and Neuromorphic hardwares
+- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 14/06/2020) : Recent advances in Quantum ML and [Neuromorphic hardwares, BCI, DNA](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic)
 - [[Week-11](https://github.com/gopala-kr/DRL-Agents)] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [[Week-12](https://github.com/gopala-kr/generative-models)] (tbd)  : Recent Advances in Generative Models
 - [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and Metalearning
@@ -44,7 +44,14 @@
 ----------------------
 --------------------------------
 
-![ai-toolchain-2018f](https://www.blumbergcapital.com/cnt/uploads/2018/11/ai-toolchain-2018f.png)
+![qk7QtIBB5](https://miro.medium.com/max/2000/1*4Fx-a58wL-qk7QtIBB5-xg.png)
+
+---------
+![CND7BItcmoyDySgQ](https://miro.medium.com/max/2000/1*qxRND-CND7BItcmoyDySgQ.png)
+
+--------------
+
+![ai-toolchain-2018f](https://blumbergcapital.com/wp-content/uploads/2020/05/ai-toolchain-2018f.png)
 
 source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
 
