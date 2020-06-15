@@ -28,7 +28,7 @@
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
 - [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware architectures and DL frameworks
-- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 14/06/2020) : Recent advances in Quantum ML and [Neuromorphic hardwares, BCI, DNA](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic)
+- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 14/06/2020) : Recent Advances in Quantum ML and [Neuromorphic hardwares, BCI, DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic)
 - [[Week-11](https://github.com/gopala-kr/DRL-Agents)] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [[Week-12](https://github.com/gopala-kr/generative-models)] (tbd)  : Recent Advances in Generative Models
 - [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and Metalearning
@@ -43,7 +43,29 @@
 
 ----------------------
 --------------------------------
+- [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/)
 
+-----------
+![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-02.png?resize=1024%2C682&ssl=1)
+-----
+![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-03b.png?resize=1024%2C564&ssl=1)
+------------
+![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-04.png?resize=1024%2C883&ssl=1)
+---------
+![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-05.png?resize=1024%2C798&ssl=1)
+---------
+![blog5](https://i2.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-06.png?resize=1024%2C730&ssl=1)
+--------
+![blog5-07](https://i2.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-07.png?resize=768%2C1142&ssl=1)
+--------
+![blog5-08](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-08.png?resize=1024%2C678&ssl=1)
+----------
+![blog5](https://i2.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-09.png?resize=1024%2C981&ssl=1)
+-----------
+![blog5-10](https://i2.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-10.png?resize=1024%2C375&ssl=1)
+----------
+![blog5-11](https://i0.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-11.png?resize=1024%2C446&ssl=1)
+------------
 ![qk7QtIBB5](https://miro.medium.com/max/2000/1*4Fx-a58wL-qk7QtIBB5-xg.png)
 
 ---------
@@ -72,8 +94,13 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![machine intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--gxPnyf4H--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,fl_keep_iptc.progressive.apng/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
 -----------
-
-![AI 100 2018](https://v.fastcdn.co/t/11443291/ae1c86ce/1514999158-25843266-884x646x884x647x0x1-121917-AI-100-Market.png)
+![Gartner-Hype-Cycle-For-Artificial-Intelligence-2019](https://blogs-images.forbes.com/louiscolumbus/files/2019/09/Gartner-Hype-Cycle-For-Artificial-Intelligence-2019.jpg)
+--------
+![33attjubQ3xiv_Ym](https://miro.medium.com/max/2448/0*33attjubQ3xiv_Ym.png)
+--------
+![ethc-2019](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/ethc-2019.png)
+--------
+![l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x](https://qtxasset.com/sensorsmag/1553006311/gartner.jpg/gartner.jpg?l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x)
 
 ----------
 
