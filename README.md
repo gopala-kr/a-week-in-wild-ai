@@ -28,7 +28,7 @@
 - [[Week-2](https://github.com/gopala-kr/recurrent-nn)](08/04/2019 - 14/04/2019)  : Recent Advances in RNN architectures and NLP-Speech tasks
 - [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
 - [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware Architectures and DL frameworks
-- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 21/06/2020) : [Quantum Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review) | [Algorithms & Applications](https://github.com/gopala-kr/Quantum-Dots/tree/master/07-Quantum-Algorithms-Applications) [Neuromorphic, BCI, DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic) 
+- [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 21/06/2020) : [Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review) | [Neuromorphic, BCI & DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic) | [Q-Algorithms](https://github.com/gopala-kr/Quantum-Dots/tree/master/07-Quantum-Algorithms-Applications) 
 - [[Week-11](https://github.com/gopala-kr/generative-models)] (12/07/2020)  : [Recent Advances in Generative Models](https://github.com/gopala-kr/generative-models)
 - [[Week-12](https://github.com/gopala-kr/DRL-Agents)] (tbd)  : Recent Advances in Deep RL and Robotic tasks
 - [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
