@@ -30,7 +30,7 @@
 - [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware Architectures and DL frameworks
 - [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 14/06/2020) : Recent Advances in [Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review), [Neuromorphic, BCI, DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic)
 - [[Week-11](https://github.com/gopala-kr/DRL-Agents)] (tbd)  : Recent Advances in Deep RL and Robotic tasks
-- [[Week-12](https://github.com/gopala-kr/generative-models)] 28/06/2020  : Recent Advances in Generative Models
+- [[Week-12](https://github.com/gopala-kr/generative-models)] 12/07/2020  : Recent Advances in Generative Models
 - [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
 - [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] (tbd)  : Neural ODE's and Graph Neural Network
 - [[Week-15](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] (tbd)  : AI for Science Advancement
