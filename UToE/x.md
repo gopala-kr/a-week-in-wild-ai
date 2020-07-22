@@ -1,4 +1,6 @@
 -----------
+![Game_Changers_12](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/10161029/Game_Changers_12-6-36-2.png)
+--------------
 ![industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry](https://w7.pngwing.com/pngs/367/1006/png-transparent-industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry.png)
 -----------------
 ![basics](https://hjt-training.co.uk/wp-content/uploads/2016/01/chapter-7-basics-1.png)
