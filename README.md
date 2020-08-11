@@ -32,17 +32,15 @@
 
 
 -----------------------------
-  2020
-     
-- [[Week-1](https://github.com/gopala-kr/ConvNets)] (11th - 16th Aug 2020) : Vision 
-- [[Week-2](https://github.com/gopala-kr/recurrent-nn)] : NLP & Speech
-- [[Week-3](https://github.com/gopala-kr/DL-on-Silicon)] : Frameworks & Hardwares
-- [[Week-4](https://github.com/gopala-kr/generative-models)] : [Recent Advances in Generative Models](https://github.com/gopala-kr/generative-models)
-- [[Week-5](https://github.com/gopala-kr/DRL-Agents)]  : Recent Advances in Deep RL and Robotic tasks
-- [[Week-6](https://github.com/gopala-kr/meta-learning)] : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
-- [[Week-7](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] : Neural ODE's and Graph Neural Network
-- [[Week-8](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] : AI for Science Advancement
-- [Week-9] (tbd) : AGI Roadmap
+- [[Week-11](https://github.com/gopala-kr/ConvNets)] (11th - 16th Aug 2020) : Vision 
+- [[Week-22](https://github.com/gopala-kr/recurrent-nn)] : NLP & Speech
+- [[Week-13](https://github.com/gopala-kr/DL-on-Silicon)] : Frameworks & Hardwares
+- [[Week-14](https://github.com/gopala-kr/generative-models)] : [Recent Advances in Generative Models](https://github.com/gopala-kr/generative-models)
+- [[Week-15](https://github.com/gopala-kr/DRL-Agents)]  : Recent Advances in Deep RL and Robotic tasks
+- [[Week-16](https://github.com/gopala-kr/meta-learning)] : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
+- [[Week-17](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] : Neural ODE's and Graph Neural Network
+- [[Week-18](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] : AI for Science Advancement
+- [Week-19-20] (tbd) : AGI Roadmap
 
 -------------------
 
