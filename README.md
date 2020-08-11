@@ -33,7 +33,7 @@
 
 -----------------------------
 - [[Week-11](https://github.com/gopala-kr/ConvNets)] (11th - 16th Aug 2020) : Vision 
-- [[Week-22](https://github.com/gopala-kr/recurrent-nn)] : NLP & Speech
+- [[Week-12](https://github.com/gopala-kr/recurrent-nn)] : NLP & Speech
 - [[Week-13](https://github.com/gopala-kr/DL-on-Silicon)] : Frameworks & Hardwares
 - [[Week-14](https://github.com/gopala-kr/generative-models)] : [Recent Advances in Generative Models](https://github.com/gopala-kr/generative-models)
 - [[Week-15](https://github.com/gopala-kr/DRL-Agents)]  : Recent Advances in Deep RL and Robotic tasks
@@ -52,6 +52,8 @@
 - [Lex AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) :star:
 - [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
 - [Scalable, Distributed, Deep Machine Learning for Big Data](https://www.slideshare.net/yuhuang/large-scale-machine-learning-for-big-data)
+- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) |  [Slides] (https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf) | [gh](https://buomsoo-kim.github.io/learning/2020/04/02/deep-learning-sota-part-1.md/)
+
 -----------
 ![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-02.png?resize=1024%2C682&ssl=1)
 -----
@@ -88,7 +90,6 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![dl_frameworks](https://brianhhu.github.io/img/dl_frameworks.jpg)
 
 
-- [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) |  [Slides](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf)
 - [AI Podcast Clips](https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41) :star:
 ------------
 ![2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize](http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png) 
