@@ -29,12 +29,20 @@
 - [Week-3-8](15/04/2019 - 02/06/2019)  : time travel 4000 bc
 - [[Week-9](https://github.com/gopala-kr/DL-on-Silicon)] (03/06/2019 - 09/06/2019)  : Recent Advances in Hardware Architectures and DL frameworks
 - [[Week-10](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review)] (07/05/2020 - 21/06/2020) : [Quantum](https://github.com/gopala-kr/Quantum-Dots/tree/master/02-Quantum_Computing_Review) | [Neuromorphic, BCI & DNA Computing](https://github.com/gopala-kr/Quantum-Dots/tree/master/05-BCI_Neuromorphic) | [Q-Algorithms](https://github.com/gopala-kr/Quantum-Dots/tree/master/07-Quantum-Algorithms-Applications) 
-- [[Week-11](https://github.com/gopala-kr/generative-models)] (06/07/2020 - 12/07/2020)  : [Recent Advances in Generative Models](https://github.com/gopala-kr/generative-models)
-- [[Week-12](https://github.com/gopala-kr/DRL-Agents)] (tbd)  : Recent Advances in Deep RL and Robotic tasks
-- [[Week-13](https://github.com/gopala-kr/meta-learning)] (tbd)  : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
-- [[Week-14](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] (tbd)  : Neural ODE's and Graph Neural Network
-- [[Week-15](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] (tbd)  : AI for Science Advancement
-- [Week-16-17] (tbd) : AGI Roadmap
+
+
+-----------------------------
+  2020
+     
+- [[Week-1](https://github.com/gopala-kr/ConvNets)] (11th - 16th Aug 2020) : Vision 
+- [[Week-2](https://github.com/gopala-kr/recurrent-nn)] : NLP & Speech
+- [[Week-3](https://github.com/gopala-kr/DL-on-Silicon)] : Frameworks & Hardwares
+- [[Week-4](https://github.com/gopala-kr/generative-models)] : [Recent Advances in Generative Models](https://github.com/gopala-kr/generative-models)
+- [[Week-5](https://github.com/gopala-kr/DRL-Agents)]  : Recent Advances in Deep RL and Robotic tasks
+- [[Week-6](https://github.com/gopala-kr/meta-learning)] : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
+- [[Week-7](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] : Neural ODE's and Graph Neural Network
+- [[Week-8](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] : AI for Science Advancement
+- [Week-9] (tbd) : AGI Roadmap
 
 -------------------
 
@@ -45,7 +53,7 @@
 --------------------------------
 - [Lex AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) :star:
 - [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
-
+- [Scalable, Distributed, Deep Machine Learning for Big Data](https://www.slideshare.net/yuhuang/large-scale-machine-learning-for-big-data)
 -----------
 ![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-02.png?resize=1024%2C682&ssl=1)
 -----
