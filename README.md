@@ -106,7 +106,7 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 --------
 ![33attjubQ3xiv_Ym](https://miro.medium.com/max/2448/0*33attjubQ3xiv_Ym.png)
 --------
-![ethc-2019](https://emtemp.gcom.cloud/ngw/globalassets/en/newsroom/images/graphs/ethc-2019.png)
+![ethc-2019](https://images-cdn.newscred.com/Zz1lNWZiNWRjMmRlNWIxMWVhYjFjMjBlNjhjZDJlOWEzMw==)
 --------
 ![l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x](https://qtxasset.com/sensorsmag/1553006311/gartner.jpg/gartner.jpg?l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x)
 
