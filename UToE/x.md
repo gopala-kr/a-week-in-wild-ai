@@ -1,3 +1,5 @@
+
+- [https://www.visualcapitalist.com/](https://www.visualcapitalist.com/)
 -----------
 ![Game_Changers_12](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/10161029/Game_Changers_12-6-36-2.png)
 --------------
