@@ -1,14 +1,17 @@
 
 - [https://www.visualcapitalist.com/](https://www.visualcapitalist.com/)
 -----------
+![Ofcom-EMS](https://telecoms.com/wp-content/blogs.dir/1/files/2020/04/Ofcom-EMS.jpg)
+----------------
+![top-50-innovative-companies-2020-1-1](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/top-50-innovative-companies-2020-1-1.jpg)
+-----------------
 ![Game_Changers_12](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/10161029/Game_Changers_12-6-36-2.png)
 --------------
 ![industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry](https://w7.pngwing.com/pngs/367/1006/png-transparent-industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry.png)
 -----------------
 ![basics](https://hjt-training.co.uk/wp-content/uploads/2016/01/chapter-7-basics-1.png)
 -----------
-![]()
------------------
+
 ![]()
 -----------
 ![]()
