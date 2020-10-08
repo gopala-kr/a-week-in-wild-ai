@@ -113,7 +113,12 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x](https://qtxasset.com/sensorsmag/1553006311/gartner.jpg/gartner.jpg?l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x)
 
 ------
+![461323_1_En_1_Fig6_HTML](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-14596-5_1/MediaObjects/461323_1_En_1_Fig6_HTML.png)
+---------------
 ![image-2](https://productiveai.com/content/images/2020/06/image-2.png)
+----------
+![image-8](https://productiveai.com/content/images/2020/06/image-8.png)
+----------
 
 ----------
 
