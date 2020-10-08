@@ -112,6 +112,9 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 --------
 ![l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x](https://qtxasset.com/sensorsmag/1553006311/gartner.jpg/gartner.jpg?l5IES7lZZ1vVfi4VkKN0h68bmLlyWt7x)
 
+------
+![image-2](https://productiveai.com/content/images/2020/06/image-2.png)
+
 ----------
 
 [enterprise_ai_landscape_2018_2019](https://www.topbots.com/downloads/infographics/topbots_enterprise_ai_landscape_2018_2019_v2.pdf)
