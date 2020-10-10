@@ -12,7 +12,7 @@
 ![basics](https://hjt-training.co.uk/wp-content/uploads/2016/01/chapter-7-basics-1.png)
 -----------
 
-![]()
+![Uoe7jiRZBm](https://miro.medium.com/max/1050/0*Uoe7jiRZBm-hKEpk.png)
 -----------
 ![]()
 -----------------
