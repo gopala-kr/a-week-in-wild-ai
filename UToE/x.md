@@ -14,7 +14,7 @@
 
 ![Uoe7jiRZBm](https://miro.medium.com/max/1050/0*Uoe7jiRZBm-hKEpk.png)
 -----------
-![]()
+![inOu7CY8pfRdcj6s](https://miro.medium.com/max/1050/0*inOu7CY8pfRdcj6s.jpg)
 -----------------
 ![]()
 -----------
