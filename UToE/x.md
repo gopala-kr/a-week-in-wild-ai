@@ -18,7 +18,7 @@
 -----------------
 ![gfZnjPJOQvZW](https://miro.medium.com/max/1500/0*LVN-gfZnjPJOQvZW.jpg)
 -----------
-![]()
+![MdR5fhR5cSxsTeZg](https://miro.medium.com/max/1050/0*MdR5fhR5cSxsTeZg.png)
 -----------------
 ![]()
 -----------
