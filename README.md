@@ -105,6 +105,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 
 -----------
 ![Gartner-Hype-Cycle-For-Artificial-Intelligence-2019](https://blogs-images.forbes.com/louiscolumbus/files/2019/09/Gartner-Hype-Cycle-For-Artificial-Intelligence-2019.jpg)
+------------
+![Gartner-Hype-Cycle-For-Artificial-Intelligence-2020](https://images-cdn.newscred.com/Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ==)
 --------
 ![33attjubQ3xiv_Ym](https://miro.medium.com/max/2448/0*33attjubQ3xiv_Ym.png)
 --------
