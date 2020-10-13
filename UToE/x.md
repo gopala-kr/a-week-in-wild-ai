@@ -26,7 +26,7 @@
 -----------------
 ![oTqd9R95IotQbWcA](https://miro.medium.com/max/1050/1*k6sfM-oTqd9R95IotQbWcA.jpeg)
 -----------
-![]()
+![6vLr8jDjDb7IPYntD3wYKg](https://miro.medium.com/max/1050/1*6vLr8jDjDb7IPYntD3wYKg.jpeg)
 -----------------
 ![]()
 -----------
