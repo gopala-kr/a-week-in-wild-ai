@@ -32,7 +32,7 @@
 -----------
 ![3eSPJLsXoRkc4](https://miro.medium.com/max/1050/1*3eSPJLsXoRkc4-C_GX344A.jpeg)
 -----------------
-![]()
+![sIwF6PKHDQl59SdKOYbsPA](https://miro.medium.com/max/1050/1*sIwF6PKHDQl59SdKOYbsPA.jpeg)
 -----------
 ![]()
 -----------------
