@@ -22,7 +22,7 @@
 -----------------
 ![M4M0loVZVUoAhWTCKb](https://miro.medium.com/max/1500/1*M4M0loVZVUoAhWTCKb-KAw.png)
 -----------
-![]()
+![TjNmmCBGZfF](https://miro.medium.com/max/1050/0*YKPF-TjNmmCBGZfF)
 -----------------
 ![]()
 -----------
