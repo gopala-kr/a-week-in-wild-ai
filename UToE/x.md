@@ -30,7 +30,7 @@
 -----------------
 ![u2YWZ6j0tkvRFKoPPVUsOQ](https://miro.medium.com/max/1500/1*u2YWZ6j0tkvRFKoPPVUsOQ.jpeg)
 -----------
-![]()
+![3eSPJLsXoRkc4](https://miro.medium.com/max/1050/1*3eSPJLsXoRkc4-C_GX344A.jpeg)
 -----------------
 ![]()
 -----------
