@@ -4,3 +4,5 @@
 - [Machine Learning at the Network Edge:  A Survey](https://arxiv.org/pdf/1908.00080v3.pdf)
 
 ----------------
+![mledge](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/mledge.PNG)
+----------
