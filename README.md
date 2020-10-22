@@ -121,7 +121,15 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ----------
 ![image-8](https://productiveai.com/content/images/2020/06/image-8.png)
 ---------
+![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
+-----------
+![exponentials_1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_1.PNG)
+--------------
+![exponentials_intersections](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intersections.PNG)
+------------
 ![exponentials_intelligence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intelligence.PNG)
+----------
+![exponential_time](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_time.PNG)
 ----------
 
 ----------
