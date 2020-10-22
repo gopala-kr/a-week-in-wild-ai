@@ -120,6 +120,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![image-2](https://productiveai.com/content/images/2020/06/image-2.png)
 ----------
 ![image-8](https://productiveai.com/content/images/2020/06/image-8.png)
+---------
+![exponentials_intelligence](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_intelligence.PNG)
 ----------
 
 ----------
