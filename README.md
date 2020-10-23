@@ -137,6 +137,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ------------
 ![MV-Webinar-replay-Chart5-011320](https://www.lordabbett.com/content/dam/lordabbett/en/images/articles/chart5/MV-Webinar-replay-Chart5-011320.png)
 -----------
+![Major_Evolutionary_Transitions_digital](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Major_Evolutionary_Transitions_digital.jpg/1024px-Major_Evolutionary_Transitions_digital.jpg)
+----------------
 ![writings-6-epochs-of-evolution-A1](https://www.kurzweilai.net/images/writings-6-epochs-of-evolution-A1.png)
 ----------
 
