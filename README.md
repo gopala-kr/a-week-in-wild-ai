@@ -40,7 +40,7 @@
 - [[Week-16](https://github.com/gopala-kr/meta-learning)] : Recent Advances in [Transfer Learning](https://github.com/ci-ai/transfer-learning) and [Meta-learning](https://github.com/gopala-kr/meta-learning)
 - [[Week-17](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/Neural-ODEs-GNN)] : Neural ODE's and Graph Neural Network
 - [[Week-18](https://github.com/gopala-kr/a-week-in-wild-ai/tree/master/ai-for-science)] : AI for Science Advancement
-- [Week-19-20] (tbd) : AGI Roadmap
+- [[Week-19-20](https://github.com/ci-ai/AGI-Survey-2020)] Oct-Nov 2020 : AGI Survey 2020
 
 -------------------
 
@@ -51,6 +51,7 @@
 --------------------------------
 - [State of AI Report 2020](https://www.stateof.ai/)
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
+- [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)
 - [Lex AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) :star:
 - [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
 - [Scalable, Distributed, Deep Machine Learning for Big Data](https://www.slideshare.net/yuhuang/large-scale-machine-learning-for-big-data)
