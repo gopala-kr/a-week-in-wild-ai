@@ -88,6 +88,9 @@
 
 source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolchain-2018/)
 
+-------------
+![image-8](https://productiveai.com/content/images/2020/06/image-8.png)
+
 -----------
 ![dl_frameworks](https://brianhhu.github.io/img/dl_frameworks.jpg)
 
@@ -104,6 +107,13 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![machine intelligence 3.0](https://format-com-cld-res.cloudinary.com/image/private/s--gxPnyf4H--/c_crop,h_1500,w_2000,x_0,y_0/c_fill,g_center,h_855,w_1140/a_auto,fl_keep_iptc.progressive.apng/v1/19575bcc040a6dcff3097618ec9c585e/MI-Landscape-3_7.png)
 
 -----------
+[enterprise_ai_landscape_2018_2019](https://www.topbots.com/downloads/infographics/topbots_enterprise_ai_landscape_2018_2019_v2.pdf)
+
+----------
+[2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
+
+-------------------------------
+------------------------
 ![Gartner-Hype-Cycle-For-Artificial-Intelligence-2019](https://blogs-images.forbes.com/louiscolumbus/files/2019/09/Gartner-Hype-Cycle-For-Artificial-Intelligence-2019.jpg)
 ------------
 ![Gartner-Hype-Cycle-For-Artificial-Intelligence-2020](https://images-cdn.newscred.com/Zz1mOWJhNzlkNDA2ZTMxMWViYjRiOGFiM2IyMjQ1YmMwZQ==)
@@ -119,8 +129,7 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ---------------
 ![image-2](https://productiveai.com/content/images/2020/06/image-2.png)
 ----------
-![image-8](https://productiveai.com/content/images/2020/06/image-8.png)
----------
+
 ![exponential_accelerators](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_accelerators.PNG)
 -----------
 ![exponentials_1](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponentials_1.PNG)
@@ -140,15 +149,7 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![Major_Evolutionary_Transitions_digital](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Major_Evolutionary_Transitions_digital.jpg/1024px-Major_Evolutionary_Transitions_digital.jpg)
 ----------------
 ![writings-6-epochs-of-evolution-A1](https://www.kurzweilai.net/images/writings-6-epochs-of-evolution-A1.png)
-----------
-
-[enterprise_ai_landscape_2018_2019](https://www.topbots.com/downloads/infographics/topbots_enterprise_ai_landscape_2018_2019_v2.pdf)
-
-
-----------
-
-[2018_Matt_Turck_IoT_Landscape_Final](http://mattturck.com/wp-content/uploads/2018/02/2018_Matt_Turck_IoT_Landscape_Final.png)
-
+---------
 -------------
 
 **Maintainer**
