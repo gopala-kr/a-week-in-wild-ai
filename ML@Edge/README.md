@@ -10,6 +10,7 @@
 - [Deep Learning With Edge Computing: A Review](https://www.researchgate.net/publication/334489669_Deep_Learning_With_Edge_Computing_A_Review)
 - [Edge Intelligence: The Confluence ofEdge Computing and Artificial Intelligence](https://arxiv.org/pdf/1909.00560.pdf)
 - [Edge Intelligence: Architectures, Challenges, andApplications](https://arxiv.org/pdf/2003.12172.pdf)
+- [Edge Intelligence: Paving the Last Mile of ArtificialIntelligence with Edge Computing](https://arxiv.org/pdf/1905.10083.pdf)
 - [Convergence of Edge Computing and DeepLearning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)
 - [Federated Learning in Mobile Edge Computing: An Edge-Learning Perspective for Beyond 5G](https://arxiv.org/pdf/2007.08030.pdf)
 - [Deep Learning at the Mobile Edge: Opportunities for5G Networks](https://res.mdpi.com/d_attachment/applsci/applsci-10-04735/article_deploy/applsci-10-04735.pdf)
