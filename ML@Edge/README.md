@@ -1,6 +1,6 @@
 ---------------------
 
-- [Applying Machine Learning Techniques for Cachingin Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/2006.16864v2.pdf)
+- [Applying Machine Learning Techniques for Caching in Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/2006.16864v2.pdf)
 - [Machine Learning at the Network Edge:  A Survey](https://arxiv.org/pdf/1908.00080v3.pdf)
 - [State-of-the-art Techniques in Deep Edge Intelligence](https://arxiv.org/pdf/2008.00824.pdf)
 - [Tiny Machine Learning: The Next AI Revolution](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868)
@@ -9,6 +9,7 @@
 - [Deep Learning at the Edge](https://arxiv.org/ftp/arxiv/papers/1910/1910.10231.pdf)
 - [Deep Learning With Edge Computing: A Review](https://www.researchgate.net/publication/334489669_Deep_Learning_With_Edge_Computing_A_Review)
 - [Edge Intelligence: The Confluence ofEdge Computing and Artificial Intelligence](https://arxiv.org/pdf/1909.00560.pdf)
+- [Edge Intelligence: Architectures, Challenges, andApplications](https://arxiv.org/pdf/2003.12172.pdf)
 ------------------
 ----------------
 ![edge](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/edge.PNG)
