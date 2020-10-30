@@ -12,6 +12,7 @@
 - [Edge Intelligence: Architectures, Challenges, andApplications](https://arxiv.org/pdf/2003.12172.pdf)
 - [Convergence of Edge Computing and DeepLearning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)
 - [Federated Learning in Mobile Edge Computing: An Edge-Learning Perspective for Beyond 5G](https://arxiv.org/pdf/2007.08030.pdf)
+- [Deep Learning at the Mobile Edge: Opportunities for5G Networks](https://res.mdpi.com/d_attachment/applsci/applsci-10-04735/article_deploy/applsci-10-04735.pdf)
 ------------------
 ----------------
 ![edge](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/edge.PNG)
