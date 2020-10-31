@@ -52,6 +52,8 @@
 - [State of AI Report 2020](https://www.stateof.ai/)
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)
+- [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
+- [daviddao/awful-ai](https://github.com/daviddao/awful-ai)
 - [Lex AI Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) :star:
 - [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
 - [Scalable, Distributed, Deep Machine Learning for Big Data](https://www.slideshare.net/yuhuang/large-scale-machine-learning-for-big-data)
