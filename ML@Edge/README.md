@@ -16,6 +16,7 @@
 - [Deep Learning at the Mobile Edge: Opportunities for5G Networks](https://res.mdpi.com/d_attachment/applsci/applsci-10-04735/article_deploy/applsci-10-04735.pdf)
 - [Accelerating DNN Training in Wireless Federated Edge Learning Systems](https://arxiv.org/pdf/1905.09712v3.pdf)
 - [Communication-Computation Trade-Off in Resource-Constrained Edge Inference](https://arxiv.org/pdf/2006.02166v2.pdf)
+- [Federated Edge Learning : Design Issues and Challenges](https://arxiv.org/pdf/2009.00081v1.pdf)
 
 ------------------
 ----------------
