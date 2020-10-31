@@ -17,7 +17,7 @@
 - [Accelerating DNN Training in Wireless Federated Edge Learning Systems](https://arxiv.org/pdf/1905.09712v3.pdf)
 - [Communication-Computation Trade-Off in Resource-Constrained Edge Inference](https://arxiv.org/pdf/2006.02166v2.pdf)
 - [Federated Edge Learning : Design Issues and Challenges](https://arxiv.org/pdf/2009.00081v1.pdf)
-
+- [A Review on Computational Intelligence Techniques in Cloud and Edge Computing](https://arxiv.org/pdf/2007.14215v1.pdf)
 ------------------
 ----------------
 ![edge](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/edge.PNG)
