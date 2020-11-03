@@ -2,6 +2,10 @@
 - [https://www.visualcapitalist.com/](https://www.visualcapitalist.com/)
 -----------
 ![Ofcom-EMS](https://telecoms.com/wp-content/blogs.dir/1/files/2020/04/Ofcom-EMS.jpg)
+
+---------
+
+![Visualizing-the-State-of-5G-Networks-Worldwide-1200px](https://www.visualcapitalist.com/wp-content/uploads/2020/10/Visualizing-the-State-of-5G-Networks-Worldwide-1200px.jpg)
 ----------------
 ![top-50-innovative-companies-2020-1-1](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/top-50-innovative-companies-2020-1-1.jpg)
 -----------------
