@@ -7,8 +7,14 @@
 
 ![Visualizing-the-State-of-5G-Networks-Worldwide-1200px](https://www.visualcapitalist.com/wp-content/uploads/2020/10/Visualizing-the-State-of-5G-Networks-Worldwide-1200px.jpg)
 ----------------
+![5G-Revolution-Unlocking-the-Digital-Age](https://www.visualcapitalist.com/wp-content/uploads/2020/06/5G-Revolution-Unlocking-the-Digital-Age.jpg)
+---------
+![5g-infographic-full-size](https://www.visualcapitalist.com/wp-content/uploads/2020/03/5g-infographic-full-size.jpg)
+-------------
 ![top-50-innovative-companies-2020-1-1](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/top-50-innovative-companies-2020-1-1.jpg)
 -----------------
+
+------------
 ![Game_Changers_12](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/10161029/Game_Changers_12-6-36-2.png)
 --------------
 ![industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry](https://w7.pngwing.com/pngs/367/1006/png-transparent-industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry.png)
