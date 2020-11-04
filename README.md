@@ -50,6 +50,7 @@
 ----------------------
 --------------------------------
 - [State of AI Report 2020](https://www.stateof.ai/)
+- [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
 - [2020 Machine Learning Roadmap](https://www.youtube.com/watch?v=pHiMN_gy9mk)
 - [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops)
