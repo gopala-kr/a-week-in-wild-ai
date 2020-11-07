@@ -44,7 +44,13 @@
 -----------------
 ![sIwF6PKHDQl59SdKOYbsPA](https://miro.medium.com/max/1050/1*sIwF6PKHDQl59SdKOYbsPA.jpeg)
 -----------
-![]()
+![TOP-50-MINING-COMPANIES](https://www.mining.com/wp-content/uploads/2020/10/TOP-50-MINING-COMPANIES-Q3-2020-Gold-price-rally-lifts-value-of-top-50-mining-companies-above-1-trillion-for-the-first-time-.jpg)
 -----------------
-![]()
+![TOP-50-MINING-COMPANIES-Q3-2020-COMMODITY](https://www.mining.com/wp-content/uploads/2020/10/TOP-50-MINING-COMPANIES-Q3-2020-COMMODITY-Gold-price-rally-lifts-value-of-top-50-mining-companies-above-1-trillion-for-the-first-time-.jpg)
+-----------
+![TOP-50-MINING-COMPANIES-Q3-2020-COUNTRY-Gold-price-rally-lifts](https://www.mining.com/wp-content/uploads/2020/10/TOP-50-MINING-COMPANIES-Q3-2020-COUNTRY-Gold-price-rally-lifts-value-of-top-50-mining-companies-above-1-trillion-for-the-first-time-.jpg)
+---------
+![TOP-50-MINING-COMPANIES-Q3-2020-BEST-WORST-PERFORMERS](https://www.mining.com/wp-content/uploads/2020/10/TOP-50-MINING-COMPANIES-Q3-2020-BEST-WORST-PERFORMERS-Gold-price-rally-lifts-value-of-top-50-mining-companies-above-1-trillion-for-the-first-time-.jpg)
+-------------
+![TOP-50-MINING-COMPANIES-Q3-2020-MARKET-CAP-Gold-price-rally-lifts-value-of-top-50-mining-companies](https://www.mining.com/wp-content/uploads/2020/10/TOP-50-MINING-COMPANIES-Q3-2020-MARKET-CAP-Gold-price-rally-lifts-value-of-top-50-mining-companies-above-1-trillion-for-the-first-time-.jpg)
 -----------
