@@ -109,9 +109,9 @@
 ----------
 ![richest-men-in-the-world-2020-5ebb](https://cdn.howmuch.net/articles/richest-men-in-the-world-2020-5ebb.jpg)
 ----------
-![]()
+![wealthiest-women-in-the-world-%E2%80%93-updated-f717](https://cdn.howmuch.net/articles/wealthiest-women-in-the-world-%E2%80%93-updated-f717.jpg)
 ----------
-![]()
+![companies-trillion-dollar-club-9993](https://cdn.howmuch.net/articles/companies-trillion-dollar-club-9993.jpg)
 ----------
 ![]()
 ----------
