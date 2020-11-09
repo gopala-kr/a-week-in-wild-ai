@@ -159,3 +159,16 @@
 -----------
 ![modern-slavery-map-2018-bb1c-237b](https://cdn.howmuch.net/articles/modern-slavery-map-2018-bb1c-237b.jpg)
 ---------
+![Whats-Traded-Between-US-and-China-300dpi-e3ad](https://cdn.howmuch.net/articles/Whats-Traded-Between-US-and-China-300dpi-e3ad.jpg)
+----------
+![role-agriculture-in-economy_world-188e](https://cdn.howmuch.net/articles/role-agriculture-in-economy_world-188e.jpg)
+----------
+![role-services-around-the-world_world-c322](https://cdn.howmuch.net/articles/role-services-around-the-world_world-c322.jpg)
+----------
+![role-industry-around-the-world_world-%281%29-9160](https://cdn.howmuch.net/articles/role-industry-around-the-world_world-%281%29-9160.jpg)
+----------
+![most-expensive-wars-us-history-%281%29-73b5](https://cdn.howmuch.net/articles/most-expensive-wars-us-history-%281%29-73b5.jpg)
+----------
+![highest-paying-american-companies-2019-c62f](https://cdn.howmuch.net/articles/highest-paying-american-companies-2019-c62f.jpg)
+
+-----------
