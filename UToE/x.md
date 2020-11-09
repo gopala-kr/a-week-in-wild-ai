@@ -107,7 +107,7 @@
 -----------
 ![breakdown-coronavirus-2t-economic-stimulus-a6e9](https://cdn.howmuch.net/articles/breakdown-coronavirus-2t-economic-stimulus-a6e9.jpg)
 ----------
-![]()
+![richest-men-in-the-world-2020-5ebb](https://cdn.howmuch.net/articles/richest-men-in-the-world-2020-5ebb.jpg)
 ----------
 ![]()
 ----------
