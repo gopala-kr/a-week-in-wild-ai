@@ -101,6 +101,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 
 - [AI Podcast Clips](https://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41) :star:
 ------------
+- [Resilience and Vibrancy: The 2020 Data & AI Landscape](http://mattturck.com/wp-content/uploads/2020/09/2020-Data-and-AI-Landscape-Matt-Turck-at-FirstMark-v1.pdf)
+--------------
 ![2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize](http://mattturck.com/wp-content/uploads/2019/07/2019_Matt_Turck_Big_Data_Landscape_Final_Fullsize.png) 
 ----------
 
