@@ -11,6 +11,11 @@
 ---------
 ![5g-infographic-full-size](https://www.visualcapitalist.com/wp-content/uploads/2020/03/5g-infographic-full-size.jpg)
 -------------
+![SVGZ-Road-to-5G-infrastructure-cost-ex1](https://www.mckinsey.com/~/media/McKinsey/Industries/Technology%20Media%20and%20Telecommunications/Telecommunications/Our%20Insights/The%20road%20to%205G%20The%20inevitable%20growth%20of%20infrastructure%20cost/SVGZ-Road-to-5G-infrastructure-cost-ex1.svgz)
+
+----------
+![SVGZ-Road-to-5G-infrastructure-cost-ex2](https://www.mckinsey.com/~/media/McKinsey/Industries/Technology%20Media%20and%20Telecommunications/Telecommunications/Our%20Insights/The%20road%20to%205G%20The%20inevitable%20growth%20of%20infrastructure%20cost/SVGZ-Road-to-5G-infrastructure-cost-ex2.svgz)
+--------------
 ![top-50-innovative-companies-2020-1-1](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/top-50-innovative-companies-2020-1-1.jpg)
 -----------------
 
