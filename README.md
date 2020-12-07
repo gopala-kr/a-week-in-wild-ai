@@ -162,6 +162,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 -------
 -----------
 ![evwvvdbUSAckdbl2SYKIfr9_8Lky8NJ5vHEpAT_uTCM](https://assets.weforum.org/editor/evwvvdbUSAckdbl2SYKIfr9_8Lky8NJ5vHEpAT_uTCM.jpg)
+-------
+![Hpexrisk](https://hpluspedia.org/images/9/94/Hpexrisk.png)
 ---------
 -------------
 
