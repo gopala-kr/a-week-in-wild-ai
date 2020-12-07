@@ -163,7 +163,7 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 -----------
 ![evwvvdbUSAckdbl2SYKIfr9_8Lky8NJ5vHEpAT_uTCM](https://assets.weforum.org/editor/evwvvdbUSAckdbl2SYKIfr9_8Lky8NJ5vHEpAT_uTCM.jpg)
 --------
-![GTdSp23x47G1kFRSLSEzXMcOuEQ7gLRqSVVfFZvo](https://lh3.googleusercontent.com/proxy/YcAJDbr-IYW5b7cXHyFE2GUbnv6wJYhtBc11cOzIdbnsUtj1N-sC9eY0yehZ8o05hHCHc3F4DxNhla_GTdSp23x47G1kFRSLSEzXMcOuEQ7gLRqSVVfFZvo)
+![vtWS12nhSS_](https://miro.medium.com/max/1190/0*FY7j-vtWS12nhSS_)
 -------
 ![Hpexrisk](https://hpluspedia.org/images/9/94/Hpexrisk.png)
 --------
