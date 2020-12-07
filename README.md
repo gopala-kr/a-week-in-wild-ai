@@ -168,6 +168,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![Hpexrisk](https://hpluspedia.org/images/9/94/Hpexrisk.png)
 --------
 ![naturalrisks12](http://immortality-roadmap.com/naturalrisks12.jpg)
+------
+![kuztwblFO6XnDRkkReUdYg](https://miro.medium.com/max/3684/1*kuztwblFO6XnDRkkReUdYg.png)
 ---------
 -------------
 
