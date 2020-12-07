@@ -147,6 +147,8 @@ source: [blumbergcapital](https://www.blumbergcapital.com/news_insights/ai-toolc
 ![exponential_time](https://github.com/gopala-kr/Quantum-Dots/blob/master/23-Future-of-ET/etres/exponential_time.PNG)
 ----------
 ![04204e7b49a7bcee2cc66f69589049a4](https://images.lesswrong.com/t3_kkn_2.png?v=04204e7b49a7bcee2cc66f69589049a4)
+-------
+![AGI-takeoff-speed-vs-years-commercial-software](https://reducing-suffering.org/predictions-agi-takeoff-speed-vs-years-worked-commercial-software/AGI-takeoff-speed-vs-years-commercial-software.png)
 --------
 ![4cf9d8ff1691bead1a16a720a717289b](https://i.pinimg.com/originals/4c/f9/d8/4cf9d8ff1691bead1a16a720a717289b.jpg)
 ---------
