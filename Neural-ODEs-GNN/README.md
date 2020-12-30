@@ -11,7 +11,7 @@ Neural ODE's
 - [Neural Stochastic Differential Equations](https://arxiv.org/abs/1905.11065v1) (2019)
 - [Deep Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/1804.04272v2) (2018)
 - [Deep Relaxation: partial differential equations for optimizing deep neural networks](https://arxiv.org/abs/1704.04932v2) (2017)
-
+- [Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/pdf/2010.08895v1.pdf)
 
 
 -------------
@@ -40,3 +40,7 @@ GNNs
 - [Graph Kernels: A Survey](https://arxiv.org/pdf/1904.12218v1.pdf)
 
 --------------
+- [Directional Graph Networks](https://arxiv.org/pdf/2010.02863v2.pdf)
+
+
+----------------------
