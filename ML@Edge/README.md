@@ -19,6 +19,9 @@
 - [Federated Edge Learning : Design Issues and Challenges](https://arxiv.org/pdf/2009.00081v1.pdf)
 - [A Review on Computational Intelligence Techniques in Cloud and Edge Computing](https://arxiv.org/pdf/2007.14215v1.pdf)
 - [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/pdf/1808.07647v4.pdf)
+- [YolactEdge: Real-time Instance Segmentation on the Edge
+(Jetson AGX Xavier: 30 FPS, RTX 2080 Ti: 170 FPS)](https://arxiv.org/pdf/2012.12259v1.pdf)
+
 ------------------
 ----------------
 ![edge](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/edge.PNG)
