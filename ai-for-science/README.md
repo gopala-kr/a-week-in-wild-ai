@@ -98,7 +98,7 @@ Astronomy
 - [Single-epoch supernova classification with deep convolutional neural networks](https://arxiv.org/pdf/1711.11526v1.pdf)
 - [Estimating Cosmological Parameters from the Dark Matter Distribution](https://arxiv.org/pdf/1711.02033v1.pdf)
 - [Enabling Dark Energy Science with Deep Generative Models of Galaxy Images](https://arxiv.org/pdf/1609.05796v2.pdf)
-
+- [Machine Learning for Searching the Dark Energy Survey for Trans-Neptunian Objects](https://arxiv.org/pdf/2009.12856v2.pdf)
 
 --------------
 
