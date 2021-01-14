@@ -59,6 +59,7 @@
 - [Public Cloud AI Review](https://cloudorcloud.com/public-cloud-ai-review/) :star:
 - [Scalable, Distributed, Deep Machine Learning for Big Data](https://www.slideshare.net/yuhuang/large-scale-machine-learning-for-big-data)
 - [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8) | [gh](https://buomsoo-kim.github.io/learning/2020/04/02/deep-learning-sota-part-1.md/) | [slides](https://lexfridman.com/files/slides/2020_01_06_deep_learning_state_of_the_art.pdf) 
+- [riseof.ai/](https://riseof.ai/)
 
 -----------
 ![blog5](https://i1.wp.com/cloudorcloud.com/wp-content/uploads/2019/07/blog5-02.png?resize=1024%2C682&ssl=1)
