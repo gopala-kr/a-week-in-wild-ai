@@ -33,4 +33,6 @@
 ![Edge-Compute](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/Edge-Compute.PNG)
 --------------
 ![MLEdgeFrameworks](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/MLEdgeFrameworks.PNG)
+------
+![EUc6qA_UUAEnYDL](https://pbs.twimg.com/media/EUc6qA_UUAEnYDL?format=jpg&name=large)
 ------------------
