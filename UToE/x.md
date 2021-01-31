@@ -18,8 +18,9 @@
 --------------
 ![top-50-innovative-companies-2020-1-1](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/top-50-innovative-companies-2020-1-1.jpg)
 -----------------
-
 ------------
+![1612022820299](https://media-exp1.licdn.com/dms/image/C4D22AQG6576ixruxwQ/feedshare-shrink_2048_1536/0/1612022820299?e=1614816000&v=beta&t=kxzhSl_MhiEltvnf8aawVmQ0iG3z39gzRMGL88n-0w4)
+----------
 ![Game_Changers_12](https://s3.amazonaws.com/cbi-research-portal-uploads/2019/12/10161029/Game_Changers_12-6-36-2.png)
 --------------
 ![industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry](https://w7.pngwing.com/pngs/367/1006/png-transparent-industry-4-value-chain-aerospace-logistics-industry-4-text-media-industry.png)
