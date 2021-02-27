@@ -43,5 +43,6 @@ GNNs
 - [Directional Graph Networks](https://arxiv.org/pdf/2010.02863v2.pdf)
 - [Graph Neural Networks: Taxonomy, Advances and Trends](https://arxiv.org/pdf/2012.08752v1.pdf)
 - [Design Space for Graph Neural Networks](https://arxiv.org/pdf/2011.08843v1.pdf)
-
+- [Self-Supervised Learning of Graph Neural Networks: A Unified Review](https://arxiv.org/pdf/2102.10757v2.pdf)
+- [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/pdf/2005.00687v7.pdf)
 ----------------------
