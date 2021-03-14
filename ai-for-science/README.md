@@ -126,7 +126,7 @@ Geography/Climate Change
 - [ExtremeWeather: A large-scale climate dataset for semi-supervised detection, localization, and understanding of extreme weather events](https://arxiv.org/abs/1612.02095v2)
 - [Application of Deep Convolutional Neural Networks for Detecting Extreme Weather in Climate Datasets](https://arxiv.org/pdf/1605.01156v1.pdf)
 - [Predicting Climate Variability over the Indian Region Using Data Mining Strategies](https://arxiv.org/pdf/1509.06920v1.pdf)
-
+- [Neural-networks for geophysicists and their application to seismic data interpretation](https://arxiv.org/pdf/1903.11215v1.pdf)
 
 -------------------
 
