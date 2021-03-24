@@ -1,3 +1,9 @@
+
+- [SCEI: A Smart-Contract Driven Edge Intelligence Framework for IoT Systems](https://arxiv.org/pdf/2103.07050v1.pdf)
+- [Data Collection and Acceleration Infrastructure for FPGA-based Edge AI Applications](https://arxiv.org/pdf/2103.06518v1.pdf)
+- [Blockchain-Based Federated Learning in Mobile Edge Networks with Application in Internet of Vehicles](https://arxiv.org/pdf/2103.01116v1.pdf)
+- [Mitigating Edge Machine Learning Inference Bottlenecks: An Empirical Study on Accelerating Google Edge Models](https://arxiv.org/pdf/2103.00768v1.pdf)
+
 ---------------------
 
 - [Applying Machine Learning Techniques for Caching in Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/2006.16864v2.pdf)
