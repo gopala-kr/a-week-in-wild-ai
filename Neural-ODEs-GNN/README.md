@@ -46,5 +46,8 @@ GNNs
 - [Self-Supervised Learning of Graph Neural Networks: A Unified Review](https://arxiv.org/pdf/2102.10757v2.pdf)
 - [Open Graph Benchmark: Datasets for Machine Learning on Graphs](https://arxiv.org/pdf/2005.00687v7.pdf)
 - [Transferable Graph Optimizers for ML Compilers](https://arxiv.org/pdf/2010.12438v2.pdf)
+- [Explainability in Graph Neural Networks: A Taxonomic Survey](https://arxiv.org/pdf/2012.15445v2.pdf)
+- [DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks](https://arxiv.org/pdf/2104.06700v3.pdf)
+- [A Systematic Comparison Study on Hyperparameter Optimisation of Graph Neural Networks for Molecular Property Prediction](https://arxiv.org/pdf/2102.04283v3.pdf)
 
 ----------------------
