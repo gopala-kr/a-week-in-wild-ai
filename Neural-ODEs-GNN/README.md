@@ -56,5 +56,7 @@ GNNs
 - [Implementing graph neural networks with TensorFlow-Keras](https://arxiv.org/ftp/arxiv/papers/2103/2103.04318.pdf)
 - [Meta-Learning with Graph Neural Networks: Methods and Applications](https://arxiv.org/pdf/2103.00137v1.pdf)
 - [GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software](https://arxiv.org/pdf/2102.07933v1.pdf)
+- [Distance-Weighted Graph Neural Networks on FPGAs for Real-Time Particle Reconstruction in High Energy Physics](https://arxiv.org/pdf/2008.03601v2.pdf)
+- [Graph Neural Networks: Architectures, Stability and Transferability](https://arxiv.org/pdf/2008.01767v3.pdf)
 
 ----------------------
