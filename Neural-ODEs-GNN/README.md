@@ -51,6 +51,10 @@ GNNs
 - [A Systematic Comparison Study on Hyperparameter Optimisation of Graph Neural Networks for Molecular Property Prediction](https://arxiv.org/pdf/2102.04283v3.pdf)
 - [Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms](https://arxiv.org/pdf/2104.03058v2.pdf)
 - [Quantum Mechanics and Machine Learning Synergies: Graph Attention Neural Networks to Predict Chemical Reactivity](https://arxiv.org/pdf/2103.14536v1.pdf)
-
+- [MLPF: Efficient machine-learned particle-flow reconstruction using graph neural networks](https://arxiv.org/pdf/2101.08578v2.pdf)
+- [Graph Neural Networks Inspired by Classical Iterative Algorithms](https://arxiv.org/abs/2103.06064v1)
+- [Implementing graph neural networks with TensorFlow-Keras](https://arxiv.org/ftp/arxiv/papers/2103/2103.04318.pdf)
+- [Meta-Learning with Graph Neural Networks: Methods and Applications](https://arxiv.org/pdf/2103.00137v1.pdf)
+- [GraphGallery: A Platform for Fast Benchmarking and Easy Development of Graph Neural Networks Based Intelligent Software](https://arxiv.org/pdf/2102.07933v1.pdf)
 
 ----------------------
