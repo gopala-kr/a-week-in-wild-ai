@@ -49,5 +49,8 @@ GNNs
 - [Explainability in Graph Neural Networks: A Taxonomic Survey](https://arxiv.org/pdf/2012.15445v2.pdf)
 - [DistGNN: Scalable Distributed Training for Large-Scale Graph Neural Networks](https://arxiv.org/pdf/2104.06700v3.pdf)
 - [A Systematic Comparison Study on Hyperparameter Optimisation of Graph Neural Networks for Molecular Property Prediction](https://arxiv.org/pdf/2102.04283v3.pdf)
+- [Optimizing Memory Efficiency of Graph Neural Networks on Edge Computing Platforms](https://arxiv.org/pdf/2104.03058v2.pdf)
+- [Quantum Mechanics and Machine Learning Synergies: Graph Attention Neural Networks to Predict Chemical Reactivity](https://arxiv.org/pdf/2103.14536v1.pdf)
+
 
 ----------------------
