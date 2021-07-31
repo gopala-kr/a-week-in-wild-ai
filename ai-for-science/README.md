@@ -128,6 +128,8 @@ Geography/Climate Change
 - [Predicting Climate Variability over the Indian Region Using Data Mining Strategies](https://arxiv.org/pdf/1509.06920v1.pdf)
 - [Neural-networks for geophysicists and their application to seismic data interpretation](https://arxiv.org/pdf/1903.11215v1.pdf)
 
+----------
+- [Towards a method to anticipate dark matter signals with deep learning at the LHC](https://arxiv.org/pdf/2105.12018v1.pdf)
 -------------------
 
 Space
