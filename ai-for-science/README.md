@@ -130,6 +130,9 @@ Geography/Climate Change
 
 ----------
 - [Towards a method to anticipate dark matter signals with deep learning at the LHC](https://arxiv.org/pdf/2105.12018v1.pdf)
+- [Constraining dark matter annihilation with cosmic ray antiprotons using neural networks](https://arxiv.org/pdf/2107.12395v1.pdf)
+
+
 -------------------
 
 Space
