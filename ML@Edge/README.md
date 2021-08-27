@@ -29,6 +29,11 @@
 (Jetson AGX Xavier: 30 FPS, RTX 2080 Ti: 170 FPS)](https://arxiv.org/pdf/2012.12259v1.pdf)
 - [Ubiquitous Acoustic Sensing on Commodity IoT Devices: A Survey](https://arxiv.org/pdf/1901.03450v2.pdf)
 
+
+----------
+- [Security and privacy for 6G: A survey on prospective technologies and challenges](https://arxiv.org/pdf/2108.11861.pdf)
+
+
 ------------------
 ----------------
 ![edge](https://github.com/gopala-kr/a-week-in-wild-ai/blob/master/ML%40Edge/edge.PNG)
