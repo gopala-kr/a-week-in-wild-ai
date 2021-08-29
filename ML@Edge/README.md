@@ -34,7 +34,7 @@
 - [Security and privacy for 6G: A survey on prospective technologies and challenges](https://arxiv.org/pdf/2108.11861.pdf)
 - [A Guide to Radio Frequency Identification as a Multi-purpose IoT Technology to Manage Pandemics](https://arxiv.org/pdf/2108.11223.pdf)
 - [Visual-and-Language Navigation: A Survey and Taxonomy](https://arxiv.org/pdf/2108.11544v1.pdf)
-
+- [3D Face Recognition: A Survey](https://arxiv.org/pdf/2108.11082v1.pdf)
 
 ------------------
 ----------------
