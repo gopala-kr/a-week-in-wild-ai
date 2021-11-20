@@ -35,6 +35,8 @@
 - [A Guide to Radio Frequency Identification as a Multi-purpose IoT Technology to Manage Pandemics](https://arxiv.org/pdf/2108.11223.pdf)
 - [Visual-and-Language Navigation: A Survey and Taxonomy](https://arxiv.org/pdf/2108.11544v1.pdf)
 - [3D Face Recognition: A Survey](https://arxiv.org/pdf/2108.11082v1.pdf)
+- [Edge-Native Intelligence for 6G Communications Driven by Federated Learning: A Survey of Trends and Challenges](https://arxiv.org/pdf/2111.07392v1.pdf)
+
 
 ------------------
 ----------------
