@@ -37,6 +37,8 @@
 - [3D Face Recognition: A Survey](https://arxiv.org/pdf/2108.11082v1.pdf)
 - [Edge-Native Intelligence for 6G Communications Driven by Federated Learning: A Survey of Trends and Challenges](https://arxiv.org/pdf/2111.07392v1.pdf)
 - [Edge-Cloud Polarization and Collaboration: A Comprehensive Survey](https://arxiv.org/pdf/2111.06061v2.pdf)
+- [MC-CIM: Compute-in-Memory with Monte-Carlo Dropouts for Bayesian Edge Intelligence](https://arxiv.org/pdf/2111.07125v1.pdf)
+
 
 ------------------
 ----------------
