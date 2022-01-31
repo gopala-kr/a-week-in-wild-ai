@@ -86,4 +86,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 ](https://robohub.org/robot-science-fiction-books-of-2021/)
 - [TinyML is bringing deep learning models to microcontrollers](https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication?)
 - [Interaction data are identifiable even across long periods of time](https://www.nature.com/articles/s41467-021-27714-6?)
+- [The Biggest Danger of AI Isn't Skynet — It's Human Bias That Should Scare You](https://interestingengineering.com/the-biggest-danger-of-ai-isnt-skynet-its-human-bias?)
 ---------------
