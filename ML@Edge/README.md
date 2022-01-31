@@ -95,4 +95,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [How A.I. is set to evolve in 2022](https://www.cnbc.com/2022/01/07/deep-learning-and-large-language-how-ai-is-set-to-evolve-in-2022.html?)
 - [DeepMind’s David Silver on games, beauty, and AI’s potential to avert human-made disasters](https://thebulletin.org/2022/01/deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters/?)
 - [Making Video Verification More Effective with Artificial Intelligence](https://www.campussafetymagazine.com/news/making-video-verification-more-effective-with-artificial-intelligence/)
+- [The Global Politics of Artificial Intelligence](https://www.routledge.com/The-Global-Politics-of-Artificial-Intelligence/Tinnirello/p/book/9781138314573?)
 ---------------
