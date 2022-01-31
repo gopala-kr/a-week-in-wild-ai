@@ -98,4 +98,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [The Global Politics of Artificial Intelligence](https://www.routledge.com/The-Global-Politics-of-Artificial-Intelligence/Tinnirello/p/book/9781138314573?)
 - [Automated Reinforcement Learning (AutoRL): A Survey and Open Problems](https://arxiv.org/pdf/2201.03916.pdf)
 - [Next-Gen 3D Chip/Packaging Race Begins](https://semiengineering.com/next-gen-3d-chip-packaging-race-begins/)
+- [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
 ---------------
