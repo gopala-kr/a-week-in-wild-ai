@@ -93,4 +93,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Generalisation in Reinforcement Learning](https://robertkirk.github.io/2022/01/17/generalisation-in-reinforcement-learning-survey.html?)
 - [Radical Reads: Thanks to Large Language Models, computers understand language better than ever](https://radical.vc/radical-reads-large-language-models/?)
 - [How A.I. is set to evolve in 2022](https://www.cnbc.com/2022/01/07/deep-learning-and-large-language-how-ai-is-set-to-evolve-in-2022.html?)
+- [DeepMind’s David Silver on games, beauty, and AI’s potential to avert human-made disasters](https://thebulletin.org/2022/01/deepminds-david-silver-on-games-beauty-and-ais-potential-to-avert-human-made-disasters/?)
 ---------------
