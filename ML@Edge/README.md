@@ -70,4 +70,5 @@
 - [Introducing Text and
 Code Embeddings
 in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/)
+- [Resolving High-Energy Impacts on Quantum Processors](https://ai.googleblog.com/2022/01/resolving-high-energy-impacts-on.html)
 ---------------
