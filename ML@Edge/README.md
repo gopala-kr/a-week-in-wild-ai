@@ -78,4 +78,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Executive Interview: Dr. Tim Grayson, Director STO, DARPA  ](https://www.aitrends.com/executive-interview/executive-interview-dr-tim-grayson-director-sto-darpa/)
 - [Meta Works with NVIDIA to Build Massive AI Research Supercomputer](https://blogs.nvidia.com/blog/2022/01/24/meta-ai-supercomputer-dgx/?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_259)
 - [Google Hopes AI Can Turn Search Into a Conversation](https://www.wired.com/story/google-hopes-ai-turn-search-conversation)
+- [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
 ---------------
