@@ -90,4 +90,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [UN fails to agree on ‘killer robot’ ban as nations pour billions into autonomous weapons research
 ](https://robohub.org/un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research/)
 - [Our Predictions for Ethical AI in 2022](https://medium.com/credo-ai-blog/our-predictions-for-ethical-ai-in-2022-7d3d35729501)
+- [Generalisation in Reinforcement Learning](https://robertkirk.github.io/2022/01/17/generalisation-in-reinforcement-learning-survey.html?)
+
+
 ---------------
