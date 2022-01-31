@@ -74,4 +74,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Google Research: Themes from 2021 and Beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)
 - [AI models microprocessor performance in real-time](https://www.sciencedaily.com/releases/2021/12/211210103100.htm)
 - ['Deepfaking the mind' could improve brain-computer interfaces for people with disabilities](https://www.sciencedaily.com/releases/2021/11/211118203621.htm)
+- [Breakthrough proof clears path for quantum AI](https://www.sciencedaily.com/releases/2021/10/211018154236.htm)
 ---------------
