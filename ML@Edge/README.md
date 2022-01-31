@@ -72,6 +72,6 @@ Code Embeddings
 in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/)
 - [Resolving High-Energy Impacts on Quantum Processors](https://ai.googleblog.com/2022/01/resolving-high-energy-impacts-on.html)
 - [Google Research: Themes from 2021 and Beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)
-
+- [AI models microprocessor performance in real-time](https://www.sciencedaily.com/releases/2021/12/211210103100.htm)
 
 ---------------
