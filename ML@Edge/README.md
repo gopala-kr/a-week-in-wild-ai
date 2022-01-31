@@ -56,6 +56,7 @@
 ------------------
 -----------------------
 
+- [/papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love)
 - [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
 - [enkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify)
