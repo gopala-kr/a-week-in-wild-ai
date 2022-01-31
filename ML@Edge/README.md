@@ -65,5 +65,5 @@
 
 -------------------
 - [Simulating matter on the quantum scale with AI](https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI)
-
+- [DeepMind: The Podcast returns for Season 2](https://deepmind.com/blog/article/DeepMind-The-Podcast-returns-for-Season-2)
 ---------------
