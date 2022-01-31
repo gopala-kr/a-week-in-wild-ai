@@ -81,4 +81,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
 - [Gaming Giant Unity Wants to Digitally Clone the World](https://www.wired.com/story/gaming-giant-unity-wants-to-digitally-clone-the-world/)
 - [What Buddhism can do for AI ethics](https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/)
+- [An inside look at how one person can control a swarm of 130 robots](https://www.popsci.com/technology/drone-swarm-control-virtual-reality/)
 ---------------
