@@ -89,4 +89,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [The Biggest Danger of AI Isn't Skynet — It's Human Bias That Should Scare You](https://interestingengineering.com/the-biggest-danger-of-ai-isnt-skynet-its-human-bias?)
 - [UN fails to agree on ‘killer robot’ ban as nations pour billions into autonomous weapons research
 ](https://robohub.org/un-fails-to-agree-on-killer-robot-ban-as-nations-pour-billions-into-autonomous-weapons-research/)
+- [Our Predictions for Ethical AI in 2022](https://medium.com/credo-ai-blog/our-predictions-for-ethical-ai-in-2022-7d3d35729501)
 ---------------
