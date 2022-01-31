@@ -75,4 +75,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [AI models microprocessor performance in real-time](https://www.sciencedaily.com/releases/2021/12/211210103100.htm)
 - ['Deepfaking the mind' could improve brain-computer interfaces for people with disabilities](https://www.sciencedaily.com/releases/2021/11/211118203621.htm)
 - [Breakthrough proof clears path for quantum AI](https://www.sciencedaily.com/releases/2021/10/211018154236.htm)
+- [Executive Interview: Dr. Tim Grayson, Director STO, DARPA  ](https://www.aitrends.com/executive-interview/executive-interview-dr-tim-grayson-director-sto-darpa/)
 ---------------
