@@ -61,6 +61,6 @@
 - [enkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt)
 - [Jxck-S/plane-notify](https://github.com/Jxck-S/plane-notify)
 - [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-
+- [adrianhajdin/project_web3.0](https://github.com/adrianhajdin/project_web3.0)
 
 -------------------
