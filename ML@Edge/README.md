@@ -64,3 +64,6 @@
 - [adrianhajdin/project_web3.0](https://github.com/adrianhajdin/project_web3.0)
 
 -------------------
+- [Simulating matter on the quantum scale with AI](https://deepmind.com/blog/article/Simulating-matter-on-the-quantum-scale-with-AI)
+
+---------------
