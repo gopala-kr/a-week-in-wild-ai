@@ -84,4 +84,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [An inside look at how one person can control a swarm of 130 robots](https://www.popsci.com/technology/drone-swarm-control-virtual-reality/)
 - [Robot science fiction books of 2021
 ](https://robohub.org/robot-science-fiction-books-of-2021/)
+- [TinyML is bringing deep learning models to microcontrollers](https://thenextweb.com/news/tinyml-deep-learning-microcontrollers-syndication?)
 ---------------
