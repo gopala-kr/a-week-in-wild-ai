@@ -80,4 +80,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Google Hopes AI Can Turn Search Into a Conversation](https://www.wired.com/story/google-hopes-ai-turn-search-conversation)
 - [Researchers Build AI That Builds AI](https://www.quantamagazine.org/researchers-build-ai-that-builds-ai-20220125/)
 - [Gaming Giant Unity Wants to Digitally Clone the World](https://www.wired.com/story/gaming-giant-unity-wants-to-digitally-clone-the-world/)
+- [What Buddhism can do for AI ethics](https://www.technologyreview.com/2021/01/06/1015779/what-buddhism-can-do-ai-ethics/)
 ---------------
