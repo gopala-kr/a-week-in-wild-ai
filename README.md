@@ -49,6 +49,8 @@
 
 ----------------------
 --------------------------------
+
+- [DeepMind | #AtHomeWithAI | Resource List 2022](storage.googleapis.com/deepmind-media/research/New_AtHomeWithAI%20resources.pdf)
 - [State of AI Report 2020](https://www.stateof.ai/)
 - [AMAI-GmbH/AI-Expert-Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap)
 - [data-engineer-roadmap](https://github.com/datastacktv/data-engineer-roadmap)
