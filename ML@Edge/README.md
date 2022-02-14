@@ -1,7 +1,7 @@
 ---------------
 - [https://arxiv.org/abs/2112.06912v1](https://arxiv.org/abs/2112.06912v1)
 - [VAQEM: A Variational Approach to Quantum Error Mitigation](https://arxiv.org/abs/2112.05821v1)
-- []()
+- [https://arxiv.org/abs/2112.04625v1](https://arxiv.org/abs/2112.04625v1)
 
 - []()
 
