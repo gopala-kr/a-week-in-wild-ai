@@ -5,15 +5,6 @@
 
 - [Evaluating performance of hybrid quantum optimization algorithms for MAXCUT Clustering using IBM runtime environment](https://arxiv.org/abs/2112.03199v4)
 
-- []()
-
-- []()
-
-- []()
-
-- []()
-
-- []()
 
 
 
