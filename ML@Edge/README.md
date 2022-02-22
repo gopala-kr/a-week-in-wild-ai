@@ -114,6 +114,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Good News About the Carbon Footprint of Machine Learning Training](https://ai.googleblog.com/2022/02/good-news-about-carbon-footprint-of.html)
 - [Nested Hierarchical Transformer: Towards Accurate, Data-Efficient, and Interpretable Visual Understanding](https://ai.googleblog.com/2022/02/nested-hierarchical-transformer-towards.html)
 - [Robot See, Robot Do](https://ai.googleblog.com/2022/02/robot-see-robot-do.html)
-
+- [Unlocking the Full Potential of Datacenter ML Accelerators with Platform-Aware Neural Architecture Search](https://ai.googleblog.com/2022/02/unlocking-full-potential-of-datacenter.html)
 
 --------------
