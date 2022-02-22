@@ -115,5 +115,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Nested Hierarchical Transformer: Towards Accurate, Data-Efficient, and Interpretable Visual Understanding](https://ai.googleblog.com/2022/02/nested-hierarchical-transformer-towards.html)
 - [Robot See, Robot Do](https://ai.googleblog.com/2022/02/robot-see-robot-do.html)
 - [Unlocking the Full Potential of Datacenter ML Accelerators with Platform-Aware Neural Architecture Search](https://ai.googleblog.com/2022/02/unlocking-full-potential-of-datacenter.html)
+- [Can Robots Follow Instructions for New Tasks?](https://ai.googleblog.com/2022/02/can-robots-follow-instructions-for-new.html)
 
 --------------
