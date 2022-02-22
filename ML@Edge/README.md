@@ -111,5 +111,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
 ---------------
 - [What Causes Semiconductor Aging?](https://semiengineering.com/what-causes-semiconductor-aging/)
-
+- [Good News About the Carbon Footprint of Machine Learning Training](https://ai.googleblog.com/2022/02/good-news-about-carbon-footprint-of.html)
 --------------
