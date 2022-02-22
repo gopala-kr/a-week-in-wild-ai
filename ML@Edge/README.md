@@ -113,4 +113,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [What Causes Semiconductor Aging?](https://semiengineering.com/what-causes-semiconductor-aging/)
 - [Good News About the Carbon Footprint of Machine Learning Training](https://ai.googleblog.com/2022/02/good-news-about-carbon-footprint-of.html)
 - [Nested Hierarchical Transformer: Towards Accurate, Data-Efficient, and Interpretable Visual Understanding](https://ai.googleblog.com/2022/02/nested-hierarchical-transformer-towards.html)
+- [Robot See, Robot Do](https://ai.googleblog.com/2022/02/robot-see-robot-do.html)
+
+
 --------------
