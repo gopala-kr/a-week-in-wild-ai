@@ -110,3 +110,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Next-Gen 3D Chip/Packaging Race Begins](https://semiengineering.com/next-gen-3d-chip-packaging-race-begins/)
 - [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
 ---------------
+- [What Causes Semiconductor Aging?](https://semiengineering.com/what-causes-semiconductor-aging/)
+
+--------------
