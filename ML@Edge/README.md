@@ -118,5 +118,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Can Robots Follow Instructions for New Tasks?](https://ai.googleblog.com/2022/02/can-robots-follow-instructions-for-new.html)
 - [The rise of AI could be a great British story. But let’s do it the right way](https://www.theguardian.com/commentisfree/2022/feb/13/the-rise-of-ai-could-be-a-great-british-story-but-lets-do-it-the-right-way?)
 
+---------------
+- [QUANTUM COMPUTING IN 2022: A LEAP INTO THE TREMENDOUS FUTURE AHEAD](analyticsinsight.net/quantum-computing-in-2022-a-leap-into-the-tremendous-future-ahead/)
 
 --------------
