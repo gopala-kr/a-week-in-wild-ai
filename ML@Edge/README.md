@@ -120,5 +120,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 ---------------
 - [QUANTUM COMPUTING IN 2022: A LEAP INTO THE TREMENDOUS FUTURE AHEAD](analyticsinsight.net/quantum-computing-in-2022-a-leap-into-the-tremendous-future-ahead/)
-
+- [It’s Like GPT-3 but for Code—Fun, Fast, and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code/)
 --------------
