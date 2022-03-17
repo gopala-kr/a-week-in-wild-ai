@@ -2,7 +2,6 @@
 - [https://arxiv.org/abs/2112.06912v1](https://arxiv.org/abs/2112.06912v1)
 - [VAQEM: A Variational Approach to Quantum Error Mitigation](https://arxiv.org/abs/2112.05821v1)
 - [https://arxiv.org/abs/2112.04625v1](https://arxiv.org/abs/2112.04625v1)
-
 - [Evaluating performance of hybrid quantum optimization algorithms for MAXCUT Clustering using IBM runtime environment](https://arxiv.org/abs/2112.03199v4)
 
 
@@ -123,5 +122,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [It’s Like GPT-3 but for Code—Fun, Fast, and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code/)
 - [mosaicml/composer](https://github.com/mosaicml/composer)
 - [Meta’s Yann LeCun on his vision for human-level AI](https://bdtechtalks.com/2022/03/07/yann-lecun-ai-self-supervised-learning/)
+- [looking-at-2030-the-future-of-artificial-intelligence-and-metaverse](https://www.analyticsinsight.net/looking-at-2030-the-future-of-artificial-intelligence-and-metaverse/)
 
 --------------
