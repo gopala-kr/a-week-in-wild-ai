@@ -124,5 +124,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Meta’s Yann LeCun on his vision for human-level AI](https://bdtechtalks.com/2022/03/07/yann-lecun-ai-self-supervised-learning/)
 - [looking-at-2030-the-future-of-artificial-intelligence-and-metaverse](https://www.analyticsinsight.net/looking-at-2030-the-future-of-artificial-intelligence-and-metaverse/)
 - [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
-
+- [Wearables and AI will be The Game Changer in Healthcare](https://digitalsalutem.com/wearables-and-ai-in-healthcare/)
 --------------
