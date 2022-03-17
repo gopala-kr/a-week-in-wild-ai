@@ -123,5 +123,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [mosaicml/composer](https://github.com/mosaicml/composer)
 - [Meta’s Yann LeCun on his vision for human-level AI](https://bdtechtalks.com/2022/03/07/yann-lecun-ai-self-supervised-learning/)
 - [looking-at-2030-the-future-of-artificial-intelligence-and-metaverse](https://www.analyticsinsight.net/looking-at-2030-the-future-of-artificial-intelligence-and-metaverse/)
+- [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 
 --------------
