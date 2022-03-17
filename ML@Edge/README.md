@@ -125,4 +125,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [looking-at-2030-the-future-of-artificial-intelligence-and-metaverse](https://www.analyticsinsight.net/looking-at-2030-the-future-of-artificial-intelligence-and-metaverse/)
 - [Deep Learning Is Hitting a Wall](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
 - [Wearables and AI will be The Game Changer in Healthcare](https://digitalsalutem.com/wearables-and-ai-in-healthcare/)
+- [In the metaverse, responsible AI must be a priority](https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/)
+
+
 --------------
