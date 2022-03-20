@@ -127,5 +127,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Wearables and AI will be The Game Changer in Healthcare](https://digitalsalutem.com/wearables-and-ai-in-healthcare/)
 - [In the metaverse, responsible AI must be a priority](https://techcrunch.com/2022/03/04/in-the-metaverse-responsible-ai-must-be-a-priority/)
 
+---------
+- [Extending Copper Interconnects To 2nm](https://semiengineering.com/extending-copper-interconnects-to-2nm/)
 
 --------------
