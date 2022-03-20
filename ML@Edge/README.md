@@ -137,4 +137,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
 - [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
 - [Reliability Concerns Shift Left Into Chip Design](https://semiengineering.com/reliability-concerns-shift-left-into-chip-design/)
+- [Big Changes Ahead For Inside Auto Cabins](https://semiengineering.com/big-changes-ahead-for-inside-auto-cabins/)
 --------------
