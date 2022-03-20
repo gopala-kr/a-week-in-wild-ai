@@ -139,4 +139,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Reliability Concerns Shift Left Into Chip Design](https://semiengineering.com/reliability-concerns-shift-left-into-chip-design/)
 - [Big Changes Ahead For Inside Auto Cabins](https://semiengineering.com/big-changes-ahead-for-inside-auto-cabins/)
 - [Why It’s So Difficult — And Costly — To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
+- [Why It’s So Difficult — And Costly — To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
 --------------
