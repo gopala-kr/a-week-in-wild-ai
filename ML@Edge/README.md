@@ -136,4 +136,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Next-Gen 3D Chip/Packaging Race Begins](https://semiengineering.com/next-gen-3d-chip-packaging-race-begins/)
 - [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
 - [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
+- [Reliability Concerns Shift Left Into Chip Design](https://semiengineering.com/reliability-concerns-shift-left-into-chip-design/)
 --------------
