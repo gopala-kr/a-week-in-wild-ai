@@ -134,4 +134,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Transistors Reach Tipping Point At 3nm](https://semiengineering.com/transistors-reach-tipping-point-at-3nm/)
 - [What Causes Semiconductor Aging?](https://semiengineering.com/what-causes-semiconductor-aging/)
 - [Next-Gen 3D Chip/Packaging Race Begins](https://semiengineering.com/next-gen-3d-chip-packaging-race-begins/)
+- [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
 --------------
