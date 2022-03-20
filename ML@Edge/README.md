@@ -132,4 +132,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Fundamental Shifts In IC Manufacturing Processes](https://semiengineering.com/fundamental-shifts-in-ic-manufacturing-processes/)
 - [Unintended Coupling Issues Grow](https://semiengineering.com/unintended-coupling-issues-grow/)
 - [Transistors Reach Tipping Point At 3nm](https://semiengineering.com/transistors-reach-tipping-point-at-3nm/)
+- [What Causes Semiconductor Aging?](https://semiengineering.com/what-causes-semiconductor-aging/)
 --------------
