@@ -135,4 +135,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [What Causes Semiconductor Aging?](https://semiengineering.com/what-causes-semiconductor-aging/)
 - [Next-Gen 3D Chip/Packaging Race Begins](https://semiengineering.com/next-gen-3d-chip-packaging-race-begins/)
 - [Automotive Outlook: 2022](https://semiengineering.com/automotive-outlook-2022/)
+- [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
 --------------
