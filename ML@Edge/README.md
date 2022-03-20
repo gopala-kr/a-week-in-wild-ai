@@ -138,4 +138,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Expanding Advanced Packaging Production In The U.S.](https://semiengineering.com/expanding-advanced-packaging-production-in-the-u-s/)
 - [Reliability Concerns Shift Left Into Chip Design](https://semiengineering.com/reliability-concerns-shift-left-into-chip-design/)
 - [Big Changes Ahead For Inside Auto Cabins](https://semiengineering.com/big-changes-ahead-for-inside-auto-cabins/)
+- [Why It’s So Difficult — And Costly — To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
 --------------
