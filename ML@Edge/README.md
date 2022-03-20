@@ -131,5 +131,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Extending Copper Interconnects To 2nm](https://semiengineering.com/extending-copper-interconnects-to-2nm/)
 - [Fundamental Shifts In IC Manufacturing Processes](https://semiengineering.com/fundamental-shifts-in-ic-manufacturing-processes/)
 - [Unintended Coupling Issues Grow](https://semiengineering.com/unintended-coupling-issues-grow/)
-- []()
+- [Transistors Reach Tipping Point At 3nm](https://semiengineering.com/transistors-reach-tipping-point-at-3nm/)
 --------------
