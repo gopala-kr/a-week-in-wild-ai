@@ -145,6 +145,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Artificial intelligence predicts patients’ race from their medical images](https://news.mit.edu/2022/artificial-intelligence-predicts-patients-race-from-medical-images-0520)
 - [Building a culture of pioneering responsibly](https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly)
 - [EXPLORE THE WORLD](https://worldbuild.ai/w-0000000454)
-
+- [A Compliance–Reactance Framework for Evaluating Human-Robot Interaction](https://www.frontiersin.org/articles/10.3389/frobt.2022.733504/)
 
 ------------
