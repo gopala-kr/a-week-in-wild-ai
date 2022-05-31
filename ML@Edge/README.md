@@ -160,4 +160,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [The Metaverse will ‘become embroiled in future geopolitical conflict’](https://www.trtworld.com/magazine/the-metaverse-will-become-embroiled-in-future-geopolitical-conflict-57118)
 - [Robot supermarket delivery trial in Cambridgeshire](https://www.bbc.com/news/uk-england-cambridgeshire-61471989)
 - [Transatlantic Dialogue on Humanity and AI Regulation Event](https://pamplin.vt.edu/security/news/transatlantic-dialogue.html)
+- [Video Friday: Automotive Artistry](https://spectrum.ieee.org/video-friday-automotive-artistry)
+
+
 ------------
