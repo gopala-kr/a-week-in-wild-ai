@@ -152,4 +152,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [AI 100: The most promising artificial intelligence startups of 2022](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2022/)
 - [AI’s Threats to Jobs and Human Happiness Are Real](https://spectrum.ieee.org/kai-fu-lee-ai-jobs)
+- [https://spectrum.ieee.org/kai-fu-lee-ai-jobs](https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/)
+
+
 ------------
