@@ -149,5 +149,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Industry Forum](https://icra2022.org/program/forums/industry)
 - [Two fully-funded PhD studentships on social robots, consciousness and value-aware AI](https://tonybelpaeme.me/2022/05/20/two-fully-funded-phd-studentships-on-social-robots-consciousness-and-value-aware-ai/)
 - [Pushing Boundaries with Generative Artmaking](https://www.mccormick.northwestern.edu/news/articles/2022/05/pushing-boundaries-with-generative-artmaking/)
+- [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
+
 
 ------------
