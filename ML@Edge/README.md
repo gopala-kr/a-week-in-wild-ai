@@ -148,6 +148,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [A Compliance–Reactance Framework for Evaluating Human-Robot Interaction](https://www.frontiersin.org/articles/10.3389/frobt.2022.733504/)
 - [Industry Forum](https://icra2022.org/program/forums/industry)
 - [Two fully-funded PhD studentships on social robots, consciousness and value-aware AI](https://tonybelpaeme.me/2022/05/20/two-fully-funded-phd-studentships-on-social-robots-consciousness-and-value-aware-ai/)
-
+- [Pushing Boundaries with Generative Artmaking](https://www.mccormick.northwestern.edu/news/articles/2022/05/pushing-boundaries-with-generative-artmaking/)
 
 ------------
