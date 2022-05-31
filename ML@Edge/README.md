@@ -151,5 +151,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Pushing Boundaries with Generative Artmaking](https://www.mccormick.northwestern.edu/news/articles/2022/05/pushing-boundaries-with-generative-artmaking/)
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
 - [AI 100: The most promising artificial intelligence startups of 2022](https://www.cbinsights.com/research/report/artificial-intelligence-top-startups-2022/)
-
+- [AI’s Threats to Jobs and Human Happiness Are Real](https://spectrum.ieee.org/kai-fu-lee-ai-jobs)
 ------------
