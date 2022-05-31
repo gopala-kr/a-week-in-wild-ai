@@ -154,5 +154,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [AI’s Threats to Jobs and Human Happiness Are Real](https://spectrum.ieee.org/kai-fu-lee-ai-jobs)
 - [https://spectrum.ieee.org/kai-fu-lee-ai-jobs](https://techcrunch.com/2022/05/10/ibms-ceo-wants-to-chart-quantum-fueled-ai-powered-path-to-the-future/)
 - [Inflection AI, led by LinkedIn and DeepMind co-founders, raises $225M to transform computer-human interactions](https://techcrunch.com/2022/05/13/inflection-ai-led-by-linkedin-and-deepmind-co-founders-raises-225m-to-transform-computer-human-interactions/)
+- [How NLP can help with at-risk patients, SDOH and pop health](https://www.healthcareitnews.com/news/how-nlp-can-help-risk-patients-sdoh-and-pop-health)
+
 
 ------------
