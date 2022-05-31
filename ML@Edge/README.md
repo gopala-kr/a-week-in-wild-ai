@@ -157,4 +157,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [How NLP can help with at-risk patients, SDOH and pop health](https://www.healthcareitnews.com/news/how-nlp-can-help-risk-patients-sdoh-and-pop-health)
 - [You can practice for a job interview with Google AI](https://www.engadget.com/google-ai-job-interview-warmup-141504831.html)
 - [Formidable Human-AI Relations Can Accelerate Sustainability Efforts](https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/)
+- [The Metaverse will ‘become embroiled in future geopolitical conflict’](https://www.trtworld.com/magazine/the-metaverse-will-become-embroiled-in-future-geopolitical-conflict-57118)
+
+
 ------------
