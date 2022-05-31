@@ -142,6 +142,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 --------------
 - [Copilot, GitHub’s AI-powered coding tool, will be free for students](https://techcrunch.com/2022/05/24/copilot-githubs-ai-powered-coding-tool-will-become-generally-available-this-summer/)
-
+- [Artificial intelligence predicts patients’ race from their medical images](https://news.mit.edu/2022/artificial-intelligence-predicts-patients-race-from-medical-images-0520)
 
 ------------
