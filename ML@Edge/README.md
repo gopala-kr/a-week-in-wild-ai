@@ -158,6 +158,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [You can practice for a job interview with Google AI](https://www.engadget.com/google-ai-job-interview-warmup-141504831.html)
 - [Formidable Human-AI Relations Can Accelerate Sustainability Efforts](https://www.forbes.com/sites/forbestechcouncil/2022/05/13/formidable-human-ai-relations-can-accelerate-sustainability-efforts/)
 - [The Metaverse will ‘become embroiled in future geopolitical conflict’](https://www.trtworld.com/magazine/the-metaverse-will-become-embroiled-in-future-geopolitical-conflict-57118)
-
+- [Robot supermarket delivery trial in Cambridgeshire](https://www.bbc.com/news/uk-england-cambridgeshire-61471989)
 
 ------------
