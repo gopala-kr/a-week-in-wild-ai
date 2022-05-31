@@ -141,3 +141,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Why It’s So Difficult — And Costly — To Secure Chips](https://semiengineering.com/why-its-so-difficult-and-costly-to-secure-chips/)
 
 --------------
+- [Copilot, GitHub’s AI-powered coding tool, will be free for students](https://techcrunch.com/2022/05/24/copilot-githubs-ai-powered-coding-tool-will-become-generally-available-this-summer/)
+
+
+------------
