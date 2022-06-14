@@ -18,6 +18,7 @@
   - [Metrolinx](https://www.metrolinx.com/en/aboutus/sustainability/default.aspx)
   - [Renault - Nissan](https://www.nissan-global.com/EN/SUSTAINABILITY/LIBRARY/SR/2020/)
   - [EXOR-Stellantis](https://www.exor.com/sites/default/files/2022/page-documents/Exor%202021%20Sustainability%20Report.pdf)
+  - [Tata Motors Group](https://www.tatamotors.com/wp-content/uploads/2018/09/05090438/sustainability-report-2017-18.pdf)
 
 ------------
 #### Technologies
