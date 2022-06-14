@@ -23,6 +23,13 @@
   - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
   - [Total SA](https://www.annualreports.com/HostedData/AnnualReports/PDF/NYSE_TOT_2019.pdf)
   - [ENI S.p.A.](https://www.eni.com/assets/documents/eng/reports/2021/Annual-Report-2021.pdf)
+  - [ENEOS Holdings, Inc](https://www.hd.eneos.co.jp/english/csr/report/pdf/eneos_en_2020_f.pdf)
+  - [Idemitsu Kosan Co.,Ltd](https://sustainability-cms-idss-s3.s3-ap-northeast-1.amazonaws.com/pdf/en/2021_integrated/idss_ir_2021_e_a3.pdf)
+  - [Abu Dhabi National Oil Company (ADN)](https://www.adnocdistribution.ae/media/3800/adnoc-distribution-esg-report-2020-english.pdf)
+  - [Baker Hughes Company](https://www.bakerhughes.com/sites/bakerhughes/files/2021-06/baker-hughes-corporate-responsiblity-report-2020.pdf)
+  - [Chevron Corporation](https://www.chevron.com/-/media/shared-media/documents/chevron-sustainability-report-2021.pdf)
+  - [Halliburton Company](https://ir.halliburton.com/static-files/2a9fb08b-82df-478e-8301-109f95e103ee)
+  - [BP plc](https://www.bp.com/content/dam/bp/business-sites/en/global/corporate/pdfs/sustainability/group-reports/bp-sustainability-report-2021.pdf)
 - Automotive
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
