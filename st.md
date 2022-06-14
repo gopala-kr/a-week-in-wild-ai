@@ -16,6 +16,7 @@
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
   - [The Volkswagen Group](https://www.volkswagenag.com/en/sustainability/reporting-and-esg-performance/sustainability-report.html)
   - [Metrolinx](https://www.metrolinx.com/en/aboutus/sustainability/default.aspx)
+  - [Renault - Nissan](https://www.nissan-global.com/EN/SUSTAINABILITY/LIBRARY/SR/2020/)
 
 ------------
 #### Technologies
