@@ -19,6 +19,8 @@
   - [The Dow Chemical Company](https://corporate.dow.com/documents/about/066-00338-01-2020-esg-report.pdf)
   - [Corteva](https://www.corteva.com/content/dam/dpagco/corteva/global/corporate/files/sustainability/DOC-CORTEVA_2020_SUSTAINABILITY_REPORT_v2-Global.pdf)
   - [DuPont](https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/about-us/Sustainability/2022Sustainability/DuPont_2022SustainabilityReport.pdf)
+- Energy
+  - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
 - Automotive
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
