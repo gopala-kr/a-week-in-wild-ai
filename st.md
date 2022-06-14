@@ -21,6 +21,7 @@
   - [DuPont](https://www.dupont.com/content/dam/dupont/amer/us/en/corporate/about-us/Sustainability/2022Sustainability/DuPont_2022SustainabilityReport.pdf)
 - Energy
   - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
+  - [Total SA](https://www.annualreports.com/HostedData/AnnualReports/PDF/NYSE_TOT_2019.pdf)
 - Automotive
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
