@@ -22,6 +22,7 @@
 - Energy
   - [Shell plc](https://reports.shell.com/sustainability-report/2021/)
   - [Total SA](https://www.annualreports.com/HostedData/AnnualReports/PDF/NYSE_TOT_2019.pdf)
+  - [ENI S.p.A.](https://www.eni.com/assets/documents/eng/reports/2021/Annual-Report-2021.pdf)
 - Automotive
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
