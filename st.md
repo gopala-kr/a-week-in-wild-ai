@@ -11,6 +11,9 @@
 
 #### Industries
 
+- Automotive
+  - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
+
 ------------
 #### Technologies
 
