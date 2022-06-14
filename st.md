@@ -10,7 +10,8 @@
 
 
 #### Industries
-
+- Natural Resources
+  - [Anglo American Corp.](https://www.angloamerican.com/~/media/Files/A/Anglo-American-Group/PLC/investors/annual-reporting/2022/aa-sustainability-report-full-2021.pdf)
 - Automotive
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
