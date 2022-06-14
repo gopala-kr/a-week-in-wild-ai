@@ -14,6 +14,7 @@
 - Automotive
   - [BMW Group](https://www.bmwgroup.com/en/sustainability.html)
   - [Daimler AG](https://sustainabilityreport.daimler.com/2020/servicepages/downloads.html)
+  - [The Volkswagen Group](https://www.volkswagenag.com/en/sustainability/reporting-and-esg-performance/sustainability-report.html)
 
 ------------
 #### Technologies
