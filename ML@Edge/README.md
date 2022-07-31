@@ -176,4 +176,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [An alternative superconducting qubit achieves high performance for quantum computing](https://phys.org/news/2022-07-alternative-superconducting-qubit-high-quantum.html)
 - [DayDreamer: An algorithm to quickly teach robots new behaviors in the real world](https://techxplore.com/news/2022-07-daydreamer-algorithm-quickly-robots-behaviors.html)
 - [Graphene scientists capture first images of atoms 'swimming' in liquid](https://phys.org/news/2022-07-graphene-scientists-capture-images-atoms.html)
+- [Team scripts breakthrough quantum algorithm](https://phys.org/news/2022-07-team-scripts-breakthrough-quantum-algorithm.html)
 ------------
