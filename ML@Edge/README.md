@@ -165,5 +165,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 ----------------
 - [A roadmap for the future of quantum simulation](https://phys.org/news/2022-07-roadmap-future-quantum-simulation.html)
 - [Using quantum technology to constrain new particles](https://phys.org/news/2022-07-quantum-technology-constrain-particles.html)
+- [Advancing dynamic brain imaging with AI](https://techxplore.com/news/2022-07-advancing-dynamic-brain-imaging-ai.html)
 
 ------------
