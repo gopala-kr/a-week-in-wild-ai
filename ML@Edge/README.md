@@ -162,5 +162,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Transatlantic Dialogue on Humanity and AI Regulation Event](https://pamplin.vt.edu/security/news/transatlantic-dialogue.html)
 - [Video Friday: Automotive Artistry](https://spectrum.ieee.org/video-friday-automotive-artistry)
 
+----------------
+- [A roadmap for the future of quantum simulation](https://phys.org/news/2022-07-roadmap-future-quantum-simulation.html)
 
 ------------
