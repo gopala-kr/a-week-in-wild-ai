@@ -174,4 +174,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Carbon removal using 'blue carbon' habitats may be 'uncertain and unreliable'](https://phys.org/news/2022-07-carbon-blue-habitats-uncertain-unreliable.html)
 - [Research reveals where carbon storage in soils has the most potential](https://phys.org/news/2022-07-reveals-carbon-storage-soils-potential.html)
 - [An alternative superconducting qubit achieves high performance for quantum computing](https://phys.org/news/2022-07-alternative-superconducting-qubit-high-quantum.html)
+- [DayDreamer: An algorithm to quickly teach robots new behaviors in the real world](https://techxplore.com/news/2022-07-daydreamer-algorithm-quickly-robots-behaviors.html)
 ------------
