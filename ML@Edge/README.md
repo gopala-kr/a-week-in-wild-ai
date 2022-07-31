@@ -173,4 +173,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [AI tackles the challenge of materials structure prediction](https://phys.org/news/2022-07-ai-tackles-materials.html)
 - [Carbon removal using 'blue carbon' habitats may be 'uncertain and unreliable'](https://phys.org/news/2022-07-carbon-blue-habitats-uncertain-unreliable.html)
 - [Research reveals where carbon storage in soils has the most potential](https://phys.org/news/2022-07-reveals-carbon-storage-soils-potential.html)
+- [An alternative superconducting qubit achieves high performance for quantum computing](https://phys.org/news/2022-07-alternative-superconducting-qubit-high-quantum.html)
 ------------
