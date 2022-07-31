@@ -180,6 +180,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Magnetic quantum material broadens platform for probing next-gen information technologies](https://phys.org/news/2022-07-magnetic-quantum-material-broadens-platform.html)
 - [Advanced pure copper 3D printing with sub-micron resolution](https://phys.org/news/2022-07-advanced-pure-copper-3d-sub-micron.html)
 - [Quantum cryptography: Making hacking futile](phys.org/news/2022-07-quantum-cryptography-hacking-futile.html)
-
+- [Programming pH: New technique could accelerate DNA synthesis](https://phys.org/news/2022-07-ph-technique-dna-synthesis.html)
 
 ------------
