@@ -170,5 +170,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [New method of controlling qubits could advance quantum computers](https://phys.org/news/2022-07-method-qubits-advance-quantum.html)
 - [Hydrogen production and carbon capture in a single step](https://techxplore.com/news/2022-07-hydrogen-production-carbon-capture.html)
 - [Speed limits for quantum phenomena have been extended to macro-sized objects](https://phys.org/news/2022-07-limits-quantum-phenomena-macro-sized.html)
+- [AI tackles the challenge of materials structure prediction](https://phys.org/news/2022-07-ai-tackles-materials.html)
 
 ------------
