@@ -181,5 +181,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Advanced pure copper 3D printing with sub-micron resolution](https://phys.org/news/2022-07-advanced-pure-copper-3d-sub-micron.html)
 - [Quantum cryptography: Making hacking futile](phys.org/news/2022-07-quantum-cryptography-hacking-futile.html)
 - [Programming pH: New technique could accelerate DNA synthesis](https://phys.org/news/2022-07-ph-technique-dna-synthesis.html)
+- [Researchers 3D print sensors for satellites](https://techxplore.com/news/2022-07-3d-sensors-satellites.html)
 
 ------------
