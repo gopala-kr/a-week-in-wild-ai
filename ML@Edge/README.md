@@ -182,5 +182,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Quantum cryptography: Making hacking futile](phys.org/news/2022-07-quantum-cryptography-hacking-futile.html)
 - [Programming pH: New technique could accelerate DNA synthesis](https://phys.org/news/2022-07-ph-technique-dna-synthesis.html)
 - [Researchers 3D print sensors for satellites](https://techxplore.com/news/2022-07-3d-sensors-satellites.html)
-
+- [Human-like features in robot behavior: Response time variability can be perceived as human-like](https://techxplore.com/news/2022-07-human-like-features-robot-behavior-response.html)
 ------------
