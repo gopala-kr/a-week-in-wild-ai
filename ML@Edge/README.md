@@ -178,4 +178,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Graphene scientists capture first images of atoms 'swimming' in liquid](https://phys.org/news/2022-07-graphene-scientists-capture-images-atoms.html)
 - [Team scripts breakthrough quantum algorithm](https://phys.org/news/2022-07-team-scripts-breakthrough-quantum-algorithm.html)
 - [Magnetic quantum material broadens platform for probing next-gen information technologies](https://phys.org/news/2022-07-magnetic-quantum-material-broadens-platform.html)
+- [Advanced pure copper 3D printing with sub-micron resolution](https://phys.org/news/2022-07-advanced-pure-copper-3d-sub-micron.html)
+
+
 ------------
