@@ -171,5 +171,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Hydrogen production and carbon capture in a single step](https://techxplore.com/news/2022-07-hydrogen-production-carbon-capture.html)
 - [Speed limits for quantum phenomena have been extended to macro-sized objects](https://phys.org/news/2022-07-limits-quantum-phenomena-macro-sized.html)
 - [AI tackles the challenge of materials structure prediction](https://phys.org/news/2022-07-ai-tackles-materials.html)
-- [Carbon removal using 'blue carbon' habitats may be 'uncertain and unreliable'](phys.org/news/2022-07-carbon-blue-habitats-uncertain-unreliable.html)
+- [Carbon removal using 'blue carbon' habitats may be 'uncertain and unreliable'](https://phys.org/news/2022-07-carbon-blue-habitats-uncertain-unreliable.html)
+- [Research reveals where carbon storage in soils has the most potential](https://phys.org/news/2022-07-reveals-carbon-storage-soils-potential.html)
 ------------
