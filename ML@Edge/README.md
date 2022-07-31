@@ -167,5 +167,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Using quantum technology to constrain new particles](https://phys.org/news/2022-07-quantum-technology-constrain-particles.html)
 - [Advancing dynamic brain imaging with AI](https://techxplore.com/news/2022-07-advancing-dynamic-brain-imaging-ai.html)
 - [New hardware offers faster computation for artificial intelligence, with much less energy](https://techxplore.com/news/2022-07-hardware-faster-artificial-intelligence-energy.html)
+- [New method of controlling qubits could advance quantum computers](https://phys.org/news/2022-07-method-qubits-advance-quantum.html)
 
 ------------
