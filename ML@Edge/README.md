@@ -3,7 +3,7 @@
 - [VAQEM: A Variational Approach to Quantum Error Mitigation](https://arxiv.org/abs/2112.05821v1)
 - [https://arxiv.org/abs/2112.04625v1](https://arxiv.org/abs/2112.04625v1)
 - [Evaluating performance of hybrid quantum optimization algorithms for MAXCUT Clustering using IBM runtime environment](https://arxiv.org/abs/2112.03199v4)
-
+- [Quantum Data Center: Theories and Applications](https://arxiv.org/pdf/2207.14336.pdf)
 
 
 
