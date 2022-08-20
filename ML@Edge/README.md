@@ -186,5 +186,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 ----------------------------------
 - [Where Are The Autonomous Cars?](https://semiengineering.com/where-are-the-autonomous-cars/)
-
+- [Scaling, Advanced Packaging, Or Both](https://semiengineering.com/scaling-advanced-packaging-or-both/)
 ------------
