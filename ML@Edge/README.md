@@ -197,4 +197,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [DNN-Opt, A Novel Deep Neural Network (DNN) Based Black-Box Optimization Framework For Analog Sizing](https://semiengineering.com/dnn-opt-a-novel-deep-neural-network-dnn-based-black-box-optimization-framework-for-analog-sizing/)
 - [Beyond 5nm: Review Of Buried Power Rails & Back-Side Power](https://semiengineering.com/beyond-5nm-review-of-buried-power-rails-back-side-power-grids/)
 - [Keeping IC Packages Cool](https://semiengineering.com/keeping-ic-packages-cool/)
+- [New Uses For AI In Chips](https://semiengineering.com/new-uses-for-ai-in-chips/)
 ------------
