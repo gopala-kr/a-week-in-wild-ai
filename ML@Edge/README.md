@@ -192,4 +192,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [What Future Processors Will Look Like](https://semiengineering.com/what-future-processors-will-look-like/)
 - [Chip Backdoors: Assessing The Threat](https://semiengineering.com/chip-backdoors-assessing-the-threat/)
 - [The Race To Zero Defects In Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
+- [Advances In Reconfigurable Intelligent Surfaces Hardware Architectures: Beyond 5G/6G](https://semiengineering.com/advances-in-reconfigurable-intelligent-surfaces-hardware-architectures-beyond-5g-6g/)
 ------------
