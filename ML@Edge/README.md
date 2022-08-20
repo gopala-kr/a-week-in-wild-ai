@@ -195,4 +195,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Advances In Reconfigurable Intelligent Surfaces Hardware Architectures: Beyond 5G/6G](https://semiengineering.com/advances-in-reconfigurable-intelligent-surfaces-hardware-architectures-beyond-5g-6g/)
 - [Gemmini: Open-Source, Full-Stack DNN Accelerator Generator (DAC Best Paper)](https://semiengineering.com/gemmini-open-source-full-stack-dnn-accelerator-generator-dac21-best-paper/)
 - [DNN-Opt, A Novel Deep Neural Network (DNN) Based Black-Box Optimization Framework For Analog Sizing](https://semiengineering.com/dnn-opt-a-novel-deep-neural-network-dnn-based-black-box-optimization-framework-for-analog-sizing/)
+- [Beyond 5nm: Review Of Buried Power Rails & Back-Side Power](https://semiengineering.com/beyond-5nm-review-of-buried-power-rails-back-side-power-grids/)
 ------------
