@@ -191,4 +191,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Big Changes In Architectures, Transistors, Materials](https://semiengineering.com/big-changes-in-architectures-transistors-materials/)
 - [What Future Processors Will Look Like](https://semiengineering.com/what-future-processors-will-look-like/)
 - [Chip Backdoors: Assessing The Threat](https://semiengineering.com/chip-backdoors-assessing-the-threat/)
+- [The Race To Zero Defects In Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
 ------------
