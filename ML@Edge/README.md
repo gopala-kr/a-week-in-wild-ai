@@ -200,4 +200,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [New Uses For AI In Chips](https://semiengineering.com/new-uses-for-ai-in-chips/)
 - [CogniFiber: Photonic Computing](https://semiengineering.com/cognifiber-photonic-computing/)
 - [Making The Most Of Data Lakes](https://semiengineering.com/making-the-most-of-data-lakes/)
+- [Nanosheet FETs Drive Changes In Metrology And Inspection](https://semiengineering.com/nanosheet-fets-drive-changes-in-metrology-and-inspection/)
 ------------
