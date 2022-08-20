@@ -193,4 +193,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Chip Backdoors: Assessing The Threat](https://semiengineering.com/chip-backdoors-assessing-the-threat/)
 - [The Race To Zero Defects In Auto ICs](https://semiengineering.com/the-race-to-zero-defects-in-auto-ics/)
 - [Advances In Reconfigurable Intelligent Surfaces Hardware Architectures: Beyond 5G/6G](https://semiengineering.com/advances-in-reconfigurable-intelligent-surfaces-hardware-architectures-beyond-5g-6g/)
+- [Gemmini: Open-Source, Full-Stack DNN Accelerator Generator (DAC Best Paper)](https://semiengineering.com/gemmini-open-source-full-stack-dnn-accelerator-generator-dac21-best-paper/)
 ------------
