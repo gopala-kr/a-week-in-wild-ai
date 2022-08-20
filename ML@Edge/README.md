@@ -201,4 +201,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [CogniFiber: Photonic Computing](https://semiengineering.com/cognifiber-photonic-computing/)
 - [Making The Most Of Data Lakes](https://semiengineering.com/making-the-most-of-data-lakes/)
 - [Nanosheet FETs Drive Changes In Metrology And Inspection](https://semiengineering.com/nanosheet-fets-drive-changes-in-metrology-and-inspection/)
+- [Fan-Out Packaging Gets Competitive](https://semiengineering.com/fan-out-packaging-gets-competitive/)
 ------------
