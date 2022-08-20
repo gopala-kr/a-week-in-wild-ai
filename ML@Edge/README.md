@@ -199,4 +199,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Keeping IC Packages Cool](https://semiengineering.com/keeping-ic-packages-cool/)
 - [New Uses For AI In Chips](https://semiengineering.com/new-uses-for-ai-in-chips/)
 - [CogniFiber: Photonic Computing](https://semiengineering.com/cognifiber-photonic-computing/)
+- [Making The Most Of Data Lakes](https://semiengineering.com/making-the-most-of-data-lakes/)
 ------------
