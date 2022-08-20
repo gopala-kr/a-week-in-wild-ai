@@ -188,4 +188,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Where Are The Autonomous Cars?](https://semiengineering.com/where-are-the-autonomous-cars/)
 - [Scaling, Advanced Packaging, Or Both](https://semiengineering.com/scaling-advanced-packaging-or-both/)
 - [AI Power Consumption Exploding](https://semiengineering.com/ai-power-consumption-exploding/)
+- [Big Changes In Architectures, Transistors, Materials](https://semiengineering.com/big-changes-in-architectures-transistors-materials/)
 ------------
