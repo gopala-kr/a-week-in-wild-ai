@@ -198,4 +198,5 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Beyond 5nm: Review Of Buried Power Rails & Back-Side Power](https://semiengineering.com/beyond-5nm-review-of-buried-power-rails-back-side-power-grids/)
 - [Keeping IC Packages Cool](https://semiengineering.com/keeping-ic-packages-cool/)
 - [New Uses For AI In Chips](https://semiengineering.com/new-uses-for-ai-in-chips/)
+- [CogniFiber: Photonic Computing](https://semiengineering.com/cognifiber-photonic-computing/)
 ------------
