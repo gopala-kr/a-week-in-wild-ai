@@ -219,6 +219,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [How SpaceX’s massive Starship rocket might unlock the solar system—and beyond](https://www.technologyreview.com/2021/12/07/1041420/spacex-starship-rocket-solar-system-exploration/)
 - [NASA wants to use the sun to power future deep space missions](https://www.technologyreview.com/2021/11/25/1040513/nasa-solar-power-deep-space-psyche-mission/)
 - [US astronomers want a giant telescope to hunt for new Earth-like planets](https://www.technologyreview.com/2021/11/04/1039241/astro2020-astronomy-nasa-decadal-survey/)
+- [NASA’s new rovers will be a fleet of mobile robots that work together](https://www.technologyreview.com/2021/11/02/1039091/nasa-new-mobile-rovers-autonomy-cooperative/)
 
 
 ------------
