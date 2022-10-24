@@ -212,5 +212,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [The James Webb Space Telescope just delivered some incredible new images of the universe](https://www.technologyreview.com/2022/07/12/1055846/james-webb-space-telescope-first-observations/)
 - [President Biden reveals the James Webb Space Telescope’s “poetic” first image of the universe](https://www.technologyreview.com/2022/07/11/1055779/president-biden-reveals-jwst-first-image/)
 - [This is the first image of the black hole at the center of our galaxy](https://www.technologyreview.com/2022/05/12/1052145/this-is-the-first-image-of-the-black-hole-at-the-center-of-our-galaxy/)
+- [Mapping the atmosphere on Mars can help advance science on our own planet](https://www.technologyreview.com/2022/04/13/1049491/mapping-the-atmosphere-on-mars-can-help-advance-science-on-our-own-planet/)
 
 ------------
