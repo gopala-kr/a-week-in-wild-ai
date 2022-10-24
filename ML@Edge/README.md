@@ -214,5 +214,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [This is the first image of the black hole at the center of our galaxy](https://www.technologyreview.com/2022/05/12/1052145/this-is-the-first-image-of-the-black-hole-at-the-center-of-our-galaxy/)
 - [Mapping the atmosphere on Mars can help advance science on our own planet](https://www.technologyreview.com/2022/04/13/1049491/mapping-the-atmosphere-on-mars-can-help-advance-science-on-our-own-planet/)
 - [Space is all yours—for a hefty price](https://www.technologyreview.com/2022/02/21/1044909/commerical-space-tourism-cost/)
+- [SpaceX just lost 40 satellites to a geomagnetic storm. There could be worse to come.](https://www.technologyreview.com/2022/02/10/1045202/spacex-just-lost-40-satellites-to-a-geomagnetic-storm-there-could-be-worse-to-come/)
 
 ------------
