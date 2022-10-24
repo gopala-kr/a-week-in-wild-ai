@@ -216,5 +216,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Space is all yours—for a hefty price](https://www.technologyreview.com/2022/02/21/1044909/commerical-space-tourism-cost/)
 - [SpaceX just lost 40 satellites to a geomagnetic storm. There could be worse to come.](https://www.technologyreview.com/2022/02/10/1045202/spacex-just-lost-40-satellites-to-a-geomagnetic-storm-there-could-be-worse-to-come/)
 - [A new NASA telescope is going to look at our galaxy’s most energetic objects](https://www.technologyreview.com/2021/12/08/1041469/nasa-x-ray-telescope-black-holes-galaxy/)
+- [How SpaceX’s massive Starship rocket might unlock the solar system—and beyond](https://www.technologyreview.com/2021/12/07/1041420/spacex-starship-rocket-solar-system-exploration/)
+
 
 ------------
