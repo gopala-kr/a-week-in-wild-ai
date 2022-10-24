@@ -207,7 +207,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 ------------------------
 - [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
-- []()
+- [Watch the moment NASA’s DART spacecraft crashed into an asteroid](https://www.technologyreview.com/2022/09/27/1060099/moment-nasa-dart-spacecraft-crash-asteroid/)
 
 
 ------------
