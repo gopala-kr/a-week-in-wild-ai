@@ -222,5 +222,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [NASA’s new rovers will be a fleet of mobile robots that work together](https://www.technologyreview.com/2021/11/02/1039091/nasa-new-mobile-rovers-autonomy-cooperative/)
 - [3 space science questions that computing is helping to answer](https://www.technologyreview.com/2021/10/27/1037282/space-science-ai-supercomputing-cloud/)
 - [This NASA spacecraft is on its way to Jupiter’s mysterious asteroid swarms](https://www.technologyreview.com/2021/10/16/1037343/nasa-lucy-mission-launch-jupiter-asteroid/)
+- [The moon didn’t die as early as we thought](https://www.technologyreview.com/2021/10/07/1036605/volcanic-activity-moon-china-lander/)
 
 ------------
