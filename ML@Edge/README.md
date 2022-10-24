@@ -224,5 +224,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [This NASA spacecraft is on its way to Jupiter’s mysterious asteroid swarms](https://www.technologyreview.com/2021/10/16/1037343/nasa-lucy-mission-launch-jupiter-asteroid/)
 - [The moon didn’t die as early as we thought](https://www.technologyreview.com/2021/10/07/1036605/volcanic-activity-moon-china-lander/)
 - [Space policy is finally moving into the 21st century](https://www.technologyreview.com/2021/09/29/1036313/space-policy-united-nations-security-treaty/)
+- [This AI could predict 10 years of scientific priorities—if we let it](https://www.technologyreview.com/2021/09/20/1035890/ai-predict-astro2020-decadal-survey/)
 
 ------------
