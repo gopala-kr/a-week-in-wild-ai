@@ -204,4 +204,10 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Fan-Out Packaging Gets Competitive](https://semiengineering.com/fan-out-packaging-gets-competitive/)
 - [Tradeoffs In Archiving Data](https://semiengineering.com/tradeoffs-in-archiving-data/)
 - [Scaling, Advanced Packaging, Or Both](https://semiengineering.com/scaling-advanced-packaging-or-both/)
+
+------------------------
+- [Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not](https://www.technologyreview.com/2022/10/21/1062001/spacex-starlink-signals-reverse-engineered-gps/)
+- []()
+
+
 ------------
