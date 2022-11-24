@@ -229,6 +229,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 -------
 - [VR-controlled robots are being designed to treat injured soldiers](https://cur.at/sG3OJ72?m=web)
-
+- [MIT solved a century-old differential equation to break 'liquid' AI's computational bottleneck](https://cur.at/aZYzKEY?m=web)
 
 ------------
