@@ -227,4 +227,8 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [This AI could predict 10 years of scientific priorities—if we let it](https://www.technologyreview.com/2021/09/20/1035890/ai-predict-astro2020-decadal-survey/)
 - [Inspiration4: Why SpaceX’s first all-private mission is a big deal](https://www.technologyreview.com/2021/09/15/1035797/inspiration4-spacex-private-mission/)
 
+-------
+- [VR-controlled robots are being designed to treat injured soldiers](https://cur.at/sG3OJ72?m=web)
+
+
 ------------
