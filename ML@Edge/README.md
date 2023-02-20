@@ -237,6 +237,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Teens, Social Media and Technology 2022](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/)
 - [The Most Dangerous People on the Internet in 2022](https://www.wired.com/story/most-dangerous-people-on-the-internet-2022/)
 - [Father of internet warns: Don’t rush investments into A.I. just because ChatGPT is ‘really cool’](https://www.cnbc.com/2023/02/14/father-of-the-internet-warns-dont-rush-investments-into-chat-ai.html)
+- [How AI chatbots in search engines will completely change the internet](https://www.newscientist.com/article/2360135-how-ai-chatbots-in-search-engines-will-completely-change-the-internet/)
 
 ------------
 ![PJ_2022.08.10_teens-and-tech_0-09b](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/08/PJ_2022.08.10_teens-and-tech_0-09b.png)
