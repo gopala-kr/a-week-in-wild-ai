@@ -232,5 +232,9 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [MIT solved a century-old differential equation to break 'liquid' AI's computational bottleneck](https://cur.at/aZYzKEY?m=web)
 - [What’s Different About Next-Gen Transistors](https://semiengineering.com/whats-different-about-next-gen-transistors/)
 
+-------------------------------
+- [GPTZero: how to use the ChatGPT detection tool]()
 
+------------
+![PJ_2022.08.10_teens-and-tech_0-09b](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/08/PJ_2022.08.10_teens-and-tech_0-09b.png)
 ------------
