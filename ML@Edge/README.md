@@ -234,6 +234,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 -------------------------------
 - [GPTZero: how to use the ChatGPT detection tool]()
+- [Teens, Social Media and Technology 2022](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/)
 
 ------------
 ![PJ_2022.08.10_teens-and-tech_0-09b](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/08/PJ_2022.08.10_teens-and-tech_0-09b.png)
