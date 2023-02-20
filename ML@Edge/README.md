@@ -243,6 +243,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [How Google Ran Out of Ideas](https://www.theatlantic.com/ideas/archive/2023/02/google-ai-chatbots-microsoft-bing-chatgpt/673052/)
 - [Microsoft-backed OpenAI to let users customize ChatGPT](https://www.reuters.com/technology/microsoft-backed-openai-let-users-customize-chatgpt-2023-02-17/)
 - [ChatGPT is only 2 months old, but has a brain of a 9-year old](https://www.techradar.com/news/chatgpt-is-only-2-months-old-but-has-a-brain-of-a-9-year-old)
+- [AI Has Suddenly Evolved to Achieve Theory of Mind](https://www.popularmechanics.com/technology/robots/a42958546/artificial-intelligence-theory-of-mind-chatgpt/)
 
 ------------
 ![PJ_2022.08.10_teens-and-tech_0-09b](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/08/PJ_2022.08.10_teens-and-tech_0-09b.png)
