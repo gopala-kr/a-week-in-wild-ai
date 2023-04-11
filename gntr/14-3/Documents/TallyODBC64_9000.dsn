@@ -1,4 +1,0 @@
-[ODBC]
-Driver=Tally ODBC Driver64
-Server=(local)
-Port=9000

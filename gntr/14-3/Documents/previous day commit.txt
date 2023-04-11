@@ -1,3 +1,0 @@
-git add .
-git commit --date="`date --date='14 day ago'`" -am "Commit Message"
-git push origin master
