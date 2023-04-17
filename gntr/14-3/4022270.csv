@@ -1,0 +1,61 @@
+Critical Capabilities for Cloud Database Management Systems for Analytical Use Cases (G00768369)
+Published: 15 Dec 2022
+"© 2014 Gartner, Inc. and/or its affiliates. All rights reserved. Gartner is a registered trademark of Gartner, Inc. or its affiliates. This publication may not be reproduced or distributed in any form without Gartner's prior written permission. If you are authorized to access this publication, your use of it is subject to the Usage Guidelines for Gartner Services posted on gartner.com. The information contained in this publication has been obtained from sources believed to be reliable. Gartner disclaims all warranties as to the accuracy, completeness or adequacy of such information and shall have no liability for errors, omissions or inadequacies in such information. This publication consists of the opinions of Gartner's research organization and should not be construed as statements of fact. The opinions expressed herein are subject to change without notice. Although Gartner research may include a discussion of related legal issues, Gartner does not provide legal advice or services and its research should not be construed or used as such. Gartner is a public company, and its shareholders may include firms and funds that have financial interests in entities covered in Gartner research. Gartner's Board of Directors may include senior managers of these firms or funds. Gartner research is produced independently by its research organization without input or influence from these firms, funds or their managers. For further information on the independence and integrity of Gartner research, see "Guiding Principles on Independence and Objectivity."
+
+This Critical Capabilities data constitutes Gartner's intellectual property.  Gartner prohibits any and all external use of this data which is intended to be used for internal use only within your enterprise.
+
+
+Weightings for Critical Capabilities in Use Cases  
+Use Cases / Critical Capabilities
+
+Gartner ,Financial Governance,Application Development Support,Performance Features,Relational Attributes,Multimodel Support,Management and Administration,Distributed Capabilities,Resource Usage,Analytics,Analytics on Streaming Data,Stream Optimization,Operational Intelligence,Data Science,Multicloud/Intercloud/Hybrid 
+Traditional Data Warehouse,0.15,0.05,0.10,0.15,0,0.10,0,0.20,0.10,0,0,0.10,0,0.05
+Logical Data Warehouse,0.10,0.05,0,0.10,0,0.10,0.40,0.05,0.10,0,0,0,0,0.10
+Data Lake,0.10,0.10,0.05,0,0.20,0.05,0,0,0.10,0,0,0,0.35,0.05
+Streaming Analytics,0.05,0.10,0,0,0.05,0.15,0,0.05,0.05,0.25,0.25,0,0,0.05
+
+Custom
+
+
+Product Ratings on Critical Capabilities
+Vendors / Critical Capabilities
+
+Alibaba Cloud (Alibaba AnalyticDB),3.5,4,4,3.7,3.0,3.5,3,3.3,3.5,3,3,3,3,1.8
+Amazon Web Services (Amazon Redshift),4,4,4.5,3.7,3.5,4,3,3.9,4,3,3,4,4,1.4
+Cloudera (Cloudera CDP),3,3.5,3.5,3,4.5,4,4,3.5,4,4,3.5,3.5,4.5,5
+Couchbase (Couchbase Capella),3,3,3,2.5,4,2.5,3.5,2.4,2.5,3,3.5,3,2,3
+Databricks (Databricks Lakehouse Platform),3,4,3.5,3,4.5,3,3.5,3.7,4.0,4.0,4.5,3,4.6,4.0
+Google (Google BigQuery),4,3.5,3.5,3.5,3.5,3.5,4,4.1,3.5,3,3.5,3,4.5,3.4
+IBM (IBM Db2 Warehouse),4,4,4.3,4.5,4,4,4,4.5,4,3,3.5,4.5,4,3.5
+InterSystems (InterSystems IRIS),4,3.5,3.7,3.1,4,4,4,3.4,3,3,3.0,4,4,4
+MarkLogic (MarkLogic Data Hub),4,3.5,3.5,2.8,4.5,3.5,4.5,3.2,3.5,3,3,3.5,3.8,4.0
+Microsoft (Azure Synapse Analytics),4,4,3.5,3.4,4,4,4,4.5,4,4,3,4,3.5,2
+Neo4j (Aura: Graph Data Platform),3,4,3,3,2,2,2.5,2,3,4,2,3,4,3.4
+Oracle (Autonomous Data Warehouse),4.5,4,5,4.7,4.5,4.5,4,4.2,4.5,4,4,4.5,4,3.3
+SAP (SAP Data Warehouse Cloud),3,4,4,4.5,4,3.5,4.5,3,4.2,3,3,3.5,4,4
+Snowflake (Snowflake Data Cloud),3,3.5,3.5,4.3,4,4,3,4,3,3,3.5,3,2.7,4
+Tencent Cloud (TBDS),3,3,3,3,3,3.5,3,3,3,2.5,2,2.5,2.5,3.0
+Teradata (Teradata Vantage),4.5,4,4.5,5,4,4.5,5,4.9,5,4,4,4.5,4,5
+TigerGraph (TigerGraph Cloud),3,4,2,3.0,3.5,3,1,2.5,3.5,4,2.5,3.5,4.0,3.2
+
+
+Product Scores in Use Cases
+Vendors / Use Cases
+,Traditional Data Warehouse,Logical Data Warehouse,Data Lake,Streaming Analytics
+Alibaba Cloud (Alibaba AnalyticDB),3.43,3.17,3.22,3.18
+Amazon Web Services (Amazon Redshift),3.85,3.31,3.8,3.34
+Cloudera (Cloudera CDP),3.53,3.85,4.15,3.83
+Couchbase (Couchbase Capella),2.71,3.02,2.78,3.05
+Databricks (Databricks Lakehouse Platform),3.39,3.49,4.14,3.94
+Google (Google BigQuery),3.64,3.77,3.9,3.43
+IBM (IBM Db2 Warehouse),4.23,4.03,3.99,3.63
+InterSystems (InterSystems IRIS),3.59,3.76,3.84,3.37
+MarkLogic (MarkLogic Data Hub),3.44,3.92,3.88,3.34
+Microsoft (Azure Synapse Analytics),3.86,3.77,3.7,3.68
+Neo4j (Aura: Graph Data Platform),2.77,2.74,3.22,2.87
+Oracle (Autonomous Data Warehouse),4.44,4.16,4.24,4.13
+SAP (SAP Data Warehouse Cloud),3.65,4.07,3.9,3.33
+Snowflake (Snowflake Data Cloud),3.62,3.41,3.27,3.48
+Tencent Cloud (TBDS),3.0,3.05,2.85,2.7
+Teradata (Teradata Vantage),4.71,4.85,4.25,4.25
+TigerGraph (TigerGraph Cloud),2.96,2.3,3.56,3.26
