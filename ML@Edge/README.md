@@ -26,7 +26,18 @@
 - [Edge Intelligence: The Confluence ofEdge Computing and Artificial Intelligence](https://arxiv.org/pdf/1909.00560.pdf)
 - [Edge Intelligence: Architectures, Challenges, andApplications](https://arxiv.org/pdf/2003.12172.pdf)
 - [Edge Intelligence: Paving the Last Mile of ArtificialIntelligence with Edge Computing](https://arxiv.org/pdf/1905.10083.pdf)
-
+- [Convergence of Edge Computing and DeepLearning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf)
+- [Federated Learning in Mobile Edge Computing: An Edge-Learning Perspective for Beyond 5G](https://arxiv.org/pdf/2007.08030.pdf)
+- [Deep Learning at the Mobile Edge: Opportunities for5G Networks](https://res.mdpi.com/d_attachment/applsci/applsci-10-04735/article_deploy/applsci-10-04735.pdf)
+- [Accelerating DNN Training in Wireless Federated Edge Learning Systems](https://arxiv.org/pdf/1905.09712v3.pdf)
+- [Communication-Computation Trade-Off in Resource-Constrained Edge Inference](https://arxiv.org/pdf/2006.02166v2.pdf)
+- [Federated Edge Learning : Design Issues and Challenges](https://arxiv.org/pdf/2009.00081v1.pdf)
+- [A Review on Computational Intelligence Techniques in Cloud and Edge Computing](https://arxiv.org/pdf/2007.14215v1.pdf)
+- [Machine Learning at the Edge: A Data-Driven Architecture with Applications to 5G Cellular Networks](https://arxiv.org/pdf/1808.07647v4.pdf)
+- [YolactEdge: Real-time Instance Segmentation on the Edge
+(Jetson AGX Xavier: 30 FPS, RTX 2080 Ti: 170 FPS)](https://arxiv.org/pdf/2012.12259v1.pdf)
+- [Ubiquitous Acoustic Sensing on Commodity IoT Devices: A Survey](https://arxiv.org/pdf/1901.03450v2.pdf)
+- [Roadmap for Edge AI: A Dagstuhl Perspective](https://arxiv.org/pdf/2112.00616.pdf)
 
 ----------
 - [Security and privacy for 6G: A survey on prospective technologies and challenges](https://arxiv.org/pdf/2108.11861.pdf)
