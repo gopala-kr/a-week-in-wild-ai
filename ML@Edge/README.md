@@ -233,12 +233,17 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [What’s Different About Next-Gen Transistors](https://semiengineering.com/whats-different-about-next-gen-transistors/)
 
 -------------------------------
-- [GPTZero: how to use the ChatGPT detection tool]()
-- [Teens, Social Media and Technology 2022](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/)
-- [The Most Dangerous People on the Internet in 2022](https://www.wired.com/story/most-dangerous-people-on-the-internet-2022/)
-- [Father of internet warns: Don’t rush investments into A.I. just because ChatGPT is ‘really cool’](https://www.cnbc.com/2023/02/14/father-of-the-internet-warns-dont-rush-investments-into-chat-ai.html)
-- [How AI chatbots in search engines will completely change the internet](https://www.newscientist.com/article/2360135-how-ai-chatbots-in-search-engines-will-completely-change-the-internet/)
 
+
+- [Top academics on ChatGPT: We must embrace it in a thoughtful way](https://www.news24.com/news24/southafrica/news/top-academics-on-chatgpt-we-must-embrace-it-in-a-thoughtful-way-20230218)
+- [ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle](https://www.businessinsider.in/tech/news/chatgpt-created-a-lesson-plan-on-the-american-civil-war-but-educators-who-looked-at-it-warned-the-subject-might-be-more-than-ai-can-handle/articleshow/97979636.cms)
+- [How Google Ran Out of Ideas](https://www.theatlantic.com/ideas/archive/2023/02/google-ai-chatbots-microsoft-bing-chatgpt/673052/)
+- [Microsoft-backed OpenAI to let users customize ChatGPT](https://www.reuters.com/technology/microsoft-backed-openai-let-users-customize-chatgpt-2023-02-17/)
+- [ChatGPT is only 2 months old, but has a brain of a 9-year old](https://www.techradar.com/news/chatgpt-is-only-2-months-old-but-has-a-brain-of-a-9-year-old)
+- [AI Has Suddenly Evolved to Achieve Theory of Mind](https://www.popularmechanics.com/technology/robots/a42958546/artificial-intelligence-theory-of-mind-chatgpt/)
+- [I’m deeply frightened by Bing’s artificial intelligence after testing it. Here’s why](https://www.irishtimes.com/life-style/people/2023/02/17/ive-tested-many-ai-chatbots-but-bings-ai-deeply-unsettled-me-as-it-revealed-its-dark-desires/)
+- [The Future of Cloud Computing in 2027: From Technology to Business Innovation](https://www.gartner.com/en/doc/768816-the-future-of-cloud-computing-in-2027-from-technology-to-business-innovation)
+- [AI And Quantum Computing Startup SandboxAQ Snags $500M](https://news.crunchbase.com/cybersecurity/alphabet-spinoff-sandbox-aq-quantum/)
 ------------
 ![PJ_2022.08.10_teens-and-tech_0-09b](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/08/PJ_2022.08.10_teens-and-tech_0-09b.png)
 ------------
