@@ -18,6 +18,8 @@
 - [Applying Machine Learning Techniques for Caching in Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/2006.16864v2.pdf)
 - [Machine Learning at the Network Edge:  A Survey](https://arxiv.org/pdf/1908.00080v3.pdf)
 - [State-of-the-art Techniques in Deep Edge Intelligence](https://arxiv.org/pdf/2008.00824.pdf)
+- [Tiny Machine Learning: The Next AI Revolution](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868)
+- [A Survey of Deep Learning for Data Caching in Edge Network](https://arxiv.org/pdf/2008.07235v1.pdf)
 
 
 ----------
