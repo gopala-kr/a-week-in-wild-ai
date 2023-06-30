@@ -238,7 +238,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [The Most Dangerous People on the Internet in 2022](https://www.wired.com/story/most-dangerous-people-on-the-internet-2022/)
 - [Father of internet warns: Don’t rush investments into A.I. just because ChatGPT is ‘really cool’](https://www.cnbc.com/2023/02/14/father-of-the-internet-warns-dont-rush-investments-into-chat-ai.html)
 - [How AI chatbots in search engines will completely change the internet](https://www.newscientist.com/article/2360135-how-ai-chatbots-in-search-engines-will-completely-change-the-internet/)
-
 - [Top academics on ChatGPT: We must embrace it in a thoughtful way](https://www.news24.com/news24/southafrica/news/top-academics-on-chatgpt-we-must-embrace-it-in-a-thoughtful-way-20230218)
 - [ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle](https://www.businessinsider.in/tech/news/chatgpt-created-a-lesson-plan-on-the-american-civil-war-but-educators-who-looked-at-it-warned-the-subject-might-be-more-than-ai-can-handle/articleshow/97979636.cms)
 - [How Google Ran Out of Ideas](https://www.theatlantic.com/ideas/archive/2023/02/google-ai-chatbots-microsoft-bing-chatgpt/673052/)
@@ -248,6 +247,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [I’m deeply frightened by Bing’s artificial intelligence after testing it. Here’s why](https://www.irishtimes.com/life-style/people/2023/02/17/ive-tested-many-ai-chatbots-but-bings-ai-deeply-unsettled-me-as-it-revealed-its-dark-desires/)
 - [The Future of Cloud Computing in 2027: From Technology to Business Innovation](https://www.gartner.com/en/doc/768816-the-future-of-cloud-computing-in-2027-from-technology-to-business-innovation)
 - [AI And Quantum Computing Startup SandboxAQ Snags $500M](https://news.crunchbase.com/cybersecurity/alphabet-spinoff-sandbox-aq-quantum/)
+- 
 ------------
 ![PJ_2022.08.10_teens-and-tech_0-09b](https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/08/PJ_2022.08.10_teens-and-tech_0-09b.png)
 ------------
