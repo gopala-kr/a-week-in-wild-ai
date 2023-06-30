@@ -20,6 +20,7 @@
 - [State-of-the-art Techniques in Deep Edge Intelligence](https://arxiv.org/pdf/2008.00824.pdf)
 - [Tiny Machine Learning: The Next AI Revolution](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868)
 - [A Survey of Deep Learning for Data Caching in Edge Network](https://arxiv.org/pdf/2008.07235v1.pdf)
+- [Towards Self-learning Edge Intelligence in 6G](https://arxiv.org/pdf/2010.00176v1.pdf)
 
 
 ----------
