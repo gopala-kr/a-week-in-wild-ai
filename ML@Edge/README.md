@@ -239,7 +239,6 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [Father of internet warns: Don’t rush investments into A.I. just because ChatGPT is ‘really cool’](https://www.cnbc.com/2023/02/14/father-of-the-internet-warns-dont-rush-investments-into-chat-ai.html)
 - [How AI chatbots in search engines will completely change the internet](https://www.newscientist.com/article/2360135-how-ai-chatbots-in-search-engines-will-completely-change-the-internet/)
 - [Top academics on ChatGPT: We must embrace it in a thoughtful way](https://www.news24.com/news24/southafrica/news/top-academics-on-chatgpt-we-must-embrace-it-in-a-thoughtful-way-20230218)
-- [ChatGPT created a lesson plan on the American Civil War, but educators who looked at it warned the subject might be more than AI can handle](https://www.businessinsider.in/tech/news/chatgpt-created-a-lesson-plan-on-the-american-civil-war-but-educators-who-looked-at-it-warned-the-subject-might-be-more-than-ai-can-handle/articleshow/97979636.cms)
 
 
 ------------
