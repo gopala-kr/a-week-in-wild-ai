@@ -234,6 +234,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 
 -------------------------------
 - [GPTZero: how to use the ChatGPT detection tool]()
+- [Teens, Social Media and Technology 2022](https://www.pewresearch.org/internet/2022/08/10/teens-social-media-and-technology-2022/)
 
 
 - [Top academics on ChatGPT: We must embrace it in a thoughtful way](https://www.news24.com/news24/southafrica/news/top-academics-on-chatgpt-we-must-embrace-it-in-a-thoughtful-way-20230218)
