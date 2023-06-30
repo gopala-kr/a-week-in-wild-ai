@@ -233,6 +233,7 @@ in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/
 - [What’s Different About Next-Gen Transistors](https://semiengineering.com/whats-different-about-next-gen-transistors/)
 
 -------------------------------
+- [GPTZero: how to use the ChatGPT detection tool]()
 
 
 - [Top academics on ChatGPT: We must embrace it in a thoughtful way](https://www.news24.com/news24/southafrica/news/top-academics-on-chatgpt-we-must-embrace-it-in-a-thoughtful-way-20230218)
