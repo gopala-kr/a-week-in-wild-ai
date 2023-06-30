@@ -25,6 +25,7 @@
 - [Deep Learning With Edge Computing: A Review](https://www.researchgate.net/publication/334489669_Deep_Learning_With_Edge_Computing_A_Review)
 - [Edge Intelligence: The Confluence ofEdge Computing and Artificial Intelligence](https://arxiv.org/pdf/1909.00560.pdf)
 - [Edge Intelligence: Architectures, Challenges, andApplications](https://arxiv.org/pdf/2003.12172.pdf)
+- [Edge Intelligence: Paving the Last Mile of ArtificialIntelligence with Edge Computing](https://arxiv.org/pdf/1905.10083.pdf)
 
 
 ----------
