@@ -22,6 +22,7 @@
 - [A Survey of Deep Learning for Data Caching in Edge Network](https://arxiv.org/pdf/2008.07235v1.pdf)
 - [Towards Self-learning Edge Intelligence in 6G](https://arxiv.org/pdf/2010.00176v1.pdf)
 - [Deep Learning at the Edge](https://arxiv.org/ftp/arxiv/papers/1910/1910.10231.pdf)
+- [Deep Learning With Edge Computing: A Review](https://www.researchgate.net/publication/334489669_Deep_Learning_With_Edge_Computing_A_Review)
 
 
 ----------
